@@ -1,0 +1,239 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+For convenience, all disambiguation pages should be included in this category. This includes all pages that can also be found in the subcategories.
+This is a maintenance category, used for maintenance of the Wikipedia project. It is not part of the encyclopedia and contains non-article pages, or groups articles by status rather than subject. Do not include this category in content categories. 
+This is a tracking category. It builds and maintains a list of pages primarily for the sake of the list itself. They are not part of the encyclopedia's categorization scheme.
+The pages in this category are disambiguation pages. It enables us to use {{PAGESINCATEGORY:All disambiguation pages}} to get the exact number of disambiguation pages in Wikipedia. To add a page to this category, tag it with a disambiguation template (templates built with the {{dmbox}} meta-template, which does the actual categorising).
+This category is hidden on its member pages—unless the corresponding user preference (appearance → show hidden categories) is set.
+These categories can be used to track, build and organize lists of pages needing "attention en masse" (for example, pages using deprecated syntax), or that may need to be edited at someone's earliest convenience.
+These categories also serve to aggregate members of several lists or sub-categories into a larger, more efficient list (discriminated by classifications).Description:
+This category lists disambiguation pages in all namespaces. (For technical reasons it does not list pages in the template namespace, these are instead found in Category:Template disambiguation pages.)
+
+
+See also[edit]
+Category:All article disambiguation pages – only lists disambiguation pages in the main namespace
+Category:All set index articles – the corresponding category for set index articles
+Category:WikiProject Disambiguation pages
+
+
+.mw-parser-output .large-cat-toc{box-sizing:border-box;display:block;clear:both}.mw-parser-output .large-cat-toc-body{text-align:center}.mw-parser-output .large-cat-toc-scroll{overflow-x:scroll;overflow-y:hidden;white-space:nowrap}.mw-parser-output .large-cat-toc.mw-collapsible{padding:4px;text-align:center;border:1px solid #a2a9b1;font-size:95%}.mw-parser-output .large-cat-toc .mw-collapsible-content{background-color:white;font-family:monospace,monospace}.mw-parser-output .large-cat-toc .mw-collapsible-content>span{border-bottom:1px solid #eaecf0}.mw-parser-output .large-cat-toc-jumpy-title{margin:0 4em}.mw-parser-output .large-cat-toc.mw-collapsible .toctitle,.mw-parser-output .large-cat-toc-title,.mw-parser-output .large-cat-toc-anum{font-weight:bold}Contents: Top 0–9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z#  0 1 2 3 4 5 6 7 8 9A  Aa  Ab  Ac  Ad  Ae  Af  Ag  Ah  Ai  Aj  Ak  Al  Am  An  Ao  Ap  Aq  Ar  As  At  Au  Av  Aw  Ax  Ay  Az B  Ba  Bb  Bc  Bd  Be  Bf  Bg  Bh  Bi  Bj  Bk  Bl  Bm  Bn  Bo  Bp  Bq  Br  Bs  Bt  Bu  Bv  Bw  Bx  By  Bz C  Ca  Cb  Cc  Cd  Ce  Cf  Cg  Ch  Ci  Cj  Ck  Cl  Cm  Cn  Co  Cp  Cq  Cr  Cs  Ct  Cu  Cv  Cw  Cx  Cy  Cz D  Da  Db  Dc  Dd  De  Df  Dg  Dh  Di  Dj  Dk  Dl  Dm  Dn  Do  Dp  Dq  Dr  Ds  Dt  Du  Dv  Dw  Dx  Dy  Dz E  Ea  Eb  Ec  Ed  Ee  Ef  Eg  Eh  Ei  Ej  Ek  El  Em  En  Eo  Ep  Eq  Er  Es  Et  Eu  Ev  Ew  Ex  Ey  Ez F  Fa  Fb  Fc  Fd  Fe  Ff  Fg  Fh  Fi  Fj  Fk  Fl  Fm  Fn  Fo  Fp  Fq  Fr  Fs  Ft  Fu  Fv  Fw  Fx  Fy  Fz G  Ga  Gb  Gc  Gd  Ge  Gf  Gg  Gh  Gi  Gj  Gk  Gl  Gm  Gn  Go  Gp  Gq  Gr  Gs  Gt  Gu  Gv  Gw  Gx  Gy  Gz H  Ha  Hb  Hc  Hd  He  Hf  Hg  Hh  Hi  Hj  Hk  Hl  Hm  Hn  Ho  Hp  Hq  Hr  Hs  Ht  Hu  Hv  Hw  Hx  Hy  Hz I  Ia  Ib  Ic  Id  Ie  If  Ig  Ih  Ii  Ij  Ik  Il  Im  In  Io  Ip  Iq  Ir  Is  It  Iu  Iv  Iw  Ix  Iy  Iz J  Ja  Jb  Jc  Jd  Je  Jf  Jg  Jh  Ji  Jj  Jk  Jl  Jm  Jn  Jo  Jp  Jq  Jr  Js  Jt  Ju  Jv  Jw  Jx  Jy  Jz K  Ka  Kb  Kc  Kd  Ke  Kf  Kg  Kh  Ki  Kj  Kk  Kl  Km  Kn  Ko  Kp  Kq  Kr  Ks  Kt  Ku  Kv  Kw  Kx  Ky  Kz L  La  Lb  Lc  Ld  Le  Lf  Lg  Lh  Li  Lj  Lk  Ll  Lm  Ln  Lo  Lp  Lq  Lr  Ls  Lt  Lu  Lv  Lw  Lx  Ly  Lz M  Ma  Mb  Mc  Md  Me  Mf  Mg  Mh  Mi  Mj  Mk  Ml  Mm  Mn  Mo  Mp  Mq  Mr  Ms  Mt  Mu  Mv  Mw  Mx  My  Mz N  Na  Nb  Nc  Nd  Ne  Nf  Ng  Nh  Ni  Nj  Nk  Nl  Nm  Nn  No  Np  Nq  Nr  Ns  Nt  Nu  Nv  Nw  Nx  Ny  Nz O  Oa  Ob  Oc  Od  Oe  Of  Og  Oh  Oi  Oj  Ok  Ol  Om  On  Oo  Op  Oq  Or  Os  Ot  Ou  Ov  Ow  Ox  Oy  Oz P  Pa  Pb  Pc  Pd  Pe  Pf  Pg  Ph  Pi  Pj  Pk  Pl  Pm  Pn  Po  Pp  Pq  Pr  Ps  Pt  Pu  Pv  Pw  Px  Py  Pz Q  Qa  Qb  Qc  Qd  Qe  Qf  Qg  Qh  Qi  Qj  Qk  Ql  Qm  Qn  Qo  Qp  Qq  Qr  Qs  Qt  Qu  Qv  Qw  Qx  Qy  Qz R  Ra  Rb  Rc  Rd  Re  Rf  Rg  Rh  Ri  Rj  Rk  Rl  Rm  Rn  Ro  Rp  Rq  Rr  Rs  Rt  Ru  Rv  Rw  Rx  Ry  Rz S  Sa  Sb  Sc  Sd  Se  Sf  Sg  Sh  Si  Sj  Sk  Sl  Sm  Sn  So  Sp  Sq  Sr  Ss  St  Su  Sv  Sw  Sx  Sy  Sz T  Ta  Tb  Tc  Td  Te  Tf  Tg  Th  Ti  Tj  Tk  Tl  Tm  Tn  To  Tp  Tq  Tr  Ts  Tt  Tu  Tv  Tw  Tx  Ty  Tz U  Ua  Ub  Uc  Ud  Ue  Uf  Ug  Uh  Ui  Uj  Uk  Ul  Um  Un  Uo  Up  Uq  Ur  Us  Ut  Uu  Uv  Uw  Ux  Uy  Uz V  Va  Vb  Vc  Vd  Ve  Vf  Vg  Vh  Vi  Vj  Vk  Vl  Vm  Vn  Vo  Vp  Vq  Vr  Vs  Vt  Vu  Vv  Vw  Vx  Vy  Vz W  Wa  Wb  Wc  Wd  We  Wf  Wg  Wh  Wi  Wj  Wk  Wl  Wm  Wn  Wo  Wp  Wq  Wr  Ws  Wt  Wu  Wv  Ww  Wx  Wy  Wz X  Xa  Xb  Xc  Xd  Xe  Xf  Xg  Xh  Xi  Xj  Xk  Xl  Xm  Xn  Xo  Xp  Xq  Xr  Xs  Xt  Xu  Xv  Xw  Xx  Xy  Xz Y  Ya  Yb  Yc  Yd  Ye  Yf  Yg  Yh  Yi  Yj  Yk  Yl  Ym  Yn  Yo  Yp  Yq  Yr  Ys  Yt  Yu  Yv  Yw  Yx  Yy  Yz Z  Za  Zb  Zc  Zd  Ze  Zf  Zg  Zh  Zi  Zj  Zk  Zl  Zm  Zn  Zo  Zp  Zq  Zr  Zs  Zt  Zu  Zv  Zw  Zx  Zy  Zz 
+
+
+
+
+
+Pages in category "All disambiguation pages"
+The following 200 pages are in this category, out of approximately 333,231 total. This list may not reflect recent changes (learn more).
+(previous page) (next page)-
+- (disambiguation)
+--
+-.-!
+! (disambiguation)
+!!
+!!! (disambiguation)¡
+¡Qué Chulada!?
+??
+?=¿
+¿Dónde está Elisa?.
+ּ
+. .
+.32 Short
+.223 (disambiguation)
+.300
+.303
+.357
+.460
+.500
+.577
+.app
+.art
+.java
+.S'
+' (disambiguation)"
+" (disambiguation)(
+( ) (disambiguation)
+(=
+(character)*
+* (disambiguation)
+**
+***
+*=/
+//
+/\
+/=
+/s/\
+\/
+\\
+\nnn&
+& (disambiguation)
+&&^
+^^←
+←→
+→↑
+↑↓
+↓∆
+∆+
++ (disambiguation)
++++
++1=
+=?−
+−1 (disambiguation)
+−2
+−5≡
+≡≤
+≤⊕
+⊕⊖
+⊖⊿
+⊿☨
+☨✕
+✕$
+$ (disambiguation)
+$0
+$1
+$1 coin
+$2
+$3
+$5
+$10
+$20
+$50
+$100
+$200
+$500
+$1000£
+£$€
+£2₰
+₰0–9
+0000
+00
+0 (disambiguation)
+00s
+0 series
+0 to 100
+0-0
+0.4
+0.9 (disambiguation)
+0.99
+0°
+0A
+0B
+0C
+0D
+0E
+0F
+0G
+0H
+0I
+0J
+0K
+0L
+0M
+0N
+0O
+0P
+0Q
+0R
+0S
+0s (disambiguation)
+0T
+0th
+0U
+0V
+0W
+0X
+0Y
+0Z
+01
+001
+1 ball
+1 California
+1 FTS
+1 Litre of Tears
+1 of 1
+1 series
+1 Squadron
+1 Train
+1.
+1-1
+1:1
+1-2-3
+1-bit
+1-up (disambiguation)
+1:43
+1. deild karla
+1. deild kvenna
+1. Division
+1. Liga
+1.000
+1.1
+1.5
+1/2
+1/3
+1/4
+1/5
+1/6
+1/7
+1/8
+1/9
+1-9
+1/10
+1/11
+1/12
+1+1
+1A
+1A1
+1AD
+1 A.M.
+1AZ
+1B
+1BC
+1C
+1D
+1E (disambiguation)
+1 E3
+1 E4
+1F
+1. FCK
+1G (disambiguation)
+1H
+1I
+1J
+1K
+1L
+1M
+1N
+1-NP
+1O
+1º
+1º de Mayo
+1P
+1Q
+1R
+1S
+Wikipedia:1st (disambiguation)
+1st & Ten
+1st Airborne
+1st Anti-Aircraft Brigade
+1st Arkansas Cavalry Regiment
+1st Armored
+1st Armored Car Squadron
+1st Armoured Division
+1st Armoured Regiment
+1st Army Corps
+1st Army of the West
+1st Army Tank Brigade
+1st arrondissement
+1st Artillery Brigade
+1st Aviation Regiment(previous page) (next page)
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Category:All_disambiguation_pages&oldid=1047157273"
+		Categories: Disambiguation pagesHidden categories: Hidden categoriesTracking categories
+	

@@ -1,0 +1,215 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+This help page is a how-to guide.It details processes or procedures of some aspect(s) of Wikipedia's norms and practices. It is not one of Wikipedia's policies or guidelines, and may reflect varying levels of consensus and vetting..mw-parser-output .module-shortcutboxplain{float:right;margin:0 0 0 1em;border:1px solid #aaa;background:#fff;padding:0.3em 0.6em 0.2em 0.6em;text-align:center;font-size:85%}.mw-parser-output .module-shortcutboxleft{float:left;margin:0 1em 0 0}.mw-parser-output .module-shortcutlist{display:inline-block;border-bottom:1px solid #aaa;margin-bottom:0.2em}.mw-parser-output .module-shortcutboxplain>ul{font-weight:bold}.mw-parser-output .module-shortcutanchordiv{position:relative;top:-3em}.mw-parser-output li .module-shortcutanchordiv{float:right}.mw-parser-output .mbox-imageright .module-shortcutboxplain{padding:0.4em 1em 0.4em 1em;line-height:1.3}ShortcutsWP:REFBWP:REFBEGINWP:REFSTART
+  "Wikipedian protester" by Randall Munroe, xkcd. Wikipedians famously demand citations for facts!
+One of the key policies of Wikipedia is that all article content has to be verifiable. This means that reliable sources must be able to support the material. All quotations, any material whose verifiability has been challenged or is likely to be challenged, and contentious material (whether negative, positive, or neutral) about living persons must include an inline citation to a source that directly supports the material. This also means that Wikipedia is not the place for original work, archival findings that have not been published, or evidence from any source that has not been published.
+If you are adding new content, it is your responsibility to add sourcing information along with it. Material provided without a source is significantly more likely to be removed from an article. Sometimes such material will be tagged first with a "citation needed" template to give editors time to find and add sources before it is removed, but often editors will simply remove it because they question its veracity.
+This tutorial will show you how to add inline citations to articles, and also briefly explain what Wikipedia considers to be a reliable source.
+
+Contents
+
+1 Inline citations
+2 RefToolbar
+3 Reliable sources
+4 See also
+
+
+
+Inline citations
+ShortcutWP:INTREF2
+Inline citations are usually small, numbered footnotes like this.[1] They are generally added either directly following the fact that they support, or at the end of the sentence that they support, following any punctuation. When clicked, they take the reader to a citation in a reference section near the bottom of the article.
+While editing a page that uses the most common footnote style, you will see inline citations displayed between <ref>...</ref> tags.
+If you are creating a new page, or adding references to a page that didn't previously have any, remember to add a References section like the one below near the end of the article:
+
+==References==
+{{reflist}}
+
+Note: This is by far the most popular system for inline citations, but sometimes you will find other styles being used in an article, such as references in parentheses. This is acceptable, and you shouldn't change it or mix styles. To add a new reference, just copy and modify an existing one.
+
+References
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Wales, Jimmy (2021). What is an inline citation?. Wikipublisher. p. 6.
+
+
+
+RefToolbar
+ShortcutWP:INTREF3
+
+
+Play media  This screencast walks through how to use RefTools (5:03 min)
+Manually adding references can be a slow and tricky process. Fortunately, there is a tool called "RefToolbar" built into the Wikipedia edit window, which makes it much easier.
+To use it, simply click on  Cite at the top of the edit window, having already positioned your cursor after the sentence or fact you wish to reference. Then select one of the 'Templates' from the dropdown menu that best suits the type of source. These are:
+
+{{cite web}} for references to general websites
+{{cite news}} for newspapers and news websites
+{{cite book}} for references to books
+{{cite journal}} for magazines, academic journals, and papers
+A template window then pops up, where you fill in as much information as possible about the source, and give a unique name for it in the "Ref name" field. Click the "Insert" button, which will add the required wikitext in the edit window. If you wish, you can also "Preview" how your reference will look first.
+Some fields (such as a web address, also known as a URL) will have a  icon next to them. After filling in this field, you can click it to handily autofill the remaining fields. It doesn't always work properly, though, so be sure to double check it.
+Often, you will want to use the same source more than once in an article to support multiple facts. In this case, you can click Named references   in the toolbar, and select a previously added source to re-use.
+
+Reliable sources
+ShortcutWP:INTREF4
+
+Wikipedia articles require reliable, published sources that directly support the information presented in the article. Now you know how to add sources to an article, but which sources should you use?
+The word "source" in Wikipedia has three meanings: the work itself (for example, a document, article, paper, or book), the creator of the work (for example, the writer), and the publisher of the work (for example, Cambridge University Press). All three can affect reliability.
+As a general rule, more reliable sources have more people engaged in checking facts, analyzing legal issues, and scrutinizing the writing in a publication. Academic and peer-reviewed publications are usually the most reliable sources. Other reliable sources include university textbooks, books published by respected publishing houses, magazines, journals, and mainstream newspapers. (Be aware that some news organisations and magazines, such as CNN's iReport, host "blogs" and user-written articles on their websites. These may be reliable if they are written by the publisher's professional writers, but posts by readers are not usually considered reliable sources.)
+Self-published media, where the author and publisher are the same, including newsletters, personal websites, books, patents, open wikis, personal or group blogs, and tweets, are usually not acceptable as sources. The general exception is where the author is an established expert with a previous record of third-party publications on a topic; in this case, their self-published work may be considered reliable for that topic (but not other topics). Even then, third-party publications are still preferable.
+Whether a source is usable also depends on context. Sources that are reliable for some material are not reliable for other material. You should always try to find the best possible source for the information you have. For information about living people, only the most reliable sources should be used. On the other hand, self-published sources written by articles' subjects can sometimes be used as sources of information about themselves.
+These are general guidelines, but the topic of reliable sources is a complicated one, and is impossible to fully cover here. You can find more information at Wikipedia:Verifiability and at Wikipedia:Reliable sources. There is also a list of commonly used sources with information on their reliability.
+Try it! Take a quiz on reliable sources
+
+See also
+
+Wikipedia:VisualEditor/User guide § Adding a new reference
+Wikipedia:VisualEditor/User guide § Editing references
+Help:Referencing for beginners without using templates
+Help:Referencing for beginners with citation templates
+Help:Citations quick reference
+Help:References and page numbers
+Wikipedia:References dos and don'ts
+Wikipedia:Identifying reliable sources
+Wikipedia:Citation templates
+User:Nick Moyes/Easier Referencing for Beginners
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteWikipedia referencingPolicies and guidelines
+Verifiability
+No original research
+Biographies of living persons
+Reliable sources
+Medicine
+Citing sources
+Scientific citations
+General advice
+Citation needed
+Find sources
+Combining sources
+Offline sources
+Referencing styles
+Citing sources
+Citation Style 1
+Citation Style 2
+Citation Style Vancouver
+LSA
+Comics
+Citation templates
+Reflist template
+Inline citations
+Footnotes
+Punctuation and footnotes
+Shortened footnotes
+Nesting footnotes
+Help for beginners
+Reference-tags
+Citations quick reference
+Introduction to referencing
+Referencing with citation templates
+Referencing without using templates
+Referencing dos and don'ts
+Citing Wikipedia
+Advanced help
+Cite link labels
+Citation tools
+Cite errors
+Cite messages
+Converting between references formats
+Reference display customization
+References and page numbers
+Guidance on source reviewing at FAC
+Template documentation
+{{Edit refs}}
+{{Refref}}
+{{Refref2}}
+{{Refstart}}
+Tools
+Wikipedia Library
+Deprecated
+Parenthetical referencing
+
+vteCitation Style 1General templates
+{{Cite book}}
+books
+{{Cite conference}}
+conference papers
+{{Cite encyclopedia}}
+edited collections
+{{Cite interview}}
+interviews
+{{Cite journal}}
+academic journals and papers
+{{Cite magazine}}
+magazines
+{{Cite mailing list}}
+public mailing lists
+{{Cite map}}
+maps
+{{Cite news}}
+news articles
+{{Cite newsgroup}}
+online newsgroups
+{{Cite press release}}
+press releases
+{{Cite report}}
+unpublished reports
+{{Cite sign}}
+signs, plaques
+{{Cite speech}}
+speeches
+{{Cite techreport}}
+technical reports
+{{Cite thesis}}
+theses
+{{Cite web}}
+web sources
+Preprint templates
+{{Cite arXiv}}
+{{Cite bioRxiv}}
+{{Cite citeseerx}}
+{{Cite ssrn}}
+Audiovisual-related
+{{Cite AV media}}
+{{Cite AV media notes}}
+{{Cite episode}}
+{{Cite podcast}}
+{{Cite serial}}
+Categories
+Citation Style 1 templates
+Citation Style 1 specific-source templates
+Documentation
+{{Citation Style documentation}}
+Citation Style 1 noticeboard
+Introduction
+Starting introduction
+Policies and Guidelines
+Source editor
+Editing
+Referencing
+Images
+Tables
+Talk pages
+VisualEditor
+Editing
+Referencing
+Images
+Tables
+
+Navigating
+Manual of Style
+Conclusion
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Referencing_for_beginners&oldid=1043123259"
+		Categories: Wikipedia how-toWikipedia quick introductionsWikipedia sourcesHidden categories: Wikipedia semi-protected project pages
+	

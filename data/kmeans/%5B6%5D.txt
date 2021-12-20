@@ -1,0 +1,111 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		File
+File history
+File usage
+Global file usageSize of this preview: 617 × 600 pixels. Other resolutions: 247 × 240 pixels | 637 × 619 pixels.
+Original file ‎(637 × 619 pixels, file size: 499 KB, MIME type: image/gif, looped, 15 frames, 15 s)
+
+This is a file from the Wikimedia Commons. Information from its description page there is shown below.Commons is a freely licensed media file repository. You can help.
+
+Summary
+
+DescriptionK-means convergence.gif
+
+English:  Convergence of k-means clustering from an unfavorable starting position (two initial cluster centers are fairly close). Generated with en:ELKI.
+Deutsch:  Konvergenz von k-means clustering, mit einer vergleichsweise ungünstigen Ausgangsposition. Mit en:ELKI erzeugt.
+Date
+
+30 May 2017
+Source
+
+Own work
+Author
+
+Chire
+GIF development This  GIF graphic was created with ELKI.
+
+The k-means process is interrupted at each iteration after updating the means. The Voronoi cells (black lines) are drawn with the new means, but the points labels are still from the previous iteration (i.e. assigned to the closest mean of the previous iteration). This is why the black lines are already one iteration ahead (the Voronoi cells are only computed in visualization, k-means does not compute them). This can be a bit irritating, but it is a fact that the result, until converged, is never completely consistent: either points are not assigned to the nearest center, or the center is not the mean of the assigned points. Once we have both properties, it has converged.
+If I would interrupt k-means before updating the mean, then the centers would appear to be off (but that is not as easy to spot).
+
+Licensing
+
+I, the copyright holder of this work, hereby publish it under the following licenses:
+
+Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled GNU Free Documentation License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue
+ 
+
+This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International, 3.0 Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic license.
+
+
+
+
+You are free:
+to share – to copy, distribute and transmit the work
+to remix – to adapt the work
+Under the following conditions:
+attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.https://creativecommons.org/licenses/by-sa/4.0
+CC BY-SA 4.0 
+Creative Commons Attribution-Share Alike 4.0 
+truetrue
+
+You may select the license of your choice.
+CaptionsEnglishAdd a one-line explanation of what this file representsItems portrayed in this filedepictscreatorsome valueauthor name string: ChireURL: https://commons.wikimedia.org/wiki/user:ChireWikimedia username: Chirecopyright statuscopyrightedcopyright licenseCreative Commons Attribution-ShareAlike 2.5 GenericCreative Commons Attribution-ShareAlike 1.0 GenericGNU Free Documentation License, version 1.2 or laterCreative Commons Attribution-ShareAlike 3.0 UnportedCreative Commons Attribution-ShareAlike 4.0 InternationalCreative Commons Attribution-ShareAlike 2.0 Genericsource of fileoriginal creation by uploaderinception30 May 2017
+File history
+
+Click on a date/time to view the file as it appeared at that time.
+
+
+Date/TimeThumbnailDimensionsUserComment
+current14:35, 30 May 2017637 × 619 (499 KB)Chire{{Information |Description    ={{en|1=Convergence of k-means clustering from an unfavorable starting position (two initial cluster centers are fairly close). Generated with en:ELKI.}} {{de|1=Konvergenz von k-means clustering, mit einer vergleichsw...
+
+
+
+File usage
+
+The following pages on the English Wikipedia use this file (pages on other projects are not listed):
+K-means clustering
+
+
+Global file usage
+The following other wikis use this file:
+
+Usage on cy.wikipedia.org
+	Clystyru k-cymedr
+
+Usage on de.wikipedia.org
+	K-Means-Algorithmus
+
+Usage on fa.wikipedia.org
+	خوشه‌بندی کی-میانگین
+
+Usage on he.wikipedia.org
+	אלגוריתם k-מרכזים
+
+Usage on hy.wikipedia.org
+	K-միջիններով կլաստերինգ
+
+Usage on id.wikipedia.org
+	Pengklasteran k rata-rata
+
+Usage on th.wikipedia.org
+	การแบ่งกลุ่มข้อมูลแบบเคมีน
+
+Usage on vi.wikipedia.org
+	Phân cụm k-means
+
+Usage on www.wikidata.org
+	Q310401
+
+
+
+Retrieved from "https://en.wikipedia.org/wiki/File:K-means_convergence.gif"
+		
+	

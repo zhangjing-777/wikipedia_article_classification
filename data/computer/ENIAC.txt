@@ -1,0 +1,302 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Single-board computer" – news · newspapers · books · scholar · JSTOR  (November 2013) (Learn how and when to remove this template message)Computer whose components are on a single printed circuit board
+  The Raspberry Pi is a low-cost single-board computer used to teach computer science.[1]
+A single-board computer (SBC) is a complete computer built on a single circuit board, with microprocessor(s), memory, input/output (I/O) and other features required of a functional computer. Single-board computers are commonly made as demonstration or development systems, for educational systems, or for use as embedded computer controllers. Many types of home computers or portable computers integrate all their functions onto a single printed circuit board.
+Unlike a desktop personal computer, single board computers often do not rely on expansion slots for peripheral functions or expansion. Single board computers have been built using a wide range of microprocessors. Simple designs, such as those built by computer hobbyists, often use static RAM and low-cost 8- or 16-bit processors. Other types, such as blade servers, would perform similar to a server computer, only in a more compact format.
+A computer-on-module is a type of single-board computer made to plug into a carrier board, baseboard, or backplane for system expansion.[2][3]
+
+Contents
+
+1 History
+2 Applications
+3 Types, standards
+4 Form factors
+5 See also
+6 References
+
+
+
+History[edit]
+  One of the first 10 MMD-1s, a prototype unit, produced by E&L Instruments in 1976. The "dyna-micro"/"MMD-1" was the world's first true single board computer. The MMD-1 had all components on a single printed circuit board, including memory, I/O, user input device, and a display.  Nothing external to the single board except power was required to both program and run the MMD-1. The original design of the MMD-1 was called the "dyna-micro", but it was soon re-branded as the "MMD-1"
+The first true single-board computer (see the May 1976 issue of Radio-Electronics) called the "dyna-micro" was based on the Intel C8080A, and also used Intel's first EPROM, the C1702A. The dyna-micro was re-branded by E&L Instruments of Derby, Connecticut, in 1976 as the "MMD-1" (Mini-Micro Designer 1) and was made famous as the example microcomputer in the very popular 8080 "BugBook" series of the time. SBCs also figured heavily in the early history of home computers, for example in the Acorn Electron and the BBC Micro. Other typical early single board computers like the KIM-1 were often shipped without enclosure, which had to be added by the owner. Other early examples are the Ferguson Big Board, the Ampro Little Board,[4] and the Nascom.
+As the PC market became more prevalent, fewer SBCs were being used in computers. The main components were assembled on a motherboard, and peripheral components such as hard disk drive controllers and graphics processors were located on daughterboards. The recent availability of advanced chipsets providing most of the I/O features as embedded components allows motherboard manufacturers to offer motherboards with I/O traditionally provided by daughterboards. Most PC motherboards now offer on-board support for disk drives including IDE, SATA, NVMe, RAID, integrated GPU, Ethernet, and traditional I/O such as serial port and parallel port, USB, and keyboard/mouse support. Plug-in cards are now more commonly high performance graphics cards (really graphics co-processors), high-end RAID controllers, and specialized I/O cards such as data acquisition and DSP (Digital Signal Processor) boards.
+
+Applications[edit]
+  A socket 3 based 486 SBC with power supply and flatscreen
+Single board computers were made possible by increasing the density of integrated circuits. A single-board configuration reduces a system's overall cost, by reducing the number of circuit boards required, and by eliminating connectors and bus driver circuits that would otherwise be used. By putting all the functions on one board, a smaller overall system can be obtained, for example, as in notebook computers. Connectors are a frequent source of reliability problems, so a single-board system eliminates these problems.[5]
+Single board computers are now commonly defined across two distinct architectures: no slots and slot support.
+Embedded SBCs are units providing all the required I/O with no provision for plug-in cards.  Applications are typically gaming (slot machines, video poker), kiosk, and machine control automation.  Embedded SBCs are much smaller than the ATX-type motherboard found in PCs, and provide an I/O mix more targeted to an industrial application, such as on-board digital and analog I/O, on-board bootable flash memory (eliminating the need for a disk drive), no video, etc.
+The term "Single Board Computer" now generally applies to an architecture where the single board computer is plugged into a backplane to provide for I/O cards. In the case of PC104, the bus is not a backplane in the traditional sense but is a series of pin connectors allowing I/O boards to be stacked.
+Single board computers are most commonly used in industrial situations where they are used in rackmount format for process control or embedded within other devices to provide control and interfacing. They are used in deep-sea exploration on the ALICE deep sea probes and in outer space, on the Ariane and Pegasus rockets and Space Shuttle.[6] Because of the very high levels of integration, reduced component counts and reduced connector counts, SBCs are often smaller, lighter, more power efficient and more reliable than comparable multi-board computers.[7]
+The primary advantage of an ATX motherboard as compared to an SBC is cost.  Motherboards are manufactured by the millions for the consumer and office markets allowing tremendous economies of scale. Single-board computers are a market niche and are manufactured less often and at a higher cost. Motherboards and SBCs now offer similar levels of feature integration meaning that a motherboard failure in either standard will require equivalent replacement.
+
+Types, standards[edit]
+One common variety of single board computer uses standardized computer form factors intended for use in a backplane enclosure.  Some of these types are CompactPCI, PXI, VMEbus, VXI, and PICMG. SBCs have been built around various internal processing structures including the Intel architecture, multiprocessing architectures, and lower power processing systems like RISC and SPARC. In the Intel PC world, the intelligence and interface/control circuitry is placed on a plug-in board that is then inserted into a passive (or active) backplane. The end result is similar to having a system built with a motherboard, except that the backplane determines the slot configuration. Backplanes are available with a mix of slots (ISA, PCI, PCI-X, PCI-Express, etc.), usually totaling 20 or fewer, meaning it will fit in a 19" rackmount enclosure (17" wide chassis).
+Some single-board computers have connectors that allow a stack of circuit boards, each containing expansion hardware, to be assembled without a traditional backplane. Examples of stacking SBC form factors include PC/104, PC/104-Plus, PCI-104, EPIC, and EBX; these systems are commonly available for use in embedded control systems.
+Stack-type SBCs often have memory provided on plug-cards such as SIMMs and DIMMs. Hard drive circuit boards are also not counted for determining if a computer is an SBC or not for two reasons, firstly because the HDD is regarded as a single block storage unit, and secondly because the SBC may not require a hard drive at all as most can be booted from their network connections.
+
+Form factors[edit]
+AdvancedTCA
+CompactPCI
+Embedded Compact Extended (ECX)
+Mini-ITX
+Multibus
+PC/104
+PICMG
+Pico-ITX
+PXI
+Qseven
+VMEbus
+VPX
+VXI
+96Boards (CE, EE, EETV and IE)
+See also[edit]
+Computer on module
+Embedded system
+List of open-source computing hardware
+Plug computer
+Single-board microcontroller
+References[edit]
+
+
+
+Wikimedia Commons has media related to Single-board computers.
+
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"Foundation Strategy 2016–2018" (PDF). Raspberry Pi. Raspberry Pi Foundation. pp. 3–5. Retrieved 26 November 2016.
+
+^ "COM – Based SBCs: The Superior Architecture for Small Form Factor Embedded Systems" (PDF). Diamond Systems Corp. Retrieved 27 December 2016.
+
+^ "Implementing High Performance Embedded Computing Hardware" (PDF). Trenton Systems, Inc. September 1, 2016. pp. 13–15. Retrieved 26 November 2016.
+
+^ "Ampro Little Board".
+
+^ Winn Rosch, Hardware Bible Fifth Edition, Que, 1999 ISBN 0-7897-1743-3 pp. 50-51
+
+^ "Single Board Computer Peripherals". Newmicros. Retrieved July 7, 2017.
+
+^ "A UHF RFID Printed Circuit Board Solution". Magicstrap. January 2012. p. 4. Retrieved 26 November 2016.
+
+
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteSingle-board computer and single-board microcontrollerDevices
+Arduino
+Arndale Board
+Asus Tinker Board
+Banana Pi
+BeagleBoard
+Cotton Candy
+CHIP
+Cubieboard
+Edison
+Galileo
+Gumstix
+Hawkboard
+IGEPv2
+Nvidia Drive
+Nvidia Jetson
+ODROID
+OLinuXino
+PandaBoard
+Pine64
+Parallella
+Rascal
+Raspberry Pi
+Snowball
+UDOO
+SoCsARM
+Actions
+Allwinner
+Ax
+Apple M1
+Exynos
+i.MX
+HiSiliconK3V3
+MediaTek
+Nomadik
+NovaThor
+OMAP
+Rockchip
+Qualcomm Snapdragon
+Tegra
+WonderMedia
+MIPS
+Jz
+x86/x86-64
+Atom
+Jaguar-based
+Puma-based
+Quark
+Software
+Apache Hadoop
+Linaro
+
+vteComputer sizesClasses of computersmicrocomputer,personalcomputerstatic
+Appliances:
+Smart speaker
+Smart TV
+Interactive kiosk
+Arcade cabinet
+Home console
+Microconsole
+thin client/computer terminal
+Computers:
+By use:
+Home
+Home server
+Workstation
+Personal supercomputer
+By size:
+Portable
+Small form factor
+Nettop
+Plug
+Desktop
+Deskside
+All-in-One
+Tabletop
+mobilelaptop
+Desktop replacement
+2-in-1
+Subnotebook
+Netbook
+Smartbook
+Ultrabook
+Ultra-mobile PC
+tablet
+Ultra-mobile PC
+2-in-1
+Phablet
+Tabletop
+handheld(informationappliance)
+Handheld PC
+Palmtop PC
+Pocket computer
+Personal digital assistant
+Electronic organizer
+Mobile phone
+Feature phone
+Smartphone
+Rugged Phone
+Phablet
+Portable media player
+E-reader
+Handheld game console
+Portable/Mobile data terminal
+calculator
+Scientific
+Programmable
+Graphing
+wearable
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartband
+Smartglasses
+Smart ring
+midrange
+Minicomputer
+Supermini
+large
+Super
+Mainframe
+Minisuper
+others
+Microcontroller
+Nanocomputer
+Single-board computer
+Smartdust
+Wireless sensor network
+Server (size independent)
+
+ Category
+ Portal
+
+vteEmbedded systemsGeneral terms
+ASIC
+Board support package
+Bootloader
+Consumer electronics
+Cross compiler
+Embedded database
+Embedded hypervisor
+Embedded OS
+Embedded software
+FPGA
+IoT
+Memory footprint
+Microcontroller
+Single-board computer
+Raspberry Pi
+SoC
+Firmware and controls
+Closed platform
+Crippleware
+Custom firmware
+Defective by Design
+Hacking of consumer electronics
+Homebrew (video games)
+iOS jailbreaking
+PlayStation 3 Jailbreak
+Proprietary firmware
+Rooting (Android)
+Vendor lock-in
+Boot loaders
+U-Boot
+Barebox
+Software libraries
+uClibc
+dietlibc
+Embedded GLIBC
+lwIP
+musl
+Programming tools
+Almquist shell
+BitBake
+Buildroot
+BusyBox
+OpenEmbedded
+Stand-alone shell
+Toybox
+Yocto Project
+Operating systems
+Linux on embedded systems
+Linux for mobile devices
+Light-weight Linux distribution
+Real-time operating system
+Windows IoT
+Win CE
+Programming languages
+Ada
+Assembly language
+CAPL
+Embedded C
+Embedded C++
+Embedded Java
+MISRA C
+
+Lightweight browsers
+List of open-source computing hardware
+Open-source robotics
+
+Authority control General
+Integrated Authority File (Germany)
+Other
+Microsoft Academic
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Single-board_computer&oldid=1038291515"
+		Categories: MicrocomputersSingle-board computersHidden categories: Articles needing additional references from November 2013All articles needing additional referencesArticles with short descriptionShort description is different from WikidataCommons category link is on WikidataArticles with GND identifiersArticles with MA identifiers
+	

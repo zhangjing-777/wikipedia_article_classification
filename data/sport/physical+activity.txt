@@ -1,0 +1,116 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Sociological concept
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}"Social action" redirects here. For the Italian political party, see Social Action Party.
+Not to be confused with action theory (sociology).
+In sociology,[1] social action, also known as Weberian social action, is an act which takes into account the actions and reactions of individuals (or 'agents'). According to Max Weber, "Action is "social" insofar as its subjective meaning takes account of the behavior of others and is thereby oriented in its course."[2]
+
+Contents
+
+1 Max Weber
+2 Types
+3 See also
+4 Further reading
+5 References
+
+
+
+Max Weber[edit]
+The basic concept was primarily developed in the non-positivist theory of Max Weber to observe how human behaviors relate to cause and effect in the social realm. For Weber, sociology is the study of society and behavior and must therefore look at the heart of interaction. The theory of social action, more than structural functionalist positions, accepts and assumes that humans vary their actions according to social contexts and how it will affect other people; when a potential reaction is not desirable, the action is modified accordingly. Action can mean either a basic action (one that has a meaning) or an advanced social action, which not only has a meaning but is directed at other actors and causes action (or, perhaps, inaction).
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}[Sociology is] ... the science whose object is to interpret the meaning of social action and thereby give a causal explanation of the way in which the action proceeds and the effects which it produces. By 'action' in this definition is meant the human behavior when and to the extent that the agent or agents see it as subjectively meaningful ... the meaning to which we refer may be either (a) the meaning actually intended either by an individual agent on a particular historical occasion or by a number of agents on an approximate average in a given set of cases, or (b) the meaning attributed to the agent or agents, as types, in a pure type constructed in the abstract. In neither case is the 'meaning' to be thought of as somehow objectively 'correct' or 'true' by some metaphysical criterion. This is the difference between the empirical sciences of action, such as sociology and history, and any kind of priori discipline, such as jurisprudence, logic, ethics, or aesthetics whose aim is to extract from their subject-matter 'correct' or 'valid' meaning.— Max Weber The Nature of Social Action 1922, [3]
+The term is more practical and encompassing than Florian Znaniecki's "social phenomena", since the individual performing social action is not passive, but rather active and reactive. Although Weber himself used the word 'agency', in modern social science this term is often appropriated with a given acceptance of Weberian conceptions of social action, unless a work intends to make the direct allusion. Similarly, 'reflexivity' is commonly used as a shorthand to refer to the circular relationship of cause and effect between structure and agency which Weber was integral in hypothesising.
+
+Types[edit]
+Rational actions (also known as value-rational actions, wertrational): actions which are taken because it leads to a valued goal, but with no thought of its consequences and often without consideration of the appropriateness of the means chosen to achieve it ('the end justifies the means'). Value rational or Instrumentally rational social action is divided into two groups: rational consideration and rational orientation.  Rational consideration is when secondary results are taken into account rationally. This is also considered alternative means when secondary consequences have ended.  Determining this mean of action is quite hard and even incompatible.  Rational orientation is being able to recognize and understand certain mediums under common conditions. According to Weber, heterogeneous actors and groups that are competing, find it hard to settle on a certain medium and understand the common social action;
+Instrumental action (also known as value relation, instrumentally rational, goal-instrumental ones, zweckrational): actions which are planned and taken after evaluating the goal in relation to other goals, and after thorough consideration of various means (and consequences) to achieve it. An example would be a high school student preparing for life as a lawyer.  The student knows that in order to get into college, they must take the appropriate tests and fill out the proper forms to get into college and then do well in college in order to get into law school and ultimately realize their goal of becoming a lawyer.  If the student chooses not to do well in college, they know that it will be difficult to get into law school and ultimately achieve the goal of being a lawyer. Thus the student must take the appropriate steps to reach the ultimate goal.
+Another example would be most economic transactions.  Value Relation is divided into the subgroups commands and demands.  According to the law, people are given commands and must use the whole system of private laws to break down the central government or domination in the legal rights in which a citizen possess. Demands can be based on justice or human dignity just for morality. These demands have posed several problems even legal formalism has been put to the test.  These demands seem to weigh on the society and at times can make them feel immoral.[1]
+The rational choice approach to religion draws a close analogy between religion and the market economy. Religious firms compete against one another to offer religious products and services to consumers, who choose between the firms. To the extent that there are many religious firms competing against each other, they will tend to specialize and cater to the particular needs of some segments of religious consumers. This specialization and catering in turn increase the number of religious consumers actively engaged in the religious economy. This proposition has been confirmed in a number of empirical studies.
+It is well known that strict churches are strong and growing in the contemporary United States, whereas liberal ones are declining. For Iannaccone's religious experience is a jointly produced collective good. Thus members of a church face a collective action problem. Strict churches, which often impose costly and esoteric requirements on their members, are able to solve this problem by weeding out potential free riders, since only the very committed would join the church in the face of such requirements. Consistent with the notion that religious experience is a collective good, Iannaccone et al. show that churches that extract more resources from their members (in the form of time and money) tend to grow in membership.
+
+Affectual action (also known as emotional actions): actions which are taken due to 'one's emotions, to express personal feelings. For examples, cheering after a victory, crying at a funeral would be affective actions.  Affective is divided into two subgroups: uncontrolled reaction and emotional tension.  In uncontrolled reaction there is no restraint and there is lack of discretion.  A person with an uncontrolled reaction becomes less inclined to consider other peoples’ feelings as much as their own.  Emotional tension comes from a basic belief that a person is unworthy or powerless to obtain their deepest aspirations.  When aspirations are not fulfilled there is internal unrest.  It is often difficult to be productive in society because of the unfulfilled life. Emotion is often neglected because of concepts at the core of exchange theory. A common example is behavioral and rational choice assumptions. From the behavioral view, emotions are often inseparable from punishments.
+Emotion: Emotions are one's feelings in response to a certain situation.  There are six types of emotion: social emotions, counterfactual emotions, emotions generated by what may happen (often manifested as anxiety), emotions generated by joy and grief (examples found in responses typically seen when a student gets a good grade, and when a person is at a funeral, respectively), thought-triggered emotions (sometimes manifested as flashbacks), and finally emotions of love and disgust. All of these emotions are considered to be unresolved. There are six features that are used to define emotions: intentional objects, valence, cognitive antecedents, physiological arousal, action tendencies, and lastly physiological expressions. These six concepts were identified by Aristotle and are still the topic of several talks.
+Macro institutional theory of Economic Order: Nicole Biggart and Thomas Beamish have a slightly different approach to human habit then Max Weber. Whereas Weber believed economic organization is based on structures of material interest and ideas, institutional sociologist like Biggart and Beamish stress macro-institutional sources of arrangements of market capitalism.
+Micrological theories of economy consider acts of a group of individuals. Economic theory is based on the assumption that when the highest bidder succeeds the market clears. Microeconomics theories believes that individuals are going to find the cheapest way to buy the things they need. By doing this it causes providers to be competitive and therefore creates order in the economy.
+
+Rational choice theorists, on the other hand, believe that all social action is rationally motivated.  Rationality means that the actions taken are analyzed and calculated for the greatest amount of (self)-gain and efficiency. Rational choice theory although increasingly colonized by economist, it does differ from microeconomic conceptions.  Yet rational choice theory can be similar to microeconomic arguments. Rational choice assumes individuals to be egoistic and hyperrational although theorist mitigate these assumptions by adding variables to their models.
+Traditional actions: actions which are carried out due to tradition, because they are always carried out in a particular manner for certain situations. An example would be putting on clothes or relaxing on Sundays. Some traditional actions can become a cultural artifact Traditional is divided into two subgroups: customs and habit.  A custom is a practice that rests among familiarity.  It is continually perpetuated and is ingrained in a culture.  Customs usually last for generations. A habit is a series of steps learned gradually and sometimes without conscious awareness.  As the old cliché goes, "old habits are hard to break" and new habits are difficult to form.
+Social action models help explain Social Outcomes because of basic sociological ideas such as the Looking Glass Self. The idea of Cooley's looking glass self is that our sense of self develops as we observe and reflect upon others and what they may think of our actions. Additionally, impression formation processes allow us to interpret the significance of others' actions.
+Social Actions and Institutions Model: An 'institution' consists of specialized roles and settings that are linked together semantically,[4] with the complex typically being devoted to serving some function within society.
+In sociological hierarchy, social action is more advanced than behavior, action and social behavior, and is in turn followed by more advanced social contact, social interaction and social relation.[citation needed]
+
+See also[edit]
+.mw-parser-output .portalbox{float:right;border:solid #aaa 1px;padding:0}.mw-parser-output .portalbox.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portalbox.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portalbox>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portalbox>ul>li{display:table-row}.mw-parser-output .portalbox>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}
+
+Society portal
+.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}
+Action theory (sociology)
+Affectional action
+Communicative action
+Dramaturgy (sociology)
+Group action (sociology)
+Collective action
+Instrumental and value-rational action
+Interpersonal relationship
+Symbolic interactionism
+Theory of structuration
+Verstehen
+
+Further reading[edit]
+.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Secher, H. P. (1962), Basic Concepts in Sociology. Contributors: Max Weber, New York: Citadel Press, archived from the original on 2004-06-20
+Weber, Max (1991), "The Nature of Social Action.", Runciman, W.G. 'Weber: Selections in Translation', Cambridge University Press
+Stark, Rodney (2007), Sociology, USA: Thomson Wadsworth, ISBN 978-0-495-09344-2
+Sciulli, David (1992), Theory of Societal Constitutionalism: Foundations of a Non-Marxist Critical Theory., Cambridge University Press, ISBN 978-0-521-41040-3
+Weber, Max (1978), Economy and Society: An Outline of Interpretive Sociology., USA: University of California Press, ISBN 978-0-520-03500-3
+Gecas, Viktor; Schwalbe, M. L. (1983), "Beyond The Looking Glass Self: Social Structure and Efficacy-Based Self-Esteem", The Scholarly Journal Archive, 46 (2): 77–88, JSTOR 3033844, PMID 6879222
+Hedström, Peter. “Experimental Macro Sociology: Predicting the Next Best Seller” Science/AAAS. 10 Feb. 2006. 17 Oct. 2007
+Society for Organizational Learning. Personal Mastery 16 October 2007
+Habits 16 October 2007 http://serendipstudio.org/bb/neuro/neuro05/web1/mmcgovern.html
+Homans GC. 1961. Social Behavior: Its Elementary Forms. New York: Harcourt Brace 23 Oct. 2007.
+Frijda, Nico H. The Emotions. Cambridge, Cambridge University Press. 1986 23 Oct. 2007
+Stark R, Bainbridge WS. 1987. A Theory of Religion. New York: Peter Lang
+Iannaccone LR. 1992. Sacrifice and stigma: reducing free-riding in cults, communes, and other collectivities. J. Polit. Econ. 100: 271– 91
+Iannaccone LR. 1994. Why strict churches are strong. Am. J. Sociol. 99: 1180– 211
+Giddens, Anthony. Central Problems in Social Theory: Action, Structure, and Contradiction in Social Analysis
+Atkinson, J. Maxwell. Liberalism and Social Action by John Dewey, Structures of Social Action (Studies in Emotion and social Interaction)
+Parsons, Talcott (1968), The structure of social action: a study in social theory with special reference to a group of recent European writers, New York: Free Press
+References[edit]
+
+
+
+Wikiquote has quotations related to: Social actions
+
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ a b Fadul, J. and Estoque, R. A Textbook for an Introductory Course in Sociology.  Lulu Press, 2010.
+
+^ Weber, Max (1978) [1968]. Economy and society: An outline of interpretive sociology. Berkeley and Los Angeles: University of California Press. p. 4. ISBN 0-520-03500-3.
+
+^ Weber, Max The Nature of Social Action in Runciman, W.G. 'Weber: Selections in Translation' Cambridge University Press, 1991. p. 7.
+
+^ MacKinnon, Neil J. and David R. Heise. Self, Identity, and Social Institutions (Palgrave, 2010), Chapter 4
+
+
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}Authority control General
+Integrated Authority File (Germany)
+National libraries
+Chile
+France (data)
+United States
+Other
+Microsoft Academic
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Social_actions&oldid=1038420551"
+		Categories: Sociological terminologyMax WeberSymbolic interactionismHidden categories: Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from September 2013Articles with GND identifiersArticles with BNC identifiersArticles with BNF identifiersArticles with LCCN identifiersArticles with MA identifiers
+	

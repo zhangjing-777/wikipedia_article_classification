@@ -1,0 +1,234 @@
+
+		From Wikipedia, the free encyclopedia
+		  (Redirected from PMC (identifier))
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Repository of freely accessible biomedical journal articles
+.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}PubMed CentralProducerUnited States National Library of Medicine (United States)History2000 to presentAccessCostFreeCoverageDisciplinesMedicineRecord depthIndex, abstract & full-textFormat coverageJournal articlesLinksWebsitehttps://www.ncbi.nlm.nih.gov/pmc/Title list(s)https://www.ncbi.nlm.nih.gov/pmc/journals/
+PubMed Central (PMC) is a free digital repository that archives open access full-text scholarly articles that have been published in biomedical and life sciences journals. As one of the major research databases developed by the National Center for Biotechnology Information (NCBI), PubMed Central is more than a document repository. Submissions to PMC are indexed and formatted for enhanced metadata, medical ontology, and unique identifiers which enrich the XML structured data for each article.[1] Content within PMC can be linked to other NCBI databases and accessed via Entrez search and retrieval systems, further enhancing the public's ability to discover, read and build upon its biomedical knowledge.[2]
+PubMed Central is distinct from PubMed.[3] PubMed Central is a free digital archive of full articles, accessible to anyone from anywhere via a web browser (with varying provisions for reuse). Conversely, although PubMed is a searchable database of biomedical citations and abstracts, the full-text article resides elsewhere (in print or online, free or behind a subscriber paywall).
+As of December 2018[update], the PMC archive contained over 5.2 million articles,[4] with contributions coming from publishers or authors depositing their manuscripts into the repository per the NIH Public Access Policy. Earlier data shows that from January 2013 to January 2014 author-initiated deposits exceeded 103,000 papers during a 12-month period.[5] PMC identifies about 4,000 journals which participate in some capacity to deposit their published content into the PMC repository.[6] Some publishers delay the release of their articles on PubMed Central for a set time after publication, referred to as an "embargo period", ranging from a few months to a few years depending on the journal.  (Embargoes of six to twelve months are the most common.) PubMed Central is a key example of "systematic external distribution by a third party",[7] which is still prohibited by the contributor agreements of many publishers.
+
+Contents
+
+1 Adoption
+2 Technology
+3 Reception
+4 PMCID
+5 See also
+6 References
+7 External links
+
+
+
+Adoption[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}See also: NIH Public Access Policy
+Launched in February 2000, the repository has grown rapidly as the NIH Public Access Policy is designed to make all research funded by the National Institutes of Health (NIH) freely accessible to anyone, and, in addition, many publishers are working cooperatively with the NIH to provide free access to their works. In late 2007, the Consolidated Appropriations Act of 2008 (H.R. 2764) was signed into law and included a provision requiring the NIH to modify its policies and require inclusion into PubMed Central complete electronic copies of their peer-reviewed research and findings from NIH-funded research. These articles are required to be included within 12 months of publication. This is the first time the US government has required an agency to provide open access to research and is an evolution from the 2005 policy, in which the NIH asked researchers to voluntarily add their research to PubMed Central.[8]
+A UK version of the PubMed Central system, UK PubMed Central (UKPMC), has been developed by the Wellcome Trust and the British Library as part of a nine-strong group of UK research funders. This system went live in January 2007. On 1 November 2012, it became Europe PubMed Central. The Canadian member of the PubMed Central International network, PubMed Central Canada, was launched in October 2009.
+The National Library of Medicine "NLM Journal Publishing Tag Set" journal article markup language is freely available.[9] The Association of Learned and Professional Society Publishers comments that "it is likely to become the standard for preparing scholarly content for both books and journals".[10] A related DTD is available for books.[11] The Library of Congress and the British Library have announced support for the NLM DTD.[12] It has also been popular with journal service providers.[13]
+With the release of public access plans for many agencies beyond NIH, PMC is in the process of becoming the repository for a wider variety of articles.[14]  This includes NASA content, with the interface branded as "PubSpace".[15][16]
+
+Technology[edit]
+Articles are sent to PubMed Central by publishers in XML or SGML, using a variety of article DTDs. Older and larger publishers may have their own established in-house DTDs, but many publishers use the NLM Journal Publishing DTD (see above).
+Received articles are converted via XSLT to the very similar NLM Archiving and Interchange DTD.  This process may reveal errors that are reported back to the publisher for correction. Graphics are also converted to standard formats and sizes. The original and converted forms are archived. The converted form is moved into a relational database, along with associated files for graphics, multimedia, or other associated data. Many publishers also provide PDF of their articles, and these are made available without change.[17]
+Bibliographic citations are parsed and automatically linked to the relevant abstracts in PubMed, articles in PubMed Central, and resources on publishers' Web sites. PubMed links also lead to PubMed Central. Unresolvable references, such as to journals or particular articles not yet available at one of these sources, are tracked in the database and automatically come "live" when the resources become available.
+An in-house indexing system provides search capability, and is aware of biological and medical terminology, such as generic vs. proprietary drug names, and alternate names for organisms, diseases and anatomical parts.
+When a user accesses a journal issue, a table of contents is automatically generated by retrieving all articles, letters, editorials, etc. for that issue. When an actual item such as an article is reached, PubMed Central converts the NLM markup to HTML for delivery, and provides links to related data objects. This is feasible because the variety of incoming data has first been converted to standard DTDs and graphic formats.
+In a separate submission stream, NIH-funded authors may deposit articles into PubMed Central using the NIH Manuscript Submission (NIHMS). Articles thus submitted typically go through XML markup in order to be converted to NLM DTD.
+
+Reception[edit]
+Reactions to PubMed Central among the scholarly publishing community range between a genuine enthusiasm by some,[18] to cautious concern by others.[19]
+While PMC is a welcome partner to open access publishers in its ability to augment the discovery and dissemination of biomedical knowledge, that same truth causes others to worry about traffic being diverted from the published version of record, the economic consequences of less readership, as well as the effect on maintaining a community of scholars within learned societies.[20][21] A 2013 analysis found strong evidence that public repositories of published articles were responsible for "drawing significant numbers of readers away from journal websites" and that "the effect of PMC is growing over time".[22]
+Libraries, universities, open access supporters, consumer health advocacy groups, and patient rights organizations have applauded PubMed Central, and hope to see similar public access repositories developed by other federal funding agencies so to freely share any research publications that were the result of taxpayer support.[23]
+The Antelman study of open access publishing found that in philosophy, political science, electrical and electronic engineering and mathematics, open access papers had a greater research impact.[24] A randomised trial found an increase in content downloads of open access papers, with no citation advantage over subscription access one year after publication.[25]
+The NIH policy and open access repository work has inspired a 2013 presidential directive which has sparkled action in other federal agencies as well.
+In March 2020, PubMed Central accelerated its deposit procedures for the full text of publications on coronavirus. The NLM did so upon request from the White House Office of Science and Technology Policy and international scientists to improve access for scientists, healthcare providers, data mining innovators, AI healthcare researchers, and the general public.[26]
+
+PMCID[edit]
+The PMCID (PubMed Central identifier), also known as the PMC reference number, is a bibliographic identifier for the PubMed Central database, much like the PMID is the bibliographic identifier for the PubMed database. The two identifiers are distinct however. It consists of "PMC" followed by a string of seven numbers. The format is:[27]
+
+PMCID: PMC1852221
+Authors applying for NIH awards must include the PMCID in their application.
+
+See also[edit]
+Europe PubMed Central
+JATS (technology)
+MEDLINE, an international literature database of life sciences and biomedical information
+PMID (PubMed Identifier)
+PubMed Central Canada
+Redalyc (similar project focused on Latin America)
+SciELO (similar service)
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Beck J (2010). "Report from the Field: PubMed Central, an XML-based Archive of Life Sciences Journal Articles". Proceedings of the International Symposium on XML for the Long Haul: Issues in the Long-term Preservation of XML. 6. doi:10.4242/BalisageVol6.Beck01. ISBN 978-1-935958-02-4.
+
+^ Maloney C, Sequeira E, Kelly C, Orris R, Beck J (5 December 2013). PubMed Central. National Center for Biotechnology Information (US).
+
+^ "MEDLINE, PubMed, and PMC (PubMed Central): How are they different?". www.nlm.nih.gov. 9 September 2019.
+
+^ "Openness by Default", Inside Higher Ed, 16 January 2017.
+
+^ "NIHMS Statistics". nihms.nih.gov.
+
+^ "Home - PMC - NCBI". www.ncbi.nlm.nih.gov.
+
+^ Ouerfelli N. "Author rights: what's it all about" (PDF).
+
+^ "Public access to NIH research made law". Science Codex. 2007. Archived from the original on 4 March 2016. Retrieved 6 November 2013.
+
+^ "Journal Publishing Tag Set". National Center for Biotechnology Information. Retrieved 6 November 2013.
+
+^ French D (4 August 2006). "ALPSP Technology Update: A Standard XML Document Format: The case for the adoption of NLM DTD". ALPSP. Retrieved 6 November 2013.
+
+^ "NCBI Book Tag Set". dtd.nlm.nih.gov.
+
+^ "News from the Library of Congress". Library of Congress. 19 April 2006. Retrieved 6 November 2013.
+
+^ "Inera Inc. - NLM DTD Resources". 19 February 2013. Archived from the original on 2013-02-19.
+
+^ "Public Access Plans of U.S. Federal Agencies". cendi.gov.
+
+^ Kovo Y (22 July 2016). "Public Access to Results of NASA-Funded Research". nasa.gov. Archived from the original on 19 August 2016.
+
+^ "NASA in PMC". preview.ncbi.nlm.nih.gov.
+
+^ NLM Journal Archiving and Interchange Tag Suite, National 
+Center for Biotechnical Information, National Library of Medicine
+
+^ "PLOS Applauds Congress for Action on Open Access". Archived from the original on 2016-05-07. Retrieved 2014-02-07.
+
+^ "ACS Submission to the Office of Science and Technology Policy Request for Information on Public Access to Peer-Reviewed Scholarly Publications Resulting from Federally Funded Research" (PDF). Office of Science and Technology Policy. Retrieved 2014-02-07 – via National Archives.
+
+^ Davis PM (October 2012). "The effect of public deposit of scientific articles on readership". The Physiologist. 55 (5): 161, 163–5. PMID 23155924.
+
+^ Davis PM (July 2013). "Public accessibility of biomedical articles from PubMed Central reduces journal readership--retrospective cohort analysis". FASEB Journal. 27 (7): 2536–41. doi:10.1096/fj.13-229922. PMC 3688741. PMID 23554455.
+
+^ Davis PM (July 2013). "Public accessibility of biomedical articles from PubMed Central reduces journal readership--retrospective cohort analysis". FASEB Journal. 27 (7): 2536–41. doi:10.1096/fj.13-229922. PMC 3688741. PMID 23554455.
+
+^ "Autism Speaks Announces New Policy to Give Families Easy, Free Access to Key Research Findings - Press Release - Autism Speaks". www.autismspeaks.org. 25 July 2012.
+
+^ Antelman, Kristin (2004). "Do Open-Access Articles Have a Greater Research Impact?". College & Research Libraries. 65 (5): 372–382. doi:10.5860/crl.65.5.372., summarized by Stemper J, Williams K (2006). "Scholarly communication: Turning crisis into opportunity". College & Research Libraries News. 67 (11): 692–696. doi:10.5860/crln.67.11.7720.
+
+^ Davis PM, Lewenstein BV, Simon DH, Booth JG, Connolly MJ (July 2008). "Open access publishing, article downloads, and citations: randomised controlled trial". BMJ. 337: a568. doi:10.1136/bmj.a568. PMC 2492576. PMID 18669565.
+
+^ "The National Library of Medicine expands access to coronavirus literature through PubMed Central". National Institutes of Health (NIH). 2020-03-25. Retrieved 2020-03-31. To support this initiative, NLM is adapting its standard procedures for depositing articles into PMC to provide greater flexibility that will ensure coronavirus research is readily available.
+
+^ "Include PMCID in Citations | publicaccess.nih.gov". publicaccess.nih.gov. Retrieved 2017-07-01.
+
+
+External links[edit]
+
+
+
+Wikidata has the property: 
+ PMCID (P932) (see uses)
+
+Official website
+
+
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteAcademic publishingJournals
+Academic journal
+Scientific journal
+Open access journal
+Public health journal
+Papers
+Scholarly paper
+Review article
+Position paper
+Literature review
+Grey literature
+Working paper
+White paper
+Technical report
+Annual report
+Pamphlet
+Essay
+Lab notes
+Other types of publication
+Thesis (Collection of articles, Monograph)
+Specialized patent (biological, chemical)
+Book
+Book chapter
+Poster session
+Abstract
+Impact and ranking
+Acknowledgment index
+Altmetrics
+Article-level metrics
+Author-level metrics
+Bibliometrics
+Citation impact
+Citation index
+Journal ranking
+Eigenfactor
+h-index
+Impact factor
+SCImago Journal Rank
+Scientometrics
+Reform
+Academic journal publishing reform
+Full-text-on-the-Net bias (FUTON bias)
+Open access
+Serials crisis
+Sci-Hub
+#ICanHazPDF
+Versioning
+Preprint
+Postprint
+Version of Record
+Erratum/corrigendum
+Retraction
+Indexes and search engines
+Google Scholar
+AMiner
+BASE
+Microsoft Academic
+CORE
+Semantic Scholar
+Scopus
+Web of Science
+Related topics
+Imprint
+Scientific writing
+Peer review
+Proceedings
+Scientific literature
+Learned society
+Open research
+Open science data
+ORCID
+Electronic publishing
+Ingelfinger rule
+Least publishable unit
+Publish or perish
+Lists
+Academic journals
+Scientific journals
+Open-access journals
+Academic databases and search engines
+University presses
+Copyright policies
+Preprint policies
+Style/formatting guides
+Category:Academic publishing
+Category:Scientific documents
+ Portal
+Authority control General
+VIAF
+1
+WorldCat
+National libraries
+United States
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=PubMed_Central&oldid=1055159693#PMCID"
+		Categories: Biological databasesBibliographic databases and indexesNational Institutes of HealthOpen-access archivesMedical databasesFull-text scholarly online databasesHidden categories: Articles with short descriptionShort description is different from WikidataArticles containing potentially dated statements from December 2018All articles containing potentially dated statementsArticles with VIAF identifiersArticles with WORLDCATID identifiersArticles with LCCN identifiers
+	

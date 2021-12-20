@@ -1,0 +1,46 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Local optimum" – news · newspapers · books · scholar · JSTOR  (June 2019) (Learn how and when to remove this template message)
+  Attraction basins around locally optimal points
+  Polynomial of degree 4: the trough on the right is a local minimum and the one on the left is the global minimum. The peak in the center is a local maximum.
+In applied mathematics and computer science, a local optimum of an optimization problem is a solution that is optimal (either maximal or minimal) within a neighboring set of candidate solutions. This is in contrast to a global optimum, which is the optimal solution among all possible solutions, not just those in a particular neighborhood of values. 
+
+Continuous domain[edit]
+When the function to be optimized is continuous, it may be possible to employ calculus to find local optima. If the first derivative exists everywhere, it can be equated to zero; if the function has an unbounded domain, for a point to be a local optimum it is necessary that it satisfy this equation. Then the second derivative test provides a sufficient condition for the point to be a local maximum or local minimum.
+
+Search techniques[edit]
+Local search or hill climbing methods for solving optimization problems start from an initial configuration and repeatedly move to an improving neighboring configuration. A trajectory in search space is generated, which maps an initial point to a local optimum, where local search is stuck (no improving neighbors
+are available). The search space is therefore subdivided into basins of attraction, each consisting of
+all initial points which have a given local optimum as the final point of the local search trajectory.
+A local optimum can be isolated (surrounded by non-locally-optimal points) or 
+part of a plateau, a locally optimal region with more than one point of equal value.
+If the problem to be solved has all locally optimal points with the same value of the function to be
+optimized, local search effectively solves the global problem: finding a local optimum delivers
+a globally optimal solution.
+The locality of the optimum is dependent on the neighborhood structure as defined by the local search method that is used for optimizing the function.
+In many cases, local optima deliver sub-optimal solutions to the global problem, and
+a local search method needs to be modified to continue the search
+beyond local optimality; see for example iterated local search, tabu search, reactive search optimization, and
+simulated annealing.
+
+See also[edit]
+
+
+
+Wikimedia Commons has media related to Local optimum.
+
+Maxima and minima
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Local_optimum&oldid=953841396"
+		Categories: Mathematical optimizationHidden categories: Articles lacking sources from June 2019All articles lacking sourcesCommons category link is on Wikidata
+	

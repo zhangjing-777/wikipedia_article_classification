@@ -1,0 +1,2747 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Algebraic structure
+In ring theory, a branch of abstract algebra, a commutative ring is a ring in which the multiplication operation is commutative. The study of commutative rings is called commutative algebra. Complementarily, noncommutative algebra is the study of noncommutative rings where multiplication is not required to be commutative.
+
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Algebraic structure → Ring theoryRing theory
+Basic conceptsRings
+• Subrings
+• Ideal
+• Quotient ring
+• Fractional ideal
+• Total ring of fractions
+• Product ring
+• Free product of associative algebras
+• Tensor product of algebras
+Ring homomorphisms
+
+• Kernel
+• Inner automorphism
+• Frobenius endomorphism
+Algebraic structures
+
+• Module
+• Associative algebra
+• Graded ring
+• Involutive ring
+• Category of rings
+• Initial ring 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+
+• Terminal ring 
+  
+    
+      
+        0
+        =
+        
+          
+            Z
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle 0=\mathbb {Z} _{1}}
+  
+
+Related structures
+
+• Field
+• Finite field
+• Non-associative ring
+• Lie ring
+• Jordan ring
+• Semiring
+• Semifield
+
+Commutative algebraCommutative rings
+• Integral domain
+• Integrally closed domain
+• GCD domain
+• Unique factorization domain
+• Principal ideal domain
+• Euclidean domain
+• Field
+• Finite field
+• Composition ring
+• Polynomial ring
+• Formal power series ring
+Algebraic number theory
+
+• Algebraic number field
+• Ring of integers
+• Algebraic independence
+• Transcendental number theory
+• Transcendence degree
+p-adic number theory and decimals
+
+• Direct limit/Inverse limit
+• Zero ring 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{1}}
+  
+
+• Integers modulo pn 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        
+          p
+          
+            n
+          
+        
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} /p^{n}\mathbb {Z} }
+  
+
+• Prüfer p-ring 
+  
+    
+      
+        
+          Z
+        
+        (
+        
+          p
+          
+            ∞
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbb {Z} (p^{\infty })}
+  
+
+• Base-p circle ring 
+  
+    
+      
+        
+          T
+        
+      
+    
+    {\displaystyle \mathbb {T} }
+  
+
+• Base-p integers 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+
+• p-adic rationals 
+  
+    
+      
+        
+          Z
+        
+        [
+        1
+        
+          /
+        
+        p
+        ]
+      
+    
+    {\displaystyle \mathbb {Z} [1/p]}
+  
+
+• Base-p real numbers 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  
+
+• p-adic integers 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{p}}
+  
+
+• p-adic numbers 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} _{p}}
+  
+
+• p-adic solenoid 
+  
+    
+      
+        
+          
+            T
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {T} _{p}}
+  
+
+Algebraic geometry
+
+• Affine variety
+
+Noncommutative algebraNoncommutative rings
+• Division ring
+• Semiprimitive ring
+• Simple ring
+• Commutator
+Noncommutative algebraic geometry
+Free algebra
+Clifford algebra
+
+• Geometric algebra
+Operator algebra
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+Algebraic structures
+Group-like
+Group
+Semigroup / Monoid
+Rack and quandle
+Quasigroup and loop
+
+Abelian group
+Magma
+Lie group
+
+Group theory
+
+Ring-like
+Ring
+Rng
+Semiring
+Near-ring
+Commutative ring
+Integral domain
+Field
+Division ring
+Lie ring
+
+Ring theory
+
+Lattice-like
+Lattice
+Semilattice
+Complemented lattice
+Total order
+Heyting algebra
+Boolean algebra
+
+Map of lattices
+Lattice theory
+
+Module-like
+Module
+Group with operators
+Vector space
+
+Linear algebra
+
+Algebra-like
+Algebra
+
+Associative
+Non-associative
+Composition algebra
+Lie algebra
+Graded
+Bialgebra
+Hopf algebra
+
+vte
+Contents
+
+1 Definition and first examples
+
+1.1 Definition
+1.2 First examples
+
+
+2 Divisibility
+
+2.1 Localizations
+
+
+3 Ideals and modules
+
+3.1 Modules and ideals
+3.2 Ideals
+
+3.2.1 Principal ideal domains
+3.2.2 The factor ring
+
+
+3.3 Noetherian rings
+3.4 Artinian rings
+
+
+4 The spectrum of a commutative ring
+
+4.1 Prime ideals
+4.2 The spectrum
+4.3 Affine schemes
+4.4 Dimension
+
+
+5 Ring homomorphisms
+
+5.1 Finite generation
+
+
+6 Local rings
+
+6.1 Regular local rings
+6.2 Complete intersections
+6.3 Cohen–Macaulay rings
+
+
+7 Constructing commutative rings
+
+7.1 Completions
+
+
+8 Homological notions
+
+8.1 Projective modules and Ext functors
+8.2 Flatness
+
+
+9 Properties
+10 Generalizations
+
+10.1 Graded-commutative rings
+10.2 Simplicial commutative rings
+
+
+11 See also
+12 Notes
+
+12.1 Citations
+
+
+13 References
+14 Further reading
+
+
+
+Definition and first examples[edit]
+Definition[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}Further information on the definition of rings: Ring (mathematics)
+A ring is a set 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ equipped with two binary operations, i.e. operations combining any two elements of the ring to a third. They are called addition and multiplication and commonly denoted by "
+  
+    
+      
+        +
+      
+    
+    {\displaystyle +}
+  
+" and "
+  
+    
+      
+        ⋅
+      
+    
+    {\displaystyle \cdot }
+  
+"; e.g. 
+  
+    
+      
+        a
+        +
+        b
+      
+    
+    {\displaystyle a+b}
+  
+ and 
+  
+    
+      
+        a
+        ⋅
+        b
+      
+    
+    {\displaystyle a\cdot b}
+  
+. To form a ring these two operations have to satisfy a number of properties: the ring has to be an abelian group under addition as well as a monoid under multiplication, where multiplication distributes over addition; i.e., 
+  
+    
+      
+        a
+        ⋅
+        
+          (
+          
+            b
+            +
+            c
+          
+          )
+        
+        =
+        
+          (
+          
+            a
+            ⋅
+            b
+          
+          )
+        
+        +
+        
+          (
+          
+            a
+            ⋅
+            c
+          
+          )
+        
+      
+    
+    {\displaystyle a\cdot \left(b+c\right)=\left(a\cdot b\right)+\left(a\cdot c\right)}
+  
+. The identity elements for addition and multiplication are denoted 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  
+ and 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  
+, respectively.
+If the multiplication is commutative, i.e.
+
+  
+    
+      
+        a
+        ⋅
+        b
+        =
+        b
+        ⋅
+        a
+        ,
+      
+    
+    {\displaystyle a\cdot b=b\cdot a,}
+  
+
+then the ring 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ is called commutative. In the remainder of this article, all rings will be commutative, unless explicitly stated otherwise.
+
+First examples[edit]
+An important example, and in some sense crucial, is the ring of integers 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+ with the two operations of addition and multiplication. As the multiplication of integers is a commutative operation, this is a commutative ring. It is usually denoted 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+ as an abbreviation of the German word Zahlen (numbers).
+A field is a commutative ring where 
+  
+    
+      
+        0
+        ≠
+        1
+      
+    
+    {\displaystyle 0\not =1}
+  
+ and every non-zero element 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ is invertible; i.e., has a multiplicative inverse 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ such that 
+  
+    
+      
+        a
+        ⋅
+        b
+        =
+        1
+      
+    
+    {\displaystyle a\cdot b=1}
+  
+. Therefore, by definition, any field is a commutative ring. The rational, real and complex numbers form fields.
+If 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ is a given commutative ring, then the set of all polynomials in the variable 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+ whose coefficients are in 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ forms the polynomial ring, denoted 
+  
+    
+      
+        R
+        
+          [
+          X
+          ]
+        
+      
+    
+    {\displaystyle R\left[X\right]}
+  
+. The same holds true for several variables.
+If 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  
+ is some topological space, for example a subset of some 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+  
+, real- or complex-valued continuous functions on 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  
+ form a commutative ring. The same is true for differentiable or holomorphic functions, when the two concepts are defined, such as for 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  
+ a complex manifold.
+
+Divisibility[edit]
+In contrast to fields, where every nonzero element is multiplicatively invertible, the concept of divisibility for rings is richer. An element 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ of ring 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ is called a unit if it possesses a multiplicative inverse. Another particular type of element is the zero divisors, i.e. an element 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ such that there exists a non-zero element 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ of the ring such that 
+  
+    
+      
+        a
+        b
+        =
+        0
+      
+    
+    {\displaystyle ab=0}
+  
+. If 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ possesses no non-zero zero divisors, it is called an integral domain (or domain). An element 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ satisfying 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle a^{n}=0}
+  
+ for some positive integer 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ is called nilpotent.
+
+Localizations[edit]
+Main article: Localization of a ring
+The localization of a ring is a process in which some elements are rendered invertible, i.e. multiplicative inverses are added to the ring. Concretely, if 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+ is a multiplicatively closed subset of 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ (i.e. whenever 
+  
+    
+      
+        s
+        ,
+        t
+        ∈
+        S
+      
+    
+    {\displaystyle s,t\in S}
+  
+ then so is 
+  
+    
+      
+        s
+        t
+      
+    
+    {\displaystyle st}
+  
+) then the localization of 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ at 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+, or ring of fractions with denominators in 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+, usually denoted 
+  
+    
+      
+        
+          S
+          
+            −
+            1
+          
+        
+        R
+      
+    
+    {\displaystyle S^{-1}R}
+  
+ consists of symbols
+
+.mw-parser-output .block-indent{padding-left:3em;padding-right:0;overflow:hidden}
+  
+    
+      
+        
+          
+            r
+            s
+          
+        
+      
+    
+    {\displaystyle {\frac {r}{s}}}
+  
+ with 
+  
+    
+      
+        r
+        ∈
+        R
+        ,
+        s
+        ∈
+        S
+      
+    
+    {\displaystyle r\in R,s\in S}
+  
+
+subject to certain rules that mimic the cancellation familiar from rational numbers. Indeed, in this language 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  
+ is the localization of 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+ at all nonzero integers. This construction works for any integral domain 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ instead of 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+. The localization 
+  
+    
+      
+        
+          
+            (
+            
+              R
+              ∖
+              
+                {
+                0
+                }
+              
+            
+            )
+          
+          
+            −
+            1
+          
+        
+        R
+      
+    
+    {\displaystyle \left(R\backslash \left\{0\right\}\right)^{-1}R}
+  
+ is a field, called the quotient field of 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+.
+
+Ideals and modules[edit]
+In the following, R denotes a commutative ring.
+Many of the following notions also exist for not necessarily commutative rings, but the definitions and properties are usually more complicated. For example, all ideals in a commutative ring are automatically two-sided, which simplifies the situation considerably.
+
+Modules and ideals[edit]
+Main article: Module
+For a ring 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+, an 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+-module 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ is like what a vector space is to a field. That is, elements in a module can be added; they can be multiplied by elements of 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ subject to the same axioms as for a vector space. The study of modules is significantly more involved than the one of vector spaces in linear algebra, since several features of vector spaces fail for modules in general: modules need not be free, i.e., of the form
+
+  
+    
+      
+        M
+        =
+        
+          ⨁
+          
+            i
+            ∈
+            I
+          
+        
+        R
+        .
+      
+    
+    {\displaystyle M=\bigoplus _{i\in I}R.}
+  
+
+Even for free modules, the rank of a free module (i.e. the analog of the dimension of vector spaces) may not be well-defined. Finally, submodules of finitely generated modules need not be finitely generated (unless 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ is Noetherian, see below).
+
+Ideals[edit]
+Main articles: Ideal and Factor ring
+Ideals of a ring 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ are the submodules of 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+, i.e., the modules contained in 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+. In more detail, an ideal 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+ is a non-empty subset of 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ such that for all 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+ in 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+, 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+ and 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+ in 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+, both 
+  
+    
+      
+        r
+        i
+      
+    
+    {\displaystyle ri}
+  
+ and 
+  
+    
+      
+        i
+        +
+        j
+      
+    
+    {\displaystyle i+j}
+  
+ are in 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+. For various applications, understanding the ideals of a ring is of particular importance, but often one proceeds by studying modules in general.
+Any ring has two ideals, namely the zero ideal 
+  
+    
+      
+        
+          {
+          0
+          }
+        
+      
+    
+    {\displaystyle \left\{0\right\}}
+  
+ and 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+, the whole ring. These two ideals are the only ones precisely if 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ is a field. Given any subset 
+  
+    
+      
+        F
+        =
+        
+          
+            {
+            
+              f
+              
+                j
+              
+            
+            }
+          
+          
+            j
+            ∈
+            J
+          
+        
+      
+    
+    {\displaystyle F=\left\{f_{j}\right\}_{j\in J}}
+  
+ of 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ (where 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+  
+ is some index set), the ideal generated by 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ is the smallest ideal that contains 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+. Equivalently, it is given by finite linear combinations
+
+  
+    
+      
+        
+          r
+          
+            1
+          
+        
+        
+          f
+          
+            1
+          
+        
+        +
+        
+          r
+          
+            2
+          
+        
+        
+          f
+          
+            2
+          
+        
+        +
+        ⋯
+        +
+        
+          r
+          
+            n
+          
+        
+        
+          f
+          
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle r_{1}f_{1}+r_{2}f_{2}+\dots +r_{n}f_{n}.}
+  
+
+
+Principal ideal domains[edit]
+If 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ consists of a single element 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+, the ideal generated by 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ consists of the multiples of 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+, i.e., the elements of the form 
+  
+    
+      
+        r
+        s
+      
+    
+    {\displaystyle rs}
+  
+ for arbitrary elements 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  
+. Such an ideal is called a principal ideal. If every ideal is a principal ideal, 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ is called a principal ideal ring; two important cases are 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+ and 
+  
+    
+      
+        k
+        
+          [
+          X
+          ]
+        
+      
+    
+    {\displaystyle k\left[X\right]}
+  
+, the polynomial ring over a field 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+. These two are in addition domains, so they are called principal ideal domains.
+Unlike for general rings, for a principal ideal domain, the properties of individual elements are strongly tied to the properties of the ring as a whole. For example, any principal ideal domain 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ is a unique factorization domain (UFD) which means that any element is a product of irreducible elements, in a (up to reordering of factors) unique way. Here, an element a in a domain is called irreducible if the only way of expressing it as a product
+
+  
+    
+      
+        a
+        =
+        b
+        c
+        ,
+      
+    
+    {\displaystyle a=bc,}
+  
+
+is by either 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ or 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+ being a unit. An example, important in field theory, are irreducible polynomials, i.e., irreducible elements in 
+  
+    
+      
+        k
+        
+          [
+          X
+          ]
+        
+      
+    
+    {\displaystyle k\left[X\right]}
+  
+, for a field 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+. The fact that 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+ is a UFD can be stated more elementarily by saying that any natural number can be uniquely decomposed as product of powers of prime numbers. It is also known as the fundamental theorem of arithmetic.
+An element 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ is a prime element if whenever 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ divides a product 
+  
+    
+      
+        b
+        c
+      
+    
+    {\displaystyle bc}
+  
+, 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ divides 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ or 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+. In a domain, being prime implies being irreducible. The converse is true in a unique factorization domain, but false in general.
+
+The factor ring[edit]
+The definition of ideals is such that "dividing" 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+ "out" gives another ring, the factor ring 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ / 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+: it is the set of cosets of 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+ together with the operations
+
+  
+    
+      
+        
+          (
+          
+            a
+            +
+            I
+          
+          )
+        
+        +
+        
+          (
+          
+            b
+            +
+            I
+          
+          )
+        
+        =
+        
+          (
+          
+            a
+            +
+            b
+          
+          )
+        
+        +
+        I
+      
+    
+    {\displaystyle \left(a+I\right)+\left(b+I\right)=\left(a+b\right)+I}
+  
+ and 
+  
+    
+      
+        
+          (
+          
+            a
+            +
+            I
+          
+          )
+        
+        
+          (
+          
+            b
+            +
+            I
+          
+          )
+        
+        =
+        a
+        b
+        +
+        I
+      
+    
+    {\displaystyle \left(a+I\right)\left(b+I\right)=ab+I}
+  
+.
+For example, the ring 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        n
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} /n\mathbb {Z} }
+  
+ (also denoted 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{n}}
+  
+), where 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ is an integer, is the ring of integers modulo 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+. It is the basis of modular arithmetic.
+An ideal is proper if it is strictly smaller than the whole ring. An ideal that is not strictly contained in any proper ideal is called maximal. An ideal 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ is maximal if and only if 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ / 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ is a field. Except for the zero ring, any ring (with identity) possesses at least one maximal ideal; this follows from Zorn's lemma.
+
+Noetherian rings[edit]
+Main article: Noetherian ring
+A ring is called Noetherian (in honor of Emmy Noether, who developed this concept) if every ascending chain of ideals
+
+  
+    
+      
+        0
+        ⊆
+        
+          I
+          
+            0
+          
+        
+        ⊆
+        
+          I
+          
+            1
+          
+        
+        ⊆
+        ⋯
+        ⊆
+        
+          I
+          
+            n
+          
+        
+        ⊆
+        
+          I
+          
+            n
+            +
+            1
+          
+        
+        …
+      
+    
+    {\displaystyle 0\subseteq I_{0}\subseteq I_{1}\subseteq \dots \subseteq I_{n}\subseteq I_{n+1}\dots }
+  
+
+becomes stationary, i.e. becomes constant beyond some index 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+. Equivalently, any ideal is generated by finitely many elements, or, yet equivalent, submodules of finitely generated modules are finitely generated.
+Being Noetherian is a highly important finiteness condition, and the condition is preserved under many operations that occur frequently in geometry. For example, if 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ is Noetherian, then so is the polynomial ring 
+  
+    
+      
+        R
+        
+          [
+          
+            
+              X
+              
+                1
+              
+            
+            ,
+            
+              X
+              
+                2
+              
+            
+            ,
+            …
+            ,
+            
+              X
+              
+                n
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle R\left[X_{1},X_{2},\dots ,X_{n}\right]}
+  
+ (by Hilbert's basis theorem), any localization 
+  
+    
+      
+        
+          S
+          
+            −
+            1
+          
+        
+        R
+      
+    
+    {\displaystyle S^{-1}R}
+  
+, and also any factor ring 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ / 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+.
+Any non-Noetherian ring 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ is the union of its Noetherian subrings. This fact, known as Noetherian approximation, allows the extension of certain theorems to non-Noetherian rings.
+
+Artinian rings[edit]
+A ring is called Artinian (after Emil Artin), if every descending chain of ideals
+
+  
+    
+      
+        R
+        ⊇
+        
+          I
+          
+            0
+          
+        
+        ⊇
+        
+          I
+          
+            1
+          
+        
+        ⊇
+        ⋯
+        ⊇
+        
+          I
+          
+            n
+          
+        
+        ⊇
+        
+          I
+          
+            n
+            +
+            1
+          
+        
+        …
+      
+    
+    {\displaystyle R\supseteq I_{0}\supseteq I_{1}\supseteq \dots \supseteq I_{n}\supseteq I_{n+1}\dots }
+  
+
+becomes stationary eventually. Despite the two conditions appearing symmetric, Noetherian rings are much more general than Artinian rings. For example, 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+ is Noetherian, since every ideal can be generated by one element, but is not Artinian, as the chain
+
+  
+    
+      
+        
+          Z
+        
+        ⊋
+        2
+        
+          Z
+        
+        ⊋
+        4
+        
+          Z
+        
+        ⊋
+        8
+        
+          Z
+        
+        …
+      
+    
+    {\displaystyle \mathbb {Z} \supsetneq 2\mathbb {Z} \supsetneq 4\mathbb {Z} \supsetneq 8\mathbb {Z} \dots }
+  
+
+shows. In fact, by the Hopkins–Levitzki theorem, every Artinian ring is Noetherian. More precisely, Artinian rings can be characterized as the Noetherian rings whose Krull dimension is zero.
+
+The spectrum of a commutative ring[edit]
+Prime ideals[edit]
+Main article: Prime ideal
+As was mentioned above, 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+ is a unique factorization domain. This is not true for more general rings, as algebraists realized in the 19th century. For example, in
+
+  
+    
+      
+        
+          Z
+        
+        
+          [
+          
+            
+              −
+              5
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \mathbb {Z} \left[{\sqrt {-5}}\right]}
+  
+
+there are two genuinely distinct ways of writing 6 as a product:
+
+  
+    
+      
+        6
+        =
+        2
+        ⋅
+        3
+        =
+        
+          (
+          
+            1
+            +
+            
+              
+                −
+                5
+              
+            
+          
+          )
+        
+        
+          (
+          
+            1
+            −
+            
+              
+                −
+                5
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle 6=2\cdot 3=\left(1+{\sqrt {-5}}\right)\left(1-{\sqrt {-5}}\right).}
+  
+
+Prime ideals, as opposed to prime elements, provide a way to circumvent this problem. A prime ideal is a proper (i.e., strictly contained in 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+) ideal 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ such that, whenever the product 
+  
+    
+      
+        a
+        b
+      
+    
+    {\displaystyle ab}
+  
+ of any two ring elements 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ is in 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+, at least one of the two elements is already in 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+. (The opposite conclusion holds for any ideal, by definition.) Thus, if a prime ideal is principal, it is equivalently generated by a prime element. However, in rings such as 
+  
+    
+      
+        
+          Z
+        
+        
+          [
+          
+            
+              −
+              5
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \mathbb {Z} \left[{\sqrt {-5}}\right]}
+  
+, prime ideals need not be principal. This limits the usage of prime elements in ring theory. A cornerstone of algebraic number theory is, however, the fact that in any Dedekind ring (which includes 
+  
+    
+      
+        
+          Z
+        
+        
+          [
+          
+            
+              −
+              5
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \mathbb {Z} \left[{\sqrt {-5}}\right]}
+  
+ and more generally the ring of integers in a number field) any ideal (such as the one generated by 6) decomposes uniquely as a product of prime ideals.
+Any maximal ideal is a prime ideal or, more briefly, is prime. Moreover, an ideal 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+ is prime if and only if the factor ring 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ / 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+ is an integral domain. Proving that an ideal is prime, or equivalently that a ring has no zero-divisors can be very difficult. Yet another way of expressing the same is to say that the complement 
+  
+    
+      
+        R
+        ∖
+        p
+      
+    
+    {\displaystyle R\backslash p}
+  
+ is multiplicatively closed. The localisation 
+  
+    
+      
+        
+          
+            (
+            
+              R
+              ∖
+              p
+            
+            )
+          
+          
+            −
+            1
+          
+        
+        R
+      
+    
+    {\displaystyle \left(R\backslash p\right)^{-1}R}
+  
+(R \ p)−1R is important enough to have its own notation: 
+  
+    
+      
+        
+          R
+          
+            p
+          
+        
+      
+    
+    {\displaystyle R_{p}}
+  
+. This ring has only one maximal ideal, namely 
+  
+    
+      
+        p
+        
+          R
+          
+            p
+          
+        
+      
+    
+    {\displaystyle pR_{p}}
+  
+. Such rings are called local.
+
+The spectrum[edit]
+Main article: Spectrum of a ring
+  Spec (Z) contains a point for the zero ideal. The closure of this point is the entire space. The remaining points are the ones corresponding to ideals (p), where p is a prime number. These points are closed.
+The spectrum of a ring 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+,[nb 1]  denoted by 
+  
+    
+      
+        
+          Spec
+        
+         
+        R
+      
+    
+    {\displaystyle {\text{Spec}}\ R}
+  
+, is the set of all prime ideals of 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+. It is equipped with a topology, the Zariski topology, which reflects the algebraic properties of 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+: a basis of open subsets is given by
+
+  
+    
+      
+        D
+        
+          (
+          f
+          )
+        
+        =
+        
+          {
+          
+            p
+            ∈
+            
+              Spec
+            
+             
+            R
+            ,
+            f
+            ∉
+            p
+          
+          }
+        
+      
+    
+    {\displaystyle D\left(f\right)=\left\{p\in {\text{Spec}}\ R,f\not \in p\right\}}
+  
+, where 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ is any ring element.
+Interpreting 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ as a function that takes the value f mod p (i.e., the image of f in the residue field R/p), this subset is the locus where f is non-zero. The spectrum also makes precise the intuition that localisation and factor rings are complementary: the natural maps R → Rf and R → R / fR correspond, after endowing the spectra of the rings in question with their Zariski topology, to complementary open and closed immersions respectively. Even for basic rings, such as illustrated for R = Z at the right, the Zariski topology is quite different from the one on the set of real numbers.
+The spectrum contains the set of maximal ideals, which is occasionally denoted mSpec (R). For an algebraically closed field k, mSpec (k[T1, ..., Tn] / (f1, ..., fm)) is in bijection with the set
+
+{x =(x1, ..., xn) ∊ kn
+Thus, maximal ideals reflect the geometric properties of solution sets of polynomials, which is an initial motivation for the study of commutative rings. However, the consideration of non-maximal ideals as part of the geometric properties of a ring is useful for several reasons. For example, the minimal prime ideals (i.e., the ones not strictly containing smaller ones) correspond to the irreducible components of Spec R. For a Noetherian ring R, Spec R has only finitely many irreducible components. This is a geometric restatement of primary decomposition, according to which any ideal can be decomposed as a product of finitely many primary ideals. This fact is the ultimate generalization of the decomposition into prime ideals in Dedekind rings.
+
+Affine schemes[edit]
+The notion of a spectrum is the common basis of commutative algebra and algebraic geometry. Algebraic geometry proceeds by endowing Spec R with a sheaf 
+  
+    
+      
+        
+          
+            O
+          
+        
+      
+    
+    {\displaystyle {\mathcal {O}}}
+  
+ (an entity that collects functions defined locally, i.e. on varying open subsets). The datum of the space and the sheaf is called an affine scheme. Given an affine scheme, the underlying ring R can be recovered as the global sections of 
+  
+    
+      
+        
+          
+            O
+          
+        
+      
+    
+    {\displaystyle {\mathcal {O}}}
+  
+. Moreover, this one-to-one correspondence between rings and affine schemes is also compatible with ring homomorphisms: any f : R → S gives rise to a continuous map in the opposite direction
+
+Spec S → Spec R, q ↦ f−1(q), i.e. any prime ideal of S is mapped to its preimage under f, which is a prime ideal of R.
+The resulting equivalence of the two said categories aptly reflects algebraic properties of rings in a geometrical manner.
+Similar to the fact that manifolds are locally given by open subsets of Rn, affine schemes are local models for schemes, which are the object of study in algebraic geometry. Therefore, several notions concerning commutative rings stem from geometric intuition.
+
+Dimension[edit]
+Main article: Krull dimension
+The Krull dimension (or dimension) dim R of a ring R measures the "size" of a ring by, roughly speaking, counting independent elements in R. The dimension of algebras over a field k can be axiomatized by four properties:
+
+The dimension is a local property: dim R = supp ∊ Spec R dim Rp.
+The dimension is independent of nilpotent elements: if I ⊆ R is nilpotent then dim R = dim R / I.
+The dimension remains constant under a finite extension: if S is an R-algebra which is finitely generated as an R-module, then dim S = dim R.
+The dimension is calibrated by dim k[X1, ..., Xn] = n. This axiom is motivated by regarding the polynomial ring in n variables as an algebraic analogue of n-dimensional space.
+The dimension is defined, for any ring R, as the supremum of lengths n of chains of prime ideals
+
+p0 ⊊ p1 ⊊ ... ⊊ pn.
+For example, a field is zero-dimensional, since the only prime ideal is the zero ideal. The integers are one-dimensional, since chains are of the form (0) ⊊ (p), where p is a prime number. For non-Noetherian rings, and also non-local rings, the dimension may be infinite, but Noetherian local rings have finite dimension. Among the four axioms above, the first two are elementary consequences of the definition, whereas the remaining two hinge on important facts in commutative algebra, the going-up theorem and Krull's principal ideal theorem.
+
+Ring homomorphisms[edit]
+Main article: Ring homomorphism
+A ring homomorphism or, more colloquially, simply a map, is a map f : R → S such that
+
+f(a + b) = f(a) + f(b), f(ab) = f(a)f(b) and f(1) = 1.
+These conditions ensure f(0) = 0. Similarly as for other algebraic structures, a ring homomorphism is thus a map that is compatible with the structure of the algebraic objects in question. In such a situation S is also called an R-algebra, by understanding that s in S may be multiplied by some r of R, by setting
+
+r · s := f(r) · s.
+The kernel and image of f are defined by ker (f) = {r ∈ R, f(r) = 0} and im (f) = f(R) = {f(r), r ∈ R}. The kernel is an ideal of R, and the image is a subring of S.
+A ring homomorphism is called an isomorphism if it is bijective. An example of a ring isomorphism, known as the Chinese remainder theorem, is
+
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        n
+        =
+        
+          ⨁
+          
+            i
+            =
+            0
+          
+          
+            k
+          
+        
+        
+          Z
+        
+        
+          /
+        
+        
+          p
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \mathbf {Z} /n=\bigoplus _{i=0}^{k}\mathbf {Z} /p_{i}}
+  
+
+where n = p1p2...pk is a product of pairwise distinct prime numbers.
+Commutative rings, together with ring homomorphisms, form a category. The ring Z is the initial object in this category, which means that for any commutative ring R, there is a unique ring homomorphism Z → R. By means of this map, an integer n can be regarded as an element of R. For example, the binomial formula
+
+  
+    
+      
+        (
+        a
+        +
+        b
+        
+          )
+          
+            n
+          
+        
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        
+          a
+          
+            k
+          
+        
+        
+          b
+          
+            n
+            −
+            k
+          
+        
+      
+    
+    {\displaystyle (a+b)^{n}=\sum _{k=0}^{n}{\binom {n}{k}}a^{k}b^{n-k}}
+  
+
+which is valid for any two elements a and b in any commutative ring R is understood in this sense by interpreting the binomial coefficients as elements of R using this map.
+
+  The universal property of S ⊗R T  states that for any two maps S → W and T → W which make the outer quadrangle commute, there is a unique map S ⊗R T → W which makes the entire diagram commute.
+Given two R-algebras S and T, their tensor product
+
+S ⊗R T
+is again a commutative R-algebra. In some cases, the tensor product can serve to find a T-algebra which relates to Z as S relates to R. For example,
+
+R[X] ⊗R T = T[X].
+Finite generation[edit]
+An R-algebra S is called finitely generated (as an algebra) if there are finitely many elements s1, ..., sn such that any element of s is expressible as a polynomial in the si. Equivalently, S is isomorphic to
+
+R[T1, ..., Tn] / I.
+A much stronger condition is that S is finitely generated as an R-module, which means that any s can be expressed as a R-linear combination of some finite set s1, ..., sn.
+
+Local rings[edit]
+A ring is called local if it has only a single maximal ideal, denoted by m. For any (not necessarily local) ring R, the localization
+
+Rp
+at a prime ideal p is local. This localization reflects the geometric properties of Spec R "around p". Several notions and problems in commutative algebra can be reduced to the case when R is local, making local rings a particularly deeply studied class of rings. The residue field of R is defined as
+
+k = R / m.
+Any R-module M yields a k-vector space given by M / mM. Nakayama's lemma shows this passage is preserving important information: a finitely generated module M is zero if and only if M / mM is zero.
+
+Regular local rings[edit]
+  The cubic plane curve (red) defined by the equation y2 = x2(x + 1) is singular at the origin, i.e., the ring k[x, y] / y2 − x2(x + 1), is not a regular ring. The tangent cone (blue) is a union of two lines, which also reflects the singularity.
+The k-vector space m/m2 is an algebraic incarnation of the cotangent space. Informally, the elements of m can be thought of as functions which vanish at the point p, whereas m2 contains the ones which vanish with order at least 2. For any Noetherian local ring R, the inequality
+
+dimk m/m2 ≥ dim R
+holds true, reflecting the idea that the cotangent (or equivalently the tangent) space has at least the dimension of the space Spec R. If equality holds true in this estimate, R is called a regular local ring. A Noetherian local ring is regular if and only if the ring (which is the ring of functions on the tangent cone)
+
+  
+    
+      
+        
+          ⨁
+          
+            n
+          
+        
+        
+          m
+          
+            n
+          
+        
+        
+          /
+        
+        
+          m
+          
+            n
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle \bigoplus _{n}m^{n}/m^{n+1}}
+  
+
+is isomorphic to a polynomial ring over k. Broadly speaking, regular local rings are somewhat similar to polynomial rings.[1] Regular local rings are UFD's.[2]
+Discrete valuation rings are equipped with a function which assign an integer to any element r. This number, called the valuation of r can be informally thought of as a zero or pole order of r. Discrete valuation rings are precisely the one-dimensional regular local rings. For example, the ring of germs of holomorphic functions on a Riemann surface is a discrete valuation ring.
+
+Complete intersections[edit]
+  The twisted cubic (green) is a set-theoretic complete intersection, but not a complete intersection.
+By Krull's principal ideal theorem, a foundational result in the dimension theory of rings, the dimension of
+
+R = k[T1, ..., Tr] / (f1, ..., fn)
+is at least r − n. A ring R is called a complete intersection ring if it can be presented in a way that attains this minimal bound. This notion is also mostly studied for local rings. Any regular local ring is a complete intersection ring, but not conversely.
+A ring R is a set-theoretic complete intersection if the reduced ring associated to R, i.e., the one obtained by dividing out all nilpotent elements, is a complete intersection. As of 2017, it is in general unknown, whether curves in three-dimensional space are set-theoretic complete intersections.[3]
+
+Cohen–Macaulay rings[edit]
+The depth of a local ring R is the number of elements in some (or, as can be shown, any) maximal regular sequence, i.e., a sequence a1, ..., 
+an ∈ m such that all ai are non-zero divisors in
+
+R / (a1, ..., ai−1).
+For any local Noetherian ring, the inequality
+
+depth (R) ≤ dim (R)
+holds. A local ring in which equality takes place is called a Cohen–Macaulay ring. Local complete intersection rings, and a fortiori, regular local rings are Cohen–Macaulay, but not conversely. Cohen–Macaulay combine desirable properties of regular rings (such as the property of being universally catenary rings, which means that the (co)dimension of primes is well-behaved), but are also more robust under taking quotients than regular local rings.[4]
+
+Constructing commutative rings[edit]
+There are several ways to construct new rings out of given ones. The aim of such constructions is often to improve certain properties of the ring so as to make it more readily understandable. For example, an integral domain that is integrally closed in its field of fractions is called normal. This is a desirable property, for example any normal one-dimensional ring is necessarily regular. Rendering[clarification needed] a ring normal is known as normalization.
+
+Completions[edit]
+If I is an ideal in a commutative ring R, the powers of I form topological neighborhoods of 0 which allow R to be viewed as a topological ring. This topology is called the I-adic topology. R can then be completed with respect to this topology. Formally, the I-adic completion is the inverse limit of the rings R/In. For example, if k is a field, k[[X]], the formal power series ring in one variable over k, is the I-adic completion of k[X] where I is the principal ideal generated by X. This ring serves as an algebraic analogue of the disk. Analogously, the ring of p-adic integers is the completion of Z  with respect to the principal ideal (p). Any ring that is isomorphic to its own completion, is called complete.
+Complete local rings satisfy Hensel's lemma, which roughly speaking allows extending solutions (of various problems) over the residue field k to R.
+
+Homological notions[edit]
+Several deeper aspects of commutative rings have been studied using methods from homological algebra. Hochster (2007) lists some open questions in this area of active research.
+
+Projective modules and Ext functors[edit]
+Projective modules can be defined to be the direct summands of free modules. If R is local, any finitely generated projective module is actually free, which gives content to an analogy between projective modules and vector bundles.[5] The Quillen–Suslin theorem asserts that any finitely generated projective module over k[T1, ..., Tn] (k a field) is free, but in general these two concepts differ. 
+A local Noetherian ring is regular if and only if its global dimension is finite, say n, which means that any finitely generated R-module has a resolution by projective modules of length at most n.
+The proof of this and other related statements relies on the usage of homological methods, such as the
+Ext functor. This functor is the derived functor of the functor
+
+HomR(M, −).
+The latter functor is exact if M is projective, but not otherwise: for a surjective map E → F of R-modules, a map M → F need not extend to a map M → E. The higher Ext functors measure the non-exactness of the Hom-functor. The importance of this standard construction in homological algebra stems can be seen from the fact that a local Noetherian ring R with residue field k is regular if and only if
+
+Extn(k, k)
+vanishes for all large enough n. Moreover, the dimensions of these Ext-groups, known as Betti numbers, grow polynomially in n if and only if R is a local complete intersection ring.[6] A key argument in such considerations is the Koszul complex, which provides an explicit free resolution of the residue field k of a local ring R in terms of a regular sequence.
+
+Flatness[edit]
+The tensor product is another non-exact functor relevant in the context of commutative rings: for a general R-module M, the functor
+
+M ⊗R −
+is only right exact. If it is exact, M is called flat. If R is local, any finitely presented flat module is free of finite rank, thus projective. Despite being defined in terms of homological algebra, flatness has profound geometric implications. For example, if an R-algebra S is flat, the dimensions of the fibers
+
+S / pS = S ⊗R R / p
+(for prime ideals p in R) have the "expected" dimension, namely dim S − dim R + dim (R / p).
+
+Properties[edit]
+By Wedderburn's theorem, every finite division ring is commutative, and therefore a finite field. Another condition ensuring commutativity of a ring, due to Jacobson, is the following: for every element r of R there exists an integer n > 1 such that rn = r.[7] If, r2 = r for every r, the ring is called Boolean ring. More general conditions which guarantee commutativity of a ring are also known.[8]
+
+Generalizations[edit]
+Graded-commutative rings[edit]
+  A pair of pants is a cobordism between a circle and two disjoint circles. Cobordism classes, with the cartesian product as multiplication and disjoint union as the sum, form the cobordism ring.
+A graded ring R = ⨁i∊Z Ri is called graded-commutative if
+
+ab = (−1)deg a ⋅ deg b.
+If the Ri are connected by differentials ∂ such that an abstract form of the product rule holds, i.e.,
+
+∂(ab) = ∂(a)b + (−1)deg a∂(b),
+R is called a commutative differential graded algebra (cdga). An example is the complex of differential forms on a manifold, with the multiplication given by the exterior product, is a cdga. The cohomology of a cdga is a graded-commutative ring, sometimes referred to as the cohomology ring. A broad range examples of graded rings arises in this way. For example, the Lazard ring is the ring of cobordism classes of complex manifolds.
+A graded-commutative ring with respect to a grading  by Z/2 (as opposed to Z) is called a superalgebra.
+A related notion is an almost commutative ring, which means that R is filtered in such a way that the associated graded ring
+
+gr R := ⨁ FiR / ⨁ Fi−1R
+is commutative. An example is the Weyl algebra and more general rings of differential operators.
+
+Simplicial commutative rings[edit]
+A simplicial commutative ring is a simplicial object in the category of commutative rings. They are building blocks for (connective) derived algebraic geometry. A closely related but more general notion is that of E∞-ring.
+
+See also[edit]
+Almost ring, a certain generalization of a commutative ring.
+Divisibility (ring theory): nilpotent element, example: dual numbers
+Ideals and modules: Radical of an ideal, Morita equivalence
+Ring homomorphisms: integral element: Cayley–Hamilton theorem, Integrally closed domain, Krull ring, Krull–Akizuki theorem
+Primes: Prime avoidance lemma, Jacobson radical, Nilradical of a ring, Spectrum: Compact space, Connected ring, Differential calculus over commutative algebras, Banach–Stone theorem
+Local rings: Gorenstein ring: Duality (mathematics), Eben Matlis; Dualizing module, Popescu's theorem, Artin approximation theorem.
+"Applications" (commutative rings arising in mathematics): Holomorphic functions, Algebraic K-theory, Topological K-theory, Divided power structures, Witt vectors, Hecke algebra, Fontaine's period rings, Cluster algebra, Convolution algebra (of a commutative group), see also Fréchet algebra
+Notes[edit]
+
+^ This notion can be related to the spectrum of a linear operator, see Spectrum of a C*-algebra and Gelfand representation.
+
+
+Citations[edit]
+
+^ Matsumura (1989, p. 143, §7, Remarks)
+
+^ Matsumura (1989, §19, Theorem 48)
+
+^ Lyubeznik (1989)
+
+^ Eisenbud (1995, Corollary 18.10, Proposition 18.13)
+
+^ See also Serre–Swan theorem.
+
+^ Christensen, Striuli & Veliche (2010)
+
+^ Jacobson 1945
+
+^ Pinter-Lucke 2007
+
+
+References[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}
+.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Christensen, Lars Winther; Striuli, Janet; Veliche, Oana (2010), "Growth in the minimal injective resolution of a local ring", Journal of the London Mathematical Society, Second Series, 81 (1): 24–44, arXiv:0812.4672, doi:10.1112/jlms/jdp058
+Eisenbud, David (1995), Commutative algebra. With a view toward algebraic geometry., Graduate Texts in Mathematics, 150, Berlin, New York: Springer-Verlag, ISBN 978-0-387-94268-1, MR 1322960
+Hochster, Melvin (2007), "Homological conjectures, old and new" (PDF), Illinois J. Math., 51 (1): 151–169, doi:10.1215/ijm/1258735330, archived from the original (PDF) on 2019-10-29, retrieved 2017-08-01
+Jacobson, Nathan (1945), "Structure theory of algebraic algebras of bounded degree", Annals of Mathematics, 46 (4): 695–707, doi:10.2307/1969205, ISSN 0003-486X, JSTOR 1969205
+Lyubeznik, Gennady (1989), "A survey of problems and results on the number of defining equations", Representations, resolutions and intertwining numbers, pp. 375–390, Zbl 0753.14001
+Matsumura, Hideyuki (1989), Commutative Ring Theory, Cambridge Studies in Advanced Mathematics (2nd ed.), Cambridge University Press, ISBN 978-0-521-36764-6
+Pinter-Lucke, James (2007), "Commutativity conditions for rings: 1950–2005", Expositiones Mathematicae, 25 (2): 165–174, doi:10.1016/j.exmath.2006.07.001, ISSN 0723-0869
+
+Further reading[edit]
+
+Atiyah, Michael; Macdonald, I. G. (1969), Introduction to commutative algebra, Addison-Wesley Publishing Co.
+Balcerzyk, Stanisław; Józefiak, Tadeusz (1989), Commutative Noetherian and Krull rings, Ellis Horwood Series: Mathematics and its Applications, Chichester: Ellis Horwood Ltd., ISBN 978-0-13-155615-7
+Balcerzyk, Stanisław; Józefiak, Tadeusz (1989), Dimension, multiplicity and homological methods, Ellis Horwood Series: Mathematics and its Applications., Chichester: Ellis Horwood Ltd., ISBN 978-0-13-155623-2
+Kaplansky, Irving (1974), Commutative rings (Revised ed.), University of Chicago Press, MR 0345945
+Nagata, Masayoshi (1975) [1962], Local rings, Interscience Tracts in Pure and Applied Mathematics, 13, Interscience Publishers, pp. xiii+234, ISBN 978-0-88275-228-0, MR 0155856
+Zariski, Oscar; Samuel, Pierre (1958–60), Commutative Algebra I, II, University series in Higher Mathematics, Princeton, N.J.: D. van Nostrand, Inc. (Reprinted 1975-76 by Springer as volumes 28-29 of Graduate Texts in Mathematics.)
+
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}Authority control General
+Integrated Authority File (Germany)
+National libraries
+France (data)
+United States
+Japan
+Other
+Faceted Application of Subject Terminology
+Microsoft Academic
+SUDOC (France)
+1
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Commutative_ring&oldid=1058280469"
+		Categories: Commutative algebraRing theoryAlgebraic structuresHidden categories: Articles with short descriptionShort description matches WikidataWikipedia articles needing clarification from March 2012CS1: abbreviated year rangeArticles with GND identifiersArticles with BNF identifiersArticles with LCCN identifiersArticles with NDL identifiersArticles with FAST identifiersArticles with MA identifiersArticles with SUDOC identifiers
+	

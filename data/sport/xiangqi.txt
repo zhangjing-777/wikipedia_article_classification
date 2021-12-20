@@ -1,0 +1,756 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Board game
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}"Checkers" redirects here. For other uses, see Checkers (disambiguation).
+This article is about the board game. For other uses, see Draft.
+A request that this article title be changed to Checkers is under discussion.  Please do not move this article until the discussion is closed.
+
+
+
+.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}DraughtsStarting position for English draughts on an 8×8 draughts boardYears activeat least 5,000GenresBoard game Abstract strategy game Mind sportPlayers2Setup time<1 minutePlaying timeCasual games usually last 10 to 30 minutes; tournament games last anywhere from about 60 minutes to 3 hours or more.Random chanceNoneAge range4+Skills requiredStrategy, tacticsSynonymsCheckers Chequers Drafts
+Draughts (/drɑːfts, dræfts/; British English) or checkers[note 1] (American English) is a group of strategy board games for two players which involve diagonal moves of uniform game pieces and mandatory captures by jumping over opponent pieces. Draughts developed from alquerque.[1] The name 'draughts' derives from the verb to draw or to move,[2] whereas 'checkers' derives from the checkered board which the game is played on.
+The most popular forms are English draughts, also called American checkers, played on an 8×8 checkerboard; Russian draughts, Turkish draughts both on an 8x8 board, and International draughts, played on a 10×10 board. There are many other variants played on 8×8 boards. Canadian checkers and Singaporean/Malaysian checkers (also locally known as dum) are played on a 12×12 board.
+English draughts was weakly solved in 2007 by a team of Canadian computer scientists led by Jonathan Schaeffer. From the standard starting position, both players can guarantee a draw with perfect play.
+
+Contents
+
+1 General rules
+
+1.1 Men
+1.2 Kings
+
+
+2 Naming
+3 History
+
+3.1 Ancient games
+3.2 Alquerque
+3.3 Crowning
+
+
+4 Invented variants
+5 Computer draughts
+6 Computational complexity
+7 National and regional variants
+
+7.1 Russian Column draughts
+7.2 Flying kings; men can capture backwards
+7.3 Flying kings; men cannot capture backwards
+7.4 No flying kings; men cannot capture backwards
+
+
+8 Championships
+9 Federations
+10 Games sometimes confused with draughts variants
+11 See also
+12 Notes
+13 References
+
+13.1 Citations
+13.2 Sources
+
+
+14 External links
+
+
+
+General rules [edit]
+Draughts is played by two opponents, on opposite sides of the gameboard. One player has the dark pieces; the other has the light pieces. Players alternate turns. A player may not move an opponent's piece. A move consists of moving a piece diagonally to an adjacent unoccupied square. If the adjacent square contains an opponent's piece, and the square immediately beyond it is vacant, the piece may be captured (and removed from the game) by jumping over it.
+Only the dark squares of the checkered board are used. A piece may move only diagonally into an unoccupied square. When presented, capturing is mandatory in most official rules and where the player does not capture the opposing player can remove the opponent piece as penalty (or muffin) and where there are two or more such positions the player forfeits that/those he cannot move. Although some rule variations make capturing optional.[3] In almost all variants, the player without pieces remaining, or who cannot move due to being blocked, loses the game.
+
+Men[edit]
+Uncrowned pieces (men) move one step diagonally forwards, and capture an opponent's piece by moving two consecutive steps in the same line, jumping over the piece on the first step. Multiple enemy pieces can be captured in a single turn provided this is done by successive jumps made by a single piece; the jumps do not need to be in the same line and may "zigzag" (change diagonal direction). In English draughts men can jump only forwards; in international draughts and Russian draughts men can jump both forwards and backwards.
+
+Kings [edit]
+  A game in international draughts (10×10 board), featuring a flying king (the move "Les Blancs prennent 6 pions...")
+When a man reaches the kings row (also called crownhead, the farthest row forward), it becomes a king, and is marked by placing an additional piece on top of the first man (crowned), and acquires additional powers including the ability to move backwards and (in variants where they cannot already do so) capture backwards. Like men, a king can make successive jumps in a single turn provided that each jump captures an enemy man or king.
+In international draughts, kings (also called flying kings) move any distance along unblocked diagonals, and may capture an opposing man any distance away by jumping to any of the unoccupied squares immediately beyond it. Because jumped pieces remain on the board until the turn is complete, it is possible to reach a position in a multi-jump move where the flying king is blocked from capturing further by a piece already jumped.
+Flying kings are not used in English draughts; a king's only advantage over a man is the ability to move and capture backwards as well as forwards.
+
+Naming[edit]
+In most non-English languages (except those that acquired the game from English speakers), draughts is called dame, dames, damas, or a similar term that refers to ladies. The pieces are usually called men, stones, "peón" (pawn) or a similar term; men promoted to kings are called dames or ladies. In these languages, the queen in chess or in card games is usually called by the same term as the kings in draughts. A case in point includes the Greek terminology, in which draughts is called "ντάμα" (dama), which is also one term for the queen in chess.[citation needed]
+
+History[edit]
+Ancient games[edit]
+Similar games have been played for  millennia.[2] A board resembling a draughts board was found in Ur dating from 3000 BC.[4] In the British Museum are specimens of ancient Egyptian checkerboards, found with their pieces in burial chambers, and the game was played by the pharaoh Hatshepsut.[2][5] Plato mentioned a game, πεττεία or petteia, as being of Egyptian origin,[5] and Homer also mentions it.[5] The method of capture was placing two pieces on either side of the opponent's piece. It was said to have been played during the Trojan War.[6][7] The Romans played a derivation of petteia called latrunculi, or the game of the Little Soldiers. The pieces, and sporadically the game itself, were called calculi (pebbles).[5][8]
+
+Alquerque[edit]
+Main article: Alquerque
+  Alquerque board and setup
+An Arabic game called Quirkat or al-qirq, with similar play to modern draughts, was played on a 5×5 board. It is mentioned in the 10th-century work Kitab al-Aghani.[4] Al qirq was also the name for the game that is now called nine men's morris.[9] Al qirq was brought to Spain by the Moors,[10] where it became known as Alquerque, the Spanish derivation of the Arabic name. The rules are given in the 13th-century book Libro de los juegos.[4] In about 1100, probably in the south of France, the game of Alquerque was adapted using backgammon pieces on a chessboard.[11] Each piece was called a "fers", the same name as the chess queen, as the move of the two pieces was the same at the time.[12]
+
+Crowning[edit]
+  Men in medieval clothing playing draughts
+The rule of crowning was used by the 13th century, as it is mentioned in the Philippe Mouskés's Chronique in 1243[4] when the game was known as Fierges, the name used for the chess queen (derived from the Persian ferz, meaning royal counsellor or vizier). The pieces became known as "dames" when that name was also adopted for the chess queen.[12] The rule forcing players to take whenever possible was introduced in France in around 1535, at which point the game became known as Jeu forcé, identical to modern English draughts.[4][11] The game without forced capture became known as Le jeu plaisant de dames, the precursor of international draughts.
+The 18th-century English author Samuel Johnson wrote a foreword to a 1756 book about draughts by William Payne, the earliest book in English about the game.[5]
+
+Invented variants[edit]
+  Dameo starting position
+Blue and Gray: On a 9×9 board, each side has 17 guard pieces that move and jump in any direction, to escort a captain piece which races to the centre of the board to win.[13]
+Cheskers: A variant invented by Solomon Golomb.  Each player begins with a bishop and a camel (which jumps with coordinates (3,1) rather than (2,1) so as to stay on the black squares), and men reaching the back rank promote to a bishop, camel, or king.[14][15]
+Damath: A variant utilising math principles and numbered chips popular in the Philippines.[citation needed]
+Dameo: A variant played on an 8×8 board that utilizes all 64 squares and has diagonal and orthogonal movement. A special "sliding" move is used for moving a line of checkers similar to the movement rule in Epaminondas. By Christian Freeling (2000).[16][17][18]
+Hexdame: A literal adaptation of international draughts to a hexagonal gameboard. By Christian Freeling (1979).[19]
+Lasca: A checkers variant on a 7×7 board, with 25 fields used. Jumped pieces are placed under the jumper, so that towers are built. Only the top piece of a jumped tower is captured. This variant was invented by World Chess Champion Emanuel Lasker.[20]
+Philosophy shogi checkers: A variant on a 9×9 board, game ending with capturing opponent's king. Invented by Inoue Enryō and described in Japanese book in 1890.[citation needed]
+Suicide checkers (also called Anti-Checkers, Giveaway Checkers or Losing Draughts): A variant where the objective of each player is to lose all of their pieces.[21][22]
+Tiers: A complex variant which allows players to upgrade their pieces beyond kings.[citation needed]
+Vigman's draughts: Each player has 24 pieces (two full sets) – one on the light squares, a second set on dark squares. Each player plays two games simultaneously: one on light squares, the other on dark squares. The total result is the sum of results for both games.[citation needed]
+Computer draughts[edit]
+Further information: English draughts § Computer players, and International draughts § Computers
+English draughts (American 8×8 checkers) has been the arena for several notable advances in game artificial intelligence. In the 1950s, Arthur Samuel created one of the first board game-playing programs of any kind.  More recently, in 2007 scientists at the University of Alberta[23] developed their "Chinook" program to the point where it is unbeatable. A brute force approach that took hundreds of computers working nearly two decades was used to solve the game,[24] showing that a game of draughts will always end in a draw if neither player makes a mistake.[25][26] The solution is for the draughts variation called go-as-you-please (GAYP) checkers and not for the variation called three-move restriction checkers. As of December 2007, this makes English draughts the most complex game ever solved.
+
+Computational complexity[edit]
+Generalized Checkers is played on an N × N board.
+It is PSPACE-hard to determine whether a specified player has a winning strategy. And if a polynomial bound is placed on the number of moves that are allowed in between jumps (which is a reasonable generalisation of the drawing rule in standard Checkers), then the problem is in PSPACE, thus it is PSPACE-complete.[27] However, without this bound, Checkers is EXPTIME-complete.[28]
+However, other problems have only polynomial complexity:[27]
+
+Can one player remove all the other player's pieces in one move (by several jumps)?
+Can one player king a piece in one move?
+National and regional variants[edit]
+
+		
+			
+			
+Starting position in international draughts, which is played on a 10×10 board
+
+			
+		
+		
+			
+			
+Starting position in English draughts, Brazilian, Czech draughts, Pool checkers, and Russian draughts
+
+			
+		
+		
+			
+			
+Starting position in Canadian draughts
+
+			
+		
+		
+			
+			
+Board and starting position in Turkish draughts and Armenian draughts
+
+			
+		
+		
+			
+			
+Starting position in Italian and Portuguese draughts
+
+			
+		
+		
+			
+			
+Bashni
+
+			
+		
+
+Russian Column draughts[edit]
+Column draughts (Russian towers), also known as Bashni, is a kind of draughts, known in Russia since the beginning of the nineteenth century, in which the game is played according to the usual rules of draughts, but with the difference that the beaten draught is not removed from the playing field, and is captured under the beating figure (draught or tower).
+The resulting towers move around the board as a whole, "obeying" the upper draught. When taking the tower, only the upper draught is removed from it. If on the top there is a draught of other colour than removed as a result of fight, the tower becomes a tower of the rival. Rules for the movement of draughts and kings correspond to the rules of Russian draughts.
+Bashni has inspired the games Lasca and Emergo.
+
+Flying kings; men can capture backwards[edit]
+
+International draughts / American Pool checkers family
+
+
+National variant
+
+Board size
+
+Pieces per side
+
+Double-corner or light square on player's near-right?
+
+First move
+
+Capture constraints
+
+Notes
+
+
+International draughts (or Polish draughts)
+
+10×10
+
+20
+
+Yes
+
+White
+
+A sequence must capture the maximum possible number of pieces.
+
+Pieces promote only when ending their move on the final rank, not when passing through it. It is mainly played in the Netherlands, Suriname, France, Belgium, some eastern European countries, some parts of Africa, some parts of the former USSR, and other European countries.
+
+
+Ghanaian draughts (or damii)
+
+10×10
+
+20
+
+No[29]
+
+White
+
+Any sequence may be chosen, as long as all possible captures are made. Overlooking a king's capture opportunity leads to forfeiture of the king.
+
+Played in Ghana. Having only a single piece remaining (man or king) loses the game.
+
+
+Frisian draughts
+
+10×10
+
+20
+
+Yes
+
+White
+
+A sequence of capture must give the maximum "value" to the capture, and a king (called a wolf) has a value of less than two men but more than one man. If a sequence with a capturing wolf and a sequence with a capturing man have the same value, the wolf must capture. The main difference with the other games is that the captures can be made diagonally, but also straight forwards and sideways.
+
+Played primarily in Friesland (Dutch province) historically, but in the last decade spreading rapidly over Europe (e.g. the Netherlands, Belgium, Italy, Czech Republic, Ukraine and Russia) and Africa, as a result of a number of recent international tournaments and the availability of an iOS and Android app "Frisian Draughts".
+
+
+Canadian checkers
+
+12×12
+
+30
+
+Yes
+
+White
+
+A sequence must capture the maximum possible number of pieces.
+
+International rules on a 12×12 board. Played mainly in Canada.
+
+
+Brazilian draughts (or derecha)
+
+8×8
+
+12
+
+Yes
+
+White
+
+A sequence must capture the maximum possible number of pieces.
+
+Played in Brazil. The rules come from international draughts, but board size and number of pieces come from English draughts.
+In the Philippines, it is known as derecha and is played on a mirrored board, often replaced by a crossed lined board (only diagonals are represented).
+
+
+
+Pool checkers
+
+8×8
+
+12
+
+Yes
+
+Black
+
+Any sequence may be chosen, as long as all possible captures are made.
+
+Also called Spanish Pool checkers. It is mainly played in the southeastern United States; traditional among African American players. A man reaching the kings row is promoted only if he does not have additional backwards jumps (as in international draughts).[1][permanent dead link][2]
+In an ending with three kings versus one king, the player with three kings must win in thirteen moves or the game is a draw.
+
+
+
+Jamaican draughts/checkers
+
+8×8
+
+12
+
+Yes
+
+Black
+
+Any sequence may be chosen, as long as all possible captures are made.
+
+Similar to Pool checkers with the exception of the main diagonal on the right instead of the left. A man reaching the kings row is promoted only if he does not have additional backwards jumps (as in international draughts).
+In an ending with three kings versus one king, the player with three kings must win in thirteen moves or the game is a draw.
+
+
+
+Russian draughts
+
+8×8
+
+12
+
+Yes
+
+White
+
+Any sequence may be chosen, as long as all possible captures are made.
+
+Also called shashki or Russian shashki checkers. It is mainly played in the former USSR and in Israel. Rules are similar to international draughts, except:
+a man that enters the kings row during a jump and can continue to jump backwards, jumps backwards as a king, not as a man;
+choosing a sequence that captures the maximum possible number of pieces is not required.
+There is also a 10×8 board variant (with two additional columns labelled i and k) and the give-away variant Poddavki. There are official championships for shashki and its variants. 
+
+
+
+Mozambican draughts/checkers
+
+8×8
+
+12
+
+No
+
+White
+
+A sequence must capture the maximum possible number of pieces. Although, a king has the weight of two pieces, this means with two captures, one of a king and one of piece you must choose the king; two captures, one of a king and one of two pieces, you can choose; two captures with one of a king and one of three pieces you choose the three pieces; two captures, one of two kings and one of three pieces, you choose the kings...
+
+Also called "Dama" or "Damas". It is played along all of the region of Mozambique. In an ending with three kings versus one king, the player with three kings must win in twelve moves or the game is a draw.
+
+
+Tobit
+
+6×4 grid
+
+12
+
+N/A
+
+White
+
+Mandatory Capture and Maximum Capture
+
+Played on a unique non-rectangular or square board of grids with 20 grid points and 18 endpoints. Played in the Republic of Khakassia. Movement and capture is orthogonal with backwards capture. The "Tobit," a promoted piece, moves like the King in Turkish draughts.
+
+
+Keny
+
+8×8
+
+16
+
+N/A
+
+
+
+Variable; Most rules have mandatory capture without maximum capture
+
+Keny (Russian:  Кены) is a draughts game played in the Caucasus and nearby areas of Turkey. It is played on an 8x8 grid with orthogonal movement. It is similar to Turkish Draughts, but has backwards capture and allows for men to jump over friendly pieces without capturing them similar to Dameo.
+
+Flying kings; men cannot capture backwards[edit]
+
+Spanish draughts family
+
+
+National variant
+
+Board size
+
+Pieces per side
+
+Double-corner or light square on player's near-right?
+
+First move
+
+Capture constraints
+
+Notes
+
+
+Spanish draughts
+
+8×8
+
+12
+
+Light square is on right, but double corner is on left, as play is on the light squares. (Play on the dark squares with dark square on right is Portuguese draughts.)
+
+White
+
+A sequence must capture the maximum possible number of pieces, and the maximum possible number of kings from all such sequences.
+
+Also called Spanish checkers. It is mainly played in Portugal, some parts of South America, and some Northern African countries.
+
+
+Malaysian/Singaporean checkers
+
+12×12
+
+30
+
+Yes
+
+Not fixed
+
+Captures are mandatory. Failing to capture results in forfeiture of that piece (huffing).
+
+Mainly played in Malaysia, Singapore, and the region nearby. Also known locally as "Black–White Chess". Sometimes it is played on an 8×8 board when a 12×12 board is unavailable; a 10×10 board is rare in this region.
+
+
+Czech draughts
+
+8×8
+
+12
+
+Yes
+
+White
+
+If there are sequences of captures with either a man or a king, the king must be chosen. After that, any sequence may be chosen, as long as all possible captures are made.
+
+This variant is from the family of the Spanish game.
+
+
+Slovak draughts
+
+8×8
+
+8
+
+
+
+White
+
+If there are sequences of captures with either a man or a king, the king must be chosen. After that, any sequence may be chosen, as long as all possible captures are made.
+
+Occasionally mislabeled as Hungarian, this variant remains distinctly Slovak in origin and practice.
+
+
+Hungarian Highlander draughts
+
+8×8
+
+8
+
+
+
+White
+
+All pieces are long-range. Jumping is mandatory after first move of the rook. Any sequence may be chosen, as long as all possible captures are made.
+
+The uppermost symbol of the cube determines its value, which is decreased after being jumped. Having only one piece remaining loses the game.
+
+
+Argentinian draughts
+
+8×8
+10x10
+
+
+12
+15
+
+
+No
+
+White
+
+A sequence must capture the maximum possible number of pieces, and the maximum possible number of kings from all such sequences. If both sequences capture the same number of pieces and one is with a king, the king must do.[3]
+
+The rules are similar to the Spanish game, but the king, when it captures, must stop after the captured piece, and may begin a new capture movement from there.
+With this rule, there is no draw with two pieces versus one.
+
+
+
+Thai draughts
+
+8×8
+
+8
+
+Yes
+
+Black
+
+Any sequence may be chosen, as long as all possible captures are made.
+
+During a capturing move, pieces are removed immediately after capture. Kings stop on the square directly behind the piece captured and must continue capturing from there, if possible, even in the direction where they have come from.
+
+
+German draughts (or Dame)
+
+8×8
+
+12
+
+Yes
+
+Black
+
+Any sequence may be chosen, as long as all possible captures are made.
+
+Kings stop on the square directly behind the piece captured and must continue capturing from there as long as possible.
+
+
+Turkish draughts
+
+8×8
+
+16
+
+N/A
+
+White
+
+A sequence must capture the maximum possible number of pieces.
+
+Also known as Dama. Men move straight forwards or sideways, instead of diagonally. When a man reaches the last row, it is promoted to a flying king (Dama), which moves like a rook (or a queen in the Armenian variant). The pieces start on the second and third rows.
+It is played in Turkey, Kuwait, Israel, Lebanon, Syria, Jordan, Greece, and several other locations in the Middle East, as well as in the same locations as Russian checkers. There are several variants in these countries, with the Armenian variant (called tama) allowing also forward-diagonal movement of men.
+
+
+
+Myanmar draughts
+
+8×8
+
+12
+
+
+
+White
+
+A sequence must capture the maximum possible number of pieces.
+
+Players agree before starting the game between "Must Capture" or "Free Capture". In the "Must Capture" type of game, a man that fails to capture is forfeited (huffed). In the "Free Capture" game, capturing is optional.
+
+
+Tanzanian draughts
+
+8×8
+
+12
+
+Yes
+
+Not fixed
+
+Any sequence may be chosen, as long as all possible captures are made.
+
+Captures are mandatory. When either a king or a man can capture, there is no priority.
+
+No flying kings; men cannot capture backwards[edit]
+
+English draughts / American straight checkers family
+
+
+National variant
+
+Board size
+
+Pieces per side
+
+Double-corner or light square on player's near-right?
+
+First move
+
+Capture constraints
+
+Notes
+
+
+English draughts
+
+8×8
+
+12
+
+Yes
+
+Black
+
+Any sequence may be chosen, as long as all possible captures are made.
+
+Also called "straight checkers" or American checkers, since it is also played in the United States.
+
+
+Italian draughts
+
+8×8
+
+12
+
+No
+
+White
+
+Men cannot jump kings. A sequence must capture the maximum possible number of pieces. If more than one sequence qualifies, the capture must be done with a king instead of a man. If more than one sequence qualifies, the one that captures a greater number of kings must be chosen. If there are still more sequences, the one that captures a king first must be chosen.
+
+It is mainly played in Italy and some North African countries.
+
+
+Gothic checkers (or Altdeutsches Damespiel or Altdeutsche Dame)
+
+8×8
+
+16
+
+N/A
+
+White
+
+Captures are mandatory.
+
+All 64 squares are used, dark and light. Men move one cell diagonally forward and capture in any of the five cells directly forward, diagonally forward, or sideways, but not backward. Men promote on the last row. Kings may move and attack in any of the eight directions. There is also a variant with flying kings.
+
+Championships[edit]
+World Checkers/Draughts Championship in English draughts since 1840
+Draughts World Championship in international draughts since 1885
+Women's World Draughts Championship in international draughts since 1873
+Draughts-64 World Championships since 1985
+Federations[edit]
+World Draughts Federation (FMJD) was founded in 1947 by four Federations: France, the Netherlands, Belgium and Switzerland.[30]
+International Draughts Federation (IDF) was established in 2012 in Bulgaria.[31]
+Games sometimes confused with draughts variants[edit]
+Halma: A game in which pieces move in any direction and jump over any other piece (but no captures), friend or enemy, and players try to move them all into an opposite corner.
+Chinese Checkers: Based on Halma, but uses a star-shaped board divided into equilateral triangles.
+Konane: "Hawaiian checkers".
+See also[edit]
+World Draughts Federation
+List of draughts players
+Solved game
+Fanorona
+Notes[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ When this word is used in the UK, it is usually spelt chequers (as in Chinese chequers); see further at American and British spelling differences.
+
+
+References[edit]
+Citations[edit]
+
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Masters, James. "Draughts, Checkers - Online Guide". www.tradgames.org.uk.
+
+^ a b c Strutt, Joseph (1801). The sports and pastimes of the people of England. London. p. 255.
+
+^ As is standard in modern Variants; see more at "The Online Guide to Traditional Games".
+
+^ a b c d e Oxland, Kevin (2004). Gameplay and design (Illustrated ed.). Pearson Education. p. 333. ISBN 978-0-321-20467-7.
+
+^ a b c d e "Lure of checkers". The Ellensburgh Capital. 17 February 1916. p. 1. Retrieved 16 April 2009.
+
+^ "Petteia". 9 December 2006. Archived from the original on 9 December 2006.
+
+^ Austin, Roland G. (September 1940). "Greek Board Games". Antiquity. University of Liverpool, England. 14 (55): 257–271. doi:10.1017/S0003598X00015258. Archived from the original on 8 April 2009. Retrieved 16 April 2009.
+
+^ Peck, Harry Thurston (1898). "Latruncŭli". Harpers Dictionary of Classical Antiquities. New York: Harper and Brothers. Archived from the original on 8 October 2008. Retrieved 7 August 2021.
+
+^ Berger, F (2004). "From circle and square to the image of the world: a possible interpretation or some petroglyphs of merels boards" (PDF). Rock Art Research. 21 (1): 11–25. Archived from the original (PDF) on 21 November 2004.
+
+^ Bell, R. C. (1979). Board and Table Games from Many Civilizations. I. New York City: Dover Publications. pp. 47–48. ISBN 0-486-23855-5.
+
+^ a b Bell, Robert Charles (1981). Board and Table Game Antiques (Illustrated ed.). Osprey Publishing. p. 33. ISBN 0-85263-538-9.
+
+^ a b Murray, H. J. R. (1913). A History of Chess. Benjamin Press (originally published by Oxford University Press). ISBN 0-936317-01-9. OCLC 13472872.
+
+^ Sackson, Sid (1982) [1st Pub. 1969, Random House, New York]. "Blue and Gray". A Gamut of Games. Pantheon Books. pp. 9, 10–11. ISBN 0-394-71115-7 – via Internet Archive.
+
+^ "Cheskers". www.chessvariants.org. Retrieved 28 October 2021.
+
+^ Pritchard, D.B. (1994). The Encyclopedia of Chess Variants. Surrey, UK: Games and Puzzles Publications. ISBN 0-9524142-0-1.
+
+^ "Rules". www.mindsports.nl. Retrieved 14 April 2021.
+
+^ Tapalnitski, Aleh (2019). Meet Dameo (PDF).
+
+^ Freeling, Christian (14 April 2021). "Dameo" (PDF). Abstract Games... For the Competitive Thinker. 10 Summer 2002: 10–12.
+
+^ Kok, Fred (Winter 2001). Kerry Handscomb (ed.). "Hexdame • A nice combination". Abstract Games. No. 8. Carpe Diem Publishing. p. 21. ISSN 1492-0492.
+
+^ Angerstein, Wolfgang. Board Game Studies: Das Säulenspiel Laska: Renaissance einer fast vergessenen Dame-Variante mit Verbindungen zum Schach. Vol. 5, CNWS Publications, 2002, pp. 79-99, bgsj.ludus-opuscula.org/PDF_Files/BGS5-complete.pdf. Accessed 16 Dec. 2021.
+
+^ "ФШР | Обратные шашки (поддавки)". Федерация шашек России (in Russian). Retrieved 16 December 2021.
+
+^ в 18:13, Ольга Ворончихина 27/10/2012. "Поддавки - Первый Чемпионат по игре в обратные шашки | Шашки всем". Retrieved 16 December 2021.
+
+^ Chinook - World Man-Machine Checkers Champion Archived 24 June 2003 at the Wayback Machine
+
+^ Schaeffer, Jonathan; Burch, Neil; Björnsson, Yngvi; Kishimoto, Akihiro; Müller, Martin; Lake, Robert; Lu, Paul; Sutphen, Steve (14 September 2007). "Checkers Is Solved". Science. 317 (5844): 1518–1522. Bibcode:2007Sci...317.1518S. doi:10.1126/science.1144079. PMID 17641166. S2CID 10274228.
+
+^ Jonathan Schaeffer, Yngvi Bjornsson, Neil Burch, Akihiro Kishimoto, Martin Muller, Rob Lake, Paul Lu and Steve Sutphen. Solving Checkers, International Joint Conference on Artificial Intelligence (IJCAI), pp. 292–297, 2005. Distinguished Paper Prize
+
+^ "Chinook - Solving Checkers Publications". www.cs.ualberta.ca. Archived from the original on 16 April 2008. Retrieved 22 December 2007.
+
+^ a b Fraenkel, Aviezri S.; Garey, M. R.; Johnson, David S.; Yesha, Yaacov (1978). "The complexity of checkers on an N × N board". 19th Annual Symposium on Foundations of Computer Science. p. 55. doi:10.1109/SFCS.1978.36.
+
+^ Robson, J. M. (May 1984). "N by N Checkers is EXPTIME complete". SIAM Journal on Computing. 13 (2): 252–267. doi:10.1137/0213018.
+
+^ Salm and Falola, Culture and Customs of Ghana, p. 160
+
+^ "FMJD - World Draughts Federation".
+
+^ "IDF | IDF | International Draughts Federation".
+
+
+Sources[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}
+ This article incorporates text from a publication now in the public domain: Chisholm, Hugh, ed. (1911). "Draughts". Encyclopædia Britannica. 8 (11th ed.). Cambridge University Press. pp. 547–550.
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Draughts.
+
+Draughts associations and federations
+
+.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}
+American Checker Federation (ACF)
+American Pool Checkers Association (APCA)
+Danish Draughts Federation
+English Draughts Association (EDA)
+European Draughts Confederation
+German Draughts Association (DSV NRW)
+Northwest Draughts Federation (NWDF)
+Polish Draughts Federation (PDF)
+Surinam Draughts Federation (SDB)
+World Checkers & Draughts Federation Archived 10 August 2010 at the Wayback Machine
+World Draughts Federation (FMJD)
+The International Draughts Committee of the Disabled (IDCD)
+
+History, articles, variants, rules
+
+A Guide to Checkers Families and Rules by Sultan Ratrout
+The history of checkers/draughts
+Jim Loy's checkers pages with many links and articles.
+Checkers Maven, CheckersUSA checkers books, electronic editions
+The Checkers Family
+Alemanni Checkers Pages
+On the evolution of Draughts variants
+"Chess and Draughts/Checkers" by Edward Winter
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}Authority control General
+Integrated Authority File (Germany)
+National libraries
+France (data)
+United States
+Latvia
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Draughts&oldid=1061161808"
+		Categories: DraughtsAbstract strategy gamesTraditional board gamesIndividual sportsHidden categories: CS1: Julian–Gregorian uncertaintyCS1: long volume valueCS1 Russian-language sources (ru)Webarchive template wayback linksArticles with short descriptionShort description matches WikidataUse dmy dates from November 2020Use British English from July 2020All articles with unsourced statementsArticles with unsourced statements from April 2021Articles with unsourced statements from December 2021All articles with dead external linksArticles with dead external links from September 2017Articles with permanently dead external linksWikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource referenceWikipedia articles incorporating text from the 1911 Encyclopædia BritannicaCommons category link is on WikidataArticles with GND identifiersArticles with BNF identifiersArticles with LCCN identifiersArticles with LNB identifiers
+	

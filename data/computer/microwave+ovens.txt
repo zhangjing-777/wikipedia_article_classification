@@ -1,0 +1,212 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}For other uses, see Peripheral (disambiguation).
+Auxiliary input/output device for a computer
+A peripheral or peripheral device is an auxiliary device used to put information into and get information out of a computer.[1] The term peripheral device refers to all hardware components that are attached to a computer and are controlled by the computer system, but they are not the core components of the computer, such as the CPU or power supply unit. In other words, peripherals can also be defined as devices that can be easily removed and plugged into a computer system.
+Several categories of peripheral devices may be identified, based on their relationship with the computer:
+
+An input device sends data or instructions to the computer, such as a mouse, keyboard, graphics tablet, image scanner, barcode reader, game controller, light pen, light gun, microphone and webcam;
+An output device provides output data from the computer, such as a computer monitor, projector, printer, headphones and computer speaker;
+An input/output device performs both input and output functions, such as a computer data storage device (including a disk drive, solid-state drive, USB flash drive, memory card and tape drive), network adapter and multi-function printer.
+Many modern electronic devices, such as Internet-enabled digital watches, keyboards, and tablet computers, have interfaces for use as computer peripheral 
+devices.
+
+See also[edit]
+
+
+
+Look up peripheral in Wiktionary, the free dictionary.
+
+Controller (computing)
+Display device
+Expansion card
+Punched card input/output
+Punched tape
+Video game accessory
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Laplante, Philip A. (2000). Dictionary of Computer Science, Engineering and Technology. CRC Press. p. 366. ISBN 0-8493-2691-5. Archived from the original on September 3, 2016. Retrieved January 16, 2018.
+
+
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteComputer scienceNote: This template roughly follows the 2012 ACM Computing Classification System.Hardware
+Printed circuit board
+Peripheral
+Integrated circuit
+Very Large Scale Integration
+Systems on Chip (SoCs)
+Energy consumption (Green computing)
+Electronic design automation
+Hardware acceleration
+Computer systems organization
+Computer architecture
+Embedded system
+Real-time computing
+Dependability
+Networks
+Network architecture
+Network protocol
+Network components
+Network scheduler
+Network performance evaluation
+Network service
+Software organization
+Interpreter
+Middleware
+Virtual machine
+Operating system
+Software quality
+Software notations and tools
+Programming paradigm
+Programming language
+Compiler
+Domain-specific language
+Modeling language
+Software framework
+Integrated development environment
+Software configuration management
+Software library
+Software repository
+Software development
+Control variable
+Software development process
+Requirements analysis
+Software design
+Software construction
+Software deployment
+Software maintenance
+Programming team
+Open-source model
+Theory of computation
+Model of computation
+Formal language
+Automata theory
+Computability theory
+Computational complexity theory
+Logic
+Semantics
+Algorithms
+Algorithm design
+Analysis of algorithms
+Algorithmic efficiency
+Randomized algorithm
+Computational geometry
+Mathematics of computing
+Discrete mathematics
+Probability
+Statistics
+Mathematical software
+Information theory
+Mathematical analysis
+Numerical analysis
+Theoretical computer science
+Information systems
+Database management system
+Information storage systems
+Enterprise information system
+Social information systems
+Geographic information system
+Decision support system
+Process control system
+Multimedia information system
+Data mining
+Digital library
+Computing platform
+Digital marketing
+World Wide Web
+Information retrieval
+Security
+Cryptography
+Formal methods
+Security services
+Intrusion detection system
+Hardware security
+Network security
+Information security
+Application security
+Human–computer interaction
+Interaction design
+Social computing
+Ubiquitous computing
+Visualization
+Accessibility
+Concurrency
+Concurrent computing
+Parallel computing
+Distributed computing
+Multithreading
+Multiprocessing
+Artificial intelligence
+Natural language processing
+Knowledge representation and reasoning
+Computer vision
+Automated planning and scheduling
+Search methodology
+Control method
+Philosophy of artificial intelligence
+Distributed artificial intelligence
+Machine learning
+Supervised learning
+Unsupervised learning
+Reinforcement learning
+Multi-task learning
+Cross-validation
+Graphics
+Animation
+Rendering
+Image manipulation
+Graphics processing unit
+Mixed reality
+Virtual reality
+Image compression
+Solid modeling
+Applied computing
+E-commerce
+Enterprise software
+Computational mathematics
+Computational physics
+Computational chemistry
+Computational biology
+Computational social science
+Computational engineering
+Computational healthcare
+Digital art
+Electronic publishing
+Cyberwarfare
+Electronic voting
+Video games
+Word processing
+Operations research
+Educational technology
+Document management
+
+ Category
+ Outline
+WikiProject
+ Commons
+
+Authority control General
+Integrated Authority File (Germany)
+National libraries
+France (data)
+United States
+Other
+Microsoft Academic
+
+
+
+.mw-parser-output .asbox{position:relative;overflow:hidden}.mw-parser-output .asbox table{background:transparent}.mw-parser-output .asbox p{margin:0}.mw-parser-output .asbox p+p{margin-top:0.25em}.mw-parser-output .asbox-body{font-style:italic}.mw-parser-output .asbox-note{font-size:smaller}.mw-parser-output .asbox .navbar{position:absolute;top:-0.75em;right:1em;display:none}This electronics-related article is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Peripheral&oldid=1054357730"
+		Categories: Computer peripheralsElectronics stubsHidden categories: Articles with short descriptionShort description is different from WikidataArticles with GND identifiersArticles with BNF identifiersArticles with LCCN identifiersArticles with MA identifiersAll stub articles
+	

@@ -1,0 +1,720 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Constructing a product by means of computer
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}"CAD" and "CADD" redirect here. For the currency, see Canadian dollar. For other uses, see Cad (disambiguation) and CADD (disambiguation).
+  Example: 2D CAD drawing
+  Example: 3D CAD model
+Computer-aided design (CAD) is the use of computers (or .mw-parser-output .vanchor>:target~.vanchor-text{background-color:#b1d2ff}workstations) to aid in the creation, modification, analysis, or optimization of a design.[1] This software is used to increase the productivity of the designer, improve the quality of design, improve communications through documentation, and to create a database for manufacturing.[2] Designs made through CAD software are helpful in protecting products and inventions when used in patent applications. CAD output is often in the form of electronic files for  print, machining, or other manufacturing operations. The term CADD (for computer aided design and drafting) is also used.[3]
+Its use in designing electronic systems is known as electronic design automation (EDA). In mechanical design it is known as mechanical design automation (MDA) or computer-aided drafting (CAD), which includes the process of creating a technical drawing with the use of computer software.[4]
+CAD software for mechanical design uses either vector-based graphics to depict the objects of traditional drafting, or may also produce raster graphics showing the overall appearance of designed objects. However, it involves more than just shapes. As in the manual drafting of technical and engineering drawings, the output of CAD must convey information, such as materials, processes, dimensions, and tolerances, according to application-specific conventions.
+CAD may be used to design curves and figures in two-dimensional (2D) space; or curves, surfaces, and solids in three-dimensional (3D) space.[5]
+CAD is an important industrial art extensively used in many applications, including automotive, shipbuilding, and aerospace industries, industrial and architectural design, prosthetics, and many more. CAD is also widely used to produce computer animation for special effects in movies, advertising and technical manuals, often called DCC digital content creation. The modern ubiquity and power of computers means that even perfume bottles and shampoo dispensers are designed using techniques unheard of by engineers of the 1960s. Because of its enormous economic importance, CAD has been a major driving force for research in computational geometry, computer graphics (both hardware and software), and discrete differential geometry.[6]
+The design of geometric models for object shapes, in particular, is occasionally called computer-aided geometric design (CAGD).[7]
+
+Contents
+
+1 History
+2 Overview of CAD software
+3 Uses
+4 Types
+5 Technology
+6 Software
+
+6.1 Commercial
+6.2 Freeware
+6.3 Open-source
+6.4 CAD kernels
+
+
+7 See also
+8 References
+9 External links
+
+
+
+History[edit]
+See also: History of CAD software
+Overview of CAD software[edit]
+Starting around the mid-1960s, with the IBM Drafting System, computer-aided design systems began to provide more capability than just an ability to reproduce manual drafting with electronic drafting, the cost-benefit for companies to switch to  CAD became apparent. The benefits of CAD systems over manual drafting are the capabilities one often takes for granted from computer systems today;  automated generation of bills of materials, auto layout in integrated circuits, interference checking, and many others. Eventually, CAD provided the designer with the ability to perform engineering calculations. During this transition, calculations were still performed either by hand or by those individuals who could run computer programs. CAD was a revolutionary change in the engineering industry, where draftsmen, designers, and engineering roles begin to merge. It did not eliminate departments as much as it merged departments and empowered draftsmen, designers, and engineers. CAD is an example of the pervasive effect computers were beginning to have on the industry.
+Current computer-aided design software packages range from 2D vector-based drafting systems to 3D solid and surface modelers. Modern CAD packages can also frequently allow rotations in three dimensions, allowing viewing of a designed object from any desired angle, even from the inside looking out. Some CAD software is capable of dynamic mathematical modeling.
+CAD technology is used in the design of tools and machinery and in the drafting and design of all types of buildings, from small residential types (houses) to the largest commercial and industrial structures (hospitals and factories).[8]
+CAD is mainly used for detailed engineering of 3D models or 2D drawings of physical components, but it is also used throughout the engineering process from conceptual design and layout of products, through strength and dynamic analysis of assemblies to definition of manufacturing methods of components. It can also be used to design objects such as jewelry, furniture, appliances, etc. Furthermore, many CAD applications now offer advanced rendering and animation capabilities so engineers can better visualize their product designs. 4D BIM is a type of virtual construction engineering simulation incorporating time or schedule-related information for project management.
+CAD has become an especially important technology within the scope of computer-aided technologies, with benefits such as lower product development costs and a greatly shortened design cycle. CAD enables designers to layout and develop work on screen, print it out and save it for future editing, saving time on their drawings.
+
+Uses[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed.  (January 2020) (Learn how and when to remove this template message)
+Computer-aided design is one of the many tools used by engineers and designers and is used in many ways depending on the profession of the user and the type of software in question.
+CAD is one part of the whole digital product development (DPD) activity within the product lifecycle management (PLM) processes, and as such is used together with other tools, which are either integrated modules or stand-alone products, such as:
+
+Computer-aided engineering (CAE) and finite element analysis (FEA, FEM)
+Computer-aided manufacturing (CAM) including instructions to computer numerical control (CNC) machines
+Photorealistic rendering and motion simulation.
+Document management and revision control using product data management (PDM)
+CAD is also used for the accurate creation of photo simulations that are often required in the preparation of environmental impact reports, in which computer-aided designs of intended buildings are superimposed into photographs of existing environments to represent what that locale will be like, where the proposed facilities are allowed to be built. Potential blockage of view corridors and shadow studies are also frequently analyzed through the use of CAD.[9]
+CAD has been proven to be useful to engineers as well. Using four properties which are history, features, parameterization, and high-level constraints. The construction history can be used to look back into the model's personal features and work on the single area rather than the whole model. Parameters and constraints can be used to determine the size, shape, and other properties of the different modeling elements. The features in the CAD system can be used for the variety of tools for measurement such as tensile strength, yield strength, electrical, or electromagnetic properties. Also its stress, strain, timing, or how the element gets affected in certain temperatures, etc.
+
+Types[edit]
+  A simple procedure of recreating a solid model out of 2D sketches.
+See also: Comparison of computer-aided design editors
+There are several different types of CAD,[10] each requiring the operator to think differently about how to use them and design their virtual components in a different manner for each.
+There are many producers of the lower-end 2D systems, including a number of free and open-source programs. These provide an approach to the drawing process without all the fuss over scale and placement on the drawing sheet that accompanied hand drafting since these can be adjusted as required during the creation of the final draft.
+3D wireframe is basically an extension of 2D drafting (not often used today). Each line has to be manually inserted into the drawing. The final product has no mass properties associated with it and cannot have features directly add to it, such as holes. The operator approaches these in a similar fashion to the 2D systems, although many 3D systems allow using the wireframe model to make the final engineering drawing views.
+3D "dumb" solids are created in a way analogous to manipulations of real-world objects (not often used today). Basic three-dimensional geometric forms (prisms, cylinders, spheres, rectangle) have solid volumes added or subtracted from them as if assembling or cutting real-world objects. Two-dimensional projected views can easily be generated from the models. Basic 3D solids don't usually includes tools to easily allow the motion of the components, set there limits to their motion, or identify interference between components.
+There are two types of 3D solid modeling
+
+Parametric modeling allows the operator to use what is referred to as "design intent". The objects and features are created modifiable. Any future modifications can be made by changing on how the original part was created. If a feature was intended to be located from the center of the part, the operator should locate it from the center of the model. The feature could be located using any geometric object already available in the part, but this random placement would defeat the design intent. If the operator designs the part as it functions the parametric modeler is able to make changes to the part while maintaining geometric and functional relationships.
+Direct or explicit modeling provide the ability to edit geometry without a history tree With direct modeling, once a sketch is used to create geometry the sketch is incorporated into the new geometry and the designer just modifies the geometry without needing the original sketch. As with parametric modeling, direct modeling has the ability to include the relationships between selected geometry (e.g., tangency, concentricity).
+The top-end systems offer the capabilities to incorporate more organic, aesthetic and ergonomic features into the designs. Freeform surface modeling is often combined with solids to allow the designer to create products that fit the human form and visual requirements as well as they interface with the machine.
+
+Technology[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed.  (January 2020) (Learn how and when to remove this template message)
+  A CAD model of a computer mouse
+Originally software for CAD systems was developed with computer languages such as Fortran, ALGOL but with the advancement of object-oriented programming methods this has radically changed. Typical modern parametric feature-based modeler and freeform surface systems are built around a number of key C modules with their own APIs. A CAD system can be seen as built up from the interaction of a graphical user interface (GUI) with NURBS geometry or boundary representation (B-rep) data via a geometric modeling kernel. A geometry constraint engine may also be employed to manage the associative relationships between geometry, such as wireframe geometry in a sketch or components in an assembly.
+Unexpected capabilities of these associative relationships have led to a new form of prototyping called digital prototyping. In contrast to physical prototypes, which entail manufacturing time in the design. That said, CAD models can be generated by a computer after the physical prototype has been scanned using an industrial CT scanning machine. Depending on the nature of the business, digital or physical prototypes can be initially chosen according to specific needs.
+Today, CAD systems exist for all the major platforms (Windows, Linux, UNIX and Mac OS X); some packages support multiple platforms.[11]
+Currently, no special hardware is required for most CAD software. However, some CAD systems can do graphically and computationally intensive tasks, so a modern graphics card, high speed (and possibly multiple) CPUs and large amounts of RAM may be recommended.
+The human-machine interface is generally via a computer mouse but can also be via a pen and digitizing graphics tablet. Manipulation of the view of the model on the screen is also sometimes done with the use of a Spacemouse/SpaceBall. Some systems also support stereoscopic glasses for viewing the 3D model. Technologies which in the past were limited to larger installations or specialist applications have become available to a wide group of users. These include the CAVE or HMDs and interactive devices like motion-sensing technology
+
+Software[edit]
+CAD software enables engineers and architects to design, inspect and manage engineering projects within an integrated graphical user interface (GUI) on a personal computer system. Most applications support solid modeling with boundary representation (B-Rep) and NURBS geometry, and enable the same to be published in a variety of formats. A geometric modeling kernel is a software component that provides solid modeling and surface modeling features to CAD applications.
+Based on market statistics, commercial software from Autodesk, Dassault Systems, Siemens PLM Software, and PTC dominate the CAD industry.[12][13] The following is a list of major CAD applications, grouped by usage statistics.[14]
+
+.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}
+Commercial[edit]
+AC3D
+Alibre Design
+ArchiCAD (Graphisoft)
+AutoCAD (Autodesk)
+Autodesk Inventor
+AxSTREAM
+BricsCAD
+CATIA (Dassault Systèmes)
+Cobalt
+CorelCAD
+Fusion 360 (Autodesk)
+IntelliCAD
+IRONCAD
+KeyCreator (Kubotek)
+MEDUSA
+MicroStation (Bentley Systems)
+Modelur (AgiliCity)
+Onshape
+Promine
+PTC Creo (successor to Pro/ENGINEER)
+PunchCAD
+Remo 3D
+Rhinoceros 3D
+Siemens NX
+SketchUp
+Solid Edge (Siemens)
+SolidWorks (Dassault Systèmes)
+SpaceClaim
+T-FLEX CAD
+TurboCAD
+Vectorworks (Nemetschek)
+Freeware[edit]
+BricsCAD Shape
+Tinkercad (successor to Autodesk 123D)
+Open-source[edit]
+BRL-CAD
+FreeCAD
+LibreCAD
+OpenSCAD
+QCAD
+Salome (software)
+SolveSpace
+CAD kernels[edit]
+ACIS by Spatial
+C3D Toolkit by C3D Labs
+Open CASCADE Open Source
+Parasolid by Siemens
+ShapeManager by Autodesk
+
+See also[edit]
+
+3D computer graphics
+3D printing
+Additive Manufacturing File Format
+Algorithmic art
+CAD standards
+Coarse space (numerical analysis)
+Comparison of 3D computer graphics software
+Comparison of CAD, CAM, and CAE file viewers
+Comparison of computer-aided design software
+Comparison of EDA software (Electronic Design Automation)
+Computer-aided industrial design
+Digital architecture
+Electronic design automation
+Engineering optimization
+Finite element method
+ISO 128
+ISO 10303 (STEP)
+Model-based definition
+Molecular design software
+Open-source hardware
+Rapid prototyping
+Responsive computer-aided design
+Space mapping
+Surrogate model
+System integration
+Virtual prototyping
+Virtual reality
+
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Narayan, K. Lalit (2008). Computer Aided Design and Manufacturing. New Delhi: Prentice Hall of India. p. 3. ISBN 978-8120333420.
+
+^ Narayan, K. Lalit (2008). Computer Aided Design and Manufacturing. New Delhi: Prentice Hall of India. p. 4. ISBN 978-8120333420.
+
+^ Duggal, Vijay (2000). Cadd Primer: A General Guide to Computer Aided Design and Drafting-Cadd, CAD. Mailmax Pub. ISBN 978-0962916595.
+
+^ Madsen, David A. (2012). Engineering Drawing & Design. Clifton Park, NY: Delmar. p. 10. ISBN 978-1111309572.
+
+^ Farin, Gerald; Hoschek, Josef; Kim, Myung-Soo (2002). Handbook of computer aided geometric design [electronic resource]. Elsevier. ISBN 978-0-444-51104-1.
+
+^ Pottmann, H.; Brell-Cokcan, S. and Wallner, J. (2007) "Discrete surfaces for architectural design" Archived 2009-08-12 at the Wayback Machine, pp. 213–234 in Curve and Surface Design, Patrick Chenin, Tom Lyche and Larry L. Schumaker (eds.), Nashboro Press, ISBN 978-0-9728482-7-5.
+
+^ Farin, Gerald (2002) Curves and Surfaces for CAGD: A Practical Guide, Morgan-Kaufmann, ISBN 1-55860-737-4.
+
+^ Jennifer Herron (2010). "3D Model-Based Design: Setting the Definitions Straight". MCADCafe.
+
+^ "Computer-Aided Design (CAD) and Computer-Aided Manufacturing (CAM)". Inc.com. Retrieved 2020-04-30.
+
+^ "3D Feature-based, Parametric Solid Modeling". engineershandbook.com. Archived from the original on 2012-11-18. Retrieved 2012-03-01.
+
+^ "What is a CAD Workstation? Definition, Uses and More". Computer Tech Reviews. 2019-11-21. Retrieved 2020-04-30.
+
+^ The Big 6 in CAD/CAE/PLM software industry (2011), CAEWatch, September 12, 2011
+
+^ van Kooten, Michel (2011-08-23). "GLOBAL SOFTWARE TOP 100 – EDITION 2011". Software Top 100.
+
+^ List of mechanical CAD softwares, BeyondMech
+
+
+External links[edit]
+MIT 1982 CAD lab
+ Learning materials related to Computer-aided design at Wikiversity
+ Learning materials related to Computer-aided Geometric Design at Wikiversity
+ Media related to Computer-aided design at Wikimedia Commons
+ The dictionary definition of computer-aided design at Wiktionary
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteCAD softwareFree and open-sourceMechanical
+BRL-CAD
+FreeCAD
+HeeksCAD
+LibreCAD
+Open Cascade Technology
+OpenSCAD
+QCAD
+Salome
+SolveSpace
+Electrical
+Electric
+FreePCB
+Fritzing
+gEDA
+KiCad
+kTechLab
+Magic
+ngspice
+Oregano
+QUCS
+XCircuit
+ProprietaryMechanical
+Alibre Design
+AutoCAD
+Autodesk Alias
+Autodesk Inventor
+Autodesk Revit
+ArchiCAD
+ARES CAD
+BricsCAD
+CADKEY
+CATIA
+Cimatron
+Cobalt
+DesignSpark Mechanical
+Creo Elements/Direct Drafting
+Creo Elements/Pro
+FastCAD/EasyCAD
+FINE
+FORAN
+GstarCAD
+IRONCAD
+KeyCreator
+MEDUSA
+MicroStation
+NX
+Onshape
+PDMS
+Pro/DESKTOP
+Rhinoceros 3D
+Grasshopper 3D
+RUCAPS
+Solid Edge
+SolidWorks
+SpaceClaim
+T-FLEX CAD
+TurboCAD
+VariCAD
+Electrical
+Allegro
+AutoCAD Electrical
+Autotrax
+Altium Designer
+BoardStation
+CADSTAR
+CR-2000
+CR-3000
+CR-5000
+CR-8000
+Delta Design
+DesignSpark PCB
+DesignSpark PCB Pro
+DipTrace
+EAGLE
+Easytrax
+FreeStyle
+IntegraStation
+LTspice
+Micro-Cap
+Multisim
+OrCAD
+Protel
+Proteus
+Pulsonix
+SolidWorks Electrical
+Tango
+TARGET
+TopoR
+Ultiboard
+Upverter
+Xpedition
+File formats
+3MF
+ACIS
+AMF
+C3D
+CKD
+DSN
+DWF
+DWFX
+DWG
+DXF
+IGES
+OBJ
+OpenDWG
+PLY
+PSpice
+SES
+STEP
+STL
+Modeling kernels
+ACIS
+C3D
+Open Cascade Technology
+Parasolid
+ RGK
+Romulus
+KernelCAD
+ShapeManager
+Teigha
+IntelliCAD
+SMLib
+OldDAC-1 (1963) · Sketchpad (1963) · UNISURF (1968)History of CAD software
+vteBuilding information modeling (BIM)Companies
+Archibus
+Autodesk
+Bentley Systems
+BuildingSMART
+Cadwork informatik AG
+GRAITEC
+Nemetschek (* Data Design System * Graphisoft * Vectorworks)
+Open Design Alliance
+Trimble (* Tekla)
+Free open-source
+FreeCAD
+Softwarecurrent
+Allplan
+ArchiCAD
+AutoCAD
+Autodesk Revit
+BricsCAD
+cadwork
+CodeBook
+DDS-CAD
+Digital Project
+FINE MEP
+FreeCAD
+GRAITEC Advance
+MicroStation
+Navisworks
+OpenStudio
+RFEM
+Parabuild
+Tekla BIMsight
+Tekla Structures
+Trimble SketchUp
+TSteel 3D
+Vectorworks
+VisualARQ
+historic
+Gable CAD
+Reflex
+RUCAPS
+Sonata
+Related topics
+3D BIM
+4D BIM
+5D BIM
+6D BIM
+BIM Task Group
+Centre for Digital Built Britain
+Computer-aided design
+COBie
+Geometric modeling kernel
+Industry Foundation Classes
+BIM Collaboration Format
+
+vteDesign
+Outline
+Designer
+DisciplinesCommunicationdesign
+Advertising
+Book design
+Brand design
+Exhibit design
+Film title design
+Graphic design
+Motion
+Postage stamp design
+Print design
+Illustration
+Information design
+Instructional design
+News design
+Photography
+Retail design
+Signage / Traffic sign design
+Typography / Type design
+Video design
+Visual merchandising
+Environmentaldesign
+Architecture
+Architectural lighting design
+Building design
+Passive solar
+Ecological design
+Environmental impact design
+Garden design
+Computer-aided
+Healthy community design
+Hotel design
+Interior architecture
+Interior design
+EID
+Keyline design
+Landscape architecture
+Sustainable
+Landscape design
+Spatial design
+Urban design
+Industrialdesign
+Automotive design
+Automotive suspension design
+CMF design
+Corrugated box design
+Electric guitar design
+Furniture design
+Sustainable
+Hardware interface design
+Motorcycle design
+Packaging and labeling
+Photographic lens design
+Product design
+Production design
+Sensory design
+Service design
+Interactiondesign
+Experience design
+EED
+Game design
+Level design
+Video game design
+Hardware interface design
+Icon design
+Immersive design
+Information design
+Sonic interaction design
+User experience design
+User interface design
+Web design
+Otherapplied arts
+Public art design
+Ceramic / glass design
+Fashion design
+Costume design
+Jewellery design
+Floral design
+Game art design
+Property design
+Scenic design
+Sound design
+Stage/set lighting design
+Textile design
+Otherdesign& engineering
+Algorithm design
+Behavioural design
+Boiler design
+Database design
+Drug design
+Electrical system design
+Experimental design
+Filter design
+Geometric design
+Work design
+Integrated circuit design
+Circuit design
+Physical design
+Power network design
+Mechanism design
+Nuclear weapon design
+Nucleic acid design
+Organization design
+Process design
+Processor design
+Protein design
+Research design
+Social design
+Software design
+Spacecraft design
+Strategic design
+Systems design
+Approaches
+Activity-centered
+Adaptive web
+Affective
+Brainstorming
+By committee
+By contract
+C-K theory
+Closure
+Co-design
+Concept-oriented
+Configuration
+Contextual
+Continuous
+Cradle-to-cradle
+Creative problem-solving
+Creativity techniques
+Critical
+Design fiction
+Defensive
+Design–bid–build
+Design–build
+architect-led
+Diffuse
+Domain-driven
+Ecological design
+Energy neutral
+Engineering design process
+Probabilistic design
+Error-tolerant
+Fault-tolerant
+Framework-oriented
+For assembly
+For behaviour change
+For manufacturability
+For Six Sigma
+For testing
+For X
+Functional
+Generative
+Geodesign
+HCD
+High-level
+Inclusive
+Integrated
+Integrated topside
+Intelligence-based
+Iterative
+KISS principle
+Low-level
+Metadesign
+Mind mapping
+Modular
+New Wave
+Object-oriented
+Open
+Parametric
+Participatory
+Platform-based
+Policy-based
+Process-centered
+Public interest
+Rational
+Regenerative
+Reliability engineering
+Research-based
+Responsibility-driven
+RWD
+Safe-life
+Sustainable
+Systemic
+SOD
+Tableless web
+Theory of constraints
+Top-down and bottom-up
+Transformation
+Transgenerational
+TRIZ
+Universal
+Design for All
+Usage-centered
+Use-centered
+User-centered
+Empathic
+User innovation
+Value-driven
+Value sensitive
+Privacy by
+Design choice
+computing
+controls
+culture
+flow
+leadership
+management
+marker
+methods
+pattern
+research
+science
+sprint
+strategy
+theory
+thinking
+ToolsIntellectual propertyOrganizationsAwardsTools
+AAD
+Architectural model
+Blueprint
+Comprehensive layout
+CAD
+CAID
+Virtual home design software
+CAutoD
+Design quality indicator
+Electronic design automation
+Flowchart
+Mockup
+Design specification
+Prototype
+Sketch
+Storyboard
+Technical drawing
+HTML editor
+Website wireframe
+Intellectualproperty
+Community design
+Design around
+Design infringement
+Design patent
+Fashion design copyright
+Geschmacksmuster
+Industrial design rights
+European Union
+Organizations
+American Institute of Graphic Arts
+Chartered Society of Designers
+Design and Industries Association
+Design Council
+International Forum Design
+The Design Society
+Design Research Society
+Awards
+European Design Award
+German Design Award
+Good Design Award (Museum of Modern Art)
+Good Design Award (Chicago Athenaeum)
+Graphex
+IF Product Design Award
+James Dyson Award
+Prince Philip Designers Prize
+Related topics
+Aesthetics
+Agile
+Concept art
+Conceptual design
+Creative industries
+Cultural icon
+.design
+Enterprise architecture
+Form factor
+Futures studies
+Indie design
+Innovation management
+Intelligent design
+Lean startup
+New product development
+OODA loop
+Philosophy of design
+Process simulation
+Slow design
+STEAM fields
+Unintelligent design
+Visualization
+Wicked problem
+Design brief
+change
+classic
+competition
+architectural
+student
+director
+education
+elements and principles
+engineer
+firm
+history
+knowledge
+language
+life
+load
+museum
+paradigm
+rationale
+review
+specification
+studies
+studio
+technology
+
+ Commons    
+ Wikibooks  
+ Wikinews   
+ Wikiquote  
+ Wikisource 
+ Wiktionary 
+
+Authority control General
+Integrated Authority File (Germany)
+National libraries
+United States
+Japan
+Other
+Microsoft Academic
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Computer-aided_design&oldid=1054671193"
+		Categories: Computer-aided designComputer-aided design softwareDesign engineeringHidden categories: Webarchive template wayback linksArticles with short descriptionShort description matches WikidataArticles needing additional references from January 2020All articles needing additional referencesCommons category link from WikidataArticles with GND identifiersArticles with LCCN identifiersArticles with NDL identifiersArticles with MA identifiers
+	

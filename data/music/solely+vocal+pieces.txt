@@ -1,0 +1,539 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Category that identifies pieces of music as belonging to a shared tradition or set of conventions
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+      The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate.  (March 2012) (Learn how and when to remove this template message)
+This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed.  (August 2014) (Learn how and when to remove this template message)
+    
+ (Learn how and when to remove this template message) 
+A music genre is a conventional category that identifies some pieces of music as belonging to a shared tradition or set of conventions.[1] It is to be distinguished from musical form and musical style, although in practice these terms are sometimes used interchangeably.[2]
+Music can be divided into genres in varying ways, such as popular music and art music, or religious music and secular music. The artistic nature of music means that these classifications are often subjective and controversial, and some genres may overlap.
+
+Contents
+
+1 Definitions
+
+1.1 Subtypes
+
+
+2 History
+3 Categorization and emergence of new genres
+
+3.1 Automatic recognition of genres
+3.2 Alternative approaches
+
+
+4 Major music genres
+
+4.1 Art music
+4.2 Popular music
+
+4.2.1 Country music
+4.2.2 Electronic music
+4.2.3 Funk
+4.2.4 Hip hop music
+4.2.5 Jazz
+4.2.6 Latin music
+4.2.7 Pop music
+4.2.8 Punk
+4.2.9 Reggae
+4.2.10 Rock music
+4.2.11 Metal music
+4.2.12 Soul music and R&B
+4.2.13 Polka
+
+
+4.3 Religious music
+4.4 Traditional and folk music
+
+
+5 Psychology of music preference
+
+5.1 Social influences on music selection
+5.2 Individual and situational influences
+
+
+6 See also
+7 References
+8 Further reading
+
+
+
+Definitions[edit]
+In 1965, Douglass M. Green distinguishes between genre and form in his book Form in Tonal Music. He lists madrigal, motet, canzona, ricercar, and dance as examples of genres from the Renaissance period. To further clarify the meaning of genre, Green writes "Beethoven's Op. 61" and "Mendelssohn's Op. 64 ". He explains that both are identical in genre and are violin concertos that have different form. However, Mozart's Rondo for Piano, K. 511, and the Agnus Dei from his Mass, K. 317, are quite different in genre but happen to be similar in form."[3] 
+In 1982, Franco Fabbri proposed a definition of musical genre that is now considered to be normative:[4] "musical genre is a set of musical events (real or possible) whose course is governed by a definite set of socially accepted rules", where a musical event be defined as "any type of activity performed around any type of event involving sound".[5] 
+A music genre or subgenre may be defined by the musical techniques, the cultural context, and the content and spirit of the themes. Geographical origin is sometimes used to identify a music genre, though a single geographical category will often include a wide variety of subgenres. Timothy Laurie argues that, since the early 1980s, "genre has graduated from being a subset of popular music studies to being an almost ubiquitous framework for constituting and evaluating musical research objects".[6] 
+The term genre is generally defined similarly by many authors and musicologists, while the related term style has different interpretations and definitions. Some, like Peter van der Merwe, treat the terms genre and style as the same, saying that genre should be defined as pieces of music that share a certain style or "basic musical language".[7] Others, such as Allan F. Moore, state that genre and style are two separate terms, and that secondary characteristics such as subject matter can also differentiate between genres.[4]
+
+Subtypes[edit]
+A subgenre is a subordinate within a genre.[8][9] In music terms, it is a subcategory of a musical genre that adopts its basic characteristics, but also has its own set of characteristics that clearly distinguish and set it apart within the genre. A subgenre is also often being referred to as a style of the genre.[10][11][12] The proliferation of popular music in the 20th century has led to over 1,200 definable subgenres of music.
+A musical composition may be situated in the intersection of two or more genres, sharing characteristics of every parent genre and therefore belong to each genre of these at the same time,[5] such subgenres are known as fusion genres. Examples of fusion genres include jazz fusion, which is a fusion of jazz and rock music, and country rock which is a fusion of country music and rock music.
+A microgenre is a niche genre,[13] as well as a subcategory within major genres or their subgenres.
+
+History[edit]
+This section needs expansion. You can help by adding to it.  (April 2021)
+Categorization and emergence of new genres[edit]
+The genealogy of musical genres expresses, often in the form of a written chart, how new genres have developed under the influence of older ones. New genres of music can arise through the development of new styles of music; in addition to simply creating a new categorization. Although it is conceivable to create a musical style with no relation to existing genres, new styles usually appear under the influence of pre-existing genres.
+Musicologists have sometimes classified music according to a trichotomous distinction such as Philip Tagg's "axiomatic triangle consisting of 'folk', 'art' and 'popular' musics".[14] He explains that each of these three is distinguishable from the others according to certain criteria.[14]
+
+Automatic recognition of genres[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}Main articles: Automatic content recognition and Music information retrieval
+Automatic methods of musical similarity detection, based on data mining and co-occurrence analysis, have been developed to classify music titles for electronic music distribution.[15][16]
+Glenn McDonald, the employee of The Echo Nest, music intelligence and data platform, owned by Spotify, has created a categorical perception spectrum of genres and subgenres based on "an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for 5,315 genre-shaped distinctions by Spotify" called Every Noise at Once.[17][18]
+
+Alternative approaches[edit]
+Alternatively, music can be assessed on the three dimensions of "arousal", "valence", and "depth".[19] Arousal reflects physiological processes such as stimulation and relaxation (intense, forceful, abrasive, thrilling vs. gentle, calming, mellow), valence reflects emotion and mood processes (fun, happy, lively, enthusiastic, joyful vs. depressing, sad), and depth reflects cognitive processes (intelligent, sophisticated, inspiring, complex, poetic, deep, emotional, thoughtful vs. party music, danceable).[19] These help explain why many people like similar songs from different traditionally segregated genres.[19]
+Starting from the end of 1970s, Vincenzo Caporaletti has proposed a more comprehensive distinction of music genres based on the "formative medium" with which a music is created, that is the creative interface (cognitive milieu) employed by the artist. Following this framework, formative media may belong to two different matrixes: visual or audiotactile with regards to the role played in the creative process by the visual rationality or the bodily sensitivity and embodied cognition. The theory developed by Caporaletti, named Audiotactile Music Theory, categorises music in three different branches: 1) written music, like the so-called classical music, that is created using the visual matrix; 2) oral music (like folk music or ethnic music before the advent of sound recoring technologies); 3) Audiotactile music, which are process of production and trasmission is pivoted around sound recording technologies (for example jazz, pop, rock, rap and so on). These last two branches are created by means of the above-mentioned audiotactile matrix in which the formative medium is the Audiotactile Principle. [20] [21]
+
+Major music genres[edit]
+Art music[edit]
+Main article: Art music
+See also: List of art music traditions
+Art music primarily includes classical traditions, including both contemporary and historical classical music forms. Art music exists in many parts of the world. It emphasizes formal styles that invite technical and detailed deconstruction[22] and criticism, and demand focused attention from the listener. In Western practice, art music is considered primarily a written musical tradition,[23] preserved in some form of music notation rather than being transmitted orally, by rote, or in recordings, as popular and traditional music usually are.[23][24] Historically, most western art music has been written down using the standard forms of music notation that evolved in Europe, beginning well before the Renaissance and reaching its maturity in the Romantic period.
+The identity of a "work" or "piece" of art music is usually defined by the notated version rather than by a particular performance and is primarily associated with the composer rather than the performer (though composers may leave performers with some opportunity for interpretation or improvisation). This is so particularly in the case of western classical music. Art music may include certain forms of jazz, though some feel that jazz is primarily a form of popular music. The 1960s saw a wave of avant-garde experimentation in free jazz, represented by artists such as Ornette Coleman, Sun Ra, Albert Ayler, Archie Shepp and Don Cherry.[25] Additionally, avant-garde rock artists such as Frank Zappa, Captain Beefheart, and The Residents released art music albums.
+
+Popular music[edit]
+Main article: Popular music
+  Jennifer Lopez performing at a pop music festival
+Popular music is any musical style accessible to the general public and disseminated by the mass media. Musicologist and popular music specialist Philip Tagg defined the notion in the light of sociocultural and economical aspects:
+
+Popular music, unlike art music, is (1) conceived for mass distribution to large and often socioculturally heterogeneous groups of listeners, (2) stored and distributed in non-written form, (3) only possible in an industrial monetary economy where it becomes a commodity and (4) in capitalist societies, subject to the laws of 'free' enterprise ... it should ideally sell as much as possible.[14]
+Popular music is found on most commercial and public service radio stations, in most commercial music retailers and department stores, and movie and television soundtracks. It is noted on the  Billboard charts and, in addition to singer-songwriters and composers, it involves music producers more than other genres do.
+The distinction between classical and popular music has sometimes been blurred in marginal areas[26] such as minimalist music and light classics. Background music for films/movies often draws on both traditions. In this respect, music is like fiction, which likewise draws a distinction between literary fiction and popular fiction that is not always precise.
+
+Country music[edit]
+Main article: Country music
+Country music, also known as country and western (or simply country) and hillbilly music, is a genre of popular music that originated in the southern United States in the early 1920s.
+
+Electronic music[edit]
+Main articles: Electronic music and electronic dance music
+Electronic music is music that employs electronic musical instruments, digital instruments, or circuitry-based music technology in its creation. Contemporary electronic music includes many varieties and ranges from experimental art music to popular forms such as electronic dance music (EDM).
+
+Funk[edit]
+Main article: Funk
+Funk is a music genre that originated in African American communities in the mid-1960s when musicians created a rhythmic, danceable new form of music through a mixture of soul, jazz, and rhythm and blues (R&B). 
+
+Hip hop music[edit]
+  Two DJs practicing turntablism
+Main article: Hip hop music
+Hip Hop music, also referred to as hip hop or rap music, is a genre of music that was started in the United States, specifically the South Bronx in the New York City by African-American youth from the inner cities during the 1970s. It can be broadly defined as a stylized rhythmic music that commonly accompanies rapping,[27] a rhythmic and rhyming speech that is chanted.[28] Hip hop music derives from the hip hop culture itself, including four key elements: emceeing (MCing)/rapping, Disc jockeying (DJing) with turntablism, breakdancing and graffiti art.
+
+Jazz[edit]
+Main article: Jazz
+Jazz is a music genre that originated in the African-American communities of New Orleans, Louisiana, United States, in the late 19th and early 20th centuries, with its roots in blues and ragtime.
+
+Latin music[edit]
+Main article: Latin music
+Pop music[edit]
+Main article: Pop music
+Pop is a genre of popular music that originated in its modern form during the mid-1950s in the United States and the United Kingdom. The terms popular music and pop music are often used interchangeably, although the former describes all music that is popular and includes many disparate styles.
+
+Punk[edit]
+Main article: Punk rock
+The aggressiveness of the musical and performative style, based on structural simplicity and the vigorous rhythms of rock'n'roll style, reinforced the challenging and provocative character, within the universe of modern music.
+
+Reggae[edit]
+Main article: Reggae
+Reggae music, originating from the late 1960s Jamaica, is a genre of music that was originally used by Jamaicans to define themselves with their lifestyle and social aspects.[29] The meaning behind reggae songs tend to be about love, faith or a higher power, and freedom.[30] Reggae music is important to Jamaican culture as it has been used as inspiration for many third world liberation movements. Bob Marley, an artist primarily known for reggae music, was honored by Zimbabwe's 1980 Independence celebration due to his music giving inspirations to freedom fighters. The music genre of reggae is known to incorporate stylistic techniques from rhythm and blues, jazz, African, Caribbean, and other genres as well but what makes reggae unique are the vocals and lyrics.[citation needed] The vocals tend to be sung in Jamaican Patois, Jamaican English, and Iyaric dialects. The lyrics of reggae music usually tend to raise political awareness and on cultural perspectives.[31]
+
+Rock music[edit]
+Main article: Rock music
+Rock music is a broad genre of popular music that originated as "rock and roll" in the United States in the late 1940s and early 1950s, developing into a range of different styles in the mid-1960s and later, particularly in the United States and the United Kingdom.
+
+Metal music[edit]
+Main article: Heavy metal music
+Heavy metal evolved from hard rock, psychedelic rock, and blues rock in 1980s, and became a rougher style than the rock music. Notable subgenres include thrash metal, death metal, power metal, and black metal.[citation needed]
+
+Soul music and R&B[edit]
+Main articles: Soul music and rhythm and blues
+Soul music became a musical genre that came to include a wide variety of R&B-based music styles from the pop R&B acts at Motown Records in Detroit, such as The Temptations, Gladys Knight & the Pips, Marvin Gaye and Four Tops, to "deep soul" singers such as Percy Sledge and James Carr.[32]
+
+Polka[edit]
+Main article: Polka
+The polka is originally a Czech dance and genre of dance music familiar throughout Europe and the Americas.[33]
+
+Religious music[edit]
+Main article: Religious music
+Religious music (also sacred music) is music performed or composed for religious use or through religious influence. Gospel, spiritual, and Christian music are examples of religious music.
+
+Traditional and folk music[edit]
+Main articles: Folk music and contemporary folk musicSome of this section's listed sources may not be reliable. Please help this article by looking for better, more reliable sources. Unreliable citations may be challenged or deleted.  (May 2019) (Learn how and when to remove this template message)  Piano accordion: Italian instrument used in several cultures
+Traditional and folk music are very similar categories.  Although the traditional music is a very broad category and can include several genres, it is widely accepted that traditional music encompasses folk music.[34] According to the ICTM (International Council for Traditional Music), traditional music are songs and tunes that have been performed over a long period of time (usually several generations). [35]
+The folk music genre is classified as the music that is orally passed from one generation to another. Usually the artist is unknown, and there are several versions of the same song.[36] The genre is transmitted by singing, listening and dancing to popular songs. This type of communication allows culture to transmit the styles (pitches and cadences) as well as the context it was developed.[37]
+Culturally transmitting folk songs maintain rich evidence about the period of history when they were created and the social class in which they developed.[38] Some examples of the Folk Genre can be seen in the folk music of England and Turkish folk music.  English folk music has developed since the medieval period and has been transmitted from that time until today.  Similarly, Turkish folk music relates to all the civilizations that once passed thorough Turkey, thereby being a world reference since the east–west tensions during the Early Modern Period.
+Traditional folk music usually refers to songs composed in the twentieth century, which tend to be written as universal truths and big issues of the time they were composed.[39]  Artists including Bob Dylan; Peter, Paul and Mary; James Taylor; and Leonard Cohen transformed folk music to what it is known today.[40]  Newer composers such as Ed Sheeran (pop folk) and The Lumineers (American folk) are examples of contemporary folk music, which has been recorded and adapted to the new way of listening to music (online)—unlike the traditional way of orally transmitting music.[41]
+Each country in the world, in some cases each region, district and community, has its own folk music style.  The sub-divisions of folk genre are developed by each place, cultural identity and history.[42]  Because the music is developed in different places, many of the instruments are characteristic to location and population—but some are used everywhere: button or piano accordion, different types of flutes or trumpets, banjo, and ukulele.  Both French and Scottish folk music use related instruments such as the fiddle, the harp and variations of bagpipes.[43][44]
+
+Psychology of music preference[edit]
+Main article: Psychology of music preference
+  Metallica performing at the O2 Arena, March 28, 2009
+  John Scofield at the stage of Energimølla. The concert was part of Kongsberg Jazzfestival and took place on 6 July 2017
+Social influences on music selection[edit]
+Since music has become more easily accessible (Spotify, iTunes, YouTube, etc.), more people have begun listening to a broader and wider range of music styles.[45] In addition, social identity also plays a large role in music preference. Personality is a key contributor for music selection. Those who consider themselves to be "rebels" will tend to choose heavier music styles like heavy metal or hard rock, while those who consider themselves to be more "relaxed" or "laid back" will tend to choose lighter music styles like jazz or classical music.[45] According to one model, there are five main factors that exist that underlie music preferences that are genre-free,[contradictory] and reflect emotional/affective responses.[46] These five factors are:
+
+A Mellow factor consisting of smooth and relaxing styles (jazz, classical, etc.).
+An Urban factor defined largely by rhythmic and percussive music (rap, hip-hop, funk, etc.).
+A Sophisticated factor (operatic, world, etc.)
+An Intensity factor that is defined by forceful, loud, and energetic music (rock, metal, etc.).
+A campestral factor, which refers to singer-songwriter genres and country.[46]
+Individual and situational influences[edit]
+Studies have shown that while women prefer more treble oriented music, men prefer to listen to bass-heavy music. A preference for bass-heavy music is sometimes paired with borderline and antisocial personalities.[47]
+Age is another strong factor that contributes to musical preference. Evidence is available that shows that music preference can change as one gets older.[48] A Canadian study showed that adolescents show greater interest in pop music artists while adults and the elderly population prefer classic genres such as rock, opera, and jazz.[49]
+
+See also[edit]
+Composition school
+Genealogy of musical genres
+List of music styles
+List of popular music genres
+List of radio formats
+Radio Data System, which enables the tagging of the genre of broadcasts within defined categories
+List of Grammy Award categories, which defines a list of genres
+List of ID3v1 Genres
+Billboard charts, which defines a list of genres
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ Samson, Jim. "Genre". In Grove Music Online. Oxford Music Online. Accessed March 4, 2012.
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Dannenberg, Roger (2010). Style in Music (PDF) (published 2009). p. 2. Bibcode:2010tsos.book...45D.
+
+^ Green, Douglass M. (1965). Form in Tonal Music. Holt, Rinehart, and Winston, Inc. p. 1. ISBN 978-0-03-020286-5.
+
+^ a b Moore, Allan F. (2001). "Categorical Conventions in Music Discourse: Style and Genre" (PDF). Music & Letters. 82 (3): 432–442. doi:10.1093/ml/82.3.432. JSTOR 3526163.
+
+^ a b Fabbri, Franco (1982), A Theory of Musical Genres: Two Applications (PDF), p. 1
+
+^ Laurie, Timothy (2014). "Music Genre as Method". Cultural Studies Review. 20 (2). doi:10.5130/csr.v20i2.4149.
+
+^ van der Merwe, Peter (1989). Origins of the Popular Style: The Antecedents of Twentieth-Century Popular Music. Oxford: Clarendon Press. p. 3. ISBN 978-0-19-316121-4.
+
+^ "subgenre". dictionary.com.
+
+^ "Subgenre". The Free Dictionary. Farlex.
+
+^ Ahrendt, Peter (2006), Music Genre Classification Systems - A Computational Approach (PDF), p. 10
+
+^ Philip Tagg, 'Towards a Sign Typology of Music', in Secondo convegno europeo di analisi musicale, ed. Rosanna Dalmonte & Mario Baroni, Trent, 1992, pp. 369-78, at p. 376.
+
+^ "Genres and Styles | Discogs". Discogs Blog. Retrieved April 6, 2021.
+
+^ Stevens, Anne H.; O'Donnell, Molly C., eds. (2020). The Microgenre: A Quick Look at Small Culture. Bloomsbury Publishing. pp. 1–6. ISBN 978-1-5013-4583-8.
+
+^ a b c Tagg, Philip. "Analysing Popular Music: Theory, Method and Practice". Popular Music 2 (1982): 41.
+
+^ François Pachet, Geert Westermann, Damien Laigre. "Musical Data Mining for Electronic Music Distribution" Archived March 27, 2014, at the Wayback Machine. Proceedings of the 1st WedelMusic Conference sou, pp. 101–106, Firenze, Italy, 2001.
+
+^ Janice Wong (2011). "Visualising Music: The Problems with Genre Classification".
+
+^ Fitzpatrick, Rob (September 4, 2014). "From Charred Death to Deep Filthstep: The 1,264 Genres That Make Modern Music". The Guardian.
+
+^ "Every Noise at Once". everynoise.com. Retrieved April 6, 2021.
+
+^ a b c "Musical genres are out of date – but this new system explains why you might like both jazz and hip hop". Econotimes. August 3, 2016. Retrieved August 8, 2016.
+
+^ Vincenzo Caporaletti (2005). I processi improvvisativi nella musica. Lucca. LIM. ISBN 88-7096-420-5.
+
+^ Vincenzo Caporaletti (2019). Introduzione alla teoria delle musica audiotattili. Roma. Aracne. ISBN 9788825520910.
+
+^ Siron, Jacques. "Musique Savante (Serious Music)". Dictionnaire des mots de la musique (Paris: Outre Mesure): 242.
+
+^ a b Arnold, Denis: "Art Music, Art Song", in The New Oxford Companion to Music, Volume 1: A-J (Oxford and New York: Oxford University Press, 1983): 111.
+
+^ Tagg, Philip. "Analysing Popular Music: Theory, Method and Practice". Popular Music 2 (1982): 37–67, here 41–42.
+
+^ Anon. Avant-Garde Jazz. AllMusic.com, n.d.
+
+^ Arnold, Denis (1983): "Art Music, Art Song", in The New Oxford Companion to Music, Volume 1: A-J, Oxford University Press, p. 111, ISBN 0-19-311316-3.
+
+^ "Definition of HIP HOP". www.merriam-webster.com. Retrieved March 13, 2019.
+
+^ "Rap | music". Encyclopedia Britannica. Retrieved March 13, 2019.
+
+^ "ATH 175 Peoples of the World". www.units.miamioh.edu. Retrieved February 19, 2020.
+
+^ Daynes, Sarah (May 16, 2016). Time and memory in reggae music: The politics of hope. Manchester University Press. ISBN 9781847792877 – via www.manchesterhive.com.
+
+^ Dagnini, Jérémie Kroubo (May 18, 2011). "The Importance of Reggae Music in the Worldwide Cultural Universe". Études caribéennes (16). doi:10.4000/etudescaribeennes.4740. ISSN 1779-0980.
+
+^ "Motown: The Sound that Changed America". Motown Museum. Retrieved October 27, 2016.
+
+^ Gracian Černušák, revised by Andrew Lamb and John Tyrrell, "Polka (from Cz., pl. polky )", The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell (London: Macmillan Publishers, 2001).
+
+^ "What is Traditional Music? – a broad definition". www.traditionalmusic.org. Retrieved March 29, 2019.
+
+^ "Home | International Council for Traditional Music". ictmusic.org. Retrieved March 29, 2019.
+
+^ "EarMaster – Music Theory & Ear Training on PC, Mac and iPad". www.earmaster.com. Retrieved March 29, 2019.
+
+^ Albrecht, Joshua; Shanahan, Daniel (February 1, 2019). "Examining the Effect of Oral Transmission on Folksongs". Music Perception. 36 (3): 273–288. doi:10.1525/mp.2019.36.3.273. ISSN 0730-7829.
+
+^ "Folk music". Encyclopedia Britannica. Retrieved March 29, 2019.
+
+^ "Traditional Folk Music Songs". AllMusic. Retrieved March 29, 2019.
+
+^ "Mystique Music – Music Licensing". Retrieved December 18, 2019.
+
+^ "Is folk music dying out? | Naz & Ella | Indie-Folk Duo | London". Naz & Ella | Indie-Folk Duo | London. April 2017. Retrieved April 2, 2019.
+
+^ "THE GENERAL CHARACTER OF EUROPEAN FOLK MUSIC". www.cabrillo.edu. Retrieved April 1, 2019.
+
+^ "What instruments are used in typical French folk music". Scribd. Retrieved April 4, 2019.
+
+^ "Traditional Scottish Music". English Club TV On-the-Go. October 29, 2015. Retrieved April 4, 2019.
+
+^ a b Chamorro-Premuzic, Tomas (January 14, 2011). "The Psychology of Musical Preferences". Psychology Today. Retrieved March 27, 2019.
+
+^ a b Rentfrow, Peter J.; Goldberg, Lewis R.; Levitin, Daniel J. (2011). "The structure of musical preferences: A five-factor model". Journal of Personality and Social Psychology. 100 (6): 1139–1157. doi:10.1037/a0022406. ISSN 1939-1315. PMC 3138530. PMID 21299309.
+
+^ McCown, William; Keiser, Ross; Mulhearn, Shea; Williamson, David (October 1997). "The role of personality and gender in preference for exaggerated bass in music". Personality and Individual Differences. 23 (4): 543–547. doi:10.1016/s0191-8869(97)00085-8.
+
+^ Bonneville-Roussy, Arielle; Rentfrow, Peter J.; Xu, Man K.; Potter, Jeff (2013). "Music through the ages: Trends in musical engagement and preferences from adolescence through middle adulthood". Journal of Personality and Social Psychology. 105 (4): 703–717. doi:10.1037/a0033770. PMID 23895269.
+
+^ Schwartz, Kelly; Fouts; Gregory (2003). "Music preferences, personality style, and developmental issues of adolescents". Journal of Youth and Adolescence. 32 (3): 205–213. doi:10.1023/a:1022547520656. S2CID 41849910.
+
+
+Further reading[edit]
+Holt, Fabian (2007). Genre in Popular Music. Chicago: University of Chicago Press.
+Negus, Keith (1999). Music Genres and Corporate Cultures. New York: Routledge. ISBN 978-0-415-17399-5.
+Starr, Larry; Waterman, Christopher Alan (2010). American popular music from minstrelsy to MP3. Oxford University Press. ISBN 978-0-19-539630-0.
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteLists of music genres and stylesGeneral lists
+Music styles
+A–F
+G–M
+N–R
+S–Z
+Microgenres
+Uses accordion
+Genres
+Classical and art music traditions
+Electronic
+Ambient
+Breakbeat
+EDM
+Hardstyle
+House
+Industrial
+Techno
+Trance
+Jazz
+Popular
+Country
+Hip hop
+Reggae
+Rock
+Heavy metal
+Punk rock
+Hardcore punk
+Themes and movements
+Martial
+Progressive
+Psychedelic
+Cultural and regional genres
+Caribbean
+Folk traditions
+American
+Central
+North
+South
+Asian
+Caribbean
+European
+Middle Eastern and North African
+Oceanic and Australian
+Sub-Saharan African
+Gamelan
+
+vteMusicHistory of music
+Prehistoric
+Ancient
+Religious
+Biblical
+Secular
+Martial
+Art music
+Afghan classical music—Klasik
+Andalusian classical music
+Arabic music
+Azerbaijani Mugham
+Cambodian ceremonial music—Pinpeat
+Burmese classical music—Mahāgīta
+Chinese traditional music
+Gongche
+Western Classical Music
+Medieval
+Renaissance
+Baroque
+Classical
+Romantic
+20th-century
+Modernist
+Contemporary
+Postmodernist
+21st century
+classical music genres
+Indian classical music
+Ancient Tamil music
+Carnatic
+Hindustani
+Indonesian art music—Gamelan
+Classical music of Iran
+Japanese court music—Gagaku
+Korean court music
+Lao classical music
+Mandé art music
+Ottoman classical music
+Philippine art songs—Kundiman
+Scottish Ceòl Mór
+Kandyan dance of Sri Lanka
+Thai classical music—Piphat
+Vietnam imperial court music—Nhã nhạc
+Vernacular music
+Circus music
+Folk music
+Popular music
+Blues
+Country music
+Electronic music
+Electronic dance music
+Hip hop music
+Jazz
+Pop music
+Progressive music
+Psychedelic music
+Rock music
+Heavy metal
+Punk rock
+Alternative
+Soul music
+
+MusicianEnsembles
+Band (rock and pop)
+Backup band
+All-female band
+Rhythm section
+Big band
+Choir
+Concert band
+Songwriter
+Conducting
+Disc jockey
+Military band
+Orchestra
+Singing
+Lead vocalist
+Backing vocalist
+TheoryComposition
+Form
+Genre
+Notation
+Improvisation
+Lyrics
+Song
+Education and study
+Bachelor of Music
+Master of Music
+Doctor of Musical Arts
+PhD
+Music archaeology
+Music education
+Music history
+Music psychology
+Musicology
+Biomusicology
+Cognitive musicology
+Computational musicology
+Ecomusicology
+Ethnomusicology
+New musicology
+Sociomusicology
+Zoomusicology
+Production
+Single
+A-side and B-side
+Extended play
+Compilation
+Live
+Remix
+Audio engineer
+Record label
+Record producer
+Sampling
+Music technology (electric)
+Music technology (electronic and digital)
+Sound recording and reproduction
+Cover
+Remix
+Cultural and regional genres
+African
+Central
+East
+North
+Southern
+West
+Asian
+Central
+East
+Middle Eastern
+South
+Southeast
+European
+Central
+Eastern
+Northern
+Southeastern
+Southern
+Western
+Latin American
+Central American
+South American
+North American
+Caribbean
+Oceanian
+Melanesian
+Micronesian
+Polynesian
+By sovereign state AfghanistanAlbaniaAlgeriaAndorraAngolaAntigua and BarbudaArgentinaArmeniaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCentral African RepublicChadChileChinaColombiaComorosCosta RicaCroatiaCubaCyprusCzech RepublicDemocratic Republic of the CongoDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatiniEthiopiaFederated States of MicronesiaFijiFinlandFranceGabonGambiaGeorgiaGermanyGhanaGreeceGrenadaGuatemalaGuineaGuinea-BissauGuyanaHaitiHondurasHungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyIvory CoastJamaicaJapanJordanKazakhstanKenyaKiribatiKosovoKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMauritaniaMauritiusMexicoMoldovaMonacoMongoliaMontenegroMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew ZealandNicaraguaNigerNigeriaNorth KoreaNorth MacedoniaNorwayOmanPakistanPalauPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPolandPortugalQatarRepublic of the CongoRomaniaRussiaRwandaSaint Kitts and NevisSaint LuciaSaint Vincent and the GrenadinesSamoaSan MarinoSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth KoreaSouth SudanSpainSri LankaSudanSurinameSwedenSwitzerlandSyriaSão Tomé and PríncipeTaiwanTajikistanTanzaniaThailandTogoTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamWestern SaharaYemenZambiaZimbabweLists
+Albums
+Classical and art music traditions
+Cultural and regional genres
+Index
+Instruments
+Jazz and popular music glossary
+Musical genres by era
+Outline
+Popular music genres
+Songs
+Terminology
+Related articles
+Aesthetics of music
+Album era
+Music and politics
+Music festival
+Music therapy
+Musical instrument
+Women in music
+
+ Outline
+ Category
+ Portal
+
+Authority control 
+Integrated Authority File (Germany)
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Music_genre&oldid=1060897458"
+		Categories: Music genresHidden categories: Webarchive template wayback linksArticles with short descriptionShort description matches WikidataWikipedia indefinitely move-protected pagesUse mdy dates from November 2012Articles with limited geographic scope from March 2012Articles that may contain original research from August 2014All articles that may contain original researchArticles with multiple maintenance issuesArticles to be expanded from April 2021All articles to be expandedArticles using small message boxesAll articles with unsourced statementsArticles with unsourced statements from February 2020Articles with unsourced statements from June 2021Articles lacking reliable references from May 2019All articles lacking reliable referencesAll self-contradictory articlesSelf-contradictory articles from September 2019Articles with GND identifiers
+	

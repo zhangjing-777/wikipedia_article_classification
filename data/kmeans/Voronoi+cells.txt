@@ -1,0 +1,115 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		File
+File history
+File usage
+Global file usageSize of this PNG preview of this SVG file: 660 × 309 pixels. Other resolutions: 320 × 150 pixels | 640 × 300 pixels | 1,024 × 479 pixels | 1,280 × 599 pixels | 2,560 × 1,199 pixels.
+Original file ‎(SVG file, nominally 660 × 309 pixels, file size: 145 KB)
+
+This is a file from the Wikimedia Commons. Information from its description page there is shown below.Commons is a freely licensed media file repository. You can help.
+
+Summary
+
+DescriptionIris Flowers Clustering kMeans.svg
+
+English:  Iris flower data set, clustered using k means (left) and true species in the data set (right).
+Note that k-means is non-determinicstic, so results vary. Cluster means are visualized using larger, semi-transparent markers.
+
+The visualization was generated using ELKI.
+Deutsch:  Iris flower data set, mit dem k-Means-Algorithmus analysiert (links) und die wahren Spezien im Datensatz (rechts).
+Da k-means nicht deterministisch ist, variieren die Ergebnisse. Die Clusterzentren sind durch größere, halbtransparente Markierungen eingezeichnet.
+
+Visualisiert mit ELKI.
+Русский:  Ирисы Фишера, кластеризованные с помощью метода k-средних (слева) и настоящие виды наборов данных (справа).
+Метод k-средних не является детерминированным, поэтому результаты отличаются. Центры кластеров отмечены с помощью крупных, полупрозрачных маркеров.
+
+Визуализация была получена с помощью ELKI.
+Date
+
+6 October 2010
+Source
+
+Own work
+Author
+
+Chire
+Permission(Reusing this file)
+
+Public domainPublic domainfalsefalse
+
+I, the copyright holder of this work, release this work into the public domain. This applies worldwide.In some countries this may not be legally possible; if so:I grant anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
+
+Other versions
+
+Derivative works of this file:
+
+ Iris Flowers Clustering kMeans de.svg
+Iris Flowers Clustering kMeans ru.svg
+SVG development The SVG code is valid. This  vector image was created with ELKI.   This SVG file uses  embedded text that can be easily translated using a text editor.
+
+
+Licensing
+Public domainPublic domainfalsefalse
+
+I, the copyright holder of this work, release this work into the public domain. This applies worldwide.In some countries this may not be legally possible; if so:I grant anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
+CaptionsEnglishAdd a one-line explanation of what this file representsItems portrayed in this filedepictscreatorsome valueURL: https://commons.wikimedia.org/wiki/user:Chireauthor name string: ChireWikimedia username: Chirecopyright statuscopyrighted, dedicated to the public domain by copyright holdercopyright licensereleased into the public domain by the copyright holderinception6 October 2010source of fileoriginal creation by uploader
+File history
+
+Click on a date/time to view the file as it appeared at that time.
+
+
+Date/TimeThumbnailDimensionsUserComment
+current09:41, 19 January 2011660 × 309 (145 KB)ChireSpelling fix.
+15:40, 6 October 2010660 × 309 (145 KB)ChireLarger symbols to improve thumbnails
+15:06, 6 October 2010660 × 309 (157 KB)ChireNext try.
+14:49, 6 October 2010640 × 289 (86 KB)Chirenext try to fix fonts.
+14:48, 6 October 2010640 × 289 (86 KB)Chiretry fixing fonts. again.
+14:34, 6 October 2010640 × 289 (89 KB)ChireTry to fix the fonts.
+14:23, 6 October 2010640 × 289 (89 KB)Chire{{Information |Description={{en|1=Iris flower data set, clustered using k means (left) and true species in the data set (right). Note that k-means is non-determinicstic, so results vary.}} {{de|1=[[:
+
+
+
+File usage
+
+The following pages on the English Wikipedia use this file (pages on other projects are not listed):
+Iris flower data set
+K-means clustering
+
+
+Global file usage
+The following other wikis use this file:
+
+Usage on ca.wikipedia.org
+	Conjunt de dades de flors Iris
+
+Usage on cy.wikipedia.org
+	Clystyru k-cymedr
+
+Usage on de.wikipedia.org
+	Diskussion:Clusteranalyse
+	Benutzer:Annairah/Iris Datensatz
+
+Usage on es.wikipedia.org
+	K-medias
+	Conjunto de datos flor iris
+
+Usage on fr.wikipedia.org
+	Iris de Fisher
+
+Usage on hy.wikipedia.org
+	K-միջիններով կլաստերինգ
+
+Usage on pt.wikipedia.org
+	Conjunto de dados flor Iris
+
+
+
+Retrieved from "https://en.wikipedia.org/wiki/File:Iris_Flowers_Clustering_kMeans.svg"
+		
+	

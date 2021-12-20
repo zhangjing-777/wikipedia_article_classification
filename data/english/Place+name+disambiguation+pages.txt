@@ -1,0 +1,291 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}.mw-parser-output .help-box{background:#f5faff;line-height:1.6em}.mw-parser-output .help-box .sidebar-title{background:#cee0f2;font-size:130%;padding-left:0.4em;padding-right:0.4em;margin-bottom:6px}.mw-parser-output .help-box .sidebar-heading{background:#cee0f2;padding:0.1em 0.7em 0.15em}.mw-parser-output .help-box .sidebar-content,.mw-parser-output .help-box .sidebar-content-with-subgroup{padding-top:0.15em}@media all and (min-width:720px){.mw-parser-output .help-box{width:auto;max-width:22em}}Disambiguation
+Guideline (talk)
+Manual of Style (talk)
+Dos and don'ts (talk)
+Reader help (talk)
+
+{{Disambiguation}}
+
+WikiProject (talk)
+CJKV task force (talk)
+
+Disambig category
+Pages in need of cleanup
+Pages with links
+Topical lists and DAB solver tool
+
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+.mw-parser-output .module-shortcutboxplain{float:right;margin:0 0 0 1em;border:1px solid #aaa;background:#fff;padding:0.3em 0.6em 0.2em 0.6em;text-align:center;font-size:85%}.mw-parser-output .module-shortcutboxleft{float:left;margin:0 1em 0 0}.mw-parser-output .module-shortcutlist{display:inline-block;border-bottom:1px solid #aaa;margin-bottom:0.2em}.mw-parser-output .module-shortcutboxplain>ul{font-weight:bold}.mw-parser-output .module-shortcutanchordiv{position:relative;top:-3em}.mw-parser-output li .module-shortcutanchordiv{float:right}.mw-parser-output .mbox-imageright .module-shortcutboxplain{padding:0.4em 1em 0.4em 1em;line-height:1.3}ShortcutCAT:DABP
+Disambiguation in Wikipedia is the process of resolving the conflicts that occur when articles about two or more different topics could have the same "natural" page title. This category contains disambiguation pages:  non-article pages containing links to other Wikipedia articles and disambiguation pages.
+Disambiguation pages are added to Category:Disambiguation pages by placing the {{Disambiguation}} template on the page itself. Other templates are available that place articles in more specific disambiguation subcategories. A page may also be assessed as "disambiguation-class" by various WikiProjects by including "|class=Disambig" in a WikiProject template on the talk page of the disambiguation page. This places the talk page in a subcategory of Category:Disambig-Class articles.
+
+Notes
+Do not include this category manually in articles; the {{Disambiguation}} template automatically does this.
+Do not add articles to these sub-categories or create additional sub-categories until you read Manual of Style (disambiguation pages)—most of the sub-categories do not comply with the MOS and will be removed.
+Links to disambiguation pages other than from the top of articles are usually mistakes. Find and fix them at disambiguation pages with links.
+
+
+
+Wikimedia Commons has media related to Disambiguation.
+
+Lists of disambiguation pages:
+
+Links to disambiguating pages
+Links to (disambiguation) pages
+Multiple-place names
+Disambiguation pages can include links to Wiktionary, using {{wiktionary}}.
+
+.mw-parser-output .large-cat-toc{box-sizing:border-box;display:block;clear:both}.mw-parser-output .large-cat-toc-body{text-align:center}.mw-parser-output .large-cat-toc-scroll{overflow-x:scroll;overflow-y:hidden;white-space:nowrap}.mw-parser-output .large-cat-toc.mw-collapsible{padding:4px;text-align:center;border:1px solid #a2a9b1;font-size:95%}.mw-parser-output .large-cat-toc .mw-collapsible-content{background-color:white;font-family:monospace,monospace}.mw-parser-output .large-cat-toc .mw-collapsible-content>span{border-bottom:1px solid #eaecf0}.mw-parser-output .large-cat-toc-jumpy-title{margin:0 4em}.mw-parser-output .large-cat-toc.mw-collapsible .toctitle,.mw-parser-output .large-cat-toc-title,.mw-parser-output .large-cat-toc-anum{font-weight:bold}Contents: Top 0–9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z#  0 1 2 3 4 5 6 7 8 9A  Aa  Ab  Ac  Ad  Ae  Af  Ag  Ah  Ai  Aj  Ak  Al  Am  An  Ao  Ap  Aq  Ar  As  At  Au  Av  Aw  Ax  Ay  Az B  Ba  Bb  Bc  Bd  Be  Bf  Bg  Bh  Bi  Bj  Bk  Bl  Bm  Bn  Bo  Bp  Bq  Br  Bs  Bt  Bu  Bv  Bw  Bx  By  Bz C  Ca  Cb  Cc  Cd  Ce  Cf  Cg  Ch  Ci  Cj  Ck  Cl  Cm  Cn  Co  Cp  Cq  Cr  Cs  Ct  Cu  Cv  Cw  Cx  Cy  Cz D  Da  Db  Dc  Dd  De  Df  Dg  Dh  Di  Dj  Dk  Dl  Dm  Dn  Do  Dp  Dq  Dr  Ds  Dt  Du  Dv  Dw  Dx  Dy  Dz E  Ea  Eb  Ec  Ed  Ee  Ef  Eg  Eh  Ei  Ej  Ek  El  Em  En  Eo  Ep  Eq  Er  Es  Et  Eu  Ev  Ew  Ex  Ey  Ez F  Fa  Fb  Fc  Fd  Fe  Ff  Fg  Fh  Fi  Fj  Fk  Fl  Fm  Fn  Fo  Fp  Fq  Fr  Fs  Ft  Fu  Fv  Fw  Fx  Fy  Fz G  Ga  Gb  Gc  Gd  Ge  Gf  Gg  Gh  Gi  Gj  Gk  Gl  Gm  Gn  Go  Gp  Gq  Gr  Gs  Gt  Gu  Gv  Gw  Gx  Gy  Gz H  Ha  Hb  Hc  Hd  He  Hf  Hg  Hh  Hi  Hj  Hk  Hl  Hm  Hn  Ho  Hp  Hq  Hr  Hs  Ht  Hu  Hv  Hw  Hx  Hy  Hz I  Ia  Ib  Ic  Id  Ie  If  Ig  Ih  Ii  Ij  Ik  Il  Im  In  Io  Ip  Iq  Ir  Is  It  Iu  Iv  Iw  Ix  Iy  Iz J  Ja  Jb  Jc  Jd  Je  Jf  Jg  Jh  Ji  Jj  Jk  Jl  Jm  Jn  Jo  Jp  Jq  Jr  Js  Jt  Ju  Jv  Jw  Jx  Jy  Jz K  Ka  Kb  Kc  Kd  Ke  Kf  Kg  Kh  Ki  Kj  Kk  Kl  Km  Kn  Ko  Kp  Kq  Kr  Ks  Kt  Ku  Kv  Kw  Kx  Ky  Kz L  La  Lb  Lc  Ld  Le  Lf  Lg  Lh  Li  Lj  Lk  Ll  Lm  Ln  Lo  Lp  Lq  Lr  Ls  Lt  Lu  Lv  Lw  Lx  Ly  Lz M  Ma  Mb  Mc  Md  Me  Mf  Mg  Mh  Mi  Mj  Mk  Ml  Mm  Mn  Mo  Mp  Mq  Mr  Ms  Mt  Mu  Mv  Mw  Mx  My  Mz N  Na  Nb  Nc  Nd  Ne  Nf  Ng  Nh  Ni  Nj  Nk  Nl  Nm  Nn  No  Np  Nq  Nr  Ns  Nt  Nu  Nv  Nw  Nx  Ny  Nz O  Oa  Ob  Oc  Od  Oe  Of  Og  Oh  Oi  Oj  Ok  Ol  Om  On  Oo  Op  Oq  Or  Os  Ot  Ou  Ov  Ow  Ox  Oy  Oz P  Pa  Pb  Pc  Pd  Pe  Pf  Pg  Ph  Pi  Pj  Pk  Pl  Pm  Pn  Po  Pp  Pq  Pr  Ps  Pt  Pu  Pv  Pw  Px  Py  Pz Q  Qa  Qb  Qc  Qd  Qe  Qf  Qg  Qh  Qi  Qj  Qk  Ql  Qm  Qn  Qo  Qp  Qq  Qr  Qs  Qt  Qu  Qv  Qw  Qx  Qy  Qz R  Ra  Rb  Rc  Rd  Re  Rf  Rg  Rh  Ri  Rj  Rk  Rl  Rm  Rn  Ro  Rp  Rq  Rr  Rs  Rt  Ru  Rv  Rw  Rx  Ry  Rz S  Sa  Sb  Sc  Sd  Se  Sf  Sg  Sh  Si  Sj  Sk  Sl  Sm  Sn  So  Sp  Sq  Sr  Ss  St  Su  Sv  Sw  Sx  Sy  Sz T  Ta  Tb  Tc  Td  Te  Tf  Tg  Th  Ti  Tj  Tk  Tl  Tm  Tn  To  Tp  Tq  Tr  Ts  Tt  Tu  Tv  Tw  Tx  Ty  Tz U  Ua  Ub  Uc  Ud  Ue  Uf  Ug  Uh  Ui  Uj  Uk  Ul  Um  Un  Uo  Up  Uq  Ur  Us  Ut  Uu  Uv  Uw  Ux  Uy  Uz V  Va  Vb  Vc  Vd  Ve  Vf  Vg  Vh  Vi  Vj  Vk  Vl  Vm  Vn  Vo  Vp  Vq  Vr  Vs  Vt  Vu  Vv  Vw  Vx  Vy  Vz W  Wa  Wb  Wc  Wd  We  Wf  Wg  Wh  Wi  Wj  Wk  Wl  Wm  Wn  Wo  Wp  Wq  Wr  Ws  Wt  Wu  Wv  Ww  Wx  Wy  Wz X  Xa  Xb  Xc  Xd  Xe  Xf  Xg  Xh  Xi  Xj  Xk  Xl  Xm  Xn  Xo  Xp  Xq  Xr  Xs  Xt  Xu  Xv  Xw  Xx  Xy  Xz Y  Ya  Yb  Yc  Yd  Ye  Yf  Yg  Yh  Yi  Yj  Yk  Yl  Ym  Yn  Yo  Yp  Yq  Yr  Ys  Yt  Yu  Yv  Yw  Yx  Yy  Yz Z  Za  Zb  Zc  Zd  Ze  Zf  Zg  Zh  Zi  Zj  Zk  Zl  Zm  Zn  Zo  Zp  Zq  Zr  Zs  Zt  Zu  Zv  Zw  Zx  Zy  Zz 
+See also: Category:Former disambiguation pages
+
+
+
+
+
+
+Subcategories
+This category has the following 24 subcategories, out of 24 total.
+ 
+ All disambiguation pages‎ (333,231 P)*
+ All article disambiguation pages‎ (332,782 P)A
+ Airport disambiguation‎ (1,236 P)B
+ Broadcast call sign disambiguation pages‎ (5,362 P)
+  Buildings and structures disambiguation pages‎ (6 C, 26 P)C
+ Case law disambiguation pages‎ (59 P)
+ Disambiguation pages with Chinese character titles‎ (182 P)D
+ Date and time disambiguation pages‎ (38 P)
+  Disambiguation pages containing one non-primary topic‎ (6 C)
+  Disambiguation pages in need of cleanup‎ (9 C)G
+ Disambiguation pages with given-name-holder lists‎ (4,139 P)H
+  Human name disambiguation pages‎ (1 C, 70,126 P)L
+ Language and nationality disambiguation pages‎ (1,189 P)
+  Letter-number combination disambiguation pages‎ (3 C, 4,866 P)
+ Lists of ambiguous numbers‎ (758 P)M
+ Military units and formations disambiguation pages‎ (1,360 P)P
+  Place name disambiguation pages‎ (4 C, 63,069 P)
+ Political party disambiguation pages‎ (449 P)S
+  Science disambiguation pages‎ (4 C, 10 P)
+ Disambiguation pages with surname-holder lists‎ (15,141 P)T
+ Technology and engineering disambiguation pages‎ (6 P)
+ Template disambiguation pages‎ (82 P)
+ Title and name disambiguation pages‎ (4,874 P)
+  Transport disambiguation pages‎ (6 C)
+
+Pages in category "Disambiguation pages"
+The following 200 pages are in this category, out of approximately 205,596 total. This list may not reflect recent changes (learn more).
+(previous page) (next page)-
+- (disambiguation)
+--
+-.-!
+! (disambiguation)
+!!
+!!! (disambiguation)¡
+¡Qué Chulada!?
+??
+?=¿
+¿Dónde está Elisa?.
+ּ
+. .
+.32 Short
+.500
+.app
+.art
+.java
+.S'
+' (disambiguation)"
+" (disambiguation)(
+( ) (disambiguation)
+(=
+(character)*
+* (disambiguation)
+**
+***
+*=/
+//
+/\
+/=
+/s/\
+\/
+\\
+\nnn&
+& (disambiguation)
+&&^
+^^←
+←→
+→↑
+↑↓
+↓∆
+∆+
++ (disambiguation)
++++=
+=?−
+−2
+−5≡
+≡≤
+≤⊕
+⊕⊖
+⊖⊿
+⊿☨
+☨✕
+✕$
+$ (disambiguation)
+$0
+$1
+$1 coin
+$2
+$3
+$5
+$10
+$20
+$50
+$100
+$200
+$500
+$1000£
+£$€
+£2₰
+₰0–9
+0 series
+0 to 100
+0.99
+1 ball
+1 Litre of Tears
+1 of 1
+1 series
+1 Train
+1-bit
+1:43
+1. deild karla
+1. deild kvenna
+1. Division
+1. Liga
+1º
+1º de Mayo
+1st & Ten
+1st Baron Redesdale
+1st Central Committee
+1st clan chief
+1st Congress
+1st district
+1st Division
+1st Duke of Buckingham
+1st Duke of Lancaster
+1st Duke of Newcastle
+1st Earl of Clarendon
+1st Earl of Derby
+1st Earl of Liverpool
+1st Earl of Orford
+1st Earl of Shelburne
+1st Earl of Suffolk
+1st Earl Temple
+1st Front
+1st meridian
+1st parallel
+1st Rank Raju
+1st Viscount Goderich
+1st Viscount Hampden
+2 cents
+2 Train
+2-bit
+2-EHA
+2-graph
+2:22
+2. Liga
+2/0
+2BU
+2nd Baron Redesdale
+2nd Bundesliga
+2nd Central Committee
+2nd Congress
+2nd district
+2nd Duke of Buckingham
+2nd Duke of Newcastle
+2nd Duke of Norfolk
+2nd Earl of Bristol
+2nd Earl of Clarendon
+2nd Earl of Derby
+2nd Earl of Liverpool
+2nd Earl of Orford
+2nd Earl of Rochester
+2nd Earl of Warwick
+2nd Floor
+2nd Front
+2nd Kentucky Cavalry Regiment
+2nd meridian
+2nd parallel
+2nd Round
+2nd Street
+3 Generations
+3 lane road
+03 numbers
+3 ring circus
+3 Songs
+3 Train
+3-coloring
+3-Way (disambiguation)
+3:10 to Yuma
+3. Liga (disambiguation)
+3D camera
+3D memory
+3D Movie
+3d studio
+3D video game
+3D Vision
+3rd Central Committee
+3rd Congress
+3rd Duke of Buckingham
+3rd Earl of Derby
+3rd Earl of Orford
+3rd Earl of Sussex
+3rd meridian
+3rd parallel
+3rd Street Tunnel
+4 da Gang
+4 in Love
+4 Minutes (disambiguation)
+4 Real
+4 Train
+4-connected
+4-cross
+4-track
+4-way
+4:44 (disambiguation)
+4. Liga
+4.2" mortar
+4°
+4NT
+4th Central Committee
+4th Congress
+4th Earl of Clarendon
+4th Earl of Derby
+4th Earl of Orford
+4th floor
+4th meridian
+4th Missouri Infantry Regiment
+4th parallel
+4x4 garage
+5 o'clock
+5 stages
+5 Train
+5th Central Committee
+5th Congress
+5th Earl of Derby
+5th Earl of Oxford
+5th Gear
+5th meridian
+5th parallel(previous page) (next page)
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Category:Disambiguation_pages&oldid=986438974"
+		Categories: Wikipedia disambiguationHidden categories: Wikipedia semi-protected categoriesCommons category link is on Wikidata
+	

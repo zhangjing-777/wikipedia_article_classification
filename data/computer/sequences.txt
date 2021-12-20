@@ -1,0 +1,1195 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Computer system for running video games
+It has been suggested that Home video game console be merged into this article. (Discuss) Proposed since October 2021.
+
+
+  A collection of various classic video game consoles at a game show in 2010.
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Video games
+Platforms
+Arcade video game
+Console game
+Game console
+Home console
+Handheld console
+Electronic game
+Audio game
+Electronic handheld
+Online game
+Browser game
+Social-network game
+Mobile game
+PC game
+Linux
+Mac
+Virtual reality game
+
+Genres
+Action
+Beat 'em up
+Hack and slash
+Fighting
+Platform
+Shooter
+Survival
+Battle royale
+Action-adventure
+Stealth
+Survival horror
+Adventure
+Interactive fiction
+Interactive movie
+Visual novel
+ Gacha Game
+Role-playing
+Action role-playing
+Tactical role-playing
+Simulation
+Construction and management
+Life simulation
+Sports
+Vehicle
+Strategy
+4X
+Auto battler
+Multiplayer online battle arena
+Real-time strategy
+Real-time tactics
+Tower defense
+Turn-based strategy
+Turn-based tactics
+Horror
+Massively multiplayer online
+
+Lists
+Arcade video games
+Best-selling games
+franchises
+fastest-selling
+Highest-grossing games
+arcade
+mobile
+Longest-running franchises
+Most-played games
+mobile
+Games considered among the best
+Game of the Year awards
+Negative reception
+
+Development
+Game AI
+Game design
+Video game design
+Interaction
+Programming
+Art
+Graphics
+Music
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+A video game console is an electronic device that outputs a video signal or image to display a video game that can be played with a game controller. These may be home consoles which are generally placed in a permanent location connected to a television or other display device and controlled with a separate game controller, or handheld consoles that include their own display unit and controller functions built into the unit and can be played anywhere. Hybrid consoles combine elements of both home and handheld consoles.
+Video game consoles are a specialized form of a home computer geared towards video game playing, designed with affordability and accessibility to the general public in mind, but lacking in raw computing power and customization. Simplicity is achieved in part through the use of game cartridges or other simplified ways of distribution, easing the effort of launching a game. However, this leads to ubiquitous proprietary formats that creates competition for market share.[1] More recent consoles have shown further confluence with home computers, making it easy for developers to release games on multiple platforms. Further, modern consoles can serve as replacements for media players with capabilities to playback films and music from optical media or streaming media services.
+Video game consoles are usually sold on a 5-7 year cycle called a generation, with consoles made with similar technical capabilities or made around the same time period grouped into the generations. The industry has developed a razorblade model for selling consoles at low profit or at a loss while making revenue on the licensing fees for each game sold, with planned obsolescence to draw consumers into the next console generation. While numerous manufacturers have come and gone in the history of the console market, there have always been two or three dominant leaders in the market, with the current market led by Sony (with their PlayStation brand), Microsoft (with their Xbox brand), and Nintendo (currently producing the Switch console and its lightweight derivative).
+
+Contents
+
+1 History
+2 Types
+3 Components
+
+3.1 Console unit
+3.2 Controllers
+3.3 Game media
+3.4 External storage
+3.5 Online services
+3.6 Console add-ons
+3.7 Accessories
+
+
+4 Game development for consoles
+
+4.1 Console development kits
+4.2 Licensing
+
+
+5 Emulation and backward compatibility
+6 Market
+
+6.1 Distribution
+6.2 Pricing
+6.3 Competition
+
+
+7 See also
+8 Further reading
+9 References
+10 External links
+
+
+
+History[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}Main articles: History of video game consoles and Home video game console generations
+The first video game consoles emerged in the early 1970s. Ralph H. Baer devised the concept of playing simple spot-based games on a television screen in 1966, which later became the basis of the Magnavox Odyssey in 1972. Inspired by the table tennis game on the Odyssey, Nolan Bushnell, Ted Dabney, and Allan Alcorn at Atari, Inc. developed the first successful arcade game, Pong, and looked to develop that into a home version, which was released in 1975. The first consoles were dedicated to only a set group of games built into the hardware. Programmable consoles using swappable ROM cartridges were introduced with the Fairchild Channel F in 1976 though popularized with the Atari 2600 released in 1977.
+Handheld consoles emerged from technology improvements in handheld electronic games as these shifted from mechanical to electronic/digital logic, and away from light-emitting diode (LED) indicators to liquid-crystal displays (LCD) that resembled video screens more closely, with the Microvision in 1979 and Game & Watch in 1980 being early examples, and fully realized by the Game Boy in 1989.
+Since the 1970s, both home and handheld consoles became more advanced following global changes in technology, including improved electronic and computer chip manufacturing to increase computational power at lower costs and size, the introduction of 3D graphics and hardware-based graphic processors for real-time rendering, digital communications such as the Internet, wireless networking and Bluetooth, and larger and denser media formats as well as digital distribution. Following the same type of Moore's law progression, home consoles were grouped into generations, each lasting approximately five years, with consoles within each sharing similar technology specifications and features such as processor word size. While there is no standard definition or breakdown of home consoles by generation,[2] the definition of these generations used by Wikipedia including representative consoles is shown below.
+
+
+
+Overview of the console generations, including generation overlaps. Major consoles of each generation are given for each.
+
+
+Types[edit]
+See also: Home video game console, List of handheld game consoles, List of microconsoles, List of retro style video game consoles, and List of dedicated video game consoles
+There are primarily three types of video game consoles: Home consoles, handhelds, and hybrid consoles.
+
+Home video game consoles are devices that are generally meant to be connected to a television or other type of monitor, and with power supplied through an outlet, thus requiring the unit to be used in fixed locations, typically at home in one's living room. Separate game controllers, connected through wired or wireless connections, are used to provide input to the game. Early examples include the Atari 2600, the Nintendo Entertainment System, and the Sega Genesis, while newer examples include the Wii U, the PlayStation 4, and the Xbox One. Specific types of home consoles include:
+Microconsoles, home consoles which lack comparable computing power of home consoles released at the same period, and thus are generally less expensive. A common form of microconsole are based on Android or iOS mobile software, allowing the consoles to access the respective library of games for those platforms, as well as features such as cloud gaming. These consoles also typically include support for other apps available for the underlying operating system, including those that supported video streaming services like Netflix and Hulu, making microconsoles also compete in the same space as "over-the-top" media providers that aimed to serve content directly to the living room television.[3] Such consoles include the Ouya, the Nvidia Shield and Apple TV.[4]
+Plug and play consoles, specialized versions of microconsoles that come with a fixed selection of games on the system and do not give the consumer any ability to add more games. These are considered dedicated consoles for this reason, though tech-savvy consumers often have found ways to hack the console to install additional functionality onto it, voiding the manufacturers' warranty. The units usually come with the console unit, one or more controllers, and the required components for power and video hookup. Many of the recent releases have been for distributing a number of retro games for a specific console platform. Examples of these include the Atari Flashback series, the NES Classic Edition, and the Sega Genesis Mini.[5]
+Handheld TV games, specialized plug-and-play consoles where the console unit itself serves as its own controller so that the consumer simply connects the device to their television and to a power source, or in some cases, are battery-powered.[5] According to video game historian Frank Cifaldi, these systems gained popularity around 2003 as they were cheap to manufacture and were relatively inexpensive at US$20−30 each by manufacturers such as Jakks Pacific. However, they also led to a surge of models that used counterfeit Nintendo chips manufactured in China, creating too many clones that could easily be tracked.[6]
+Handheld video game consoles are devices that typically include a built-in screen and game controller features into its case, and contain a rechargeable battery or battery compartment. This allows the unit to be carried around and can be played anywhere. Examples of such include the Game Boy, the PlayStation Portable, and the Nintendo 3DS.
+Hybrid video game consoles are devices which can be used either as a handheld or as a home console, with either a wired connection or docking station that connects the console unit to a television screen and fixed power source, and the potential to use a separate controller. While prior handhelds like the Sega Nomad and PlayStation Portable, or home consoles such as the Wii U, have had these features, some consider the Nintendo Switch to be the first true hybrid console.[7][8]
+.mw-parser-output .tmulti .thumbinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}The PlayStation 2 home consoleThe Apple TV microconsole and its controllerThe Sega Genesis (Mega Drive) Mini plug and play console and its two controllersThe Sony PlayStation Portable handheld consoleThe Nintendo Switch hybrid console in its dock (right)
+Most consoles are considered programmable consoles and have means for the player to switch between different games: this most often can be through a physical game cartridge or game card or through optical media, or with the onset of digital distribution, via internal or external digital storage device with software downloaded via the Internet through a dedicated storefront supported by the manufacturer of the console. Some consoles are considered dedicated consoles, in which games available for the console are "baked" onto the hardware, either by being programmed via the circuitry or set in the read-only flash memory of the console, and cannot be added to or changed directly by the user. The user can typically switch between games on dedicated consoles using hardware switches on the console, or through in-game menus. Dedicated consoles were common in the first generation of home consoles, such as the Magnavox Odyssey and the home console version of Pong, and more recently have been used for retro-consoles such as the NES Classic Edition and Sega Genesis Mini.
+
+Components[edit]
+Console unit[edit]
+Early console hardware was designed as customized printed circuit boards (PCB)s, selecting existing integrated circuit chips that performed known functions, or programmable chips like erasable programmable read-only memory (EPROM) chips that could perform certain functions. Persistent computer memory was expensive, so dedicated consoles were generally limited to the use of processor registers for storage of the state of a game, thus limiting the complexities of such titles.  Pong in both its arcade and home format had a handful of logic and calculation chips that used the current input of the players' paddles and resisters storing the ball's position to update the game's state and sent to the display device.[9] Even with more advanced integrated circuits (IC)s of the time, designers were limited to what could be done through the electrical process rather than through programming as normally associated with video game development.
+Improvements in console hardware followed with improvements in microprocessor technology and semiconductor device fabrication.[10] Manufacturing processes have been able to reduce the feature size on chips (typically measured in nanometers), allowing more transistors and other components to fit on a chip, and at the same time increasing the circuit speeds and the potential frequency the chip can run at, as well as reducing thermal dissipation. Chips were able to be made on larger dies, further increasing the number of features and effective processing power. Random-access memory became more practical with the higher density of transistors per chip, but to address the correct blocks of memory, processors needed to be updated to use larger word sizes and allot for larger bandwidth in chip communications.[10] All these improvements did increase the cost of manufacturing but at a rate far less than the gains in overall processing power, which helped to make home computers and consoles inexpensive for the consumer, all related to Moore's law of technological improvements.[10]
+For the consoles of the 1980s to 1990s, these improvements were evident in the marketing in the late 1980s to 1990s during the "bit wars", where console manufacturers had focused on their console's processor's word size as a selling point.[11] Consoles since the 2000s are more similar to personal computers, building in memory, storage features, and networking capabilities to avoid the limitations of the past.[12] The confluence with personal computers eased software development for both computer and console games, allowing developers to target both platforms. However, consoles differ from computers as most of the hardware components are preselected and customized between the console manufacturer and hardware component provider to assure a consistent performance target for developers. Whereas personal computer motherboards are designed with the needs for allowing consumers to add their desired selection of hardware components, the fixed set of hardware for consoles enables console manufacturers to optimize the size and design of the motherboard and hardware, often integrating key hardware components into the motherboard circuitry itself. Often, multiple components such as the central processing unit and graphics processing unit can be combined into a single chip, otherwise known as a system on a chip (SoC), which is a further reduction in size and cost.[13] In addition, consoles tend to focus on components that give the unit high game performance such as the CPU and GPU, and as a tradeoff to keep their prices in expected ranges, use less memory and storage space compared to typical personal computers.[14]
+In comparison to the early years of the industry, where most consoles were made directly by the company selling the console, many consoles of today are generally constructed through a value chain that includes component suppliers, such as AMD and NVidia for CPU and GPU functions, and contract manufacturers including electronics manufacturing services, factories which assemble those components into the final consoles such as Foxconn and Flextronics. Completed consoles are then usually tested, distributed, and repaired by the company itself.[15] Microsoft and Nintendo both use this approach to their consoles, while Sony maintains all production in-house with exception of their component suppliers.
+
+The Atari 2600 motherboard, with basic IC chips identifiedThe Sega Dreamcast motherboard, incorporating more complex IC circuitryThe PlayStation 3 motherboard, showing the use of System-on-a-Chip (SoC) via the Cell processor (silver chip, just right-of-center)An opened first-generation Xbox console and without the hard disc drive and optical drive, showing components like the power supply (far right), cooling fins, cooling fan, and case features
+Some of the commons elements that can be found within console hardware include:
+
+Motherboard
+The primary PCB that all of the main chips, including the CPU, are mounted on.
+Daughterboard
+A secondary PCB that connects to the motherboard that would be used for additional functions. These may include components that can be easily replaced later without having to replace the full motherboard.
+Central processing unit (CPU)
+The main processing chip on the console that performs most of the computational workload.
+The consoles' CPU is generally defined by its word size (such as 8-bit or 64-bit), and its clock speed or frequency in hertz. For some CPUs, the clock speed can be variable in response to software needs. In general, larger word sizes and faster clock sizes indicate better performance, but other factors will impact the actual speed.
+Another distinguishing feature for a console's CPU is the instruction set architecture. The instruction set defines low-level machine code to be sent to the CPU to achieve specific results on the chip. Differences in the instruction set architecture of CPU of consoles of a given generation can make for difficulty in software portability. This had been used by manufacturers to keep software titles exclusive to their platform as one means to compete with others.[16] Consoles prior to the sixth generation typically used chips that the hardware and software developers were most familiar with, but as personal computers stabilized on the x86 architecture, console manufacturers followed suit as to help easily port games between computer and console.[17]
+Newer CPUs may also feature multiple processing cores, which are also identified in their specification. Multi-core CPUs allow for multithreading and parallel computing in modern games, such as one thread for managing the game's rendering engine, one for the game's physics engine, and another for evaluating the player's input.
+Graphical processing unit (GPU)
+The processing unit that performs rendering of data from the CPU to the video output of the console.
+In the earlier console generations, this was generally limited to simple graphic processing routines, such as bitmapped graphics and manipulation of sprites, all otherwise involving integer mathematics while minimizing the amount of required memory needed to complete these routines, as memo. For example, the Atari 2600 used its own Television Interface Adaptor that handled video and audio, while the Nintendo Entertainment System used the Picture Processing Unit. For consoles, these GPUs were also designed to send the signal in the proper analog formation to a cathode ray television, NTSC (used in Japan and North America) or PAL (mostly used in Europe). These two formats differed by their refresh rates, 60 versus 50 Hertz, and consoles and games that were manufactured for PAL markets used the CPU and GPU at lower frequencies.[18]
+The introduction of real-time polygonal 3D graphics rendering in the early 1990s—not just an innovation in video games for consoles but in arcade and personal computer games—led to the development of GPUs that were capable of performing the floating-point calculations needed for real-time 3D rendering. In contrast to the CPU, modern GPUs for consoles and computers, principally made by AMD and NVidia, are highly parallel computing devices with a number of compute units/streaming multiprocessors (depending on vendor, respectively) within a single chip. Each compute unit/microprocessor contains a scheduler, a number of subprocessing units, memory cashes and buffers, and dispatching and collecting units which also may be highly parallel in nature. Modern console GPUs can be run at a different frequency from the CPU, even at variable frequencies to increases its processing power at the cost of higher energy draw.[19] The performance of GPUs in consoles can be estimated through floating-point operations per second (FLOPS) and more commonly as in teraflops (TFLOPS = 1012 FLOPS). However, particularly for consoles, this is considered a rough number as several other factors such as the CPU, memory bandwidth, and console architecture can impact the GPU's true performance.[20]
+Coprocessors
+Additional processors used to handle other dedicated functions on the console. Many early consoles feature an audio coprocessor for example.
+Northbridge
+The processor unit that, outside of the CPU and GPU, typically manages the fastest processing elements on the computer. Typically this involves communication of data between the CPU, the GPU, and the on-board RAM, and subsequently sending and receiving information with the southbridge.
+Southbridge
+The counterpart of the northbridge, the southbridge is the processing unit that handles slower processing components of the console, typically those of input/output (I/O) with some internal storage and other connected devices like controllers.
+BIOS
+The console's BIOS (Basic Input/Output System) is the fundamental instruction set baked into a firmware chip on the console circuit board that the console uses when it is first turned on to direct operations. In older consoles, prior to the introduction of onboard storage, the BIOS effectively served as the console's operating system, while in modern consoles, the BIOS is used to direct loading of the console's operating system off internal memory.
+Random-access memory (RAM)
+Memory storage that is designed for fast reading and writing, often used in consoles to store large amounts of data about a game while it is being played to avoid reading from the slower game media. RAM memory typically does not sustain itself after the console is powered off. Besides the amount of RAM available, a key measurement of performance for consoles is the RAM's bandwidth, how fast in terms of bytes per second that the RAM can be written and read from. This is data that must be transferred to and from the CPU and GPU quickly as needed without requiring these chips to need high memory caches themselves.
+Internal storage
+Newer consoles have included internal storage devices, such as flash memory, hard disk drives (HDD) and solid-state drives (SSD), to save data persistently. Early application of internal storage was for saving game states, and more recently can be used to store the console's operating system, game patches and updates, games downloaded through the Internet, additional content for those games, and additional media such as purchased movies and music. Most consoles provide the means to manage the data on this storage while respecting the copyrights on the system. Newer consoles, such as the PlayStation 5 and Xbox Series X, use high-speed SSD's not only for storage but to augment the console's RAM, as the combination of their I/O speeds and the use of decompression routines build into the system software give overall read speeds that approach that of the onboard RAM.[21]
+Power supply
+Besides converting AC power from a wall socket to the DC power needed by the console electronics, the power supply also helps to regulate that power in cases of power surges. Some consoles power supplies are built into the unit, so that the consumer plugs the unit directly to a wall socket, but more often, the console ships with an AC adapter, colloquially known as a "power brick", that converts the power outside of the unit. On handheld units the power supply will either be from a battery compartment, or optionally from a direct power connection from an AC adapter, or from a rechargeable battery pack built into the unit.
+Cooling systems
+More advanced computing systems generate heat, and require active cooling systems to keep the hardware at safe operating temperatures. Many newer consoles are designed with cooling fans, engineered cooling fins, internal layouts, and strategically-placed vents on the casing to assure good convective heat transfer for keeping the internal components cool.
+Media reader
+Since the introduction of game cartridges, nearly all consoles have a cartridge port/reader or an optical drive for game media. In the latter console generations, some console revisions have offered options without a media reader as a means to reduce the console's cost and letting the consumer rely on digital distribution for game acquisition, such as with the Xbox One S All-Digital Edition or the PlayStation 5 Digital Edition.
+Case
+All consoles are enclosed in a case to protect the electronics from damage and to constrain the air flow for cooling.
+Input/output ports
+Ports for connecting power, controllers, televisions or video monitors, external storage devices, Internet connectivity, and other features are placed in strategic locations on the console. Controller connections are typically offered on the front of the console, while power and most other connections are usually found on the back to keep cables out of the way.
+Controllers[edit]
+Main article: Game controller
+All game consoles require player input through a game controller to provide a method to move the player character in a specific direction and a variation of buttons to perform other in-game actions such as jumping or interacting with the game world.[22] Though controllers have become more featured over the years, they still provide less control over a game compared to personal computers or mobile gaming.[23] The type of controller available to a game can fundamentally change the style of how a console game will or can be played.[24][25][26] However, this has also inspired changes in game design to create games that accommodate for the comparatively limited controls available on consoles.[27]
+Controllers have come in a variety of styles over the history of consoles. Some common types include:
+
+Paddle
+A unit with a single knob or dial and usually one or two buttons. Turning the knob typically allows one to move an on-screen object along one axis (such as the paddle in a table tennis game), while the buttons can have additional features.
+Joystick
+A unit that has a long handle that can pivot freely along multiple directions along with one or more buttons. The unit senses the direction that the joystick is pushed, allowing for simultaneous movement in two directions within a game.
+Gamepad
+A unit that contains a variety of buttons, triggers, and directional controls - either D-pads or analog sticks or both. These have become the most common type of controller since the third generation of console hardware, with designs becoming more detailed to give a larger array of buttons and directional controls to player's while maintaining ergonomic features.
+Numerous other controller types exist, including those that support motion controls, touchscreen support on handhelds and some consoles, and specialized controllers for specific types of games, such as racing wheels for racing games, light guns for shooting games, and musical instrument controllers for rhythm games. Some newer consoles also include optional support for mouse and keyboard devices.
+A controller may be attached through a wired connection onto the console itself, or in some unique cases like the Famicom hardwired to the console, or with a wireless connection. Controllers require power, either provided by the console via the wired connection, or from batteries or a rechargeable battery pack for wireless connections. Controllers are nominally built into a handheld unit, though some newer ones allow for separate wireless controllers to also be used.
+
+The Magnavox Odyssey dual-paddle controllerThe Atari CX40 joystickThe Nintendo Entertainment System gamepad with a single D-pad and two buttonsA modern controller, the DualSense for the Sony PlayStation 5, with multiple directional controls and buttons
+Game media[edit]
+While the first game consoles were dedicated game systems, with the games programmed into the console's hardware, the Fairchild Channel F introduced the ability to store games in a form separate from the console's internal circuitry, thus allowing the consumer to purchase new games to play on the system. Since the Channel F, nearly all game consoles have featured the ability to purchase and swap games through some form, through those forms have changes with improvements in technology.
+
+ROM cartridge or game cartridge
+The Read-only Memory (ROM) cartridge was introduced with the Fairchild Channel F. A ROM cartridge consist of a printed circuit board (PCB) housed inside of a plastic casing, with a connector allowing the device to interface with the console. The circuit board can contain a wide variety of components, at the minimum, the read-only memory with the software written on it. Later cartridges were able to introduce additional components onto the circuit board like coprocessors, such as Nintendo's SuperFX chip, to enhance the performance of the console.[28] Some consoles such as the Turbografx-16 used a smart card-like technology to flatten the cartridge to a credit-card-sized system, which helped to reduce production costs, but limited additional features that could be included onto the circuitry.[29] PCB-based cartridges waned with the introduction of optical media during the fifth generation of consoles. More recently, ROM cartridges have been based on high memory density, low cost flash memory, which allows for easier mass production of games. Sony used this approach for the PlayStation Vita,[30] and Nintendo continues to use ROM cartridges for its 3DS and Switch products.
+Optical media
+Optical media, such as CD-ROM, DVD, and Blu-ray, became the primary format for retail distribution with the fifth generation. The CD-ROM format had gained popularity in the 1990s, in the midst of the fourth generation, and as a game media, CD-ROMs were cheaper and faster to produce, offered much more storage space and allowed for the potential of full-motion video.[31] Several console manufacturers attempted to offer CD-ROM add-ons to fourth generation consoles, but these were nearly as expensive as the consoles themselves and did not fare well. Instead, the CD-ROM format became integrated into consoles of the fifth generation, with the DVD format present across most by the seventh generation and Blu-ray by the eighth. Console manufacturers have also used proprietary disc formats for copy protection as well, such as the Nintendo optical disc used on the GameCube, and Sony's Universal Media Disc on the PlayStation Portable.
+Digital distribution
+Since the seventh generation of consoles, most consoles include integrated connectivity to the Internet and both internal and external storage for the console, allowing for players to acquire new games without game media. All three of Nintendo, Sony, and Microsoft offer an integrated storefront for consumers to purchase new games and download them to their console, retaining the consumers' purchases across different consoles, and offering sales and incentives at times.
+Cloud gaming
+As Internet access speeds improved throughout the eighth generation of consoles, cloud gaming had gained further attention as a media format. Instead of downloading games, the consumer plays them directly from a cloud gaming service with inputs performed on the local console sent through the Internet to the server with the rendered graphics and audio sent back. Latency in network transmission remains a core limitation for cloud gaming at the present time.
+While magnetic storage, such as tape drives and floppy disks, had been popular for software distribution with early personal computers in the 1980s and 1990s, this format did not see much use in console system. There were some attempts, such as the Bally Astrocade and APF-M1000 using tape drives, as well as the Disk System for the Nintendo Famicom,[32] and the Nintendo 64DD for the Nintendo 64, but these had limited applications, as magnetic media was more fragile and volatile than game cartridges.[33]
+
+A Fairchild Channel F cartridge, exposing the circuit contacts on the PCBA Nintendo Wii optical discMobile device running cloud game on Stadia with official controller
+External storage[edit]
+  A PlayStation memory card
+In addition to built-in internal storage, newer consoles often give the consumer the ability to use external storage media to save game date, downloaded games, or other media files from the console. Early iterations of external storage were achieved through the use of flash-based memory cards, first used by the Neo Geo but popularized with the PlayStation. Nintendo continues to support this approach with extending the storage capabilities of the 3DS and Switch, standardizing on the current SD card format. As consoles began incorporating the use of USB ports, support for USB external hard drives was also added, such as with the Xbox 360.
+
+Online services[edit]
+Main article: Online console gaming
+With Internet-enabled consoles, console manufacturers offer both free and paid-subscription services that provide value-added services atop the basic functions of the console. Free services generally offer user identity services and access to a digital storefront, while paid services allow players to play online games, interact with other uses through social networking, use cloud saves for supported games, and gain access to free titles on a rotating basis. Examples of such services include the Xbox network, PlayStation Network, and Nintendo Switch Online.
+
+Console add-ons[edit]
+Certain consoles saw various add-ons or accessories that were designed to attach to the existing console to extend its functionality. The best example of this was through the various CD-ROM add-ons for consoles of the fourth generation such as the TurboGrafx CD, Atari Jaguar CD, and the Sega CD. Other examples of add-ons include the 32X for the Sega Genesis intended to allow owners of the aging console to play newer games but has several technical faults, and the Game Boy Player for the GameCube to allow it to play Game Boy games.
+
+Accessories[edit]
+Consumers can often purchase a range of accessories for consoles outside of the above categories. These can include:
+
+Video camera
+While these can be used with Internet-connected consoles like webcams for communication with other friends as they would be used on personal computers, video camera applications on consoles are more commonly used in augmented reality/mixed reality and motion sensing games. Devices like the EyeToy for PlayStation consoles and the Kinect for Xbox consoles were center-points for a range of games to support these devices on their respective systems.
+Standard Headsets
+Headsets provide a combination of headphones and a microphone for chatting with other players without disturbing others nearby in the same room.
+Virtual reality headsets
+Some virtual reality (VR) headsets can operate independently of consoles or use personal computers for their main processing system. As of 2020[update], the only direct VR support on consoles is the PlayStation VR, though support for VR on other consoles is planned by the other manufacturers.
+Docking station
+For handheld systems as well as hybrids such as the Nintendo Switch, the docking station makes it easy to insert a handheld to recharge its battery, and if supported, for connecting the handheld to a television screen.
+Kinect for Xbox OnePlayStation Wireless Stereo HeadsetVirtual reality headset PlayStation VRDocking station for Nintendo Switch
+Game development for consoles[edit]
+Console development kits[edit]
+Main article: Game development kit
+Console or game development kits are specialized hardware units that typically include the same components as the console and additional chips and components to allow the unit to be connected to a computer or other monitoring device for debugging purposes. A console manufacturer will make the console's dev kit available to registered developers months ahead of the console's planned launch to give developers time to prepare their games for the new system. These initial kits will usually be offered under special confidentiality clauses to protect trade secrets of the console's design, and will be sold at a high cost to the developer as part of keeping this confidentiality.[14] Newer consoles that share features in common with personal computers may no longer use specialized dev kits, though developers are still expected to register and purchase access to software development kits from the manufacturer. For example, any consumer Xbox One can be used for game development after paying a fee to Microsoft to register one intent to do so.[34]
+
+Licensing[edit]
+Since the release of the Nintendo Famicom / Nintendo Entertainment System, most video game console manufacturers employ a strict licensing scheme that limit what games can be developed for it. Developers and their publishers must pay a fee, typically based on royalty per unit sold, back to the manufacturer. The cost varies by manufacturer but was estimated to be about US$3−10 per unit in 2012. With additional fees, such as branding rights, this has generally worked out to be an industry-wide 30% royalty rate paid to the console manufacturer for every game sold.[35][36] This is in addition to the cost of acquiring the dev kit to develop for the system.
+The licensing fee may be collected in a few different ways. In the case of Nintendo, the company generally has controlled the production of game cartridges with its lockout chips and optical media for its systems, and thus charges the developer or publisher for each copy it makes as an upfront fee. This also allows Nintendo to review the game's content prior to release and veto games it does not believe appropriate to include on its system. This had led to over 700 unlicensed games for the NES,[37] and numerous others on other Nintendo cartridge-based systems that had found ways to bypass the hardware lockout chips and sell without paying any royalties to Nintendo, such as by Atari in its subsidiary company Tengen.[38] This licensing approach was similarly used by most other cartridge-based console manufacturers using lockout chip technology.[39]
+With optical media, where the console manufacturer may not have direct control on the production of the media, the developer or publisher typically must establish a licensing agreement to gain access to the console's proprietary storage format for the media as well as to use the console and manufacturer's logos and branding for the game's packaging, paid back through royalties on sales.[35] In the transition to digital distribution, where now the console manufacturer runs digital storefronts for games, licenses fees apply to registering a game for distribution on the storefront - again gaining access to the console's branding and logo - with the manufacturer taking its cut of each sale as its royalty.[35] In both cases, this still gives console manufacturers the ability to review and reject games it believes unsuitable for the system and deny licensing rights.
+With the rise of indie game development, the major console manufacturers have all developed entry level routes for these smaller developers to be able to publish onto consoles at far lower costs and reduced royalty rates. Programs like Microsoft's ID@Xbox give developers most of the needed tools for free after validating the small development size and needs of the team.[40]
+Similar licensing concepts apply for third-party accessory manufacturers.[35]
+
+Emulation and backward compatibility[edit]
+Main articles: Video game console emulator and Backward compatibility
+Consoles like most consumer electronic devices have limited lifespans. There is great interest in preservation of older console hardware for archival and historical purposes, but games from older consoles, as well as arcade and personal computers, remain of interest. Computer programmers and hackers have developed emulators that can be run on personal computers or other consoles that simulate the hardware of older consoles that allow games from that console to be run. The development of software emulators of console hardware is established to be legal, but there are unanswered legal questions surrounding copyrights, including acquiring a console's firmware and copies of a game's ROM image, which laws such as the United States' Digital Millennium Copyright Act make illegal save for certain archival purposes.[41] Even though emulation itself is legal, Nintendo is recognized to be highly protective of any attempts to emulate its systems and has taken early legal actions to shut down such projects.[42]
+To help support older games and console transitions, manufacturers started to support backward compatibility on consoles in the same family. Sony was the first to do this on a home console with the PlayStation 2 which was able to play original PlayStation content, and subsequently became a sought-after feature across many consoles that followed.[43] Backward compatibility functionality has included direct support for previous console games on the newer consoles such as within the Xbox console family,[44] the distribution of emulated games such as Nintendo's Virtual Console, or using cloud gaming services for these older games as with the PlayStation Now service.
+
+Market[edit]
+Distribution[edit]
+Consoles may be shipped in a variety of configurations, but typically will include one base configuration that include the console, one controller, and sometimes a pack-in game. Manufacturers may offer alternate stock keeping unit (SKUs) options that include additional controllers and accessories or different pack-in games. Special console editions may feature unique cases or faceplates with art dedicated to a specific video game or series and are bundled with that game as a special incentive for its fans. Pack-in games are typically first-party games, often featuring the console's primary mascot characters.[45]
+The more recent console generations have also seen multiple versions of the same base console system either offered at launch or presented as a mid-generation refresh. In some cases, these simply replace some parts of the hardware with cheaper or more efficient parts, or otherwise streamline the console's design for production going forward; the PlayStation 3 underwent several such hardware refreshes during its lifetime due to technological improvements such as significant reduction of the process node size for the CPU and GPU.[46] In these cases, the hardware revision model will be marked on packaging so that consumers can verify which version they are acquiring.[47]
+In other cases, the hardware changes create multiple lines within the same console family. The base console unit in all revisions share fundamental hardware, but options like internal storage space and RAM size may be different. Those systems with more storage and RAM would be marked as a higher performance variant available at a higher cost, while the original unit would remain as a budget option. For example, within the Xbox One family, Microsoft released the mid-generation Xbox One X as a higher performance console, the Xbox One S as the lower-cost base console, and a special Xbox One S All-Digital Edition revision that removed the optical drive on the basis that users could download all games digitally, offered at even a lower cost than the Xbox One S. In these cases, developers can often optimize games to work better on the higher-performance console with patches to the retail version of the game.[48] In the case of the Nintendo 3DS, the New Nintendo 3DS, featured upgraded memory and processors, with new games that could only be run on the upgraded units and cannot be run on an older base unit.[49] There have also been a number of "slimmed-down" console options with significantly reduced hardware components that significantly reduced the price they could sell the console to the consumer, but either leaving certain features off the console, such as the Wii Mini that lacked any online components compared to the Wii, or that required the consumer to purchase additional accessories and wiring if they did not already own it, such as the New-Style NES that was not bundled with the required RF hardware to connect to a television.[50]
+
+Pricing[edit]
+
+
+Console release prices (in U.S. Dollars) and total sales[51][52]
+
+
+Console
+
+Release year (U.S.)
+
+Introductory price (U.S.)
+
+Global Sales (Units)
+
+
+Originally[note 1]
+
+2020 inflation[note 2]
+
+
+First generation
+
+
+Magnavox Odyssey
+1972
+$100
+$553
+350,000[53]
+
+
+Second generation
+
+
+Atari 2600
+1977
+$200
+$882
+30,000,000
+
+
+Intellivision
+1979
+$300
+$996
+3,000,000
+
+
+Atari 5200
+1982
+$270
+$740
+1,400,000
+
+
+Colecovision
+1982
+$175
+$480
+2,000,000
+
+
+Third generation
+
+
+NES
+1985
+$200
+$490
+61,900,000
+
+
+Atari 7800
+1984
+$150
+$380
+3,770,000
+
+
+Master System
+1986
+$200
+$470
+13,000,000
+
+
+Game Boy
+1989
+$110
+$234
+118,690,000
+
+
+Fourth generation
+
+
+TurboGrafx-16
+1989
+$200
+$426
+5,800,000
+
+
+Genesis
+1989
+$190
+$405
+30,750,000
+
+
+SNES
+1991
+$200
+$384
+49,100,000
+
+
+CD-I
+1991
+$400
+$768
+1,000,000
+
+
+Neo Geo
+1991
+$650
+$1248
+980,000
+
+
+Sega CD
+1992
+$300
+$561
+2,240,000
+
+
+Fifth generation
+
+
+Atari Jaguar
+1993
+$250
+$453
+250,000
+
+
+3DO
+1993
+$700
+$1267
+2,000,000
+
+
+32X
+1994
+$160
+$282
+665,000
+
+
+PlayStation
+1995
+$300
+$516
+102,490,000
+
+
+Sega Saturn
+1995
+$400
+$688
+9,260,000
+
+
+Nintendo 64
+1996
+$200
+$334
+32,390,000
+
+
+Sixth generation
+
+
+Dreamcast
+1999
+$200
+$314
+9,130,000
+
+
+PlayStation 2
+2000
+$300
+$459
+155,000,000
+
+
+GameCube
+2001
+$200
+$294
+21,740,000
+
+
+Xbox
+2001
+$300
+$441
+24,000,000
+
+
+Game Boy Advance
+2001
+$100
+$147
+118,690,000
+
+
+N-Gage
+2003
+$300
+$416
+3,000,000
+
+
+Seventh generation
+
+
+Nintendo DS
+2004
+$200
+$278
+154,020,000
+
+
+PlayStation Portable
+2004
+$250
+$348
+82,000,000
+
+
+Xbox 360
+2005
+$400
+$540
+84,700,000
+
+
+PlayStation 3
+2006
+$500
+$780
+87,400,000
+
+
+Wii
+2006
+$250
+$326
+101,630,000
+
+
+Eighth generation
+
+
+Nintendo 3DS
+2011
+$250
+$293
+75,280,000
+
+
+PlayStation Vita
+2012
+$250
+$293
+15,900,000
+
+
+Wii U
+2012
+$350
+$399
+13,560,000
+
+
+PlayStation 4
+2013
+$400
+$448
+112,300,000[note 3]
+
+
+Xbox One
+2013
+$500
+$560
+51,000,000[note 3]
+
+
+Nintendo Switch
+2017
+$300
+$318
+92,870,000[note 3]
+
+
+Current
+
+
+PlayStation 5
+2020
+$400 / $500
+$400 / $500
+10,000,000[note 3]
+
+
+Xbox Series X/S
+2020
+$300 / $500
+$300 / $500
+6,500,000[note 3][note 4]
+
+
+Handheld units are shown in blue.
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ Based on pricing of base model at launch within the United States
+
+^ Based on the Bureau of Labor Statistics Consumer Price Index
+
+^ a b c d e Still in production
+
+^ Microsoft does not report exact sales for its consoles since the Xbox One, and sales are based industry estimates.[54][55]
+
+
+
+Consoles when originally launched in the 1970s and 1980s were about US$200−300,[51] and with the introduction of the ROM cartridge, each game averaged about US$30−40.[56] Over time the launch price of base consoles units has generally risen to about US$400−500,[51] with the average game costing US$60.[56] Exceptionally, the period of transition from ROM cartridges to optical media in the early 1990s saw several consoles with high price points exceeding US$400 and going as high as US$700. Resultingly, sales of these first optical media consoles were generally poor.[51]
+When adjusted for inflation, the price of consoles has generally followed a downward trend, from US$800−1,000 from the early generations down to US$500−600 for current consoles. This is typical for any computer technology, with the improvements in computing performance and capabilities outpacing the additional costs to achieve those gains.[51] Further, within the United States, the price of consoles has generally remained consistent, being within 0.8% to 1% of the median household income, based on the United States Census data for the console's launch year.[51]
+Since the Nintendo Entertainment System, console pricing has stabilized on the razorblade model, where the consoles are sold at little to no profit for the manufacturer, but they gain revenue from each game sold due to console licensing fees and other value-added services around the console (such as Xbox Live).[42][57][58] Console manufacturers have even been known to take losses on the sale of consoles at the start of a console's launch with expectation to recover with revenue sharing and later price recovery on the console as they switch to less expensive components and manufacturing processes without changing the retail price.[59] Consoles have been generally designed to have a five-year product lifetime, though manufacturers have considered their entries in the more recent generations to have longer lifetimes of seven to potentially ten years.[60]
+
+Competition[edit]
+See also: Console war, Video game industry, and History of video games
+The competition within the video game console market as subset of the video game industry is an area of interest to economics with its relatively modern history, its rapid growth to rival that of the film industry, and frequent changes compared to other sectors.[52][12]
+Effects of unregulated competition on the market were twice seen early in the industry. The industry had its first crash in 1977 following the release of the Magnavox Odyssey, Atari's home versions of Pong and the Coleco Telstar, which led other third-party manufacturers, using inexpensive General Instruments processor chips, to make their own home consoles which flooded the market by 1977.[61]: 81–89  The video game crash of 1983 was fueled by multiple factors including competition from lower-cost personal computers, but unregulated competition was also a factor, as numerous third-party game developers, attempting to follow on the success of Activision in developing third-party games for the Atari 2600 and Intellivision, flooded the market with poor quality games, and made it difficult for even quality games to sell.[62] Nintendo implemented a lockout chip, the Checking Integrated Circuit, on releasing the Nintendo Entertainment System in Western territories, as a means to control which games were published for the console. As part of their licensing agreements, Nintendo further prevented developers from releasing the same game on a different console for a period of two years. This served as one of the first means of securing console exclusivity for games that existed beyond technical limitation of console development.[63]
+The Nintendo Entertainment System also brought the concept of a video game mascot as the representation of a console system as a means to sell and promote the unit, and for the NES was Mario. The use of mascots in businesses had been a tradition in Japan, and this had already proven successful in arcade games like Pac-Man. Mario was used to serve as an identity for the NES as a humor-filled, playful console.[45][64] Mario caught on quickly when the NES released in the West, and when the next generation of consoles arrived, other manufacturers pushed their own mascots to the forefront of their marketing, most notably Sega with the use of Sonic the Hedgehog.[65] The Nintendo and Sega rivalry that involved their mascot's flagship games served as part of the fourth console generation's "console wars". Since then, manufacturers have typically positioned their mascot and other first-party games as key titles in console bundles used to drive sales of consoles at launch or at key sales periods such as near Christmas.[45]
+Another type of competitive edge used by console manufacturers around the same time was the notion of "bits" or the size of the word used by the main CPU. The TurboGrafx-16 was the first console to push on its bit-size, advertising itself as a "16-bit" console, though this only referred to part of its architecture while its CPU was still an 8-bit unit. Despite this, manufacturers found consumers became fixated on the notion of bits as a console selling point, and over the fourth, fifth and sixth generation, these "bit wars" played heavily into console advertising.[11] The use of bits waned as CPU architectures no longer needed to increase their word size and instead had other means to improve performance such as through multicore CPUs.[11]
+Generally, increased console numbers gives rise to more consumer options and better competition, but the exclusivity of titles made the choice of console for consumers an "all-or-nothing" decision for most.[12] Further, with the number of available consoles growing with the fifth and sixth generations, game developers became pressured to which systems to focus on, and ultimately narrowed their target choice of platforms to those that were the best-selling. This cased a contraction in the market, with major players like Sega leaving the hardware business after the Dreamcast but continuing in the software area.[52] Effectively, each console generation was shown to have two or three dominant players.[12]
+Competition in the console market in the 2010s and 2020s is considered an oligarchy between three main manufacturers: Nintendo, Sony, and Microsoft. The three use a combination of first-party games exclusive to their console and negotiate exclusive agreements with third-party developers to have their games be exclusive for at least an initial period of time to drive consumers to their console. They also worked with CPU and GPU manufacturers to tune and customize hardware for computers to make it more amenable and effective for video games, leading to lower-cost hardware needed for video game consoles. Finally, console manufacturers also work with retailers to help with promotion of consoles, games, and accessories. While there is little difference in pricing on the console hardware from the manufacturer's suggested retail price for the retailer to profit from, these details with the manufacturers can secure better profits on sales of game and accessory bundles for premier product placement.[52] These all form network effects, with each manufacturer seeking to maximize the size of their network of partners to increase their overall position in the competition.[12]
+Of the three, Microsoft and Sony, both with their own hardware manufacturing capabilities, remain at a leading edge approach, attempting to gain a first-mover advantage over the other with adaption of new console technology.[52] Nintendo is more reliant on its suppliers and thus instead of trying to compete feature for feature with Microsoft and Sony, had instead taken a "blue ocean" strategy since the Nintendo DS and Wii.[66]
+
+See also[edit]
+Unlockable game
+Video game clone
+Further reading[edit]
+.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Forster, Winnie (2005). The Encyclopedia of Game Machines – Consoles, handheld & home computers 1972–2005. Gameplan. ISBN 3-00-015359-4. Archived from the original on March 7, 2007.
+References[edit]
+
+
+^ "The Big Fight". Next Generation. No. 24. Imagine Media. December 1996. pp. 38–41.
+
+^ Kemerer, Chris F.; Dunn, Brian Kimball; Janansefat, Shadi (February 2017). Winners-Take-Some Dynamics in Digital Platform Markets: A Reexamination of the Video Game Console Wars (PDF) (Report). University of Pittsburgh. Retrieved July 23, 2020.
+
+^ Patel, Niley (November 12, 2012). "Over the top: the new war for TV is just beginning". The Verge. Retrieved July 29, 2020.
+
+^ Graft, Kris (August 13, 2013). "The Android Microconsole Reference Guide for Game Developers". Gamasutra. Retrieved July 29, 2020.
+
+^ a b Rignall, Jaz (March 28, 2017). "Are the Latest Plug-and-Play Retro Consoles Worthwhile?". USGamer. Retrieved July 29, 2020.
+
+^ Substitute Thapliyal (August 5, 2019). "Games Historian Uncovers Forgotten Console "So Rare, It Might Not Even Exist"". Paste. Retrieved July 29, 2020.
+
+^ "Video Game History Timeline". Strong Museum of Play. Retrieved August 16, 2020.
+
+^ Linneman, John (May 13, 2018). "DF Retro: Revisiting Sega's Nomad - the original Switch?". Eurogamer. Retrieved October 21, 2020.
+
+^ Lowood, Henry (July–September 2009). "Videogames in Computer Space: The Complex History of Pong". IEEE Annals of the History of Computing. 31 (3): 5–19. doi:10.1109/MAHC.2009.53. S2CID 7653073.
+
+^ a b c Hennessey, John; Jouppi, Norman (1991). "Computer Technology and Architecture: An Evolving Interaction". Computer. 24 (9): 18–29. doi:10.1109/2.84896. S2CID 16547464.
+
+^ a b c Therrien, Carl; Picard, Martin (April 29, 2015). "Enter the bit wars: A study of video game marketing and platform crafting in the wake of the TurboGrafx-16 launch". New Media & Society. 18 (10): 2323–2339. doi:10.1177/1461444815584333. S2CID 19553739.
+
+^ a b c d e Williams, Dmitri (2002). "Structure and Competition in the U.S. Home Video Game Industry". The International Journal on Media Management. 4 (1): 41–54. doi:10.1080/14241270209389979. S2CID 17848916.
+
+^ Hruska, Joel (May 8, 2020). "How the Inside of Your Game Console Works". Extreme Tech. Retrieved July 29, 2020.
+
+^ a b Adams, Earnst (2014). Fundamentals of Game Design. New Riders Press. p. 105. ISBN 9780321929679.
+
+^ Tomaselli, Fernando Claro; Di Serio, Luiz Carlos; de Oliveira, Luciel Henrique (2008). Value chain management and competitive strategy in the home video game industry. 19th Annual Conference POMS.
+
+^ Daidj, Nabyla; Thierry, Isckia (2009). "Entering the Economic Models of Game Console Manufacturers". Communications & Strategies. 73: 23. SSRN 1427231.
+
+^ Edwards, Benj (August 26, 2016). "Son of PC: The History of x86 Game Consoles". PC Magazine. Retrieved July 31, 2020.
+
+^ Byford, Sam (November 27, 2018). "The US PlayStation Classic has several slower 50Hz PAL games". The Verge. Retrieved July 30, 2020.
+
+^ Hruska, Joel (April 28, 2020). "How Do Graphics Cards Work?". ExtremeTech. Retrieved July 30, 2020.
+
+^ Sawh, Mike (March 17, 2020). "What are teraflops? Why they are so important for next-gen". GamesRadar. Retrieved July 30, 2020.
+
+^ Honorof, Marshall (June 21, 2020). "PS5 and Xbox Series X SSDs: How this tech will define next-gen games". Tom's Hardware. Retrieved August 3, 2020.
+
+^ Morgan McGuire; Odest Chadwicke Jenkins (2009). Creating Games: Mechanics, Content, and Technology. Taylor & Francis. p. 397. ISBN 978-1-56881-305-9. Game pads (such as an Xbox 360 or Guitar Hero controller) often use a combination of digital keys and analog joysticks.
+
+^ Tracy Fullerton (February 8, 2008). Game Design Workshop: A Playcentric Approach to Creating Innovative Games. CRC Press. p. 131. ISBN 978-0-240-80974-8. Console games usually provide a proprietary controller.
+
+^ Lu, William. "Evolution of Video Game Controllers" (PDF). Retrieved March 28, 2013. ...the controller also specifies the type of experience the player will have by defining what types of games are best played on it due to its design.
+
+^ Morgan McGuire; Odest Chadwicke Jenkins (2009). Creating Games: Mechanics, Content, and Technology. Taylor & Francis. p. 104. ISBN 978-1-56881-305-9. Video games depend on their control schemes.
+
+^ Morgan McGuire; Odest Chadwicke Jenkins (2009). Creating Games: Mechanics, Content, and Technology. Taylor & Francis. p. 395. ISBN 978-1-56881-305-9. A user interface is the player’s entry point into the game world. It governs how a player experiences the virtual environment, game dynamics, and underlying story put forth in a game.
+
+^ Richard Rouse; Steve Ogden (2005). Game Design: Theory & Practice. Wordware Pub. p. 108. ISBN 978-1-55622-912-1. In many console action games, different buttons on the controller will perform the same action.
+
+^ Polsson, Ken (May 9, 2007). "Chronology of Video Game Systems". Retrieved June 9, 2007.
+
+^ Nutt, Christian (September 12, 2014). "Stalled engine: The TurboGrafx-16 turns 25". Gamasutra. Retrieved July 29, 2020.
+
+^ Sarju Shah (June 7, 2011). "E3 2011: Sony PlayStation Vita: Inside and Out". GameSpot.com. CBS Interactive, Inc. Retrieved June 11, 2011.
+
+^ Aoyama, Yuko; Izushi, Hiro (2003). "Hardware gimmick or cultural innovation? Technological, cultural, and social foundations of the Japanese video game industry". Research Policy. 32 (3): 423–444. doi:10.1016/S0048-7333(02)00016-1.
+
+^ "Family Computer Disk System". January 20, 2000. Retrieved June 20, 2007.
+
+^ Swearingen, Kirsten; Peter Charles; Nathan Good; Laheem Lamar Jordan; Joyojeet Pal. "How Much Information? 2003". Retrieved June 20, 2007.
+
+^ Crecente, Brian (March 30, 2016). "Starting today, anyone can turn their Xbox One into a dev kit for free". Polygon. Retrieved July 31, 2020.
+
+^ a b c d Edwards, Ralph (May 6, 2020). "The Economics of Game Publishing". IGN. Retrieved August 11, 2020.
+
+^ Mochizuki, Takahashi; Savov, Vlad (August 25, 2020). "Epic's Battle With Apple and Google Actually Dates Back to Pac-Man". Bloomberg News. Retrieved August 25, 2020.
+
+^ Scullion, Chris (2019). "Unlicensed Games". The NES Encyclopedia: Every Game Released for the Nintendo Entertainment System. Pen & Sword Books Ltd. p. 216. ISBN 978-1526737823.
+
+^ Smith, Ernie (March 18, 2017). "How Third-Party Game Devs Reverse-Engineered Their Way Onto Your Consoles (and Into Your Heart)". Vice. Retrieved August 11, 2020.
+
+^ O'Donnell, Casey (2009). "Production Protection to Copy(right) Protection: From the 10NES to DVDs". IEEE Annals of the History of Computing. 31 (3): 54–63. doi:10.1109/MAHC.2009.49. S2CID 14026551.
+
+^ Makedonski, Brett (March 20, 2014). "What do indie developers think about the ID@Xbox program?". Destructoid. Retrieved February 7, 2015.
+
+^ Fenlon, Wes (March 28, 2017). "The ethics of emulation: how creators, the community, and the law view console emulators". PC Gamer. Retrieved July 31, 2020.
+
+^ a b Conley, James; Andros, Ed; Chinai, Priti; Lipkowitz, Elise; Perez, David (Spring 2004). "Use of a Game Over: Emulation and the Video Game Industry, A White Paper". Northwestern Journal of Technology and Intellectual Property. 2 (2). Retrieved September 2, 2020.
+
+^ Kretschmer, Tobias; Claussen, Jörg (June 2016). "Generational Transitions in Platform Markets— The Role of Backward Compatibility". Strategy Science. 1 (2): 90–104. doi:10.1287/stsc.2015.0009.
+
+^ Orland, Kyle (July 16, 2020). "Xbox Series X won't support Kinect hardware, games". Ars Technica. Retrieved July 17, 2020.
+
+^ a b c Picard, Martin (December 2013). "The Foundation of Geemu: A Brief History of Early Japanese video games". International Journal of Computer Game Research. 13 (2). Archived from the original on June 24, 2015. Retrieved November 19, 2016.
+
+^ Mastrapa, Gus (August 19, 2009). "Sony Drops Price of PlayStation 3, Unveils Slim Model". Wired. Retrieved August 15, 2020.
+
+^ McWhertor, Michael (August 13, 2019). "Updated Nintendo Switch with better battery life now in stores". Polygon. Retrieved August 15, 2020.
+
+^ Tyrrel, Brandin (April 16, 2019). "Microsoft Unveils Xbox One S All-Digital Edition Console". IGN. Retrieved August 15, 2020.
+
+^ Gera, Emily (August 29, 2014). "Nintendo reveals the New Nintendo 3DS". Polygon. Retrieved August 29, 2014.
+
+^ Byford, Sam (July 11, 2019). "A Brief History Of Cutdown Game Consoles". The Verge. Retrieved November 9, 2020.
+
+^ a b c d e f Orland, Kyle (February 20, 2020). "Is the US market ready to embrace a $500 game console?". Ars Technica. Retrieved August 1, 2020.
+
+^ a b c d e Gamble, John (2007). "Competition in Video Game Consoles: Sony, Microsoft and Nintendo Battle for Supremacy".  In Thompson, Arthur; Strickland III, A. J.; Gamble, John (eds.). Crafting and Executing Strategy: The Quest for Competitive Advantage: Concepts and Cases. McGraw-Hill. pp. C-198–C211. ISBN 978-0073381244.
+
+^ Joyce Bedi (January 2019). "Ralph Baer: An interactive life". Human behavior and emerging technologies. 1 (1): 18–25. doi:10.1002/HBE2.119. ISSN 2578-1863. Wikidata Q98908543.
+
+^ Humphries, Matthew (October 26, 2015). "Microsoft decides not to share Xbox One sales figures anymore". Geek.com. Ziff Davis. Retrieved December 3, 2016.
+
+^ MacDonald, Keza (November 11, 2020). "Xbox's Phil Spencer: 'We're not driven by how many consoles we sell'". The Guardian. Retrieved November 11, 2020.
+
+^ a b Orland, Kyle (July 9, 2020). "The return of the $70 video game has been a long time coming". Ars Technica. Retrieved July 14, 2020.
+
+^ Ernkvist, Mirko (2008). "Down many times, but still playing the game: Creative destruction and industry crashes in the early video game industry 1971-1986".  In Gratzer, Karl; Stiefel, Dieter (eds.). History of Insolvancy and Bankruptcy. pp. 161–191. ISBN 978-91-89315-94-5.
+
+^ Warren, Tom (May 6, 2021). "Microsoft would like to remind you the Xbox definitely makes money". The Verge. Retrieved May 6, 2021.
+
+^ Bangeman, Eric (November 26, 2006). "Sony taking big hit on each PS3 sold; Xbox 360 in the black". Ars Technica. Retrieved September 2, 2020.
+
+^ Daidj, Nabyla; Isckia, Thierry (2003). "Entering the Economic Models of Game Console Manufacturers". Communications and Strategies. 73 (1st Quarter 2003). SSRN 1427231.
+
+^ Herman, Leonard (2012). "Ball-and-Paddle Controllers".  In Wolf, Mark J.P. (ed.). Before the Crash: Early Video Game History. Wayne State University Press. ISBN 978-0814337226.
+
+^ Prince, Suzan (September 1983). "Faded Glory: The Decline, Fall and Possible Salvation of Home Video". Video Games. Pumpkin Press. Retrieved February 24, 2016.
+
+^ Cunningham, Andrew (July 15, 2013). "The NES turns 30: How it began, worked, and saved an industry". Ars Technica. Retrieved August 3, 2020.
+
+^ Kline, Stephen; Dyer-Witheford, Nick; de Peuter, Greig (2003). "Electronic Frontiers: Branding the "Nintendo Generation" 1985–1990". Digital play: the interaction of technology, culture, and marketing. McGill Queen University Press. pp. 109–127. ISBN 077357106X.
+
+^ Kline, Stephen; Dyer-Witheford, Nick; de Peuter, Greig (2003). "Mortal Kombats: Console Wars and Computer Revolutions 1990–1995". Digital play: the interaction of technology, culture, and marketing. McGill Queen University Press. pp. 128–150. ISBN 077357106X.
+
+^ Ohannessian, Kevin (January 20, 2017). "With Nintendo's Switch Game Console, New Ideas Create New Experiences". Fast Company. Archived from the original on January 20, 2017. Retrieved January 20, 2017.
+
+
+External links[edit]
+Console platforms at Curlie
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteVideo game consolesTypes
+Home video game console
+list
+Handheld game console
+list
+Microconsole
+list
+Dedicated console
+list
+Retrogaming
+list
+Generations
+First (1972–1980)
+Second (1976–1992)
+Third (1983–2003)
+Fourth (1987–2004)
+Fifth (1993–2006)
+Sixth (1998–2013)
+Seventh (2005–2017)
+Eighth (2012–present)
+Ninth (2020–present)
+FirstgenerationHome
+Magnavox Odyssey
+Dedicated
+APF TV Fun series
+Coleco Telstar series
+Arcade
+Marksman
+Color TV-Game
+Gameroom Tele-Pong
+Magnavox Odyssey series
+PC-50x Family
+Pong
+TV Scoreboard
+TV Tennis Electrotennis
+Unisonic series
+Video Pinball
+SecondgenerationHome
+APF-MP1000
+Arcadia 2001
+Atari 2600
+Atari 5200
+Bally Astrocade
+ColecoVision
+Epoch Cassette Vision
+Fairchild Channel F
+Gakken Compact Vision TV Boy
+Interton VC 4000/1292 Advanced Programmable Video System
+Intellivision
+Odyssey²
+RCA Studio II
+Vectrex
+Super Vision 8000
+VTech CreatiVision
+Handheld
+Milton Bradley Microvision
+Children's Discovery System
+Entex Select-A-Game
+Entex Adventure Vision
+3D Gamate
+Variety
+Palmtex Portable Videogame System / Super Micro
+Digi Casse
+Romtec Colorvision
+Epoch Game Pocket Computer
+Dedicated
+Nintendo Game & Watch
+ThirdgenerationHome
+Action Max
+Amstrad GX4000
+Atari 7800
+Atari XE Games System
+Casio PV-1000
+Commodore 64 Games System
+Nintendo Entertainment System
+NES-101
+RDI Halcyon
+Sega Master System
+Sega SG-1000
+Super Cassette Vision
+VTech Socrates
+FourthgenerationHome
+Commodore CDTV
+Neo Geo
+Neo Geo CD
+Philips CD-i
+LaserActive
+Sega Genesis
+Sega Pico
+Super A'Can
+Super Nintendo Entertainment System
+SNS-101
+TurboGrafx-16
+Handheld
+Game Boy family
+Game Boy
+Atari Lynx
+Game Gear
+TurboExpress
+Gamate
+Watara Supervision
+Mega Duck/Cougar Boy
+Game Master
+FifthgenerationHome
+3DO Interactive Multiplayer
+Amiga CD32
+Atari Jaguar
+Casio Loopy
+FM Towns Marty
+Nintendo 64
+NEC PC-FX
+Pippin
+Playdia
+PlayStation
+Sega Saturn
+Handheld
+Design Master Senshi
+Game Boy Color
+Game.com
+Neo Geo Pocket
+R-Zone
+Genesis Nomad
+Virtual Boy
+WonderSwan
+SixthgenerationHome
+DISCover
+Dreamcast
+GameCube
+Panasonic Q
+Nuon
+PlayStation 2
+V.Smile
+Xavix
+Xbox
+Handheld
+Game Boy Advance family
+Game Boy Advance
+Advance SP
+Micro
+GP32
+N-Gage
+QD
+Neo Geo Pocket Color
+SwanCrystal
+Tapwave Zodiac
+Dedicated
+Pocket Dream Console
+SeventhgenerationHome
+EVO Smart Console
+Game Wave Family Entertainment System
+HyperScan
+PlayStation 3
+V.Flash
+Wii
+Xbox 360
+Zeebo
+Handheld
+GP2X
+Wiz
+Caanoo
+Dingoo
+Gizmondo
+Nintendo DS family
+Nintendo DS
+DS Lite
+DSi
+Pandora
+PlayStation Portable
+Micro
+OnLive
+Dedicated
+Mi2
+Vii
+EighthgenerationHome
+Nintendo Switch
+PlayStation 4
+Wii U
+Xbox One
+Handheld
+Nintendo 3DS
+2DS
+New 3DS
+New 2DS XL
+Nintendo Switch Lite
+PlayStation Vita
+PlayStation TV
+Micro
+Amazon Fire TV
+Apple TV
+GameStick
+MOJO
+Nexus Player
+OnLive
+Ouya
+Nvidia Shield TV
+Razer ForgeTV
+NinthgenerationHome
+PlayStation 5
+Xbox Series X/S
+Micro
+Atari VCS
+Dedicated
+Intellivision Amico
+OthergenerationHome
+Leapster
+Handheld
+GameKing consoles
+LeapFrog Didj
+Neo Geo X
+Pokémon Mini
+Dedicated
+Atari Flashback
+Barcode Battler
+C64 Direct-to-TV
+Coleco Sonic
+Plug It in & Play TV Games
+NES Classic Edition
+PlayStation Classic
+Stunt Cycle
+Super NES Classic Edition
+Pelican VG Pocket consoles
+
+Emulator
+Game
+Services
+History
+List
+Manufacturer
+
+vteVideo game platforms
+Arcade
+Consoles
+Home
+Handheld
+Hybrid
+Dedicated
+Microconsole
+Personal computers
+Mobile
+Virtual reality
+Cloud
+Browser
+Emulator
+
+vteComputer sizesClasses of computersmicrocomputer,personalcomputerstatic
+Appliances:
+Smart speaker
+Smart TV
+Interactive kiosk
+Arcade cabinet
+Home console
+Microconsole
+thin client/computer terminal
+Computers:
+By use:
+Home
+Home server
+Workstation
+Personal supercomputer
+By size:
+Portable
+Small form factor
+Nettop
+Plug
+Desktop
+Deskside
+All-in-One
+Tabletop
+mobilelaptop
+Desktop replacement
+2-in-1
+Subnotebook
+Netbook
+Smartbook
+Ultrabook
+Ultra-mobile PC
+tablet
+Ultra-mobile PC
+2-in-1
+Phablet
+Tabletop
+handheld(informationappliance)
+Handheld PC
+Palmtop PC
+Pocket computer
+Personal digital assistant
+Electronic organizer
+Mobile phone
+Feature phone
+Smartphone
+Rugged Phone
+Phablet
+Portable media player
+E-reader
+Handheld game console
+Portable/Mobile data terminal
+calculator
+Scientific
+Programmable
+Graphing
+wearable
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartband
+Smartglasses
+Smart ring
+midrange
+Minicomputer
+Supermini
+large
+Super
+Mainframe
+Minisuper
+others
+Microcontroller
+Nanocomputer
+Single-board computer
+Smartdust
+Wireless sensor network
+Server (size independent)
+
+ Category
+ Portal
+
+vteElectronicsBranches
+Analog electronics
+Digital electronics
+Electronic instrumentation
+Electronics engineering
+Microelectronics
+Optoelectronics
+Power electronics
+Printed electronics
+Semiconductor
+Schematic capture
+Thermal management
+Advanced topics
+Atomtronics
+Bioelectronics
+Failure of electronic components
+Flexible electronics
+Low-power electronics
+Molecular electronics
+Nanoelectronics
+Organic electronics
+Photonics
+Piezotronics
+Quantum electronics
+Spintronics
+Electronic equipment
+Air conditioner
+Central heating
+Clothes dryer
+Computer/Notebook
+Camera
+Dishwasher
+Freezer
+Home robot
+Home cinema
+Home theater PC
+Information technologies
+Cooker
+Microwave oven
+Mobile phone
+Networking hardware
+Portable media player
+Radio
+Refrigerator
+Robotic vacuum cleaner
+Tablet
+Telephone
+Television
+Water heater
+Video game console
+Washing machine
+Applications
+Audio electronics
+Automotive electronics
+Avionics
+Control system
+Data acquisition
+e-book
+e-health
+Electronics industry
+Electronic warfare
+Embedded system
+Home appliance
+Home automation
+Integrated circuit
+Home appliance
+Consumer electronics
+Major appliance
+Small appliance
+Microwave technology
+Military electronics
+Multimedia
+Nuclear electronics
+Open hardware
+Radar and Radionavigation
+Radio electronics
+Terahertz technology
+Video hardware
+Wired and Wireless Communications
+
+.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;justify-content:center;align-items:baseline}.mw-parser-output .portal-bar-bordered{padding:0 2em;background-color:#fdfdfd;border:1px solid #a2a9b1;clear:both;margin:1em auto 0}.mw-parser-output .portal-bar-unbordered{padding:0 1.7em;margin-left:0}.mw-parser-output .portal-bar-header{margin:0 1em 0 0.5em;padding:0.2em 0;flex:0 0 auto;min-height:24px;line-height:22px}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:baseline;flex:0 1 auto;padding:0.15em 0;column-gap:1em}.mw-parser-output .portal-bar-item{display:flex;align-items:baseline;margin:0.15em 0;min-height:24px;text-align:left}.mw-parser-output .portal-bar-logo{width:22px;line-height:22px;margin:0 0.2em;text-align:right}.mw-parser-output .portal-bar-link{margin:0 0.2em;text-align:left}@media screen and (max-width:768px){.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;flex-flow:column wrap}.mw-parser-output .portal-bar-header{text-align:center;flex:0;padding-left:0.5em;margin:0 auto}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:baseline;flex:0;margin:0 auto;column-gap:1em;border-top:1px solid #a2a9b1}}.mw-parser-output .navbox+link+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .navbox+style+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .portal-bar+.navbox-styles+.navbox{margin-top:-1px}Portals:ElectronicsVideo games
+Authority control General
+Integrated Authority File (Germany)
+Other
+MusicBrainz instrument
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Video_game_console&oldid=1056119395"
+		Categories: American inventionsBundled products or servicesVideo game consolesVideo game terminologyHidden categories: Pages using the EasyTimeline extensionPages with non-numeric formatnum argumentsArticles with short descriptionShort description is different from WikidataArticles to be merged from October 2021All articles to be mergedUse mdy dates from November 2019Pages using multiple image with auto scaled imagesArticles containing potentially dated statements from 2020All articles containing potentially dated statementsArticles with Curlie linksArticles with GND identifiersArticles with MusicBrainz instrument identifiers
+	

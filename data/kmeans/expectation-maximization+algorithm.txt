@@ -1,0 +1,1805 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		A radial basis function (RBF) is a real-valued function 
+  
+    
+      
+        φ
+      
+    
+    {\textstyle \varphi }
+  
+ whose value depends only on the distance between the input and some fixed point, either the origin, so that 
+  
+    
+      
+        φ
+        (
+        
+          x
+        
+        )
+        =
+        
+          
+            
+              φ
+              ^
+            
+          
+        
+        (
+        
+          ‖
+          
+            x
+          
+          ‖
+        
+        )
+      
+    
+    {\textstyle \varphi (\mathbf {x} )={\hat {\varphi }}(\left\|\mathbf {x} \right\|)}
+  
+, or some other fixed point 
+  
+    
+      
+        
+          c
+        
+      
+    
+    {\textstyle \mathbf {c} }
+  
+, called a center, so that 
+  
+    
+      
+        φ
+        (
+        
+          x
+        
+        )
+        =
+        
+          
+            
+              φ
+              ^
+            
+          
+        
+        (
+        
+          ‖
+          
+            
+              x
+            
+            −
+            
+              c
+            
+          
+          ‖
+        
+        )
+      
+    
+    {\textstyle \varphi (\mathbf {x} )={\hat {\varphi }}(\left\|\mathbf {x} -\mathbf {c} \right\|)}
+  
+. Any function 
+  
+    
+      
+        φ
+      
+    
+    {\textstyle \varphi }
+  
+ that satisfies the property 
+  
+    
+      
+        φ
+        (
+        
+          x
+        
+        )
+        =
+        
+          
+            
+              φ
+              ^
+            
+          
+        
+        (
+        
+          ‖
+          
+            x
+          
+          ‖
+        
+        )
+      
+    
+    {\textstyle \varphi (\mathbf {x} )={\hat {\varphi }}(\left\|\mathbf {x} \right\|)}
+  
+ is a radial function. The distance is usually Euclidean distance, although other metrics are sometimes used. They are often used as a collection 
+  
+    
+      
+        {
+        
+          φ
+          
+            k
+          
+        
+        
+          }
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \{\varphi _{k}\}_{k}}
+  
+which forms a basis for some function space of interest, hence the name.
+Sums of radial basis functions are typically used to approximate given functions. This approximation process can also be interpreted as a simple kind of neural network; this was the context in which they were originally applied to machine learning, in work by David Broomhead and David Lowe in 1988,[1][2] which stemmed from Michael J. D. Powell's seminal research from 1977.[3][4][5]
+RBFs are also used as a kernel in support vector classification.[6] The technique has proven effective and flexible enough that radial basis functions are now applied in a variety of engineering applications.[7][8]
+
+Contents
+
+1 Definition
+
+1.1 Examples
+
+
+2 Approximation
+3 RBF Network
+4 RBFs for PDEs
+5 See also
+6 References
+7 Further reading
+
+
+
+Definition[edit]
+A radial function is a function 
+  
+    
+      
+        φ
+        :
+        [
+        0
+        ,
+        ∞
+        )
+        →
+        
+          R
+        
+      
+    
+    {\textstyle \varphi :[0,\infty )\to \mathbb {R} }
+  
+. When paired with a metric on a vector space 
+  
+    
+      
+        ‖
+        ⋅
+        ‖
+        :
+        V
+        →
+        [
+        0
+        ,
+        ∞
+        )
+      
+    
+    {\textstyle \|\cdot \|:V\to [0,\infty )}
+  
+ a function 
+  
+    
+      
+        
+          φ
+          
+            
+              c
+            
+          
+        
+        =
+        φ
+        (
+        ‖
+        
+          x
+        
+        −
+        
+          c
+        
+        ‖
+        )
+      
+    
+    {\textstyle \varphi _{\mathbf {c} }=\varphi (\|\mathbf {x} -\mathbf {c} \|)}
+  
+ is said to be a radial kernel centered at 
+  
+    
+      
+        
+          c
+        
+      
+    
+    {\textstyle \mathbf {c} }
+  
+. A Radial function and the associated radial kernels are said to be radial basis functions if, for any set of nodes 
+  
+    
+      
+        {
+        
+          
+            x
+          
+          
+            k
+          
+        
+        
+          }
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \{\mathbf {x} _{k}\}_{k=1}^{n}}
+  
+
+
+The kernels 
+  
+    
+      
+        
+          φ
+          
+            
+              
+                x
+              
+              
+                1
+              
+            
+          
+        
+        ,
+        
+          φ
+          
+            
+              
+                x
+              
+              
+                2
+              
+            
+          
+        
+        ,
+        …
+        ,
+        
+          φ
+          
+            
+              
+                x
+              
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle \varphi _{\mathbf {x} _{1}},\varphi _{\mathbf {x} _{2}},\dots ,\varphi _{\mathbf {x} _{n}}}
+  
+ are linearly independent (for example 
+  
+    
+      
+        φ
+        (
+        r
+        )
+        =
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \varphi (r)=r^{2}}
+  
+ in 
+  
+    
+      
+        V
+        =
+        
+          R
+        
+      
+    
+    {\displaystyle V=\mathbb {R} }
+  
+ is not a radial basis function)
+The kernels 
+  
+    
+      
+        
+          φ
+          
+            
+              
+                x
+              
+              
+                1
+              
+            
+          
+        
+        ,
+        
+          φ
+          
+            
+              
+                x
+              
+              
+                2
+              
+            
+          
+        
+        ,
+        …
+        ,
+        
+          φ
+          
+            
+              
+                x
+              
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle \varphi _{\mathbf {x} _{1}},\varphi _{\mathbf {x} _{2}},\dots ,\varphi _{\mathbf {x} _{n}}}
+  
+ form a basis for a Haar Space, meaning that the interpolation matrix
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  φ
+                  (
+                  ‖
+                  
+                    
+                      x
+                    
+                    
+                      1
+                    
+                  
+                  −
+                  
+                    
+                      x
+                    
+                    
+                      1
+                    
+                  
+                  ‖
+                  )
+                
+                
+                  φ
+                  (
+                  ‖
+                  
+                    
+                      x
+                    
+                    
+                      2
+                    
+                  
+                  −
+                  
+                    
+                      x
+                    
+                    
+                      1
+                    
+                  
+                  ‖
+                  )
+                
+                
+                  …
+                
+                
+                  φ
+                  (
+                  ‖
+                  
+                    
+                      x
+                    
+                    
+                      n
+                    
+                  
+                  −
+                  
+                    
+                      x
+                    
+                    
+                      1
+                    
+                  
+                  ‖
+                  )
+                
+              
+              
+                
+                  φ
+                  (
+                  ‖
+                  
+                    
+                      x
+                    
+                    
+                      1
+                    
+                  
+                  −
+                  
+                    
+                      x
+                    
+                    
+                      2
+                    
+                  
+                  ‖
+                  )
+                
+                
+                  φ
+                  (
+                  ‖
+                  
+                    
+                      x
+                    
+                    
+                      2
+                    
+                  
+                  −
+                  
+                    
+                      x
+                    
+                    
+                      2
+                    
+                  
+                  ‖
+                  )
+                
+                
+                  …
+                
+                
+                  φ
+                  (
+                  ‖
+                  
+                    
+                      x
+                    
+                    
+                      n
+                    
+                  
+                  −
+                  
+                    
+                      x
+                    
+                    
+                      2
+                    
+                  
+                  ‖
+                  )
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  φ
+                  (
+                  ‖
+                  
+                    
+                      x
+                    
+                    
+                      1
+                    
+                  
+                  −
+                  
+                    
+                      x
+                    
+                    
+                      n
+                    
+                  
+                  ‖
+                  )
+                
+                
+                  φ
+                  (
+                  ‖
+                  
+                    
+                      x
+                    
+                    
+                      2
+                    
+                  
+                  −
+                  
+                    
+                      x
+                    
+                    
+                      n
+                    
+                  
+                  ‖
+                  )
+                
+                
+                  …
+                
+                
+                  φ
+                  (
+                  ‖
+                  
+                    
+                      x
+                    
+                    
+                      n
+                    
+                  
+                  −
+                  
+                    
+                      x
+                    
+                    
+                      n
+                    
+                  
+                  ‖
+                  )
+                
+              
+            
+            ]
+          
+        
+        ,
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle {\begin{bmatrix}\varphi (\|\mathbf {x} _{1}-\mathbf {x} _{1}\|)&\varphi (\|\mathbf {x} _{2}-\mathbf {x} _{1}\|)&\dots &\varphi (\|\mathbf {x} _{n}-\mathbf {x} _{1}\|)\\\varphi (\|\mathbf {x} _{1}-\mathbf {x} _{2}\|)&\varphi (\|\mathbf {x} _{2}-\mathbf {x} _{2}\|)&\dots &\varphi (\|\mathbf {x} _{n}-\mathbf {x} _{2}\|)\\\vdots &\vdots &\ddots &\vdots \\\varphi (\|\mathbf {x} _{1}-\mathbf {x} _{n}\|)&\varphi (\|\mathbf {x} _{2}-\mathbf {x} _{n}\|)&\dots &\varphi (\|\mathbf {x} _{n}-\mathbf {x} _{n}\|)\\\end{bmatrix}},\qquad (1)}
+  
+
+is non-singular. 
+[9]
+[10]
+
+Examples[edit]
+Commonly used types of radial basis functions include (writing 
+  
+    
+      
+        r
+        =
+        
+          ‖
+          
+            
+              x
+            
+            −
+            
+              
+                x
+              
+              
+                i
+              
+            
+          
+          ‖
+        
+      
+    
+    {\textstyle r=\left\|\mathbf {x} -\mathbf {x} _{i}\right\|}
+  
+ and using 
+  
+    
+      
+        ε
+      
+    
+    {\textstyle \varepsilon }
+  
+ to indicate a shape parameter that can be used to scale the input of the radial kernel[11]):
+
+Infinitely Smooth RBFs
+These radial basis functions are from 
+  
+    
+      
+        
+          C
+          
+            ∞
+          
+        
+        (
+        
+          R
+        
+        )
+      
+    
+    {\displaystyle C^{\infty }(\mathbb {R} )}
+  
+ and are strictly positive definite functions[12] that require tuning a shape parameter 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  
+
+
+Gaussian:
+  
+    
+      
+        φ
+        (
+        r
+        )
+        =
+        
+          e
+          
+            −
+            (
+            ε
+            r
+            
+              )
+              
+                2
+              
+            
+          
+        
+        ,
+        
+        (
+        2
+        )
+      
+    
+    {\displaystyle \varphi (r)=e^{-(\varepsilon r)^{2}},\qquad (2)}
+  
+
+  Gaussian function for several choices of 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  
+
+  Plot of the scaled bump function with several choices of 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  
+
+Multiquadric:
+  
+    
+      
+        φ
+        (
+        r
+        )
+        =
+        
+          
+            1
+            +
+            (
+            ε
+            r
+            
+              )
+              
+                2
+              
+            
+          
+        
+        ,
+        
+        (
+        3
+        )
+      
+    
+    {\displaystyle \varphi (r)={\sqrt {1+(\varepsilon r)^{2}}},\qquad (3)}
+  
+
+Inverse quadratic:
+  
+    
+      
+        φ
+        (
+        r
+        )
+        =
+        
+          
+            
+              1
+              
+                1
+                +
+                (
+                ε
+                r
+                
+                  )
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        ,
+        
+        (
+        4
+        )
+      
+    
+    {\displaystyle \varphi (r)={\dfrac {1}{1+(\varepsilon r)^{2}}},\qquad (4)}
+  
+
+Inverse multiquadric:
+  
+    
+      
+        φ
+        (
+        r
+        )
+        =
+        
+          
+            
+              1
+              
+                1
+                +
+                (
+                ε
+                r
+                
+                  )
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        ,
+        
+        (
+        5
+        )
+      
+    
+    {\displaystyle \varphi (r)={\dfrac {1}{\sqrt {1+(\varepsilon r)^{2}}}},\qquad (5)}
+  
+
+Polyharmonic spline:
+  
+    
+      
+        
+          
+            
+              
+                φ
+                (
+                r
+                )
+              
+              
+                
+                =
+                
+                  r
+                  
+                    k
+                  
+                
+                ,
+              
+              
+                k
+              
+              
+                
+                =
+                1
+                ,
+                3
+                ,
+                5
+                ,
+                …
+              
+            
+            
+              
+                φ
+                (
+                r
+                )
+              
+              
+                
+                =
+                
+                  r
+                  
+                    k
+                  
+                
+                ln
+                ⁡
+                (
+                r
+                )
+                ,
+              
+              
+                k
+              
+              
+                
+                =
+                2
+                ,
+                4
+                ,
+                6
+                ,
+                …
+              
+            
+          
+        
+        ,
+        
+        (
+        6
+        )
+      
+    
+    {\displaystyle {\begin{aligned}\varphi (r)&=r^{k},&k&=1,3,5,\dotsc \\\varphi (r)&=r^{k}\ln(r),&k&=2,4,6,\dotsc \end{aligned}},\qquad (6)}
+  
+*For even-degree polyharmonic splines 
+  
+    
+      
+        (
+        k
+        =
+        2
+        ,
+        4
+        ,
+        6
+        ,
+        …
+        )
+      
+    
+    {\displaystyle (k=2,4,6,\dotsc )}
+  
+, to avoid numerical problems at 
+  
+    
+      
+        r
+        =
+        0
+      
+    
+    {\displaystyle r=0}
+  
+ where 
+  
+    
+      
+        ln
+        ⁡
+        (
+        0
+        )
+        =
+        −
+        ∞
+      
+    
+    {\displaystyle \ln(0)=-\infty }
+  
+, the computational implementation is often written as 
+  
+    
+      
+        φ
+        (
+        r
+        )
+        =
+        
+          r
+          
+            k
+            −
+            1
+          
+        
+        ln
+        ⁡
+        (
+        
+          r
+          
+            r
+          
+        
+        )
+      
+    
+    {\displaystyle \varphi (r)=r^{k-1}\ln(r^{r})}
+  
+[citation needed].
+Thin plate spline (a special polyharmonic spline):
+  
+    
+      
+        φ
+        (
+        r
+        )
+        =
+        
+          r
+          
+            2
+          
+        
+        ln
+        ⁡
+        (
+        r
+        )
+        ,
+        
+        (
+        7
+        )
+      
+    
+    {\displaystyle \varphi (r)=r^{2}\ln(r),\qquad (7)}
+  
+
+Compactly Supported RBFs
+These RBFs are compactly supported and thus are non-zero only within a radius of 
+  
+    
+      
+        1
+        
+          /
+        
+        ε
+      
+    
+    {\displaystyle 1/\varepsilon }
+  
+, and thus have sparse differentiation matrices
+
+Bump function:
+
+  
+    
+      
+        φ
+        (
+        r
+        )
+        =
+        
+          
+            {
+            
+              
+                
+                  exp
+                  ⁡
+                  
+                    (
+                    
+                      −
+                      
+                        
+                          1
+                          
+                            1
+                            −
+                            (
+                            ε
+                            r
+                            
+                              )
+                              
+                                2
+                              
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                
+                  
+                    
+                       for 
+                    
+                  
+                  r
+                  <
+                  
+                    
+                      1
+                      ε
+                    
+                  
+                
+              
+              
+                
+                  0
+                
+                
+                  
+                    
+                       otherwise
+                    
+                  
+                
+              
+            
+            
+          
+        
+        ,
+        
+        (
+        8
+        )
+      
+    
+    {\displaystyle \varphi (r)={\begin{cases}\exp \left(-{\frac {1}{1-(\varepsilon r)^{2}}}\right)&{\mbox{ for }}r<{\frac {1}{\varepsilon }}\\0&{\mbox{ otherwise}}\end{cases}},\qquad (8)}
+  
+
+
+Approximation[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}Main article: Kernel smoothing
+Main article: Radial basis function interpolation
+Radial basis functions are typically used to build up function approximations of the form
+  
+    
+      
+        y
+        (
+        
+          x
+        
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          w
+          
+            i
+          
+        
+        
+        φ
+        (
+        
+          ‖
+          
+            
+              x
+            
+            −
+            
+              
+                x
+              
+              
+                i
+              
+            
+          
+          ‖
+        
+        )
+        ,
+        
+        (
+        9
+        )
+      
+    
+    {\displaystyle y(\mathbf {x} )=\sum _{i=1}^{N}w_{i}\,\varphi (\left\|\mathbf {x} -\mathbf {x} _{i}\right\|),\qquad (9)}
+  
+
+where the approximating function 
+  
+    
+      
+        y
+        (
+        
+          x
+        
+        )
+      
+    
+    {\textstyle y(\mathbf {x} )}
+  
+ is represented as a sum of 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ radial basis functions, each associated with a different center 
+  
+    
+      
+        
+          
+            x
+          
+          
+            i
+          
+        
+      
+    
+    {\textstyle \mathbf {x} _{i}}
+  
+, and weighted by an appropriate coefficient 
+  
+    
+      
+        
+          w
+          
+            i
+          
+        
+        .
+      
+    
+    {\textstyle w_{i}.}
+  
+ The weights 
+  
+    
+      
+        
+          w
+          
+            i
+          
+        
+      
+    
+    {\textstyle w_{i}}
+  
+ can be estimated using the matrix methods of linear least squares, because the approximating function is linear in the weights 
+  
+    
+      
+        
+          w
+          
+            i
+          
+        
+      
+    
+    {\textstyle w_{i}}
+  
+.
+Approximation schemes of this kind have been particularly used[citation needed] in time series prediction and control of nonlinear systems exhibiting sufficiently simple chaotic behaviour and 3D reconstruction in computer graphics (for example, hierarchical RBF and Pose Space Deformation).
+
+RBF Network[edit]
+Main article: radial basis function network
+  Two unnormalized Gaussian radial basis functions in one input dimension. The basis function centers are located at 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        0.75
+      
+    
+    {\textstyle x_{1}=0.75}
+  
+ and 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        3.25
+      
+    
+    {\textstyle x_{2}=3.25}
+  
+.
+The sum
+  
+    
+      
+        y
+        (
+        
+          x
+        
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          w
+          
+            i
+          
+        
+        
+        φ
+        (
+        
+          ‖
+          
+            
+              x
+            
+            −
+            
+              
+                x
+              
+              
+                i
+              
+            
+          
+          ‖
+        
+        )
+        ,
+        
+        (
+        10
+        )
+      
+    
+    {\displaystyle y(\mathbf {x} )=\sum _{i=1}^{N}w_{i}\,\varphi (\left\|\mathbf {x} -\mathbf {x} _{i}\right\|),\qquad (10)}
+  
+can also be interpreted as a rather simple single-layer type of artificial neural network called a radial basis function network, with the radial basis functions taking on the role of the activation functions of the network.  It can be shown that any continuous function on a compact interval can in principle be interpolated with arbitrary accuracy by a sum of this form, if a sufficiently large number 
+  
+    
+      
+        N
+      
+    
+    {\textstyle N}
+  
+ of radial basis functions is used. 
+The approximant 
+  
+    
+      
+        y
+        (
+        
+          x
+        
+        )
+      
+    
+    {\textstyle y(\mathbf {x} )}
+  
+ is differentiable with respect to the weights 
+  
+    
+      
+        
+          w
+          
+            i
+          
+        
+      
+    
+    {\textstyle w_{i}}
+  
+. The weights could thus be learned using any of the standard iterative methods for neural networks.
+Using radial basis functions in this manner yields a reasonable interpolation approach provided that the fitting set has been chosen such that it covers the entire range systematically (equidistant data points are ideal). However, without a polynomial term that is orthogonal to the radial basis functions, estimates outside the fitting set tend to perform poorly.[citation needed]
+
+RBFs for PDEs[edit]
+Main article: Kansa method
+Radial basis functions are used to approximate functions and so can be used to discretize and numerically solve Partial Differential Equations (PDEs). This was first done in 1990 by E. J. Kansa who developed the first RBF based numerical method. It is called the Kansa method and was used to solve the elliptic Poisson equation and the linear advection-diffusion equation. The function values at points 
+  
+    
+      
+        
+          x
+        
+      
+    
+    {\displaystyle \mathbf {x} }
+  
+ in the domain are approximated by the linear combination of RBFs:
+
+  
+    
+      
+        u
+        (
+        
+          x
+        
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          λ
+          
+            i
+          
+        
+        
+        φ
+        (
+        
+          ‖
+          
+            
+              x
+            
+            −
+            
+              
+                x
+              
+              
+                i
+              
+            
+          
+          ‖
+        
+        )
+        ,
+        
+        
+          x
+        
+        ∈
+        
+          
+            R
+          
+          
+            d
+          
+        
+        
+        (
+        11
+        )
+      
+    
+    {\displaystyle u(\mathbf {x} )=\sum _{i=1}^{N}\lambda _{i}\,\varphi (\left\|\mathbf {x} -\mathbf {x} _{i}\right\|),\quad \mathbf {x} \in \mathbb {R} ^{d}\qquad (11)}
+  
+
+The derivatives are approximated as such:
+
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                
+                  n
+                
+              
+              u
+              (
+              
+                
+                  x
+                
+              
+              )
+            
+            
+              ∂
+              
+                x
+                
+                  n
+                
+              
+            
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          λ
+          
+            i
+          
+        
+        
+        
+          
+            
+              ∂
+              
+                n
+              
+            
+            
+              ∂
+              
+                x
+                
+                  n
+                
+              
+            
+          
+        
+        φ
+        (
+        
+          ‖
+          
+            
+              x
+            
+            −
+            
+              
+                x
+              
+              
+                i
+              
+            
+          
+          ‖
+        
+        )
+        ,
+        
+        
+          x
+        
+        ∈
+        
+          
+            R
+          
+          
+            d
+          
+        
+        
+        (
+        12
+        )
+      
+    
+    {\displaystyle {\frac {\partial ^{n}u({\textbf {x}})}{\partial x^{n}}}=\sum _{i=1}^{N}\lambda _{i}\,{\frac {\partial ^{n}}{\partial x^{n}}}\varphi (\left\|\mathbf {x} -\mathbf {x} _{i}\right\|),\quad \mathbf {x} \in \mathbb {R} ^{d}\qquad (12)}
+  
+
+where 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ are the number of points in the discretized domain, 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+ the dimension of the domain and 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ the scalar coefficients that are unchanged by the differential operator.[13]
+Different numerical methods based on Radial Basis Functions were developed thereafter. Some methods are the RBF-FD method,[14][15] the RBF-QR method[16] and the RBF-PUM method.[17]
+
+See also[edit]
+Matérn covariance function
+Radial basis function interpolation
+Kansa method
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ Radial Basis Function networks Archived 2014-04-23 at the Wayback Machine
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Broomhead, David H.; Lowe, David (1988). "Multivariable Functional Interpolation and Adaptive Networks" (PDF). Complex Systems. 2: 321–355. Archived from the original (PDF) on 2014-07-14.
+
+^ Michael J. D. Powell (1977). "Restart procedures for the conjugate gradient method". Mathematical Programming. 12 (1): 241–254. doi:10.1007/bf01593790. S2CID 9500591.
+
+^ Sahin, Ferat (1997). A Radial Basis Function Approach to a Color Image Classification Problem in a Real Time Industrial Application (M.Sc.). Virginia Tech. p. 26. hdl:10919/36847. Radial basis functions were first introduced by Powell to solve the real multivariate interpolation problem.
+
+^ Broomhead & Lowe 1988, p. 347: "We would like to thank Professor M.J.D. Powell at the Department of Applied Mathematics and Theoretical Physics at Cambridge University for providing the initial stimulus for this work."
+
+^ VanderPlas, Jake (6 May 2015). "Introduction to Support Vector Machines". [O'Reilly]. Retrieved 14 May 2015.
+
+^ Buhmann, Martin Dietrich (2003). Radial basis functions : theory and implementations. Cambridge University Press. ISBN 978-0511040207. OCLC 56352083.
+
+^ Biancolini, Marco Evangelos (2018). Fast radial basis functions for engineering applications. Springer International Publishing. ISBN 9783319750118. OCLC 1030746230.
+
+^ Fasshauer, Gregory E. (2007). Meshfree Approximation Methods with MATLAB. Singapore: World Scientific Publishing Co. Pte. Ltd. pp. 17–25. ISBN 9789812706331.
+
+^ Wendland, Holger (2005). Scattered Data Approximation. Cambridge: Cambridge University Press. pp. 11, 18–23, 64–66. ISBN 0521843359.
+
+^ Fasshauer, Gregory E. (2007). Meshfree Approximation Methods with MATLAB. Singapore: World Scientific Publishing Co. Pte. Ltd. p. 37. ISBN 9789812706331.
+
+^ Fasshauer, Gregory E. (2007). Meshfree Approximation Methods with MATLAB. Singapore: World Scientific Publishing Co. Pte. Ltd. pp. 37–45. ISBN 9789812706331.
+
+^ Kansa, E. J. (1990-01-01). "Multiquadrics—A scattered data approximation scheme with applications to computational fluid-dynamics—II solutions to parabolic, hyperbolic and elliptic partial differential equations". Computers & Mathematics with Applications. 19 (8): 147–161. doi:10.1016/0898-1221(90)90271-K. ISSN 0898-1221.
+
+^ Tolstykh, A. I.; Shirobokov, D. A. (2003-12-01). "On using radial basis functions in a "finite difference mode" with applications to elasticity problems". Computational Mechanics. 33 (1): 68–79. doi:10.1007/s00466-003-0501-9. ISSN 1432-0924.
+
+^ Shu, C; Ding, H; Yeo, K. S (2003-02-14). "Local radial basis function-based differential quadrature method and its application to solve two-dimensional incompressible Navier–Stokes equations". Computer Methods in Applied Mechanics and Engineering. 192 (7): 941–954. doi:10.1016/S0045-7825(02)00618-7. ISSN 0045-7825.
+
+^ Fornberg, Bengt; Larsson, Elisabeth; Flyer, Natasha (2011-01-01). "Stable Computations with Gaussian Radial Basis Functions". SIAM Journal on Scientific Computing. 33 (2): 869–892. doi:10.1137/09076756X. ISSN 1064-8275.
+
+^ Safdari-Vaighani, Ali; Heryudono, Alfa; Larsson, Elisabeth (2015-08-01). "A Radial Basis Function Partition of Unity Collocation Method for Convection–Diffusion Equations Arising in Financial Applications". Journal of Scientific Computing. 64 (2): 341–367. doi:10.1007/s10915-014-9935-9. ISSN 1573-7691.
+
+
+Further reading[edit]
+This article includes a list of general references, but it remains largely unverified because it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations.  (June 2013) (Learn how and when to remove this template message)
+Hardy, R.L. (1971). "Multiquadric equations of topography and other irregular surfaces". Journal of Geophysical Research. 76 (8): 1905–1915. Bibcode:1971JGR....76.1905H. doi:10.1029/jb076i008p01905.
+Hardy, R.L. (1990). "Theory and applications of the multiquadric-biharmonic method, 20 years of Discovery, 1968 1988". Comp. Math Applic. 19 (8/9): 163–208. doi:10.1016/0898-1221(90)90272-l.
+Press, WH; Teukolsky, SA; Vetterling, WT; Flannery, BP (2007), "Section 3.7.1. Radial Basis Function Interpolation", Numerical Recipes: The Art of Scientific Computing (3rd ed.), New York: Cambridge University Press, ISBN 978-0-521-88068-8
+Sirayanone, S., 1988, Comparative studies of kriging, multiquadric-biharmonic, and other methods for solving mineral resource problems, PhD. Dissertation, Dept. of Earth Sciences, Iowa State University, Ames, Iowa.
+Sirayanone, S.; Hardy, R.L. (1995). "The Multiquadric-biharmonic Method as Used for Mineral Resources, Meteorological, and Other Applications". Journal of Applied Sciences and Computations. 1: 437–475.
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Radial_basis_function&oldid=1048258663"
+		Categories: Artificial neural networksInterpolationNumerical analysisHidden categories: Webarchive template wayback linksAll articles with unsourced statementsArticles with unsourced statements from May 2021Articles with unsourced statements from July 2013Articles with unsourced statements from February 2019Articles lacking in-text citations from June 2013All articles lacking in-text citations
+	

@@ -1,0 +1,228 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Alphabetic listing of articles about biology topics
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Part of a series onBiologyScience of life
+
+Index
+Outline
+Glossary
+
+
+History (timeline)
+
+Key components
+Cell theory
+Ecosystem
+Evolution
+ Phylogeny
+
+Properties of life
+
+Adaptation
+ Energy processing
+Growth
+Order
+Regulation
+Reproduction
+Response to environment
+
+ Domains and Kingdoms of life
+
+Archaea
+Bacteria
+Eukarya (Animals, Fungi, Plants, Protists)
+
+Branches
+Anatomy
+Biotechnology
+Botany
+Cell biology
+Ecology
+Evolutionary biology
+Genetics
+Marine biology
+Microbiology
+Molecular biology
+Mycology
+Neuroscience
+Paleontology
+Phycology
+Physiology
+Protistology
+Virology
+Zoology
+
+Research
+Biologist (list)
+List of biology awards
+List of journals
+List of research methods
+List of unsolved problems
+
+Applications
+Agricultural science
+Biomedical sciences
+Health technology
+ Pharming
+
+ Biology portal
+ Category.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+Biology is the study of life and its processes. Biologists study all aspects of living things, including all of the many life forms on earth and the processes in them that enable life. These basic processes include the harnessing of energy, the synthesis and duplication of the materials that make up the body, the reproduction of the organism and many other functions. Biology, along with chemistry and physics is one of the major disciplines of natural science.
+
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}See also: Outline of biology
+.mw-parser-output .toc-top-false-title{font-weight:bold;text-align:center}.mw-parser-output .toc-top .hlist ul{text-align:inherit}@media all and (min-width:720px){.mw-parser-output .toc-top{clear:left}.mw-parser-output .toc-top-left{float:left}.mw-parser-output .toc-top-right{float:right;clear:right}.mw-parser-output .toc-top-center{margin:auto;clear:none}}
+Contents 
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+A[edit]
+ABO blood groups – abscisic acid – absorption spectrum – abyssal zone – acetylcholine – acetyl CoA – acid – acid precipitation – acoelomate – acrosome – actin – action potential – active site – adaptive radiation – address-message concept – adenosine 5'-triphosphate – adenylyl cyclase – adrenal glands – adrenodoxin – aerobic organism – age structure – agonist – AIDS – albumin – aldehydes – aldosterone – algae – allantois – allele – allometry – allopatric speciation – allosteric binding site – allosteric effector – allosteric enzyme – allosteric site – allozyme – alpha helix – amino acid – aminoacyl-tRNA synthetases – amino group – amniocentesis – amniotes – amphipathic molecule – anabolism – anaerobic organism – anaerobic respiration – androgens – anemia – aneuploidy – angiosperm – anther – anthrax – antibiotic – antibody – anticodon – antidiuretic hormone – antigen – apical dominance – apical meristem – apolipoprotein – apoplast – apoptosis – aquaporins – Archaea – archegonium – arteriosclerosis – artery – arthritis – ascus – asexual reproduction – atomic number – ATP – ATP synthase – atrioventricular valve – atrium – autoimmune disease – autonomic nervous system – autosome – auxins – axillary bud – axon
+
+B[edit]
+bacteria – bacteriochlorin – bark – Barr body – basal body – basal metabolic rate – base – base pair – basement membrane – basidiomycetes – basidium – B cell – benthic zone – beta sheet – binary fission – binding site – bioassay – biodiversity – bioenergetics – biogeochemical cycles – biological magnification – bioluminescence – biome – biopolymers – biosphere – blood – blood-brain barrier – blotting – bond energy – book lungs – bottleneck effect – Bowman capsule – brain stem – bronchiole – Brønsted acid – Brønsted base – Brownian movement – bryophytes – bubonic plague – budding – bulk flow
+
+C[edit]
+C3 plant – C4 plant – calcitonin – calmodulin – calorie – Calvin cycle – cancer – capillary – capsid – carbohydrate – carbon fixation – carboxyl group – cardiac muscle – cardiac output – cardiovascular system – carotenoids – cartilage – catabolism – catabolite activator protein – catalyst – catecholamine – celiac disease – cell – cell cycle – cell-mediated immunity – cell membrane – cellular respiration – cellulose – central nervous system – centriole – centrosome – cerebellum – cerebral cortex – cerebrum – chaperonin – chemiosmosis – chemoautotroph – chemoheterotroph – chemoreceptor – chirality – chi-square test – chitin – chlamydospore – chlorophyll – chloroplast – cholera – cholesterol – chromatin – chromophore – chromosome – chytrid – circadian rhythm – cloning vector – closed circulatory system – cobalamin – codominance – codon – coenzyme – cofactor – collagen – collecting duct – commensalism – competitive exclusion principle – competitive inhibitor – complementary DNA – complement system – condensation reaction – conidium – cork cambium – corpus luteum cortex – cotransport – cotyledons – covalent bond – crossing over – cuticle – cyanobacteria – cyclic AMP – cyclin – cyclin-dependent kinase – cytochrome – cytochrome-c oxidase – cytochrome P-450 – cytokines – cytoplasm – cytotoxic T cell
+
+D[edit]
+dalton – Darwinian fitness – Darwinism – decomposers – dehydrogenase – deletion – denaturation – dendrite – dengue – denitrification – deoxyribonucleic acid – deoxyribose – depolarization – desmosome – deuterostomes – diabetes mellitus – diastole – diffusion – digestion – dihybrid cross – dikaryon – dikaryotic – disaccharide – DNA ligase – DNA methylation – DNA polymerase – double circulation – double helix – Down syndrome – drupe – duodenum – dynein
+
+E[edit]
+ecdysone – ecological niche – ecology – ecosystem – effector cell – electrochemical gradient – electron – electron acceptor – electronegativity – electron transport chain – enantiomer
+
+F[edit]
+facilitated diffusion – FADH – FADH2 – fat – feedback inhibition – Fehling solution – female – fermentation (biochemistry) – fetus – Fick's law of diffusion – fitness – fitness landscape – flagellum – flavin adenine dinucleotide – flavine – flaviviridae – flower – fluid mosaic model – food web – foot and mouth disease – fossil – Francis Crick – Francis Galton – free energy – fundamental niche – fungi –
+
+G[edit]
+G3P – gall – gall-inducing insect – gamete – gametophyte – gastrula – gel electrophoresis – gene – genetic drift – gene duplication – gene pool – genetic code – genetic equilibrium – genetic fingerprint – genetic recombination – genetics – gene regulatory network – genetic carrier – gene therapy – genome – genome project – genomics – genotype – geologic time – George W. Beadle – glucose – glycolipid – glycolysis – glycome – glycomics – glycoprotein – glycoprotein – Gobind Khorana – Golgi apparatus – Gondwana – gradient – gravitational biology – gravitropism – Gregor Mendel – ground tissue – growth curve – Guthrie test
+
+H[edit]
+habitat – HACEK organism – halobacteria – haploid – Hardy–Weinberg principle – heart – Hela cell – helper T cell – Hepadnaviridae – hepatitis B – herbivore – heredity – hereditary disease – hermaphrodite – herpetology – Hershey–Chase experiment – heterochromatin – heterotroph – heterozygote – Hfr cell – hibernation – hierarchy of life – Hill reaction – His tag – histone – homeobox – homeostasis – homologous recombination – homology – homoplasy – homozygote – homunculus – horizontal gene transfer – hormone – host – household gene – human – Human Genome Project – humoral immunity – hybrid (biology) – hybridization – hydrolysis – hydrolytic enzyme – hygiene – hyperpolarization (biology)
+
+I[edit]
+ichthyology – immune cell – immune system – immunology – inbreeding – inducibility – infectious disease carrier – infertility – inner matrix – insect – insectivores – insulin – intermediate filament – intermembrane space – interphase – intestine – intron – invasive species – ion channel – isoenzyme – isotonic (exercise physiology)
+
+J[edit]
+James Watson – Jean-Baptiste Lamarck – joint
+
+K[edit]
+K-selection – Kary Mullis – karyoplasm – karyotype – keratin – keystone species – kidney – kinesiology – kinetic energy – Klinefelter syndrome – knock-out mouse – Konrad Lorenz – Krebs cycle (or citric acid cycle) – kwashiorkor
+
+L[edit]
+Lac repressor –
+lactic acid autotroph –
+lagging strand –
+lambda phage –
+larva –
+leading strand –
+leaf –
+White blood cells –
+lichen –
+life form –
+life –
+light reactions –
+limbic system –
+limnology –
+Lineweaver-Burke-diagram –
+lipase –
+lipid –
+liver –
+locus –
+long-term potentiation –
+Louis Pasteur –
+lung –
+Lynn Margulis –
+Lyon hypothesis –
+lysis –
+lysozyme –
+lytic cycle
+
+M[edit]
+macroecology – macroevolution – macromolecules – major histocompatibility complex (MHC) – malaria – male – Malpighi layer – monophyletic – marburg virus – Marcello Malpighi – Marfan syndrome – marine biology – mass extinction – mathematical biology – mating – Max Delbrück – meiosis – membrane transporter – memory – memory cell – Mendelian inheritance – meristem – Mesowear – metabolism – metaphase – metapopulation – metazoa – Michaelis-Menten kinetics – microbe – microbiology – microevolution – microfilament – microsatellite – microscope – microtubules – Miller–Urey experiment – mimicry – Mitchell hypothesis – mitochondrial membrane – mitochondrion – mitosis – mitotic spindle – modern evolutionary synthesis – molecular biology – molecular clock – molecular evolution – molecular genetics – molecular phylogeny – mollusc – monoclonal antibody – morphogenesis – morphometrics – morula – MRI – MTT assay – Muller's ratchet – multiresistance – muscle – mutagen – mutation – mutational meltdown – Mutualism (biology) – mycology – myosin
+
+N[edit]
+NAD – NADH – NADPH – natural environment – natural selection – nephron – nervous system – neural plate – neural tube – neuron – neuroscience – neurospora crassa – neurotransmitter – neurula – neutral theory of molecular evolution – niche – nitrogen cycle – non-competitive inhibition – non-cyclic electron flow – nondisjunction – N-terminus – nuclear lamina – nucleolus – nucleon – nucleoside – nucleosome – nucleotide – nutrition
+
+O[edit]
+Okazaki fragment – olfaction – oncogene – operator (biology) – operon – organ – organelle – organism – origin of life – Oscar Hertwig – osmosis – osmoregulation – Oswald Avery – outbreak – outline of biochemical techniques – ovalbumine – ovary – ovum – oxidation – oxidative decarboxylation – oxidative phosphorylation
+
+P[edit]
+Pangaea – paleontology – parallel evolution – paraphyletic – parasitism – parasitology – parthenogenesis – passive transport – Patau syndrome – paternity test – PCR – PCR mutagenesis – pentose phosphate pathway – peptide – peptide bond – peripheral protein – peroxisome – Pfeffer cell – phage – phagocytosis – phenotype – phloem – phospholipid – phospholipid bilayer – phosphorylation – photobiology – photolysis – photon – photophosphorylation – photorespiration – photosynthesis – photosynthesis – photosystem I – photosystem II – phycobilin – phycobiliprotein – phycocyanin – phycology – phylogenetics – phylogeny – phylogenetic tree – physiology – pigment – placenta – plankton – plant – plantae – plant physiology – plant sexuality – plasma membrane – plasmid – plasmolysis – plastid – plate tectonics – point mutation – pollenizer – pollination – pollinator – polymerase chain reaction – polypeptide – polyploidy – polysaccharide – population – population dynamics – population ecology – population genetics – potential energy – predation – pregnancy – primary nutritional groups – primary structure – primer – prion – prokaryote – prometaphase – promoter – prophage – prophase – proprioception – proteasome – protein biosynthesis – protein – protein translocation – proteolysis – proteome – proteomics – protist – protista – proton pump – protozoa – pseudopod – pteridophyte – Punnett square – purine – punctuated equilibrium – pyrimidine – pyruvate oxidation –
+
+Q[edit]
+quaternary structure
+
+R[edit]
+r-selection – radiobiology – receptor (biochemistry) – receptor (immunology) – recombination – Red Queen – redox reaction – redox system – reduction – reflex – Renal corpuscle – repeats – replication bubble – repressor – reproduction – reproductive system – respiration (physiology) – restriction enzyme – retrovirus – reverse genetics – RFLP – Rh blood group system – ribosome – RNA – RNA virus – Robert Koch – root – rough ER – RuBP – Rudolf Steiner –
+
+S[edit]
+saprobe – sarcoplasmic reticulum – scientific classification – secondary metabolite – secondary structure – second messenger – seed – seed plant – selection – sequencing – serum – semen – Sewall Wright – sexual reproduction – sexual selection – shigella – shoot – signal transduction – silk – Sir Charles Lyell – sister chromatid – skeleton – skin cell – sleep – smooth ER – sociobiology – speciation – species – Hans Spemann – sperm – spermatid – spermatogenesis – spermiogenesis – spliceosome – splicing – spore – sporophyte – SSRI – starch – stem – stem cell – Stem cell chip – sticky end – stoma – stomach – streptomycin – structural biology – structural gene – substrate – substrate-level phosphorylation – surface area-to-volume ratio – symbiosis – symbiogenesis – synapomorphy – synapse – syngamy – systematics – systems biology
+
+T[edit]
+T cell – taphonomy – taxis – taxon – taxonomy – telomere – telophase – tertiary structure – testate amoebae – testes – Theodor Bilharz – Theodor Boveri – thermocline – thermoregulation – Thomas Hunt Morgan – Thomas Malthus – thylakoid – Tobacco mosaic virus – tobacco mosaic virus – torpor – Trait (biological) – transcription – transcription factor – transcriptional regulation – transformation – transgressive phenotype – transport vesicle – transposon – Traube cell – trophic level – tropism – tubulin – tumor – turgor – Turner syndrome – twin
+
+U[edit]
+urea cycle
+
+V[edit]
+vaccine – vacuole – varicella-zoster virus – vascular cambium – vascular tissue – vein – vertebrate – vesicle – vesicular stomatitis virus – vestibular system – vicariance – virology – viral classification – virus – viral evolution – visible light – vision – vitamin
+
+W[edit]
+water cycle –
+wavelength –
+welfare biology –
+Wobble base pair –
+wood
+
+X[edit]
+xanthophyll –
+X chromosome –
+xenobiology –
+X-ray diffraction –
+xylem
+
+Y[edit]
+Y chromosome –
+yellow fever
+
+Z[edit]
+zona pellucida –
+zoology –
+zygote
+
+See also[edit]
+List of biochemistry topics
+List of molecular biology topics
+List of evolutionary biology topics
+List of biologists
+List of biological websites
+List of gene families
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteIndices
+General reference
+Culture and the arts
+Geography and places
+Health and fitness
+History and events
+Law
+Mathematics and logic
+Natural and physical sciences
+People and self
+Philosophy and thinking
+Religion and belief systems
+Society and social sciences
+Technology and applied sciences
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Index_of_biology_articles&oldid=1058820311"
+		Categories: Biology-related listsIndexes of science articlesHidden categories: Articles with short descriptionShort description is different from Wikidata
+	

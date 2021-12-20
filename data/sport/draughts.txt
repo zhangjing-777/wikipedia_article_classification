@@ -1,0 +1,1232 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+Card game
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}See also: Glossary of contract bridge terms
+.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}Contract bridgeBridge declarer playAlternative namesBridgeTypeTrick-takingPlayers4Skills requiredtactics, communication, memory, probabilityCards52DeckFrenchPlayClockwiseCard rank (highest first)A K Q J 10 9 8 7 6 5 4 3 2Playing timeWBF tournament games = .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}7+1⁄2 minutes per dealRandom chanceLow to moderate (depending on variant played)Related gamesDuplicate bridge, auction bridge, whist
+Contract bridge, or simply bridge, is a trick-taking card game using a standard 52-card deck. In its basic format, it is played by four players in two competing partnerships,[1] with partners sitting opposite each other around a table.[a] Millions of people play bridge worldwide in clubs, tournaments, online and with friends at home, making it one of the world's most popular card games, particularly among seniors.[4][5] The World Bridge Federation (WBF) is the governing body for international competitive bridge, with numerous other bodies governing bridge at the regional level.
+The game consists of a number of deals,[b] each progressing through four phases. The cards are dealt to the players, and then the players call (or bid) in an auction seeking to take the contract, specifying how many tricks the partnership receiving the contract (the declaring side) needs to take to receive points for the deal. During the auction, partners endeavor to exchange information about their hands, including overall strength and distribution of the suits. The cards are then played, the declaring side trying to fulfill the contract, and the defenders trying to stop the declaring side from achieving its goal. The deal is scored based on the number of tricks taken, the contract, and various other factors which depend to some extent on the variation of the game being played.[6]
+Rubber bridge is the most popular variation for casual play, but most club and tournament play involves some variant of duplicate bridge, in which the cards are not re-dealt on each occasion, but the same deal is played by two or more sets of players (or "tables") to enable comparative scoring.
+
+.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}Contents
+
+1 History and etymology
+2 Gameplay
+
+2.1 Overview
+2.2 Setup and dealing
+2.3 Auction
+2.4 Play
+2.5 Scoring
+
+
+3 Rules
+
+3.1 Laws of duplicate bridge
+3.2 Rules of rubber bridge
+3.3 Laws of online play
+
+
+4 Tournaments
+
+4.1 Bidding boxes and bidding screens
+
+
+5 Game strategy
+
+5.1 Bidding
+
+5.1.1 Bidding systems and conventions
+5.1.2 Basic natural systems
+5.1.3 Variations on the basic themes
+5.1.4 Advanced bidding techniques
+
+
+5.2 Play techniques
+
+
+6 Example
+7 Computer bridge
+
+7.1 User-based play
+7.2 Internet-based play
+
+
+8 Card games related to bridge
+9 See also
+10 References
+
+10.1 Notes
+10.2 Citations
+10.3 Bibliography
+
+
+11 Further reading
+12 External links
+
+
+
+History and etymology[edit]
+Main article: History of contract bridge
+  John Collinson's "Biritch, or Russian Whist", 1886
+Bridge is a member of the family of trick-taking games and is a derivative of whist, which had become the dominant such game and enjoyed a loyal following for centuries. The idea of a trick-taking 52-card game has its first documented origins in Italy and France. The French physician and author Rabelais (1493–1553) mentions a game called "La Triomphe" in one of his works. In 1526 the Italian Francesco Berni wrote the oldest known (as of 1960) textbook on a game very similar to whist, known as "Triomfi". Also, a Spanish textbook in Latin from the first half of the 16th century, "Triumphens Historicus", deals with the same subject.[7]
+Bridge departed from whist with the creation of "Biritch" in the 19th century, and evolved through the late 19th and early 20th centuries to form the present game. The first rule book for bridge, dated 1886, is Biritch, or Russian Whist written by John Collinson, an English financier working in Ottoman Constantinople (now Istanbul). It and his subsequent letter to The Saturday Review dated 28 May 1906, document the origin of Biritch as being the Russian community in Constantinople.[8] The word biritch is thought to be a transliteration of the Russian word Бирюч (бирчий, бирич), an occupation of a diplomatic clerk or an announcer.[8] Another theory is that British soldiers invented the game bridge while serving in the Crimean War, and named it after the Galata Bridge, which they crossed on their way to a coffeehouse to play cards.[9]
+Biritch had many significant bridge-like developments: dealer chose the trump suit, or nominated his partner to do so; there was a call of no trumps (biritch); dealer's partner's hand became dummy; points were scored above and below the line; game was 3NT, 4♥ and 5♦ (although 8 club odd tricks and 15 spade odd tricks were needed); the score could be doubled and redoubled; and there were slam bonuses.[10] It has some features in common with solo whist. This game, and variants of it known as "bridge"[11][full citation needed] and "bridge whist",[12][full citation needed] became popular in the United States and the United Kingdom in the 1890s despite the long-established dominance of whist.[13][8] Its breakthrough was its acceptance  in 1894 by Lord Brougham at London's Portland Club.[8]
+In 1904 auction bridge was developed, in which the players bid in a competitive auction to decide the contract and declarer. The object became to make at least as many tricks as were contracted for, and penalties were introduced for failing to do so. Auction bridge bidding beyond winning the auction is pointless. If taking all 13 tricks, there is no difference in score between a 1♠ and a 7♠ final bid, as no bonus for game, small slam or grand slam exists.
+
+  Bridge club at Shimer College, 1942.
+The modern game of contract bridge was the result of innovations to the scoring of auction bridge by Harold Stirling Vanderbilt and others. The most significant change was that only the tricks contracted for were scored below the line toward game or a slam bonus, a change that resulted in bidding becoming much more challenging and interesting. Also new was the concept of "vulnerability", making sacrifices to protect the lead in a rubber more expensive. The various scores were adjusted to produce a more balanced and interesting game. Vanderbilt set out his rules in 1925, and within a few years contract bridge had so supplanted other forms of the game that "bridge" became synonymous with "contract bridge".
+The form of bridge played in clubs and tournaments is duplicate bridge, which is played at clubs, in tournaments and online. The number of people playing contract bridge has declined since its peak in the 1940s, when a survey found it was played in 44% of US households. The game is still widely played, especially amongst retirees, and in 2005 the ACBL estimated there were 25 million players in the US.[14]
+
+Gameplay[edit]
+  A trickNorth led ♠10 so that all players must play a spade unless they have none.[15] East "follows suit" with ♠K, South with ♦J and West with ♥7. In a no-trump game, East wins the trick, having played the highest spade card. However, if diamonds or hearts are trumps, South or West respectively win.
+Overview[edit]
+Bridge is a four-player partnership trick-taking game with thirteen tricks per deal.[16][17] The dominant variations of the game are rubber bridge, more common in social play; and duplicate bridge, which enables comparative scoring in tournament play. Each player is dealt thirteen cards from a standard 52-card deck. A trick starts when a player leads, i.e. plays the first card. The leader to the first trick is determined by the auction; the leader to each subsequent trick is the player who won the preceding trick. Each player, in a clockwise order, plays one card on the trick. Players must play a card of the same suit as the original card led, unless they have none (said to be "void"), in which case they may play any card.[15]
+The player who played the highest-ranked card wins the trick. Within a suit, the ace is ranked highest followed by the king, queen and jack and then the ten through to the two. In a deal where the auction has determined that there is no trump suit, the trick must be won by a card of the suit led. However, in a deal where there is a trump suit, cards of that suit are superior in rank to any of the cards of any other suit. If one or more players plays a trump to a trick when void in the suit led, the highest trump wins. For example, if the trump suit is spades and a player is void in the suit led and plays a spade card, they win the trick if no other player plays a higher spade. If a trump suit is led, the usual rule for trick-taking applies.[15]
+Unlike its predecessor, whist, the goal of bridge is not simply to take the most tricks in a deal.[18] Instead, the goal is to successfully estimate how many tricks one's partnership can take.[19] To illustrate this, the simpler partnership trick-taking game of spades has a similar mechanism: the usual trick-taking rules apply with the trump suit being spades, but in the beginning of the game, players bid or estimate how many tricks they can win, and the number of tricks bid by both players in a partnership are added. If a partnership takes at least that many number of tricks, they receive points for the round; otherwise, they receive penalty points.
+Bridge extends the concept of bidding into an auction, where partnerships compete to take a contract, specifying how many tricks they will need to take in order to receive points, and also specifying the trump suit (or no trump, meaning that there will be no trump suit). Players take turns to call in a clockwise order: each player in turn either passes, doubles – which increases the penalties for not making the contract specified by the opposing partnership's last bid, but also increases the reward for making it[20] – or redoubles, or states a contract that their partnership will adopt, which must be higher than the previous highest bid (if any).[21] Eventually, the player who bid the highest contract – which is determined by the contract's level as well as the trump suit or no trump – wins the contract for their partnership.
+In the example auction below, the east–west pair secures the contract of 6♠; the auction concludes when there have been three successive passes.[22] Note that six tricks are added to contract values, so the six-level contract would actually be a contract of twelve tricks.[23][24] In practice, establishing a contract without enough information on the other partner's hand is difficult, so there exist many bidding systems assigning meanings to bids, with common ones including Standard American, Acol, and 2/1 game forcing. Contrast with Spades, where players only have to bid their own hand.
+After the contract is decided, and the first lead is made, the declarer's partner (dummy) lays their cards face up on the table, and the declarer plays the dummy's cards as well as their own.[25] The opposing partnership is called the defenders, and their goal is to stop the declarer from fulfilling his contract. Once all the cards have been played, the hand is scored: if the declaring side make their contract, they receive points based on the level of the contract, with some trump suits being worth more points than others and no trump being the highest, as well as bonus points for overtricks. But if the declarer fails to fulfil the contract, the defenders receive points depending on the declaring side's undertricks (the number of tricks short of the contract) and whether the contract was doubled by the defenders.[24]
+
+Setup and dealing[edit]
+
+
+
+  Boards with cards
+
+
+
+
+  Four players with partners opposite each other
+
+The four players sit in two partnerships with players sitting opposite their partners. A cardinal direction is assigned to each seat, so that one partnership sits in North and South, while the other sits in West and East.[26] The cards may be freshly dealt or, in duplicate bridge games, pre-dealt.[27][28] All that is needed in basic games are the cards and a method of keeping score, but there is often other equipment on the table, such as a board containing the cards to be played (in duplicate bridge), bidding boxes, or screens.[29][30][31]
+In rubber bridge, each player draws a card at the start of the game with the player who drew the highest cards dealing first. The second highest card becomes the dealer's partner and takes the chair on the opposite side of the table. They play against the other two.[17] The deck is shuffled and cut, usually by the player to the left of the dealer, before dealing. Players take turns to deal, in a clockwise order. The dealer deals the cards clockwise, one card at a time.[27][32] Normally rubber bridge is played with two packs of cards and whilst one pack is being dealt, the dealer's partner shuffles the other pack. After shuffling the pack is placed on the right ready for the next dealer. ("If you're not an idiot quite. Put the cards on the right.") Before dealing, the next dealer passes the cards to the previous dealer who cuts them.
+In duplicate bridge, the cards are pre-dealt, either by hand or by a computerized dealing machine, in order to allow for competitive scoring. Once dealt, the cards are placed in a device called a "board", having slots designated for each player's cardinal direction seating position. After a deal has been played, players return their cards to the appropriate slot in the board, ready to be played by the next table.[33][34]
+
+Auction[edit]
+
+
+
+
+
+
+
+West
+North
+East
+South
+
+Example auction
+
+
+
+
+1♦
+1♥
+
+
+1♠
+2♣
+2♠
+3♣
+
+
+4♠
+Pass
+4NT
+Pass
+
+
+5♦
+Pass
+6♠
+Pass
+
+
+Pass
+Pass
+
+
+ East-West and north–south compete for the contract. East-West prevail, specifying the trump suit (spades) and the minimum number of tricks beyond six which they must win, six.
+
+The dealer opens the auction and can make the first call, and the auction proceeds clockwise.[c] When it is their turn to call, a player may pass – but can enter into the bidding later – or bid a contract, specifying the level of their contract and either the trump suit or no trump (the denomination), provided that it is higher than the last bid by any player, including their partner.[23] All bids promise to take a number of tricks in excess of six, so a bid must be between one (seven tricks) and seven (thirteen tricks). A bid is higher than another bid if either the level is greater (e.g., 2♣ over 1NT) or the denomination is higher, with the order being in ascending order: ♣, ♦, ♥, ♠, and NT (no trump).[23] Calls may be made orally, or with a bidding box, or digitally in online bridge.
+If the last bid was by the opposing partnership, one may also double the opponents' bid, increasing the penalties for undertricks, but also increasing the reward for making the contract. Doubling does not carry to future bids by the opponents unless future bids are doubled again. A player on the opposing partnership being doubled may also redouble, which increases the penalties and rewards further.[35] Players may not see their partner's hand during the auction, only their own. There exist many bidding conventions that assign agreed meanings to various calls to assist players in reaching an optimal contract (or obstruct the opponents).[36]
+The auction ends when, after a player bids, doubles, or redoubles, every other player has passed, in which case the action proceeds to the play; or every player has passed and no bid has been made, in which case the round is considered to be "passed out" and not played.[22]
+
+Play[edit]
+The player from the declaring side who first bid the denomination named in the final contract becomes declarer.[d][37] The player left to the declarer leads to the first trick. Dummy then lays his or her cards face up on the table, organized in columns by suit. Play proceeds clockwise, with each player required to follow suit if possible. Tricks are won by the highest trump, or if there were none played, the highest card of the led suit.[38] The player who won the previous trick leads to the next trick. The declarer has control of the dummy's cards and tells his partner which card to play at dummy's turn.[39] There also exist conventions that communicate further information between defenders about their hands during the play.[25]
+At any time, a player may claim, stating that their side will win a specific number of the remaining tricks. The claiming player lays his cards down on the table and explains the order in which he intends to play the remaining cards. The opponents can either accept the claim and the round is scored accordingly, or dispute the claim. If the claim is disputed, play continues with the claiming player's cards face up in rubber games,[40] or in duplicate games, play ceases and the tournament director is called to adjudicate the hand.[41]
+
+Scoring[edit]
+Main article: Bridge scoring
+  A bidding box containing all the possible calls a player can make in the auction.
+At the end of the hand, points are awarded to the declaring side if they make the contract, or else to the defenders. Partnerships can be vulnerable, increasing the rewards for making the contract, but also increasing the penalties for undertricks. In rubber bridge, if a side has won 100 contract points, they have won a game and are vulnerable for the remaining rounds,[42] but in duplicate bridge, vulnerability is predetermined based on the number of each board.[43]
+If the declaring side makes their contract, they receive points for odd tricks, or tricks bid and made in excess of six. In both rubber and duplicate bridge, the declaring side is awarded 20 points per odd trick for a contract in clubs or diamonds, and 30 points per odd trick for a contract in hearts or spades. For a contract in notrump, the declaring side is awarded 40 points for the first odd trick and 30 points for the remaining odd tricks. Contract points are doubled or quadrupled if the contract is respectively doubled or redoubled.[e]
+In rubber bridge, a partnership wins one game once it has accumulated 100 contract points; excess contract points do not carry over to the next game. A partnership that wins two games wins the rubber, receiving a bonus of 500 points if the opponents have won a game, and 700 points if they have not.[44]
+Overtricks score the same number of points per odd trick, although their doubled and redoubled values differ.[24][45] Bonuses vary between the two bridge variations both in score and in type (for example, rubber bridge awards a bonus for holding a certain combination of high cards),[24] although some are common between the two.
+A larger bonus is awarded if the declaring side makes a small slam or grand slam, a contract of 12 or 13 tricks respectively. If the declaring side is not vulnerable, a small slam gets 500 points, and a grand slam 1000 points. If the declaring side is vulnerable, a small slam is 750 points and a grand slam is 1,500.[24][45]
+In rubber bridge, the rubber finishes when a partnership has won two games, but the partnership receiving the most overall points wins the rubber.[44] Duplicate bridge is scored comparatively, meaning that the score for the hand is compared to other tables playing the same cards and match points are scored according to the comparative results: usually either "matchpoint scoring", where each partnership receives 2 points (or 1 point) for each pair that they beat, and 1 point (or 1⁄2 point) for each tie; or IMPs (international matchpoint) scoring, where the number of IMPs varies (but less than proportionately) with the points difference between the teams.[45]
+Undertricks are scored in both variations as follows:[24][45]
+
+
+
+Undertricks
+
+Points per undertrick
+
+
+Vulnerable
+
+Not vulnerable
+
+
+Undoubled
+
+ Doubled 
+
+Redoubled
+
+Undoubled
+
+ Doubled 
+
+Redoubled
+
+
+1st undertrick
+
+100
+
+200
+
+400
+
+50
+
+100
+
+200
+
+
+2nd and 3rd, each
+
+300
+
+600
+
+200
+
+400
+
+
+4th and each subsequent
+
+300
+
+600
+
+300
+
+600
+
+Rules[edit]
+The rules of the game are referred to as the laws as promulgated by various bridge organizations.
+
+Laws of duplicate bridge[edit]
+Main article: Laws of Duplicate Bridge
+The official rules of duplicate bridge are promulgated by the WBF as "The Laws of Duplicate Bridge 2017".[46] The Laws Committee of the WBF, composed of world experts, updates the Laws every 10 years; it also issues a Laws Commentary advising on interpretations it has rendered.
+In addition to the basic rules of play, there are many additional rules covering playing conditions and the rectification of irregularities, which are primarily for use by tournament directors who act as referees and have overall control of procedures during competitions. But various details of procedure are left to the discretion of the zonal bridge organisation for tournaments under their aegis and some (for example, the choice of movement) to the sponsoring organisation (for example, the club).
+Some zonal organisations of the WBF also publish editions of the Laws. For example, the American Contract Bridge League (ACBL) publishes the Laws of Duplicate Bridge[47] and additional documentation for club and tournament directors.[48]
+
+Rules of rubber bridge[edit]
+There are no universally accepted rules for rubber bridge, but some zonal organisations have published their own. An example for those wishing to abide by a published standard is The Laws of Rubber Bridge[49] as published by the American Contract Bridge League.
+The majority of rules mirror those of duplicate bridge in the bidding and play and differ primarily in procedures for dealing and scoring.
+
+Laws of online play[edit]
+In 2001, the WBF promulgated a set of Laws for online play.[50]
+
+Tournaments[edit]
+Bridge is a game of skill played with randomly dealt cards, which makes it also a game of chance, or more exactly, a tactical game with inbuilt randomness, imperfect knowledge and restricted communication. The chance element is in the deal of the cards; in duplicate bridge some of the chance element is eliminated by comparing results of multiple pairs in identical situations. This is achievable when there are eight or more players, sitting at two or more tables, and the deals from each table are preserved and passed to the next table, thereby duplicating them for the other table(s) of players. At the end of a session, the scores for each deal are compared, and the most points are awarded to the players doing the best with each particular deal. This measures relative skill (but still with an element of luck) because each pair or team is being judged only on the ability to bid with, and play, the same cards as other players.
+Duplicate bridge is played in clubs and tournaments, which can gather as many as several hundred players. Duplicate bridge is a mind sport, and its popularity gradually became comparable to that of chess, with which it is often compared for its complexity and the mental skills required for high-level competition. Bridge and chess are the only "mind sports" recognized by the International Olympic Committee, although they were not found eligible for the main Olympic program.[51] In October 2017 the British High Court ruled against the English Bridge Union, finding that Bridge is not a sport under a definition of sport as involving physical activity, but did not rule on the "broad, somewhat philosophical question" as to whether or not bridge is a sport.[52]
+The basic premise of duplicate bridge had previously been used for whist matches as early as 1857. Initially, bridge was not thought to be suitable for duplicate competition; it was not until the 1920s that (auction) bridge tournaments became popular.
+In 1925 when contract bridge first evolved, bridge tournaments were becoming popular, but the rules were somewhat in flux, and several different organizing bodies were involved in tournament sponsorship: the American Bridge League (formerly the American Auction Bridge League, which changed its name in 1929), the American Whist League, and the United States Bridge Association. In 1935, the first officially recognized world championship was held. In 1958, the World Bridge Federation (WBF) was founded to promote bridge worldwide, coordinate periodic revision to the Laws (each ten years, next in 2027) and conduct world championships.[53]
+
+Bidding boxes and bidding screens[edit]
+In tournaments, "bidding boxes" are frequently used, as noted above. These avoid the possibility of players at other tables hearing any spoken bids.  The bidding cards are laid out in sequence as the auction progresses.  Although it is not a formal rule, many clubs adopt a protocol that the bidding cards stay revealed until the first playing card is tabled, after which point the bidding cards are put away. Bidding pads are an alternative to bidding boxes. A bidding pad is a block of 100mm square tear-off sheets. Players write their bids on the top sheet. When the first trick is complete the sheet is torn off and discarded.
+In top national and international events, "bidding screens" are used. These are placed diagonally across the table, preventing partners from seeing each other during the game; often the screen is removed after the auction is complete.
+
+Game strategy[edit]
+Bidding[edit]
+Main articles: Bidding system and Bridge convention
+Much of the complexity in bridge arises from the difficulty of arriving at a good final contract in the auction (or deciding to let the opponents declare the contract). This is a difficult problem: the two players in a partnership must try to communicate enough information about their hands to arrive at a makeable contract, but the information they can exchange is restricted – information may be passed only by the calls made and later by the cards played, not by other means; in addition, the agreed-upon meaning of each call and play must be available to the opponents.
+Since a partnership that has freedom to bid gradually at leisure can exchange more information, and since a partnership that can interfere with the opponents' bidding (as by raising the bidding level rapidly) can cause difficulties for their opponents, bidding systems are both informational and strategic. It is this mixture of information exchange and evaluation, deduction, and tactics that is at the heart of bidding in bridge.
+A number of basic rules of thumb in bridge bidding and play are summarized as bridge maxims.
+
+Bidding systems and conventions[edit]
+A bidding system is a set of partnership agreements on the meanings of bids. A partnership's bidding system is usually made up of a core system, modified and complemented by specific conventions (optional customizations incorporated into the main system for handling specific bidding situations) which are pre-chosen between the partners prior to play. The line between a well-known convention and a part of a system is not always clear-cut: some bidding systems include specified conventions by default. Bidding systems can be divided into mainly natural systems such as Acol and Standard American, and mainly artificial systems such as the Precision Club and Polish Club.
+Calls are usually considered to be either natural or conventional (artificial). A natural call carries a meaning that reflects the call; a natural bid intuitively showing hand or suit strength based on the level or suit of the bid, and a natural double expressing that the player believes that the opposing partnership will not make their contract. By contrast, a conventional (artificial) call offers and/or asks for information by means of pre-agreed coded interpretations, in which some calls convey very specific information or requests that are not part of the natural meaning of the call. Thus in response to 4NT, a 'natural' bid of 5♦ would state a preference towards a diamond suit or a desire to play the contract in 5 diamonds, whereas if the partners have agreed to use the common Blackwood convention, a bid of 5♦ in the same situation would say nothing about the diamond suit, but tell the partner that the hand in question contains exactly one ace.
+Conventions are valuable in bridge because of the need to pass information beyond a simple like or dislike of a particular suit, and because the limited bidding space can be used more efficiently by adopting a conventional (artificial) meaning for a given call where a natural meaning would have less utility, because the information it would convey is not valuable or because the desire to convey that information would arise only rarely. The conventional meaning conveys more useful (or more frequently useful) information. There are a very large number of conventions from which players can choose; many books have been written detailing bidding conventions. Well-known conventions include Stayman (to ask the opening 1NT bidder to show any four-card major suit), Jacoby transfers (a request by (usually) the weak hand for the partner to bid a particular suit first, and therefore to become the declarer), and the Blackwood convention (to ask for information on the number of aces and kings held, used in slam bidding situations).
+The term preempt refers to a high-level tactical bid by a weak hand, relying upon a very long suit rather than high cards for tricks. Preemptive bids serve a double purpose – they allow players to indicate they are bidding on the basis of a long suit in an otherwise weak hand, which is important information to share, and they also consume substantial bidding space which prevents a possibly strong opposing pair from exchanging information on their cards. Several systems include the use of opening bids or other early bids with weak hands including long (usually six to eight card) suits at the 2, 3 or even 4 or 5 levels as preempts.
+
+Basic natural systems[edit]
+As a rule, a natural suit bid indicates a holding of at least four (or more, depending on the situation and the system) cards in that suit as an opening bid, or a lesser number when supporting partner; a natural NT bid indicates a balanced hand.
+Most systems use a count of high card points as the basic evaluation of the strength of a hand, refining this by reference to shape and distribution if appropriate. In the most commonly used point count system, aces are counted as 4 points, kings as 3, queens as 2, and jacks as 1 point; therefore, the deck contains 40 points. In addition, the distribution of the cards in a hand into suits may also contribute to the strength of a hand and be counted as distribution points. A better than average hand, containing 12 or 13 points, is usually considered sufficient to open the bidding, i.e., to make the first bid in the auction. A combination of two such hands (i.e., 25 or 26 points shared between partners) is often sufficient for a partnership to bid, and generally to make, game in a major suit or notrump (more are usually needed for a minor suit game, as the level is higher).
+In natural systems, a 1NT opening bid usually reflects a hand that has a relatively balanced shape (usually between two and four (or less often five) cards in each suit) and a sharply limited number of high card points, usually somewhere between 12 and 18 – the most common ranges use a span of exactly three points (for example, 12–14, 15–17 or 16–18), but some systems use a four-point range, usually 15–18.
+Opening bids of three or higher are preemptive bids, i.e., bids made with weak hands that especially favor a particular suit, opened at a high level in order to define the hand's value quickly and to frustrate the opposition. For example, a hand of ♠ KQJ9872 ♥ 7 ♦ 42 ♣ 763 would be a candidate for an opening bid of 3♠, designed to make it difficult for the opposing team to bid and find their optimum contract even if they have the bulk of the points, as it is nearly valueless unless spades are trumps, it contains good enough spades that the penalty for being set should not be higher than the value of an opponent game, and the high card weakness makes it more likely that the opponents have enough strength to make game themselves.
+Openings at the 2 level are either unusually strong (2NT, natural, and 2♣, artificial) or preemptive, depending on the system. Unusually strong bids communicate an especially high number of points (normally 20 or more) or a high trick-taking potential (normally 8 or more). Also 2♦ as the strongest (by HCP and by DP+HCP) has become more common, perhaps especially at websites that offer duplicate bridge. Here the 2♣ opening is used for either hands with a good 6-card suit or longer (max one losing card) and a total of 18 HCP up to 23 total points – or "2+1⁄2NT", like 2NT but with 22–23 HCP. Whilst the 2♦ opening bid takes care of all hands with 24 points (HCP or with distribution points included) with the only exception of "Gambling 3NT".
+Opening bids at the one level are made with hands containing 12–13 points or more and which are not suitable for one of the preceding bids. Using Standard American with 5-card majors, opening hearts or spades usually promises a 5-card suit. Partnerships who agree to play 5-card majors open a minor suit with 4-card majors and then bid their major suit at the next opportunity. This means that an opening bid of 1♣ or 1♦ will sometimes be made with only 3 cards in that suit.
+Doubles are sometimes given conventional meanings in otherwise mostly natural systems. A natural, or penalty double, is one used to try to gain extra points when the defenders are confident of setting (defeating) the contract. The most common example of a conventional double is the takeout double of a low-level suit bid, implying support for the unbid suits or the unbid major suits and asking partner to choose one of them.
+
+Variations on the basic themes[edit]
+Bidding systems depart from these basic ideas in varying degrees. Standard American, for instance, is a collection of conventions designed to bolster the accuracy and power of these basic ideas, while Precision Club is a system that uses the 1♣ opening bid for all or almost all strong hands (but sets the threshold for "strong" rather lower than most other systems – usually 16 high card points) and may include other artificial calls to handle other situations (but it may contain natural calls as well). Many experts today use a system called 2/1 game forcing (enunciated as two over one game forcing), which amongst other features adds some complexity to the treatment of the one notrump response as used in Standard American. In the UK, Acol is the most common system; its main features are a weak one notrump opening with 12–14 high card points and several variations for 2-level openings.
+There are also a variety of advanced techniques used for hand evaluation. The most basic is the Milton Work point count, (the 4-3-2-1 system detailed above) but this is sometimes modified in various ways, or either augmented or replaced by other approaches such as losing trick count, honor point count, law of total tricks, or Zar Points.
+Common conventions and variations within natural systems include:
+
+Blackwood (either the original version or Roman Key Card)
+How the partnership's bidding practices will be varied if their opponents intervene or compete.
+Point count required for 1 NT opening bid ('mini' 10–12, 'weak' 12–14, 'strong' 15–17 or 16–18)
+Stayman (together with Blackwood, described as "the two most famous conventions in Bridge".[54])
+What types of cue bids (e.g. bidding the opponents' suit) the partnership will play, if any.
+Whether 1♣ (and sometimes 1♦) is 'natural' or 'suspect' (also called 'phoney' or 'short'), signifying an opening hand lacking a notable heart or spade suit
+Whether an opening bid of 1♥ and 1♠ requires a minimum of 4 or 5 cards in the suit (4 or 5 card majors)
+Whether doubling a contract at the 1, 2 and sometimes higher levels signifies a belief that the opponents' contract will fail and a desire to raise the stakes (a penalty double), or an indication of strength but no biddable suit coupled with a request that partner bid something (a takeout double).
+Whether doubling or overcalling over opponents' 1NT is natural or conventional. One common artificial agreement is Cappelletti, where 2♣ is a transfer to be passed or corrected to a major, 2♦ means both majors and a major shows that suit plus a minor.
+Whether opening bids at the two level are 'strong' (20+ points) or 'weak' (i.e., pre-emptive with a 6 card suit). (Note: an opening bid of 2♣ is usually played in otherwise natural systems as conventional, signifying any exceptionally strong hand)
+Whether the partnership will play Jacoby transfers (bids of 2♦ and 2♥ over 1NT or 3♦ and 3♥ over 2NT respectively require the 1NT or 2NT bidder to rebid 2♥ and 2♠ or 3♥ and 3♠), minor suit transfers (bids of 2♠ and either 2NT or 3♣ over 1NT respectively require the 1NT bidder to bid 3♣ and 3♦) and Texas transfers (bids of 4♦ and 4♥ respectively require the 1NT, or 2NT bidder to rebid 4♥ and 4♠)
+Which (if any) bids are forcing and require a response.
+Within play, it is also commonly agreed what systems of opening leads, signals and discards will be played:
+
+Conventions for the opening lead govern how the first card to be played will be chosen and what it will mean,
+Count signals cover the situation when a defender is following suit (usually to a suit that the declarer has led). In such circumstances the order in which a defender plays his spot cards will indicate whether an even or odd number of cards was originally held in that suit. This can help the other defender count out the entire original distribution of the cards in that suit. It is sometimes critical to know this when defending.
+Discards cover the situation when a defender cannot follow suit and therefore has free choice what card to play or throw away. In such circumstances the thrown-away card can be used to indicate some aspect of the hand, or a desire for a specific suit to be played.
+Signals indicate how cards played within a suit are chosen – for example, playing a noticeably high card when this would not be expected can signal encouragement to continue playing the suit, and a low card can signal discouragement and a desire for partner to choose some other suit. (Some partnerships use "reverse" signals, meaning that a noticeably high card discourages that suit and a noticeably low card encourages that suit, thus not "wasting" a potentially useful intermediate card in the suit of interest.)
+Suit preference signals cover the situation where a defender is returning a suit which will be ruffed by his partner. If he plays a high card he is showing an entry in the higher side suit and vice versa. There are some other situations where this tool may be used.
+Surrogate signals cover the situation when it is critical to show length in a side suit and it will be too late if defenders wait until that suit is played. Then, the play in the first declarer played suit is a count signal regarding the critical suit and not the trump suit itself. In fact, any signal made about a suit in another suit might be called as such.
+Advanced bidding techniques[edit]
+Every call (including "pass", also sometimes called "no bid") serves two purposes. It confirms or passes some information to a partner, and also denies by implication any other kind of hand which would have tended to support an alternative call. For example, a bid of 2NT immediately after partner's 1NT not only shows a balanced hand of a certain point range, but also would almost always deny possession of a five-card major suit (otherwise the player would have bid it) or even a four card major suit (in that case, the player would probably have used the Stayman convention).
+Likewise, in some partnerships the bid of 2♥ in the sequence 1NT–2♣–2♦–2♥ between partners (opponents passing throughout) explicitly shows five hearts but also confirms four cards in spades: the bidder must hold at least five hearts to make it worth looking for a heart fit after 2♦ denied a four card major, and with at least five hearts, a Stayman bid must have been justified by having exactly four spades, the other major (since Stayman (as used by this partnership) is not useful with anything except a four card major suit).[55] Thus an astute partner can read much more than the surface meaning into the bidding. Alternatively, many partnerships play this same bidding sequence as "Crawling Stayman" by which the responder shows a weak hand (less than eight high card points) with shortness in diamonds but at least four hearts and four spades; the opening bidder may correct to spades if that appears to be the better contract.
+The situations detailed here are extremely simple examples; many instances of advanced bidding involve specific agreements related to very specific situations and subtle inferences regarding entire sequences of calls.
+
+Play techniques[edit]
+Main article: List of play techniques (bridge)
+Terence Reese, a prolific author of bridge books, points out[56] that there are only four ways of taking a trick by force, two of which are very easy:
+
+establishing long suits (the last cards in a suit will take tricks if the opponents don't have the suit and are unable to trump)
+playing a high card that no one else can beat
+playing for the opponents' high cards to be in a particular position (if their ace is to the right of your king, your king may be able to take a trick, especially if, when that suit is led, the player to your right has to play their card before you do)
+trumping an opponent's high card
+Nearly all trick-taking techniques in bridge can be reduced to one of these four methods. The optimum play of the cards can require much thought and experience and is the subject of whole books on bridge.
+
+Example[edit]
+The cards are dealt as shown in the bridge hand diagram; North is the dealer and starts the auction which proceeds as shown in the bidding table.
+
+
+
+Example 1MatchpointsSouth in 4♥Not Vulnerable
+
+♠
+J 3
+
+
+
+
+♥
+J 8 7 4
+
+
+♦
+A 10 7 6 5
+
+
+♣
+Q 3
+
+
+♠
+K Q 8 7 2
+
+NW               ES
+
+♠
+10 9 5 4
+
+
+♥
+A 2
+
+♥
+9 6
+
+
+♦
+J 4 2
+
+♦
+K Q 9
+
+
+♣
+10 7 2
+
+♣
+K 9 6 4
+
+
+Lead: ♠ K
+
+♠
+A 6
+
+
+
+
+♥
+K Q 10 5 3
+
+
+♦
+8 3
+
+
+♣
+A J 8 5
+
+
+
+
+West
+North
+East
+South
+
+
+
+Pass
+Pass
+1♥
+
+
+1♠
+2♥
+2♠
+3♣
+
+
+Pass
+4♥
+Pass
+Pass
+
+
+Pass
+
+
+
+
+As neither North nor East have sufficient strength to open the bidding, they each pass, denying such strength. South, next in turn, opens with the bid of 1♥, which denotes a reasonable heart suit (at least 4 or 5 cards long, depending on the bidding system) and at least 12 high card points. On this hand, South has 14 high card points. West overcalls with 1♠, since he has a long spade suit of reasonable quality and 10 high card points (an overcall can be made on a hand that is not quite strong enough for an opening bid). North supports partner's suit with 2♥, showing heart support and about 6–8 points. East supports spades with 2♠. South inserts a game try of 3♣, inviting the partner to bid the game of 4♥ with good club support and overall values. North complies, as North is at the higher end of the range for his 2♥ bid, and has a fourth trump (the 2♥ bid promised only three), and the doubleton queen of clubs to fit with partner's strength there. (North could instead have bid 3♥, indicating not enough strength for game, asking South to pass and so play 3♥.)
+In the auction, north–south are trying to investigate whether their cards are sufficient to make a game (nine tricks at notrump, ten tricks in hearts or spades, 11 tricks in clubs or diamonds), which yields bonus points if bid and made. East-West are competing in spades, hoping to play a contract in spades at a low level. 4♥ is the final contract, 10 tricks being required for N-S to make with hearts as trump.
+South is the declarer, having been first to bid hearts, and the player to South's left, West, has to choose the first card in the play, known as the opening lead. West chooses the spade king because spades is the suit the partnership has shown strength in, and because they have agreed that when they hold two touching honors (or adjacent honors) they will play the higher one first. West plays the card face down, to give their partner and the declarer (but not dummy) a chance to ask any last questions about the bidding or to object if they believe West is not the correct hand to lead. After that, North's cards are laid on the table and North becomes dummy, as both the North and South hands will be controlled by the declarer. West turns the lead card face up, and the declarer studies the two hands to make a plan for the play. On this hand, the trump ace, a spade, and a diamond trick must be lost, so declarer must not lose a trick in clubs.
+If the ♣K is held by West, South will find it very hard to prevent it from making a trick (unless West leads a club). However, there is an almost-equal chance that it is held by East, in which case it can be 'trapped' against the ace, and will be beaten, using a tactic known as a finesse.
+After considering the cards, the declarer directs dummy (North) to play a small spade. East plays low (small card) and South takes the ♠A, gaining the lead. (South may also elect to duck, but for the purpose of this example, let us assume South wins the ♠A at trick 1). South proceeds by drawing trump, leading the ♥K. West decides there is no benefit to holding back, and so wins the trick with the ace, and then cashes the ♠Q. For fear of conceding a ruff and discard, West plays the ♦2 instead of another spade. Declarer plays low from the table, and East scores the ♦Q. Not having anything better to do, East returns the remaining trump, taken in South's hand. The trumps now accounted for, South can now execute the finesse, perhaps trapping the king as planned. South enters the dummy (i.e. wins a trick in the dummy's hand) by leading a low diamond, using dummy's ♦A to win the trick, and leads the ♣Q from dummy to the next trick. East covers the queen with the king, and South takes the trick with the ace, and proceeds by cashing the remaining master ♣J. (If East doesn't play the king, then South will play a low club from South's hand and the queen will win anyway, this being the essence of the finesse). The game is now safe: South ruffs a small club with a dummy's trump, then ruffs a diamond in hand for an entry back, and ruffs the last club in dummy (sometimes described as a crossruff). Finally, South claims the remaining tricks by showing his or her hand, as it now contains only high trumps and there's no need to play the hand out to prove they are all winners.
+(The trick-by-trick notation used above can be also expressed in tabular form, but a textual explanation is usually preferred in practice, for reader's convenience. Plays of small cards or discards are often omitted from such a description, unless they were important for the outcome).
+North-South score the required 10 tricks, and their opponents take the remaining three. The contract is fulfilled, and North enters the pair numbers, the contract, and the score of +420 for the winning side (North is in charge of bookkeeping in duplicate tournaments) on the traveling sheet. North asks East to check the score entered on the traveller. All players return their own cards to the board, and the next deal is played.
+On the prior hand, it is quite possible that the ♣K is held by West. For example, by swapping the ♣K and ♥A between the defending hands. Then the 4♥ contract would fail by one trick (unless West had led a club early in the play). However the failure of the contract would not mean that 4♥ is a bad contract on this hand. The contract depends on the club finesse working, or a mis-defense. The bonus points awarded for making a game contract far outweigh the penalty for going one off, so it is best strategy in the long run to bid game contracts such as this one.
+Similarly, there is a minuscule chance that the ♣K is in the west hand, but the west hand has no other clubs. In that case, declarer can succeed by simply cashing the ♣A, felling the ♣K and setting up the ♣Q as a winner. However the chance of this is far lower than the simple chance of approximately 50% that East started with the ♣K. Therefore, the superior percentage play is to take the club finesse, as described above.
+
+Computer bridge[edit]
+Main article: Computer bridge
+User-based play[edit]
+After many years of little progress, computer bridge made great progress at the end of the 20th century. In 1996, the ACBL initiated official World Championships Computer Bridge, to be held annually along with a major bridge event. The first Computer Bridge Championship took place in 1997 at the North American Bridge Championships in Albuquerque, New Mexico.
+Strong bridge playing programs such as Jack (World Champion in 2001, 2002, 2003, 2004, 2006, 2009, 2010, 2012, 2013 and 2015),[57] Wbridge5 (World Champion in 2005, 2007, 2008, 2016, 2017 and 2018),[57] RoboBridge[58] and many-time finalist Bridge Baron, would probably rank among the top few thousand human pairs worldwide. A series of articles published in 2005 and 2006 in the Dutch bridge magazine IMP describes matches between Jack and seven top Dutch pairs. A total of 196 boards were played. Overall, the program Jack lost, but by a small margin (359 versus 385 IMPs).
+
+Internet-based play[edit]
+There are several free and subscription-based services available for playing bridge on the internet. For example:
+
+Bridge Base Online (BBO) is the most active online bridge club in the world, with more than 100,000 daily connections and 500,000 hands played each day, in part because it is free to play regular games and volunteer-run tournaments.[59]
+Funbridge is a mobile application where users can play deals against robots. The company was started in France and is now owned by Goto-games[60]
+OKbridge[61] is the oldest of the still-running internet bridge services: was established as a commercial enterprise in 1994, but the program started to be used interactively in August 1990 on players of all standards. Beginners to world class may be found playing there.[59] OKbridge is a subscription-based club, with services such as customer support and ethics reviews.
+RealBridge[62] was founded in November 2020. Its online platform includes built-in audio and video.[63] It is primarily used for organised bridge, ranging from club level to national and zonal championships.[64][65]
+Sharkbridge [66] founded in 2020 by Milen Milkovski (Canada), Plamen Panayotov (Canada), John Norris ( Denmark) and Michael Woywode (Germany).
+SWAN Games[67] was founded April 2000. In March 2004, announced a partnership to provide internet services to SBF members and is a competitor in subscription-based online bridge clubs.[59]
+Some national contract bridge organizations now offer online bridge play to their members, including the English Bridge Union, the Dutch Bridge Federation and the Australian Bridge Federation. MSN and Yahoo! Games have several online rubber bridge rooms. In 2001, the WBF issued a special edition of the lawbook adapted for internet and other electronic forms of the game.
+
+Card games related to bridge[edit]
+.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}
+500
+Bridgette
+Euchre
+King
+Lanterloo
+Lost Heir
+Nap
+Ombre
+Quadrille
+Rex Bridge (includes all features of Contract Bridge and more)
+Skat
+Spades
+Spoil Five
+Whist
+
+See also[edit]
+
+Glossary of contract bridge terms
+List of bridge books
+List of bridge competitions and awards
+List of bridge magazines
+List of contract bridge people
+
+
+References[edit]
+Notes[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ In face-to-face games, a convenient table size is 32 to 40 inches (80 to 100 cm) square[2][3] or a similarly-sized round table allowing each player to reach to the center of the table during the play of the cards. In online computer play, players from anywhere in the world sit at a virtual table.
+
+^ The terms deal, hand and board may be used interchangeably in bridge literature. More accurately, a hand is one player's holding of 13 cards, a deal is the four hands in one allocation of 52 cards; a board is a term more applicable to duplicate bridge and refers to a deal.
+
+^ e.g., if North is the dealer, they make a call, then the auction continues with East, South, West, and so on.
+
+^ For example, if player A bids 2♥ and player B, their partner, raises to 4♥ and that becomes the final contract, then player A becomes declarer.
+
+^ If the declaring side makes a contract of 3NT and takes exactly nine tricks, fulfilling the contract (6 + 3), they receive 40 points for the first odd trick, and 60 (30 × 2) points for the remaining odd tricks, adding up to 100 contract points. If the contract was doubled or redoubled, the declaring side receives 200 and 400 points respectively. Additional bonus points may apply depending on the variation played; for example, in duplicate bridge, the declaring side is awarded a game bonus for having won 100 or more contract points, which is 500 if vulnerable, for a total of 600 points (500 + 100), or 300 if not vulnerable, for a total of 400 points (300 + 100).
+
+
+Citations[edit]
+
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Reese, Terence (1980). Bridge. Teach Yourself Books. Hodder and Stoughton. p. 1. ISBN 0-340-32438-4.
+
+^ "Bridge Tables". Kardwell International. Retrieved 31 August 2019.
+
+^ "Furniture". Baron Barclay Bridge Supply. Retrieved 31 August 2019.
+
+^ Martha T. Moore (19 December 2005). "Billionaires bank on bridge to trump poker". USA Today. Retrieved 29 March 2016.
+
+^ "At the Bridge Table, Clues to a Lucid Old Age". The New York Times. 22 May 2009. Retrieved 29 March 2016.
+
+^ Kantar, Eddie (2006). Bridge for Dummies (2nd ed.). Wiley Publishing, Inc. p. 11. ISBN 978-0-471-92426-5.
+
+^ Werner, Einar; Alvar Stenberg & Hans-Olof Hallén (editors) (1960 [1948]). Bridge: en fullständig och allsidig redogörelse för det nutida bridgevetandet. pp. 12–13. Malmö: Svensk bridgelitteratur [Swedish Bridge Literature], OCLC 186632656, 924102244 909 pp.
+
+^ a b c d Depaulis, Thierry; Fuchs, Jac (September–October 2003). "First Steps of Bridge in the West: Collinson's 'Biritch'" (PDF). The Playing-Card. Vol. 32 no. 2. The International Playing-Card Society. pp. 67–76.
+
+^ Alan Truscott (2 February 1992). "Bridge". The New York Times.
+
+^ John Collinson (9 July 1886). "Biritch, or Russian Whist". Retrieved 29 July 2018 – via Pagat.com [2007].
+
+^ Elwell 1905 and Benedict 1900
+
+^ Melrose 1901
+
+^ Foster 1889
+
+^ David Owen (17 September 2007). "Turning Tricks – The rise and fall of contract bridge". The New Yorker.
+
+^ a b c Laws of Rubber Bridge, Law 44, pp. 20–21.
+
+^ Laws of Rubber Bridge, Law 1, p. 3.
+
+^ a b Laws of Rubber Bridge, Law 3, pp. 3–4.
+
+^ Gibson 1974, pp. 632–636.
+
+^ Laws of Rubber Bridge, Law 72(a), pp. 34–35.
+
+^ Laws of Rubber Bridge, Law 19, p. 10.
+
+^ Laws of Rubber Bridge, Law 18, p. 10.
+
+^ a b Laws of Rubber Bridge, Law 22, p. 11.
+
+^ a b c Gibson 1974, p. 135.
+
+^ a b c d e f Laws of Rubber Bridge, Law 81, pp. 37–39.
+
+^ a b Laws of Rubber Bridge, Law 41, p. 19.
+
+^ Gibson 1974, p. 134.
+
+^ a b Laws of Rubber Bridge, Law 8, pp. 5–6.
+
+^ Laws of Duplicate Bridge, Law 6, pp. 9–10.
+
+^ Laws of Duplicate Bridge, Law 7, p. 11.
+
+^ Laws of Duplicate Bridge, p. 136: "The ACBL Board of Directors authorizes tournament organizers in ACBL sanctioned events to use bidding boxes."
+
+^ Laws of Duplicate Bridge, Law 80, pp. 99–100.
+
+^ Laws of Rubber Bridge, Law 4, p. 4.
+
+^ Laws of Duplicate Bridge, Law 6B & 6E, pp. 9–10.
+
+^ Laws of Duplicate Bridge, Law 7B & 7C, p. 11.
+
+^ Gibson 1974, pp. 135–136.
+
+^ Laws of Rubber Bridge, Law 40, pp. 18–19.
+
+^ Laws of Rubber Bridge, Part I ("Definitions"): Declarer.
+
+^ Gibson 1974, pp. 136–137.
+
+^ Laws of Rubber Bridge, Law 43, p. 20.
+
+^ Laws of Rubber Bridge, Law 68–71, pp. 32–34.
+
+^ Laws of Rubber Bridge, Law 68–71, pp. 82–86.
+
+^ Gibson 1974, p. 138.
+
+^ Laws of Duplicate Bridge, Law 2, p. 6.
+
+^ a b Laws of Rubber Bridge, Law 72–74, pp. 34–35.
+
+^ a b c d Laws of Duplicate Bridge, Law 77, p. 95.
+
+^ "The Laws of Duplicate Bridge 2017" (PDF). World Bridge Federation. Retrieved 29 July 2018.
+
+^ Laws of Duplicate Bridge
+
+^ "Basic Laws and Regulations". ACBL website. A cross-referenced listing with additional documentation is also available at "Bridge Laws Index". BridgeHands.
+
+^ Laws of Rubber Bridge
+
+^ "The WBF Code of Laws for Electronic Bridge 2001" (PDF). World Bridge Federation.
+
+^ Franco Carraro (Olympic Programme Commission Chairman) (August 2002). "Review of the Olympic programme and the recommendations on the programme of the games of the XXIX Olympiad, Beijing 2008" (PDF). IOC Executive Board. p. 8.
+
+^ "High Court rules bridge is not a sport". BBC News. 15 October 2015.
+
+^ Francis et al. 2001, p. 576. See World Bridge Federation (WBF). sfn error: no target: CITEREFFrancis_et_al.2001 (help)
+
+^ Andrew Robson. Stayman & Transfer. Bridge Lessons. (Deal 1).
+
+^ Andrew Robson. Stayman & Transfer. Bridge Lessons. (Deal 14).
+
+^ Truscott, Alan (13 December 1981). "Bridge – One for the Books". The New York Times. ISSN 0362-4331. Retrieved 13 September 2021.
+
+^ a b "Bridge-Bot World Championship History". World Computer-Bridge Championship. Retrieved 4 November 2019.
+
+^ "RoboBridge". RoboBridge. 22 October 2011. Retrieved 5 November 2011.
+
+^ a b c Manley et al. (2011), p. 597
+
+^ "Play bridge online for free with Funbridge". www.funbridge.com.
+
+^ "Bridge Online Play Bridge Game On Line - OKbridge". okbridge.com. Retrieved 29 March 2016.
+
+^ "Real Bridge with Real People". RealBridge. Retrieved 27 May 2021.
+
+^ "RealBridge Review". English Bridge: 54–59. February 2021.
+
+^ "2021 World Championship and USBCs". USBF (United States Bridge Federation). Retrieved 27 May 2021.
+
+^ "Qualifier for the 2021 World National Team Championships". European Bridge League. Retrieved 27 May 2021.
+
+^  https://thesharkbridgecompany.com/. Retrieved 15 November 2021. Missing or empty |title= (help)
+
+^ "Online Bridge". swangames.com. Retrieved 29 March 2016.
+
+
+Bibliography[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}
+American Contract Bridge League (2014). "Laws of Rubber Bridge" (PDF). Horn Lake, MS.
+American Contract Bridge League (2016). "Laws of Duplicate Bridge" (PDF). Horn Lake, MS.
+Francis, Henry G.; Truscott, Alan F.; Francis, eds. (2001). The Official Encyclopedia of Bridge (6th ed.). Memphis, TN: American Contract Bridge League. ISBN 0-943855-44-6. OCLC 49606900.
+Gibson, Walter B. (1974). Hoyle's Modern Encyclopedia of Card Games: Rules of All the Basic Games and Popular Variations. Garden City, NY: Dolphin Books. ISBN 978-0385076807.
+Kantar, Eddie (2012). Bridge for Dummies (3rd ed.). John Wiley & Sons. ISBN 978-1-118-24083-0.
+Manley, Brent; Horton, Mark; Greenberg-Yarbro, Tracey; Rigal, Barry, eds. (2011). The Official Encyclopedia of Bridge (7th ed.). Horn Lake, MS: American Contract Bridge League. ISBN 978-0-939460-99-1.
+
+Further reading[edit]
+Further information: List of contract bridge books
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Contract bridge.
+
+American Contract Bridge League (ACBL)
+World Bridge Federation (WBF)
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em} Topics related to Contract bridge
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteContract bridgeOverviewGeneral
+Auction bridge
+Bridge ethics
+Bridge-O-Rama
+Bridge maxims
+Bridge Murder case
+Bridge scoring
+Bridge whist
+Bridgette
+Cheating in bridge
+Chicago
+Computer bridge
+Contract bridge
+Contract bridge diagram
+Duplicate bridge
+Duplicate bridge movements
+Five-suit bridge
+Goulash
+Glossary of contract bridge terms
+High card by suit
+History of contract bridge
+Laws of Duplicate Bridge
+Masterpoints
+Minibridge
+Neuberg formula
+Rubber bridge
+Screen
+Singaporean bridge
+Suit
+Traveling scoreslip
+Trump
+Vugraph
+
+BiddingGeneral
+Balanced hand
+Balancing (bridge)
+Bidding box
+Bidding system
+Board (bridge)
+Bridge convention
+Brown sticker
+Convention card
+Cue bid
+Five-card majors
+Forcing bid
+Forcing pass
+Game try
+Hand evaluation
+Honor point count
+Inverted minors
+Law of total tricks
+Losing-Trick Count
+Major suit
+Minor suit
+Optimum contract and par contract
+Overcall
+Preempt
+Prepared opening bid
+Principle of fast arrival
+Psychic bid
+Quantitative notrump bids
+Reverse (bridge)
+Sacrifice (bridge)
+Shooting (bridge)
+Single suiter
+Stolen bid
+Strong pass
+Takeout double
+Three suiter
+Two suiter
+Useful space principle
+Void (cards)
+Weak two bid
+Zar Points
+Systems
+List of bidding systems
+2/1 game forcing
+Acol
+Bidding system
+Blue Club
+Boring Club
+Bridge Base Basic
+Bridge World Standard
+Canapé (bridge)
+Carrot Club
+EHAA
+Fantunes
+Highly unusual method
+Kaplan–Sheinwold
+Little Major
+Moscito
+Polish Club
+Precision Club
+Roman Club
+Romex system
+Säffle Spade
+Standard American
+Strong club system
+Conventions
+List of bidding conventions
+
+  Card playGeneral
+List of play techniques
+Avoidance play
+Beer card
+Caddy
+Card reading
+Duck
+Endplay
+Entry
+Grosvenor gambit
+Hold up
+Percentage play
+Pin (bridge)
+Principle of restricted choice
+Probabilities
+Revoke
+Ruff
+Shooting
+Smother play
+Tempo
+Trump promotion
+Uppercut
+Vacant Places
+Declarer play
+.mw-parser-output span.smallcaps{font-variant:small-caps}.mw-parser-output span.smallcaps-smaller{font-size:85%}Basic:
+Finesse
+Safety play
+Coups:
+Alcatraz coup
+Bath coup
+Belladonna coup
+Coup
+Coup en passant
+Crocodile coup
+Deschapelles coup
+Devil's coup
+Loser on loser
+Merrimac coup
+Morton's fork coup
+Scissors coup
+Trump coup
+Vienna coup
+Squeezes:
+Backwash squeeze
+Cannibal squeeze
+Clash squeeze
+Compound squeeze
+Criss-cross squeeze
+Double squeeze
+Entry squeeze
+Entry-shifting squeeze
+Guard squeeze
+Knockout squeeze
+Non-simultaneous double squeeze
+Progressive squeeze
+Pseudo-squeeze
+Saturated squeeze
+Simple squeeze
+Simultaneous double squeeze
+Single-suit squeeze
+Squeeze play
+Stepping-stone squeeze
+Strip squeeze
+Triple squeeze
+Trump squeeze
+Vice squeeze
+Winkle squeeze
+Suit combinations:
+Suit combination
+Defender play
+Forcing defense
+Journalist leads
+Opening lead
+Rule of 10-12
+Rule of 11
+Rusinow leads
+Signal
+Smith signal
+
+People and organizationsGeneral
+ACBL Youngest Life Master
+List of contract bridge people
+List of nationality transfers in sport
+Bridge Headquarters
+Players by country
+Australia
+Austria
+Brazil
+Britain
+Bulgaria
+Canada
+China
+Denmark
+Netherlands
+Egypt
+England
+Fiction
+France
+Germany
+Hungary
+India
+Ireland
+Israel
+Italy
+Jewish players
+Mexico
+Monaco
+New Zealand
+Norway
+Pakistan
+Poland
+Russia
+Sweden
+Switzerland
+Taiwan
+United States
+Other lists
+List of bridge people with Wikipedia (English) articles
+List of bridge administrators
+List of bridge writers
+Teams
+Blue Team
+Dallas Aces
+Four Aces
+Clubs
+Bridge Base Online
+Cavendish Club
+Crockford's
+Galatasaray Bridge Team
+Melville Bridge Club
+Portland Club (London)
+Savoy Club
+Governing bodies
+American Bridge Association
+American Contract Bridge League
+Austrian Bridge Federation
+Brazilian Bridge Federation
+British Bridge League
+Canadian Bridge Federation
+Dutch Bridge Federation
+English Bridge Union
+European Bridge League
+Hungarian Bridge Federation
+International Mind Sports Association
+List of contract bridge governing bodies
+Norwegian Bridge Federation
+South African Bridge Federation
+United States Bridge Federation
+World Bridge Federation
+
+  ChampionshipsGeneral
+List of bridge competitions and awards
+World
+Bermuda Bowl
+Bridge at the 2008 World Mind Sports Games
+Bridge at the 2012 World Mind Sports Games
+Cavendish Invitational
+Computer Olympiad
+McConnell Cup
+Rosenblum Cup
+Senior Bowl (bridge)
+Triple crown of bridge
+Venice Cup
+WBF Youth Award
+World Bridge Championships
+World IMP Pairs Championship
+World Junior Pairs Championship
+World Junior Teams Championship
+World Mind Sports Games
+World Mixed Pairs Championship
+World Mixed Teams Championship
+World Open Pairs Championship
+World Senior Pairs Championship
+World Senior Teams Championship
+World Team Olympiad
+World Transnational Open Teams Championship
+World Women Pairs Championship
+National and Zonal
+Buffett Cup
+Camrose Trophy
+Commonwealth Nations Bridge Championships
+European Universities Bridge Championships
+Gold Cup (bridge)
+North American bridge Championships:
+ACBL King or Queen of Bridge
+Edgar Kaplan Blue Ribbon Pairs
+Bruce LM–5000 Pairs
+Chicago Mixed Board-a-Match
+Fall National Open Pairs
+Fast Open Pairs
+Fishbein Trophy
+Goren Trophy
+Grand National Teams
+Hilliard Mixed Pairs
+Jacoby Open Swiss Teams
+Keohane North American Swiss Teams
+Lebhar IMP Pairs
+Leventritt Silver Ribbon Pairs
+Machlin Women's Swiss Teams
+Manfield Non-Life Master Pairs
+Marcus Cup
+Master Individual
+Mini-Blue Ribbon Pairs
+Mini-Spingold
+Mitchell Board-a-Match Teams
+Mott-Smith Trophy
+Nail Life Master Open Pairs
+National 199er Pairs
+National 49er Pairs
+National 99er Pairs
+Non-Life Master Swiss Teams
+Norman Kay Platinum Pairs
+North American Bridge Championships
+North American Pairs
+Red Ribbon Pairs
+Reisinger
+Rockwell Mixed Pairs
+Roth Open Swiss Teams
+Senior Knockout Teams
+Silodor Open Pairs
+Smith Life Master Women's Pairs
+Spingold
+Sternberg Women's Board-a-Match Teams
+Truscott Senior Swiss Teams
+United States Bridge Championships - Open
+Vanderbilt Trophy
+Von Zedtwitz Life Master Pairs
+Wagar Women's Knockout Teams
+Wernher Open Pairs
+Whitehead Women's Pairs
+Young LM–1500 Pairs
+
+  Publications and resourcesBooks
+List of contract bridge books
+Master Point Press
+Bibliographies: Edwin Kantar bibliography
+Hugh Kelsey bibliography
+Terence Reese bibliography
+Books: 25 Bridge Conventions You Should Know
+Bridge Squeezes Complete
+The Cardturner
+Contract Bridge for Beginners
+Design for Bidding
+The Official Encyclopedia of Bridge
+Planning the Play of a Bridge Hand
+Right Through the Pack
+Tickets to the Devil
+Magazines
+List of contract bridge magazines
+Magazines: Bridge d'Italia
+Bridge Magazine
+The Bridge World
+TV and Radio
+Grand Slam (BBC TV)
+External links
+Bridge Base Basic
+Bridge Base Inc.
+ 
+vteTrick-taking card games (list)French packs52 cards(except where stated)
+3-2-5 (30)
+3-5-8
+400
+500 (43)
+All Fours
+Auction bridge
+Barbu
+Bid whist
+Bisca (40)
+Black Lady
+Black Maria
+Bluke
+Bonken
+Boston
+Bourré
+Bridge
+Cinch
+Clabber (24)
+Clag
+Court piece
+Cucumber
+Femkort
+Forty-fives
+German Whist
+Gong Zhu
+Hearts
+Hucklebuck
+Kachufool
+King
+Knockout Whist
+Konter a Matt (24)
+Köpknack
+Knüffeln (48)
+Lanterloo
+Mizerka
+Napoleon
+Ninety-nine
+Norseman's Knock
+Oh Hell
+Pedro
+Pinochle (2x24)
+Pitch
+Phat
+Polskpas (24)
+Put
+Ristikontra
+Rödskägg
+Shelem
+Sheng ji
+Sixty-three
+Smear
+Spades
+Stýrivolt (48)
+Sueca (40)
+Tarneeb
+Thunee (24)
+Turkish King
+Twenty-five (Spoil Five)
+Two-ten-jack
+Vira
+Whist
+French packs36 cards
+Agram
+Bräus
+Brus
+Brús
+Bruus
+Bura
+Catch the Ten
+Frog
+Hintersche
+Knack
+Marjapussi
+Scharwenzel
+Svängknack
+Tapp
+Tarabish
+Trekort
+Voormsi
+Piquet packs32 cards
+304
+Baloot
+Bassadewitz
+Bauerchen
+Bauernheinrich
+Belote
+Bezique
+Bierlachs
+Brandeln
+Bruus
+Coinche
+Écarté
+Enflé
+Euchre
+Fipsen
+Herzblatt
+Kaiser
+Klaberjass/Bela
+Klaverjas
+Letzter
+Letzter Stich
+Manille
+Marjolet
+Mistigri
+Officers' Skat
+Oma Skat
+Pilotta
+Piquet
+Polignac
+Preferans
+Préférence
+Rams
+Schwimmen
+Sheepshead
+Skat
+Solo 66
+Tausendundeins
+Tippen
+Toepen
+Twenty-eight
+Ulti
+Zwanzig ab
+Zwicken
+German packs32 cards(except where stated)
+Bauernfangen (20)
+Bauernschnapsen (20)
+Bauerntarock (36)
+Bavarian Tarock (36)
+Bierkopf (20)
+Bieten (33)
+Binokel (2x24)
+Blattla
+Bohemian Schneider
+Bolachen
+Dobbm (36)
+Doppelkopf (2x24)
+Dreeg (24)
+Dreierschnapsen (20)
+Elfern
+Gaigel (2x24)
+German Schafkopf
+German Solo
+Gilten
+Grasobern
+Herzeln
+Herzla
+Jaggln (33)
+Kein Stich
+Kratzen (33)
+Lampeln
+Lorum
+Lupfen (20)
+Lusti-Kartl'n
+Mariáš
+Matzlfangen
+Mauscheln
+Mucken
+Mulatschak (36)
+Officers' Schafkopf
+Perlaggen (33)
+Quodlibet
+Ramsch
+Ramscheln
+Ramsen
+Rosbiratschka
+Rumpel
+Russian Schnapsen (24)
+Schafkopf
+Schnalzen (33)
+Schnapsen (20)
+Sedma
+Sedmice
+Sixty-Six (24)
+Sticheln
+Tapp (36)
+Trischettn
+Wallachen
+Watten
+Wendish Schafkopf
+Unteransetzen
+Zehnerlegen
+Regional packs
+Aluette
+Botifarra
+Brisca
+Briscola
+Calabresella
+Ganjifa
+Jass
+Julepe
+Kaiserspiel
+Madiao
+Tam cúc
+Tressette
+Truc
+Truco
+Tute
+
+ Category {{Historical card games}} {{Non trick-taking card games}} {{Proprietary card games}} {{Tarot and Tarock card games}}
+
+Authority control General
+Integrated Authority File (Germany)
+National libraries
+France (data)
+United States
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Contract_bridge&oldid=1061100809"
+		Categories: Contract bridgeAnglo-American card gamesFour-player card gamesGames of mental skillMultiplayer gamesFrench deck card gamesCard games introduced in 1925Hidden categories: CS1: Julian–Gregorian uncertaintyHarv and Sfn no-target errorsCS1 errors: missing titleCS1 errors: bare URLUse dmy dates from October 2021Articles with short descriptionShort description matches WikidataAll articles with incomplete citationsArticles with incomplete citations from July 2018Commons link is defined as the pagenameArticles with GND identifiersArticles with BNF identifiersArticles with LCCN identifiers
+	

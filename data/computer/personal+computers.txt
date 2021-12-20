@@ -1,0 +1,546 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+Electronic products for everyday use
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}"Consumer Electronics" redirects here. For the electronic music group, see Philip Best.
+  A crowd of shoppers in the flatscreen TV section of the big box consumer electronics store Best Buy
+  A Radio Shack consumer electronics store in a mall
+Consumer electronics or home electronics are electronic (analog or digital) equipment intended for everyday use, typically in private homes. Consumer electronics include devices used for entertainment, communications and recreation. Usually referred to as black goods due to many products being housed in black or dark casings. This term is used to distinguish them from "white goods" which are meant for housekeeping tasks, such as washing machines and refrigerators, although nowadays, these would be considered black goods, some of these being connected to the Internet.[1][2] In British English, they are often called brown goods by producers and sellers.[3][n 1] In the 2010s, this distinction is absent in large big box consumer electronics stores, which sell both entertainment, communication, and home office devices and kitchen appliances such as refrigerators.
+Radio broadcasting in the early 20th century brought the first major consumer product, the broadcast receiver. Later products included telephones, televisions, and calculators, then audio and video recorders and players, game consoles, mobile phones, personal computers and MP3 players. In the 2010s, consumer electronics stores often sell GPS, automotive electronics (car stereos), video game consoles, electronic musical instruments (e.g., synthesizer keyboards), karaoke machines, digital cameras, and video players (VCRs in the 1980s and 1990s, followed by DVD players and Blu-ray players). Stores also sell smart appliances, digital cameras, camcorders, cell phones, and smartphones. Some of the newer products sold include virtual reality head-mounted display goggles, smart home devices that connect home devices to the Internet and wearable technology.
+In the 2010s, most consumer electronics have become based on digital technologies, and have largely merged with the computer industry in what is increasingly referred to as the consumerization of information technology. Some consumer electronics stores, have also begun selling office and baby furniture. Consumer electronics stores may be "brick and mortar" physical retail stores, online stores, or combinations of both.
+Annual consumer electronics sales are expected to reach $2.9 trillion by 2020.[5] It is part of the wider electronics industry. In turn, the driving force behind the electronics industry is the semiconductor industry.[6] The basic building block of modern electronics is the MOSFET (metal-oxide-silicon field-effect transistor, or MOS transistor),[7][8] the scaling and miniaturization of which has been the primary factor behind the rapid exponential growth of electronic technology since the 1960s.[9]
+
+Contents
+
+1 History
+2 Products
+
+2.1 Trends
+
+
+3 Industries
+
+3.1 Manufacturing
+
+3.1.1 Electronic component
+3.1.2 Software development
+3.1.3 Standardization
+
+
+3.2 Trade shows
+3.3 IEEE initiatives
+3.4 Retailing
+3.5 Service and repair
+3.6 Mobile phone industry
+
+3.6.1 By country
+
+
+
+
+4 Environmental impact
+
+4.1 Rare metals and rare earth elements
+4.2 Energy consumption
+4.3 Standby power
+4.4 Electronic waste
+
+
+5 Health impact
+6 See also
+7 References
+8 Notes
+9 Further reading
+10 External links
+
+
+
+History[edit]
+Main article: History of electronic engineering
+  A radio and TV store in 1961
+For its first fifty years the phonograph turntable did not use electronics; the needle and soundhorn were purely mechanical technologies. However, in the 1920s, radio broadcasting became the basis of mass production of radio receivers. The vacuum tubes that had made radios practical were used with record players as well, to amplify the sound so that it could be played through a loudspeaker. Television was soon invented, but remained insignificant in the consumer market until the 1950s.
+The first working transistor, a point-contact transistor, was invented by John Bardeen and Walter Houser Brattain at Bell Laboratories in 1947, which led to significant research in the field of solid-state semiconductors in the early 1950s.[10] The invention and development of the earliest transistors at Bell led to transistor radios. This led to the emergence of the home entertainment consumer electronics industry starting in the 1950s, largely due to the efforts of Tokyo Tsushin Kogyo (now Sony) in successfully commercializing transistor technology for a mass market, with affordable transistor radios and then transistorized television sets.[11]
+Mohamed M. Atalla's surface passivation process, developed at Bell in 1957, led to the planar process and planar transistor developed by Jean Hoerni at Fairchild Semiconductor in 1959,[12] from which comes the origins of Moore's law,[13] and the invention of the MOSFET (metal–oxide–silicon field-effect transistor, or MOS transistor) by Mohamed Atalla and Dawon Kahng at Bell in 1959.[7][8][14] The MOSFET was the first truly compact transistor that could be miniaturised and mass-produced for a wide range of uses,[15] enabling Moore's law[16] and revolutionizing the electronics industry.[17][18] It has since been the building block of modern digital electronics,[14][19] and the "workhorse" of the electronics industry.[20]
+Integrated circuits (ICs) followed when manufacturers built circuits (usually for military purposes) on a single substrate using electrical connections between circuits within the chip itself. The most common type of IC is the MOS integrated circuit chip, capable of the large-scale integration (LSI) of MOSFETs on an IC chip. MOS technology led to more advanced and cheaper consumer electronics, such as transistorized televisions, pocket calculators, and by the 1980s, affordable video game consoles and personal computers that regular middle-class families could buy. The rapid progress of the electronics industry during the late 20th to early 21st centuries was achieved by rapid MOSFET scaling (related to Dennard scaling and Moore's law), down to sub-micron levels and then nanoelectronics in the early 21st century.[21] The MOSFET is the most widely manufactured device in history, with an estimated total of 13 sextillion MOSFETs manufactured between 1960 and 2018.[22][23]
+
+Products[edit]
+See also: List of electronics brands, Category:Consumer electronics, and List of best-selling electronic devices
+  A typical CoCo 3 computer system, from the 1980s
+Consumer electronics devices include those used for [24]
+
+entertainment (flatscreen TVs, television sets, MP3 players, video recorders, DVD players, radio receivers, etc.)
+communications (telephones, cell phones, e-mail-capable personal computers, desktop computers, laptops, printers, paper shredders, etc.)
+recreation (digital cameras, camcorders, video game consoles, ROM cartridges, remote control cars, Robot kits, etc.).
+Increasingly consumer electronics products such as Digital distribution of video games have become based on internet and digital technologies. Consumer electronics industry has largely merged with the software industry in what is increasingly referred to as the consumerization of information technology.
+
+
+List of top consumer electronics products by number of shipments
+
+
+Electronic device
+
+Shipments  (est. billion units)
+
+Production years included
+
+Ref
+
+
+Compact disc (CD)
+
+200
+
+1982–2007
+
+[25]
+
+
+Audio cassette tape
+
+30
+
+1963–2019
+
+[26]
+
+
+Digital versatile disc (DVD)
+
+20
+
+1996–2012
+
+[27]
+
+
+Mobile phone
+
+19.4
+
+1994–2018
+
+[b]
+
+
+Smartphone
+
+10.1
+
+2007–2018
+
+[a]
+
+
+Video cassette
+
+10
+
+1976–2000
+
+[31][32]
+
+Trends[edit]
+  A modern flat panel, HDTV television set
+One overriding characteristic of consumer electronic products is the trend of ever-falling prices. This is driven by gains in manufacturing efficiency and automation, lower labor costs as manufacturing has moved to lower-wage countries, and improvements in semiconductor design.[33] Semiconductor components benefit from Moore's law, an observed principle which states that, for a given price, semiconductor functionality doubles every two years.
+While consumer electronics continues in its trend of convergence, combining elements of many products, consumers face different decisions when purchasing. There is an ever-increasing need to keep product information updated and comparable, for the consumer to make an informed choice. Style, price, specification, and performance are all relevant. There is a gradual shift towards e-commerce web-storefronts.
+Many products include Internet connectivity using technologies such as Wi-Fi, Bluetooth, EDGE, or Ethernet. Products not traditionally associated with computer use (such as TVs or Hi-Fi equipment) now provide options to connect to the Internet or to a computer using a home network to provide access to digital content. The desire for high-definition (HD) content has led the industry to develop a number of technologies, such as WirelessHD or ITU-T G.hn, which are optimized for distribution of HD content between consumer electronic devices in a home.
+
+Industries[edit]
+Main article: Electronics industry
+See also: Electronics industry in Japan, Electronics industry in China, and Electronics industry in Bangladesh
+The electronics industry, especially meaning consumer electronics, emerged in the 20th century and has now become a global industry worth billions of dollars. Contemporary society uses all manner of electronic devices built in automated or semi-automated factories operated by the industry.
+
+Manufacturing[edit]
+Main article: Electronics manufacturing
+See also: Electronic packaging
+  Gramophone factory in Hannover-Nordstadt
+Most consumer electronics are built in China, due to maintenance cost, availability of materials, quality, and speed as opposed to other countries such as the United States.[34] Cities such as Shenzhen have become important production centres for the industry, attracting many consumer electronics companies such as Apple Inc.[35]
+
+Electronic component[edit]
+Main article: Electronic component
+An electronic component is any basic discrete device or physical entity in an electronic system used to affect electrons or their associated fields. Electronic components are mostly industrial products, available in a singular form and are not to be confused with electrical elements, which are conceptual abstractions representing idealized electronic components.
+
+Software development[edit]
+See also: Software development
+Consumer electronics such as personal computers use various types of software. Embedded software is used within some consumer electronics, such as mobile phones.[36] This type of software may be embedded within the hardware of electronic devices.[37] Some consumer electronics include software that is used on a personal computer in conjunction with electronic devices, such as camcorders and digital cameras, and third-party software for such devices also exists.
+
+Standardization[edit]
+Some consumer electronics adhere to protocols, such as connection protocols "to high speed bi-directional signals".[38] In telecommunications, a communications protocol is a system of digital rules for data exchange within or between computers.
+
+Trade shows[edit]
+The Consumer Electronics Show (CES) trade show has taken place yearly in Las Vegas, Nevada since its foundation in 1973. The event, which grew from having 100 exhibitors in its inaugural year to more than 4,500 exhibiting companies in its 2020 edition, features the latest in consumer electronics, speeches by industry experts and innovation awards.[39]
+The Internationale Funkausstellung Berlin (IFA) trade show has taken place Berlin, Germany since its foundation in 1924. The event features new consumer electronics and speeches by industry pioneers.
+
+IEEE initiatives[edit]
+Institute of Electrical and Electronics Engineers (IEEE), the world's largest professional society, has many initiatives to advance the state of the art of consumer electronics. IEEE has a dedicated society of thousands of professionals to promote CE, called the Consumer Electronics Society (CESoc).[40] IEEE has multiple periodicals and international conferences to promote CE and encourage collaborative research and development in CE. The flagship conference of CESoc, called IEEE International Conference on Consumer Electronics (ICCE), is on its 35th year.
+
+IEEE Transactions on Consumer Electronics[41]
+IEEE Consumer Electronics Magazine[42]
+IEEE International Conference on Consumer Electronics (ICCE)[43]
+Retailing[edit]
+See also: Consumer electronics store
+Electronics retailing is a significant part of the retail industry in many countries. In the United States, dedicated consumer electronics stores have mostly given way to big-box retailers such as Best Buy, the largest consumer electronics retailer in the country,[44] although smaller dedicated stores include Apple Stores, and specialist stores that serve, for example, audiophiles and exceptions, such as the single-branch B&H Photo store in New York City. Broad-based retailers, such as Walmart and Target, also sell consumer electronics in many of their stores.[44] In April 2014, retail e-commerce sales were the highest in the consumer electronic and computer categories as well.[45] Some consumer electronics retailers offer extended warranties on products with programs such as SquareTrade.[46]
+
+See also: Category:Consumer electronics retailers
+An electronics district is an area of commerce with a high density of retail stores that sell consumer electronics.[47]
+
+See also: Category:Electronics districts
+Service and repair[edit]
+See also: Electronics technician
+Consumer electronic service can refer to the maintenance of said products. When consumer electronics have malfunctions, they may sometimes be repaired.
+In 2013, in Pittsburgh, Pennsylvania, the increased popularity in listening to sound from analog audio devices, such as record players, as opposed to digital sound, has sparked a noticeable increase of business for the electronic repair industry there.[48]
+
+Mobile phone industry[edit]
+  This picture illustrates how the mobile phone industry evolved to what we see today as modern smartphones
+A mobile phone, cellular phone, cell phone, cellphone, handphone, or hand phone, sometimes shortened to simply mobile, cell or just phone, is a portable telephone that can make and receive calls over a radio frequency link while the user is moving within a telephone service area. The radio frequency link establishes a connection to the switching systems of a mobile phone operator, which provides access to the public switched telephone network (PSTN). Modern mobile telephone services use a cellular network architecture and, therefore, mobile telephones are called cellular telephones or cell phones in North America. In addition to telephony, digital mobile phones (2G) support a variety of other services, such as text messaging, MMS, email, Internet access, short-range wireless communications (infrared, Bluetooth), business applications, video games and digital photography. Mobile phones offering only those capabilities are known as feature phones; mobile phones which offer greatly advanced computing capabilities are referred to as smartphones.[49]
+A smartphone is a portable device that combines mobile telephone and computing functions into one unit. They are distinguished from feature phones by their stronger hardware capabilities and extensive mobile operating systems, which facilitate wider software, internet (including web browsing over mobile broadband), and multimedia functionality (including music, video, cameras, and gaming), alongside core phone functions such as voice calls and text messaging. Smartphones typically contain a number of metal–oxide–semiconductor (MOS) integrated circuit (IC) chips, include various sensors that can be leveraged by pre-included and third-party software (such as a magnetometer, proximity sensors, barometer, gyroscope, accelerometer and more), and support wireless communications protocols (such as Bluetooth, Wi-Fi, or satellite navigation).
+
+By country[edit]
+Main articles: Mobile phone industry in China, Mobile phone industry in Japan, Mobile phone industry in Russia, Mobile phone industry in South Korea, and Mobile phone industry in the United States
+Environmental impact[edit]
+  Guide to Greener Electronics 2017 findings
+In 2017, the Greenpeace USA published a study of 17 of the world's leading consumer electronics companies in relation to their energy and resource consumption and the use of chemicals.[50]
+
+Rare metals and rare earth elements[edit]
+Electronic devices use thousands rare metals and rare earth elements (40 on average for a smartphone), these material are extracted and refined using water and energy-intensive processes. These metals are also used in the renewable energy industry meaning that consumer electronics are directly competing for the raw materials.[51][52]
+
+Energy consumption[edit]
+The energy consumption of consumer electronics and their environmental impact, either from their production processes or the disposal of the devices, is increasing steadily. EIA estimates that electronic devices and gadgets account for about 10%–15% of the energy use in American homes – largely because of their number; the average house has dozens of electronic devices.[53] The energy consumption of consumer electronics increases – in America and Europe – to about 50% of household consumption, if the term is redefined to include home appliances such as refrigerators, dryers, clothes washers and dishwashers.
+
+Standby power[edit]
+Standby power – used by consumer electronics and appliances while they are turned off – accounts for 5–10% of total household energy consumption, costing $100 annually to the average household in the United States.[54] A study by United States Department of Energy's Berkeley Lab found that a videocassette recorders (VCRs) consume more electricity during the course of a year in standby mode than when they are used to record or playback videos. Similar findings were obtained concerning satellite boxes, which consume almost the same amount of energy in "on" and "off" modes.[55]
+A 2012 study in the United Kingdom, carried out by the Energy Saving Trust, found that the devices using the most power on standby mode included televisions, satellite boxes and other video and audio equipment. The study concluded that UK households could save up to £86 per year by switching devices off instead of using standby mode.[56] A report from the International Energy Agency in 2014 found that $80 billion of power is wasted globally per year due to inefficiency of electronic devices.[57] Consumers can reduce unwanted use of standby power by unplugging their devices, using power strips with switches, or by buying devices that are standardized for better energy management, particularly Energy Star marked products.[54]
+
+Electronic waste[edit]
+  Electronic waste: discarded electronic equipment
+A high number of different metals and low concentration rates in electronics means that recycling is limited and energy intensive.[51] Electronic waste describes discarded electrical or electronic devices. Many consumer electronics may contain toxic minerals and elements,[58] and many electronic scrap components, such as CRTs, may contain contaminants such as lead, cadmium, beryllium, mercury, dioxins, or brominated flame retardants. Electronic waste recycling may involve significant risk to workers and communities and great care must be taken to avoid unsafe exposure in recycling operations and leaking of materials such as heavy metals from landfills and incinerator ashes. However, large amounts of the produced electronic waste from developed countries is exported, and handled by the informal sector in countries like India, despite the fact that exporting electronic waste to them is illegal. Strong informal sector can be a problem for the safe and clean recycling.[59]
+Reuse and repair
+E-waste policy has gone through various incarnations since the 1970s, with emphases changing as the decades passed. More weight was gradually placed on the need to dispose of e-waste more carefully due to the toxic materials it may contain. There has also been recognition that various valuable metals and plastics from waste electrical equipment can be recycled for other uses. More recently the desirability of reusing whole appliances has been foregrounded in the 'preparation for reuse' guidelines. The policy focus is slowly moving towards a potential shift in attitudes to reuse and repair.
+With turnover of small household appliances high and costs relatively low, many consumers will throw unwanted electric goods in the normal dustbin, meaning that items of potentially high reuse or recycling value go to landfills. While larger items such as washing machines are usually collected, it has been estimated that the 160,000 tonnes of EEE in regular waste collections was worth £220 million. And 23% of EEE taken to Household Waste Recycling Centres was immediately resaleable – or would be with minor repairs or refurbishment. This indicates a lack of awareness among consumers as to where and how to dispose of EEE, and of the potential value of things that are literally going in the bin.
+For reuse and repair of electrical goods to increase substantially in the UK there are barriers that must be overcome. These include people's mistrust of used equipment in terms of whether it will be functional, safe, and the stigma for some of owning second-hand goods. But the benefits of reuse could allow lower income households access to previously unaffordable technology whilst helping the environment at the same time.<Cole, C., Cooper, T. and Gnanapragasam, A., 2016. Extending product lifetimes through WEEE reuse and repair: opportunities and challenges in the UK. In: Electronics Goes Green 2016+ Conference, Berlin, Germany, 7–9 September 2016>
+
+Health impact[edit]
+Desktop monitors and laptops produce major physical health concerns for humans when bodies are forced into positions that are unhealthy and uncomfortable in order to see the screen better. From this, neck and back pains and problems increase, commonly referred to as repetitive strain injuries. Using electronics before going to bed makes it difficult for people to fall asleep, which has a negative effect on human health. Sleeping less prevents people from performing to their full potential physically and mentally and can also "increase rates of obesity and diabetes," which are "long-term health consequences".[60] Obesity and diabetes are more commonly seen in students and in youth because they tend to be the ones using electronics the most. "People who frequently use their thumbs to type text messages on cell phones can develop a painful affliction called De Quervain syndrome that affects their tendons on their hands. The best known disease in this category is called carpal tunnel syndrome, which results from pressure on the median nerve in the wrist".[60]
+
+See also[edit]
+.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;justify-content:center;align-items:baseline}.mw-parser-output .portal-bar-bordered{padding:0 2em;background-color:#fdfdfd;border:1px solid #a2a9b1;clear:both;margin:1em auto 0}.mw-parser-output .portal-bar-unbordered{padding:0 1.7em;margin-left:0}.mw-parser-output .portal-bar-header{margin:0 1em 0 0.5em;padding:0.2em 0;flex:0 0 auto;min-height:24px;line-height:22px}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:baseline;flex:0 1 auto;padding:0.15em 0;column-gap:1em}.mw-parser-output .portal-bar-item{display:flex;align-items:baseline;margin:0.15em 0;min-height:24px;text-align:left}.mw-parser-output .portal-bar-logo{width:22px;line-height:22px;margin:0 0.2em;text-align:right}.mw-parser-output .portal-bar-link{margin:0 0.2em;text-align:left}@media screen and (max-width:768px){.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;flex-flow:column wrap}.mw-parser-output .portal-bar-header{text-align:center;flex:0;padding-left:0.5em;margin:0 auto}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:baseline;flex:0;margin:0 auto;column-gap:1em;border-top:1px solid #a2a9b1}}.mw-parser-output .navbox+link+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .navbox+style+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .portal-bar+.navbox-styles+.navbox{margin-top:-1px}Portals:ElectronicsTechnologyEngineeringTelecommunicationRadioTelevision
+Digital electronics
+Electronics industry
+List of home appliances
+Product teardown
+Timeline of electrical and electronic engineering
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Hsu, Sara (12 February 2016). "In China, Black Goods Down, White Goods Up". The Diplomat. Retrieved 12 July 2021.
+
+^ Takagi, Yuichiro; Hanada, Yukinori; Iwato, Hisashi (8 January 2020). "White appliance prices jump in Japan over past 10 years". Nikkei Asia. Retrieved 12 July 2021.
+
+^ "brown goods". Collins English Dictionary. Archived from the original on 8 December 2014. Retrieved 5 December 2014.
+
+^ McDermott, Catherine (30 October 2007). Design: The Key Concepts. Routledge. p. 234. ISBN 9781134361809. Archived from the original on 18 April 2016. Retrieved 5 December 2014.
+
+^ "Global Consumer Electronics Market to Reach US$ 2.9 Trillion by 2020 - Persistence Market Research". PR Newswire. Persistence Market Research. 3 January 2017. Retrieved 11 October 2019.
+
+^ "Annual Semiconductor Sales Increase 21.6 Percent, Top $400 Billion for First Time". Semiconductor Industry Association. 5 February 2018. Retrieved 11 October 2019.
+
+^ a b "1960 - Metal Oxide Semiconductor (MOS) Transistor Demonstrated". The Silicon Engine. Computer History Museum.
+
+^ a b "Who Invented the Transistor?". Computer History Museum. 4 December 2013. Retrieved 20 July 2019.
+
+^ Lamba, V.; Engles, D.; Malik, S. S.; Verma, M. (2009). "Quantum transport in silicon double-gate MOSFET". 2009 2nd International Workshop on Electron Devices and Semiconductor Technology: 1–4. doi:10.1109/EDST.2009.5166116. ISBN 978-1-4244-3831-0. S2CID 10377971.
+
+^ Manuel, Castells (1996). The information age : economy, society and culture. Oxford: Blackwell. ISBN 978-0631215943. OCLC 43092627.
+
+^ Hagiwara, Yoshiaki (2001). "Microelectronics for Home Entertainment".  In Oklobdzija, Vojin G. (ed.). The Computer Engineering Handbook. CRC Press. p. 41-1. ISBN 978-0-8493-0885-7.
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. p. 120. ISBN 9783540342588.
+
+^ Schaller, Bob (26 September 1996). "The Origin, Nature, and Implications of Moore's Law. The Benchmark of Progress in Semiconductor Electronics". Microsoft Research. Archived from the original on 28 August 2014. Retrieved 10 September 2014. Moore viewed the 1959 innovation of the planar transistor as the origin of "Moore's Law. [...] When we were patenting this [planar transistor] we recognized it was a significant change, and the patent attorney asked us if we really thought through all the ramifications of it. And we hadn't, so Noyce got a group together to see what they could come up with and right away he saw that this gave us a reason now you could run the metal up over the top without shorting out the junctions, so you could actually connect this one to the next-door neighbor or some other thing. Cite journal requires |journal= (help)
+
+^ a b "Triumph of the MOS Transistor". YouTube. Computer History Museum. 6 August 2010. Archived from the original on 28 October 2021. Retrieved 21 July 2019.
+
+^ Moskowitz, Sanford L. (2016). Advanced Materials Innovation: Managing Global Technology in the 21st century. John Wiley & Sons. pp. 165–167. ISBN 9780470508923.
+
+^ "Transistors Keep Moore's Law Alive". EETimes. 12 December 2018. Retrieved 18 July 2019.
+
+^ Chan, Yi-Jen (1992). Studies of InAIAs/InGaAs and GaInP/GaAs heterostructure FET's for high speed applications. University of Michigan. p. 1. The Si MOSFET has revolutionized the electronics industry and as a result impacts our daily lives in almost every conceivable way.
+
+^ Grant, Duncan Andrew; Gowar, John (1989). Power MOSFETS: theory and applications. Wiley. p. 1. ISBN 9780471828679. The metal-oxide-semiconductor field-effect transistor (MOSFET) is the most commonly used active device in the very large-scale integration of digital integrated circuits (VLSI). During the 1970s these components revolutionized electronic signal processing, control systems and computers.
+
+^ Raymer, Michael G. (2009). The Silicon Web: Physics for the Internet Age. CRC Press. p. 365. ISBN 9781439803127.
+
+^ Colinge, Jean-Pierre; Greer, James C. (2016). Nanowire Transistors: Physics of Devices and Materials in One Dimension. Cambridge University Press. p. 2. ISBN 9781107052406.
+
+^ Franco, Jacopo; Kaczer, Ben; Groeseneken, Guido (2013). Reliability of High Mobility SiGe Channel MOSFETs for Future CMOS Applications. Springer Science & Business Media. pp. 1–2. ISBN 9789400776630.
+
+^ "13 Sextillion & Counting: The Long & Winding Road to the Most Frequently Manufactured Human Artifact in History". Computer History Museum. 2 April 2018. Retrieved 28 July 2019.
+
+^ Baker, R. Jacob (2011). CMOS: Circuit Design, Layout, and Simulation. John Wiley & Sons. p. 7. ISBN 978-1118038239.
+
+^ "Consumer Electronics Manufacturing Industry Overview". Hoover's. Archived from the original on 20 July 2014. Retrieved 9 September 2014.
+
+^ "Compact disc hits 25th birthday". BBC News. BBC. 17 August 2007. Retrieved 15 October 2019.
+
+^ "Stock Video of Angled view of Compact cassette tape in use playing back in a deck player". Adobe Stock. Adobe Inc. Retrieved 25 October 2019.
+
+^ Pan, Joann (7 March 2012). "Warner Bros. Offers In-Store DVD-to-Cloud Service [VIDEO]". Mashable. Retrieved 15 October 2019.
+
+^ "Over 5 billion mobiles worldwide". BBC News. BBC. 9 July 2010. Retrieved 15 October 2019.
+
+^ a b c "Cell phone sales worldwide 2007-2018". Statista. Retrieved 15 October 2019.
+
+^ "7 of the Top 10 Smartphone Suppliers Headquartered in China". IC Insights. 15 June 2017. Retrieved 25 October 2019.
+
+^ Schildgen, Bob (17 August 2018). "What Do I Do With Old VCR Tapes?". Sierra Club. Retrieved 15 October 2019.
+
+^ Lyman, Peter; Varian, Hal R.; Dunn, James; Strygin, Aleksey; Swearingen, Kirsten (18 October 2000). "Magnetic". How Much Information? 2000. University of California, Berkeley School of Information. Retrieved 15 October 2019.
+
+^ Mike Deng (23 October 2012). "China Moves to Automate Electronics Manufacturing". Quality Digest. Archived from the original on 12 April 2013. Retrieved 11 June 2013.
+
+^ Baker, Phil (11 August 2014). "Why can't the US build consumer electronic products?". San Diego Source. Retrieved 9 September 2014.
+
+^ Gamble, Craig (22 August 2014). "Shenzhen in China becomes a power source for the electronics industry". Brisbane Times. Archived from the original on 25 August 2014. Retrieved 9 September 2014.
+
+^ Hachman, Mark (4 September 2014). "Microsoft announces two Lumia phones, always-on Cortana, and clever new mobile accessories". PC World. Archived from the original on 10 September 2014. Retrieved 11 September 2014.
+
+^ "Electronics hardware consumption poised to touch *360 bln by 2015". One India. 13 April 2008. Archived from the original on 12 September 2014. Retrieved 11 September 2014.
+
+^ "Signal Converter of Consumer Electronics Connection Protocols (US 20120287942 A1)". IFI CLAIMS Patent Services. 15 November 2012. Archived from the original on 15 September 2014. Retrieved 12 September 2014.
+
+^ Hornyak, Tim (2 September 2014). "Jack Wayman, founder of CES trade show, dies at 92". PC World. Archived from the original on 10 September 2014. Retrieved 9 September 2014.
+
+^ IEEE Consumer Electronics Society, http://cesoc.ieee.org/ Archived 31 July 2016 at the Wayback Machine
+
+^ Simon Sherratt, Editor-in-Chief (EiC), IEEE Transactions on Consumer Electronics, http://cesoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html Archived 29 July 2016 at the Wayback Machine.
+
+^ Saraju P. Mohanty, Editor-in-Chief (EiC), IEEE Consumer Electronics Magazine, http://cesoc.ieee.org/publications/ce-magazine.html Archived 12 July 2016 at the Wayback Machine.
+
+^ IEEE International Conference on Consumer Electronics (ICCE), http://www.icce.org/ Archived 23 July 2016 at the Wayback Machine
+
+^ a b Murphy, H. Lee (27 January 2014). "Why consumer electronics retailers are the next record store". Crain's Chicago Business. Retrieved 11 September 2014.
+
+^ eMarketer (11 April 2014). "US Retail Ecommerce Sales Highest for Computers, Consumer Electronics". The Huffington Post. Archived from the original on 12 September 2014. Retrieved 11 September 2014.
+
+^ Sherman, Erik (19 December 2011). "Hold off extended warranties until you read this". CBS News (Moneywatch). Archived from the original on 12 September 2014. Retrieved 11 September 2014.
+
+^ Cellan-Jones, Rory (8 December 2012). "Look round Shenzhen's Electronics District". BBC News. Archived from the original on 22 July 2016. Retrieved 20 July 2016.
+
+^ Todd, Deborah M. (18 August 2013). "Electronic repair industry gets second wind". Pittsburgh Post-Gazette. Archived from the original on 7 April 2015. Retrieved 11 September 2014.
+
+^ Srivastava, Viranjay M.; Singh, Ghanshyam (2013). MOSFET Technologies for Double-Pole Four-Throw Radio-Frequency Switch. Springer Science & Business Media. p. 1. ISBN 9783319011653.
+
+^ Guide to Greener Electronics 2017 Greenpeace USA, 2017
+
+^ a b "The myth of the green cloud". European Investment Bank. Retrieved 17 September 2020.
+
+^ "Infographic: The Carbon Footprint of the Internet – ClimateCare". Retrieved 17 September 2020.
+
+^ "Heating and cooling no longer majority of US home energy use" Archived 2 April 2015 at the Wayback Machine. EIA.gov
+
+^ a b Chu, John (1 November 2012). "3 Easy Tips to Reduce Your Standby Power Loads". Energy.gov. United States Department of Energy. Archived from the original on 10 September 2014. Retrieved 10 September 2014.
+
+^ Lippert, John (17 August 2009). "Please Stand By: Reduce Your Standby Power Use". Energy.gov. United States Department of Energy. Archived from the original on 11 September 2014. Retrieved 10 September 2014.
+
+^ Harvey, Fiona (26 June 2012). "Leaving appliances on standby 'can cost UK households up to £86 a year'". The Guardian. Archived from the original on 10 September 2014. Retrieved 9 September 2014.
+
+^ Carr, Matthew (2 July 2014). "Electronic Devices Waste $80 Billion of Power a Year, IEA Says". Bloomberg L.P. Archived from the original on 10 September 2014. Retrieved 9 September 2014.
+
+^ Moreno, Julia (8 September 2014). "Normal is recycling out-of-date electronics". Vidette Online. Illinois State University. Archived from the original on 10 September 2014. Retrieved 9 September 2014.
+
+^ Bhowmick, Nilanjana (23 May 2011). "Is India's E-Waste Problem Spiraling Out of Control?". Time. Archived from the original on 8 October 2014. Retrieved 14 September 2014.
+
+^ a b "Health Risks of Electronic Devices". The Women's International Perspective. 12 July 2015. Archived from the original on 3 June 2017. Retrieved 26 May 2017.
+
+
+Notes[edit]
+
+
+^ "Brown" from the bakelite and wood-veneer finishes typical on 1950s and 1960s radio and TV receivers, and in contrast to "white goods".[4]
+
+
+
+
+^ a b Smartphone:
+2007–2010 – 731 million[29]
+2011–2013 – 2.122 billion[29]
+2014–2015 – 2.69 billion[30]
+2016–2018 – 4.589 billion[29]
+
+^ Mobile phone:
+1994–2010 – 10 billion[28]
+Smartphone (2011–2018) – 9.401 billion[a]
+
+
+Further reading[edit]
+Kevin Sintumuang (2 January 2015). "Tech Etiquette: 21 Do's and Don'ts". The Wall Street Journal.
+External links[edit]
+.mw-parser-output .sister-box{border:1px solid #aaa;padding:0;background:#f9f9f9}.mw-parser-output .sister-box>div{padding:0.75em 0;text-align:center}.mw-parser-output .sister-box>div>b{display:block}.mw-parser-output .sister-box>ul{border-top:1px solid #aaa;padding:0.75em 0;width:217px;margin:0 auto}.mw-parser-output .sister-box>ul>li{min-height:31px}.mw-parser-output .sister-logo{display:inline-block;width:31px;line-height:31px;vertical-align:middle;text-align:center}.mw-parser-output .sister-link{display:inline-block;margin-left:4px;width:182px;vertical-align:middle}.mw-parser-output .sister-bar{display:flex;justify-content:center;align-items:baseline;font-size:88%;background-color:#fdfdfd;border:1px solid #a2a9b1;clear:both;margin:1em 0 0;padding:0 2em}.mw-parser-output .sister-bar-header{margin:0 1em 0 0.5em;padding:0.2em 0;flex:0 0 auto;min-height:24px;line-height:22px}.mw-parser-output .sister-bar-content{display:flex;flex-flow:row wrap;flex:0 1 auto;align-items:baseline;padding:0.2em 0;column-gap:1em}.mw-parser-output .sister-bar-item{display:flex;align-items:baseline;margin:0.15em 0;min-height:24px;text-align:left}.mw-parser-output .sister-bar-logo{width:22px;line-height:22px;margin:0 0.2em;text-align:right}.mw-parser-output .sister-bar-link{margin:0 0.2em;text-align:left}@media screen and (max-width:960px){.mw-parser-output .sister-bar{display:flex;flex-flow:column wrap;font-size:88%;background-color:#fdfdfd;clear:both;margin:1em auto 0;padding:0 2em}.mw-parser-output .sister-bar-header{padding:0.2em 0;flex:0 1}.mw-parser-output .sister-bar-content{display:flex;flex-flow:row wrap;flex:1;align-items:baseline;padding:0.2em 0;border-top:1px solid #a2a9b1}.mw-parser-output .sister-bar-item{display:flex;align-items:baseline;flex:0 0 20em;min-width:20em;margin:0.15em 0;min-height:24px}}.mw-parser-output .navbox+link+.sister-bar{margin-top:-1px}.mw-parser-output .navbox+style+.sister-bar{margin-top:-1px}.mw-parser-output .portal-bar+link+.sister-bar{margin-top:-1px}.mw-parser-output .portal-bar+style+.sister-bar{margin-top:-1px}.mw-parser-output .sister-bar+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .sister-bar+.navbox-styles+.portal-bar{margin-top:-1px}Consumer electronics at Wikipedia's sister projects:Media from CommonsNews from WikinewsTexts from WikisourceTextbooks from WikibooksResources from Wikiversity
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteElectronicsBranches
+Analog electronics
+Digital electronics
+Electronic instrumentation
+Electronics engineering
+Microelectronics
+Optoelectronics
+Power electronics
+Printed electronics
+Semiconductor
+Schematic capture
+Thermal management
+Advanced topics
+Atomtronics
+Bioelectronics
+Failure of electronic components
+Flexible electronics
+Low-power electronics
+Molecular electronics
+Nanoelectronics
+Organic electronics
+Photonics
+Piezotronics
+Quantum electronics
+Spintronics
+Electronic equipment
+Air conditioner
+Central heating
+Clothes dryer
+Computer/Notebook
+Camera
+Dishwasher
+Freezer
+Home robot
+Home cinema
+Home theater PC
+Information technologies
+Cooker
+Microwave oven
+Mobile phone
+Networking hardware
+Portable media player
+Radio
+Refrigerator
+Robotic vacuum cleaner
+Tablet
+Telephone
+Television
+Water heater
+Video game console
+Washing machine
+Applications
+Audio electronics
+Automotive electronics
+Avionics
+Control system
+Data acquisition
+e-book
+e-health
+Electronics industry
+Electronic warfare
+Embedded system
+Home appliance
+Home automation
+Integrated circuit
+Home appliance
+Consumer electronics
+Major appliance
+Small appliance
+Microwave technology
+Military electronics
+Multimedia
+Nuclear electronics
+Open hardware
+Radar and Radionavigation
+Radio electronics
+Terahertz technology
+Video hardware
+Wired and Wireless Communications
+
+vteEmbedded systemsGeneral terms
+ASIC
+Board support package
+Bootloader
+Consumer electronics
+Cross compiler
+Embedded database
+Embedded hypervisor
+Embedded OS
+Embedded software
+FPGA
+IoT
+Memory footprint
+Microcontroller
+Single-board computer
+Raspberry Pi
+SoC
+Firmware and controls
+Closed platform
+Crippleware
+Custom firmware
+Defective by Design
+Hacking of consumer electronics
+Homebrew (video games)
+iOS jailbreaking
+PlayStation 3 Jailbreak
+Proprietary firmware
+Rooting (Android)
+Vendor lock-in
+Boot loaders
+U-Boot
+Barebox
+Software libraries
+uClibc
+dietlibc
+Embedded GLIBC
+lwIP
+musl
+Programming tools
+Almquist shell
+BitBake
+Buildroot
+BusyBox
+OpenEmbedded
+Stand-alone shell
+Toybox
+Yocto Project
+Operating systems
+Linux on embedded systems
+Linux for mobile devices
+Light-weight Linux distribution
+Real-time operating system
+Windows IoT
+Win CE
+Programming languages
+Ada
+Assembly language
+CAPL
+Embedded C
+Embedded C++
+Embedded Java
+MISRA C
+
+Lightweight browsers
+List of open-source computing hardware
+Open-source robotics
+
+Authority control General
+Integrated Authority File (Germany)
+National libraries
+France (data)
+United States
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Consumer_electronics&oldid=1057199314"
+		Categories: Consumer electronicsElectronics industryHidden categories: Pages with non-numeric formatnum argumentsCS1 errors: missing periodicalWebarchive template wayback linksUse dmy dates from March 2015Articles with short descriptionShort description is different from WikidataPages using Sister project links with wikidata namespace mismatchArticles with GND identifiersArticles with BNF identifiersArticles with LCCN identifiers
+	

@@ -1,0 +1,583 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Aspect of music
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}This article is about musical harmony and harmonies. For other uses of the term, see Harmony (disambiguation).
+"Disharmony" redirects here. For the episode of Angel, see Disharmony (Angel).
+
+
+  Barbershop quartets, such as this US Navy group, sing 4-part pieces, made up of a melody line (normally the lead) and 3 harmony parts.
+In music, harmony is the process by which the composition of individual sounds, or superpositions of sounds, is analysed by hearing. Usually, this means simultaneously occurring frequencies, pitches (tones, notes), or chords.[1]
+Harmony is a perceptual property of music, and, along with melody, one of the building blocks of Western music.  Its perception is based on consonance, a concept whose definition has changed various times throughout Western music.  In a physiological approach, consonance is a continuous variable.  Consonant pitch relationships are described as sounding more pleasant, euphonious, and beautiful than dissonant relationships which sound unpleasant, discordant, or rough.[2]
+The study of harmony involves chords and their construction and chord progressions and the principles of connection that govern them.[3]
+Harmony is often said to refer to the "vertical" aspect of music, as distinguished from melodic line, or the "horizontal" aspect.[4]
+Counterpoint, which refers to the relationship between melodic lines, and polyphony, which refers to the simultaneous sounding of separate independent voices, are therefore sometimes distinguished from harmony.[5]
+In popular and jazz harmony, chords are named by their root plus various terms and characters indicating their qualities.  In many types of music, notably baroque, romantic, modern, and jazz, chords are often augmented with "tensions". A tension is an additional chord member that creates a relatively dissonant interval in relation to the bass.
+Typically, in the classical common practice period a dissonant chord (chord with tension) "resolves" to a consonant chord. Harmonization usually sounds pleasant to the ear when there is a balance between the consonant and dissonant sounds. In simple words, that occurs when there is a balance between "tense" and "relaxed" moments.
+
+Contents
+
+1 Etymology and definitions
+2 Historical rules
+3 Types
+4 Intervals
+5 Chords and tension
+6 Perception
+
+6.1 Tonal fusion
+6.2 Roughness
+6.3 Familiarity
+6.4 Neural correlates of harmony
+
+
+7 Consonance and dissonance in balance
+8 See also
+9 References
+
+9.1 Footnotes
+9.2 Citations
+
+
+10 Further reading
+11 External links
+
+
+
+Etymology and definitions[edit]
+The term harmony derives from the Greek ἁρμονία harmonia, meaning "joint, agreement, concord",[6][7] from the verb ἁρμόζω harmozō, "(Ι) fit together, join".[8] In the past, harmony often referred to the whole field of music, while music referred to the arts in general.[citation needed] In Ancient Greece, the term defined the combination of contrasted elements: a higher and lower note.[9] Nevertheless, it is unclear whether the simultaneous sounding of notes was part of ancient Greek musical practice; harmonía may have merely provided a system of classification of the relationships between different pitches.[citation needed] In the Middle Ages the term was used to describe two pitches sounding in combination, and in the Renaissance the concept was expanded to denote three pitches sounding together.[9] Aristoxenus wrote a work entitled Harmonika Stoicheia, which is thought the first work in European history written on the subject of harmony.[10]
+
+  Rameau's Traité de l'harmonie (Treatise on Harmony), 1722
+It was not until the publication of Rameau's Traité de l'harmonie (Treatise on Harmony) in 1722 that any text discussing musical practice made use of the term in the title, although that work is not the earliest record of theoretical discussion of the topic. The underlying principle behind these texts is that harmony sanctions harmoniousness (sounds that please) by conforming to certain pre-established compositional principles.[11]
+Current dictionary definitions, while attempting to give concise descriptions, often highlight the ambiguity of the term in modern use. Ambiguities tend to arise from either aesthetic considerations (for example the view that only pleasing concords may be harmonious) or from the point of view of musical texture (distinguishing between harmonic (simultaneously sounding pitches) and "contrapuntal" (successively sounding tones).[11] In the words of Arnold Whittall:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}While the entire history of music theory appears to depend on just such a distinction between harmony and counterpoint, it is no less evident that developments in the nature of musical composition down the centuries have presumed the interdependence—at times amounting to integration, at other times a source of sustained tension—between the vertical and horizontal dimensions of musical space.[11][page needed]
+The view that modern tonal harmony in Western music began in about 1600 is commonplace in music theory. This is usually accounted for by the replacement of horizontal (or contrapuntal) composition, common in the music of the Renaissance, with a new emphasis on the vertical element of composed music. Modern theorists, however, tend to see this as an unsatisfactory generalisation. According to Carl Dahlhaus:
+
+It was not that counterpoint was supplanted by harmony (Bach’s tonal counterpoint is surely no less polyphonic than Palestrina’s modal writing) but that an older type both of counterpoint and of vertical technique was succeeded by a newer type. And harmony comprises not only the ("vertical") structure of chords but also their ("horizontal") movement. Like music as a whole, harmony is a process.[12][11][page needed]
+Descriptions and definitions of harmony and harmonic practice often show bias towards European (or Western) musical traditions, although many cultures practice vertical harmony.[13] In addition, South Asian art music (Hindustani and Carnatic music) is frequently cited as placing little emphasis on what is perceived in western practice as conventional harmony; the underlying harmonic foundation for most South Asian music is the drone, a held open fifth interval (or fourth interval) that does not alter in pitch throughout the course of a composition.[14] Pitch simultaneity in particular is rarely a major consideration. Nevertheless, many other considerations of pitch are relevant to the music, its theory and its structure, such as the complex system of Rāgas, which combines both melodic and modal considerations and codifications within it.[15]
+So, intricate pitch combinations that sound simultaneously do occur in Indian classical music—but they are rarely studied as teleological harmonic or contrapuntal progressions—as with notated Western music. This contrasting emphasis (with regard to Indian music in particular) manifests itself in the different methods of performance adopted: in Indian Music improvisation takes a major role in the structural framework of a piece,[16] whereas in Western Music improvisation has been uncommon since the end of the 19th century.[17] Where it does occur in Western music (or has in the past), the improvisation either embellishes pre-notated music or draws from musical models previously established in notated compositions, and therefore uses familiar harmonic schemes.[18]
+Emphasis on the precomposed in European art music and the written theory surrounding it shows considerable cultural bias. The Grove Dictionary of Music and Musicians (Oxford University Press) identifies this clearly:
+
+In Western culture the musics that are most dependent on improvisation, such as jazz, have traditionally been regarded as inferior to art music, in which pre-composition is considered paramount. The conception of musics that live in oral traditions as something composed with the use of improvisatory techniques separates them from the higher-standing works that use notation.[19]
+Yet the evolution of harmonic practice and language itself, in Western art music, is and was facilitated by this process of prior composition, which permitted the study and analysis by theorists and composers of individual pre-constructed works in which pitches (and to some extent rhythms) remained unchanged regardless of the nature of the performance.[20]
+
+Historical rules[edit]
+Early Western religious music often features parallel perfect intervals; these intervals would preserve the clarity of the original plainsong. These works were created and performed in cathedrals, and made use of the resonant modes of their respective cathedrals to create harmonies. As polyphony developed, however, the use of parallel intervals was slowly replaced by the English style of consonance that used thirds and sixths.[when?] The English style was considered to have a sweeter sound, and was better suited to polyphony in that it offered greater linear flexibility in part-writing.
+
+  Example of implied harmonies in J.S. Bach's Cello Suite no. 1 in G, BWV 1007, bars 1–2. Play (help·info) or Play harmony (help·info)
+Types[edit]
+  Close position C major triad. Play (help·info)
+  Open position C major triad. Play (help·info)
+Carl Dahlhaus (1990) distinguishes between coordinate and subordinate harmony. Subordinate harmony is the hierarchical tonality or tonal harmony well known today. Coordinate harmony is the older Medieval and Renaissance tonalité ancienne, "The term is meant to signify that sonorities are linked one after the other without giving rise to the impression of a goal-directed development. A first chord forms a 'progression' with a second chord, and a second with a third. But the former chord progression is independent of the later one and vice versa." Coordinate harmony follows direct (adjacent) relationships rather than indirect as in subordinate. Interval cycles create symmetrical harmonies, which have been extensively used by the composers Alban Berg, George Perle, Arnold Schoenberg, Béla Bartók, and Edgard Varèse's Density 21.5.
+Close harmony and open harmony use close position and open position chords, respectively. See: Voicing (music) and Close and open harmony.
+Other types of harmony are based upon the intervals of the chords used in that harmony. Most chords in western music are based on "tertian" harmony, or chords built with the interval of thirds. In the chord C Major7, C–E is a major third; E–G is a minor third; and G to B is a major third. Other types of harmony consist of quartal and quintal harmony.
+A unison is considered a harmonic interval, just like a fifth or a third, but is unique in that it is two identical notes produced together. The unison, as a component of harmony, is important, especially in orchestration.[9] In pop music, unison singing is usually called doubling, a technique The Beatles used in many of their earlier recordings. As a type of harmony, singing in unison or playing the same notes, often using different musical instruments, at the same time is commonly called monophonic harmonization.
+
+Intervals[edit]
+An interval is the relationship between two separate musical pitches. For example, in the melody "Twinkle Twinkle Little Star", between the first two notes (the first "twinkle") and the second two notes (the second "twinkle") is the interval of a fifth. What this means is that if the first two notes were the pitch C, the second two notes would be the pitch "G"—four scale notes, or seven chromatic notes (a perfect fifth), above it.
+The following are common intervals:
+
+
+
+
+Root
+
+Major third
+
+Minor third
+
+Fifth
+
+
+C
+
+E
+
+E♭
+
+G
+
+
+D♭
+
+F
+
+F♭
+
+A♭
+
+
+D
+
+F♯
+
+F
+
+A
+
+
+E♭
+
+G
+
+G♭
+
+B♭
+
+
+E
+
+G♯
+
+G
+
+B
+
+
+F
+
+A
+
+A♭
+
+C
+
+
+F♯
+
+A♯
+
+A
+
+C♯
+
+
+G
+
+B
+
+B♭
+
+D
+
+
+A♭
+
+C
+
+C♭
+
+E♭
+
+
+A
+
+C♯
+
+C
+
+E
+
+
+B♭
+
+D
+
+D♭
+
+F
+
+
+B
+
+D♯
+
+D
+
+F♯
+
+Therefore, the combination of notes with their specific intervals—a chord—creates harmony.[4] For example, in a C chord, there are three notes: C, E, and G. The note C is the root. The notes E and G provide harmony, and in a G7 (G dominant 7th) chord, the root G with each subsequent note (in this case B, D and F) provide the harmony.[4]
+In the musical scale, there are twelve pitches. Each pitch is referred to as a "degree" of the scale. The names A, B, C, D, E, F, and G are insignificant.[21] The intervals, however, are not. Here is an example:
+
+
+
+
+1°
+
+2°
+
+3°
+
+4°
+
+5°
+
+6°
+
+7°
+
+8°
+
+
+C
+
+D
+
+E
+
+F
+
+G
+
+A
+
+B
+
+C
+
+
+D
+
+E
+
+F♯
+
+G
+
+A
+
+B
+
+C♯
+
+D
+
+As can be seen, no note will always be the same scale degree. The tonic, or first-degree note, can be any of the 12 notes (pitch classes) of the chromatic scale. All the other notes fall into place. For example, when C is the tonic, the fourth degree or subdominant is F. When D is the tonic, the fourth degree is G. While the note names remain constant, they may refer to different scale degrees, implying different intervals with respect to the tonic. The great power of this fact is that any musical work can be played or sung in any key. It is the same piece of music, as long as the intervals are the same—thus transposing the melody into the corresponding key. When the intervals surpass the perfect Octave (12 semitones), these intervals are called compound intervals, which include particularly the 9th, 11th, and 13th Intervals—widely used in jazz and blues Music.[22]
+Compound Intervals are formed and named as follows:
+
+2nd + Octave = 9th
+3rd + Octave = 10th
+4th + Octave = 11th
+5th + Octave = 12th
+6th + Octave = 13th
+7th + Octave = 14th
+The reason the two numbers don't "add" correctly is that one note is counted twice.[clarification needed] Apart from this categorization, intervals can also be divided into consonant and dissonant. As explained in the following paragraphs, consonant intervals produce a sensation of relaxation and dissonant intervals a sensation of tension. In tonal music, the term consonant also means "brings resolution" (to some degree at least, whereas dissonance "requires resolution").[citation needed]
+The consonant intervals are considered the perfect unison, octave, fifth, fourth and major and minor third and sixth, and their compound forms. An interval is referred to as "perfect" when the harmonic relationship is found in the natural overtone series (namely, the unison 1:1, octave 2:1, fifth 3:2, and fourth 4:3). The other basic intervals (second, third, sixth, and seventh) are called "imperfect" because the harmonic relationships are not found mathematically exact in the overtone series. In classical music the perfect fourth above the bass may be considered dissonant when its function is contrapuntal. Other intervals, the second and the seventh (and their compound forms) are considered Dissonant and require resolution (of the produced tension) and usually preparation (depending on the music sty[23]le).
+Note that the effect of dissonance is perceived relatively within musical context: for example, a major seventh interval alone (i.e., C up to B) may be perceived as dissonant, but the same interval as part of a major seventh chord may sound relatively consonant. A tritone (the interval of the fourth step to the seventh step of the major scale, i.e., F to B) sounds very dissonant alone, but less so within the context of a dominant seventh chord (G7 or D♭7 in that example).[24]
+
+Chords and tension[edit]
+Main articles: Chord (music) and Consonance and dissonance
+In the Western tradition, in music after the seventeenth century, harmony is manipulated using chords, which are combinations of pitch classes. In tertian harmony, so named after the interval of a third, the members of chords are found and named by stacking intervals of the third, starting with the "root", then the "third" above the root, and the "fifth" above the root (which is a third above the third), etc. (Note that chord members are named after their interval above the root.) Dyads, the simplest chords, contain only two members (see power chords).
+A chord with three members is called a triad because it has three members, not because it is necessarily built in thirds (see Quartal and quintal harmony for chords built with other intervals). Depending on the size of the intervals being stacked, different qualities of chords are formed. In popular and jazz harmony, chords are named by their root plus various terms and characters indicating their qualities. To keep the nomenclature as simple as possible, some defaults are accepted (not tabulated here). For example, the chord members C, E, and G, form a C Major triad, called by default simply a C chord. In an A♭ chord (pronounced A-flat), the members are A♭, C, and E♭.
+In many types of music, notably baroque, romantic, modern and jazz, chords are often augmented with "tensions". A tension is an additional chord member that creates a relatively dissonant interval in relation to the bass. Following the tertian practice of building chords by stacking thirds, the simplest first tension is added to a triad by stacking, on top of the existing root, third, and fifth, another third above the fifth, adding a new, potentially dissonant member a seventh away from the root (called the "seventh" of the chord) producing a four-note chord called a "seventh chord".
+Depending on the widths of the individual thirds stacked to build the chord, the interval between the root and the seventh of the chord may be major, minor, or diminished. (The interval of an augmented seventh reproduces the root, and is therefore left out of the chordal nomenclature.) The nomenclature allows that, by default, "C7" indicates a chord with a root, third, fifth, and seventh spelled C, E, G, and B♭. Other types of seventh chords must be named more explicitly, such as "C Major 7" (spelled C, E, G, B), "C augmented 7" (here the word augmented applies to the fifth, not the seventh, spelled C, E, G♯, B♭), etc. (For a more complete exposition of nomenclature see Chord (music).)
+Continuing to stack thirds on top of a seventh chord produces extensions, and brings in the "extended tensions" or "upper tensions" (those more than an octave above the root when stacked in thirds), the ninths, elevenths, and thirteenths. This creates the chords named after them. (Note that except for dyads and triads, tertian chord types are named for the interval of the largest size and magnitude in use in the stack, not for the number of chord members : thus a ninth chord has five members [tonic, 3rd, 5th, 7th, 9th], not nine.) Extensions beyond the thirteenth reproduce existing chord members and are (usually) left out of the nomenclature. Complex harmonies based on extended chords are found in abundance in jazz, late-romantic music, modern orchestral works, film music, etc.
+Typically, in the classical Common practice period a dissonant chord (chord with tension) resolves to a consonant chord. Harmonization usually sounds pleasant to the ear when there is a balance between the consonant and dissonant sounds. In simple words, that occurs when there is a balance between "tense" and "relaxed" moments. For this reason, usually tension is 'prepared' and then 'resolved',[25] where preparing tension means to place a series of consonant chords that lead smoothly to the dissonant chord. In this way the composer ensures introducing tension smoothly, without disturbing the listener. Once the piece reaches its sub-climax, the listener needs a moment of relaxation to clear up the tension, which is obtained by playing a consonant chord that resolves the tension of the previous chords. The clearing of this tension usually sounds pleasant to the listener, though this is not always the case in late-nineteenth century music, such as Tristan und Isolde by Richard Wagner.[25]
+
+Perception[edit]
+  The harmonious major triad is composed of three tones. Their frequency ratio corresponds approximately 6:5:4. In real performances, however, the third is often larger than 5:4. The ratio 5:4 corresponds to an interval of 386 cents, but an equally tempered major third is 400 cents and a Pythagorean third with a ratio of 81:64 is 408 cents. Measurements of frequencies in good performances confirm that the size of the major third varies across this range and can even lie outside it without sounding out of tune. Thus, there is no simple connection between frequency ratios and harmonic function.
+A number of features contribute to the perception of a chord's harmony.
+
+Tonal fusion[edit]
+Tonal fusion contributes to the perceived consonance of a chord,[26]  describing the degree to which multiple pitches are heard as a single, unitary tone.[26]  Chords which have more coinciding partials (frequency components) are perceived as more consonant, such as the octave and perfect fifth.  The spectra of these intervals resemble that of a uniform tone.  According to this definition, a major triad fuses better than a minor triad and a major-minor seventh chord fuses better than a major-major seventh or minor-minor seventh. These differences may not be readily apparent in tempered contexts but can explain why major triads are generally more prevalent than minor triads and major-minor sevenths are generally more prevalent than other sevenths (in spite of the dissonance of the tritone interval) in mainstream tonal music.
+In organ registers, certain harmonic interval combinations and chords are activated by a single key. The sounds produced fuse into one tone with a new timbre. This tonal fusion effect is also used in synthesizers and orchestral arrangements; for instance, in Ravel’s  Bolero #5 the parallel parts of flutes, horn and celesta resemble the sound of an electric organ.[27][28]
+
+Roughness[edit]
+When adjacent harmonics in complex tones interfere with one another, they create the perception of what is known as "beating" or "roughness".  These precepts are closely related to the perceived dissonance of chords.[29] To interfere, partials must lie within a critical bandwidth, which is a measure of the ear's ability to separate different frequencies.[30] Critical bandwidth lies between 2 and 3 semitones at high frequencies and becomes larger at lower frequencies.[31]  The roughest interval in the chromatic scale is the minor second and its inversion, the major seventh. For typical spectral envelopes in the central range, the second roughest interval is the major second and minor seventh, followed by the tritone, the minor third (major sixth), the major third (minor sixth) and the perfect fourth (fifth).[32]
+
+Familiarity[edit]
+Familiarity also contributes to the perceived harmony of an interval. Chords that have often been heard in musical contexts tend to sound more consonant. This principle explains the gradual historical increase in harmonic complexity of Western music. For example, around 1600 unprepared seventh chords gradually became familiar and were therefore gradually perceived as more consonant.[33]
+Individual characteristics such as age and musical experience also have an effect on harmony perception.[34][35]
+
+Neural correlates of harmony[edit]
+The inferior colliculus is a mid-brain structure which is the first site of binaural auditory integration, processing auditory information from the left and right ears.[36]  Frequency following responses (FFRs) recorded from the mid-brain exhibit peaks in activity which correspond to the frequency components of a tonal stimulus.[35]  The extent to which FFRs accurately represent the harmonic information of a chord is called neural salience, and this value is correlated with behavioral ratings of the perceived pleasantness of chords.[35]
+In response to harmonic intervals, cortical activity also distinguishes chords by their consonance, responding more robustly to chords with greater consonance.[26]
+
+Consonance and dissonance in balance[edit]
+ The creation and destruction of harmonic and 'statistical' tensions is essential to the maintenance of compositional drama. Any composition (or improvisation) which remains consistent and 'regular' throughout is, for me, equivalent to watching a movie with only 'good guys' in it, or eating cottage cheese. — Frank Zappa, The Real Frank Zappa Book, page 181, Frank Zappa and Peter Occhiogrosso, 1990
+See also[edit]
+.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}
+Chromatic chord
+Chromatic mediant
+Harmonie
+Homophony (music)
+List of musical terminology
+Mathematics of musical scales
+Musica universalis
+Organum (polyphonic chant)
+Peter Westergaard's tonal theory
+Physics of music
+Prolongation
+Tonality
+Unified field
+Voice leading
+
+References[edit]
+Footnotes[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ Malm, William P. (1996). Music Cultures of the Pacific, the Near East, and Asia, p. 15. .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}ISBN 0-13-182387-6. Third edition. "Homophonic texture...is more common in Western music, where tunes are often built on chords (harmonies) that move in progressions. Indeed this harmonic orientation is one of the major differences between Western and much non-Western music."
+
+^ "Musical building blocks". ISM Trust. Retrieved 2 October 2021.
+
+^ Dahlhaus, Car (2001). "Harmony".  In Sadie, Stanley; Tyrrell, John (eds.). The New Grove Dictionary of Music and Musicians (2nd ed.). London: Macmillan.‎
+
+^ a b c Jamini, Deborah (2005). Harmony and Composition: Basics to Intermediate, p. 147. ISBN 1-4120-3333-0.
+
+^ Sachs, Klaus-Jürgen; Dahlhaus, Carl (2001). Counterpoint. Oxford Music Online. Oxford University Press. doi:10.1093/gmo/9781561592630.article.06690.
+
+^ '1. Harmony' The Concise Oxford Dictionary of English Etymology in English Language Reference accessed via Oxford Reference Online (24 February 2007)
+
+^ ἁρμονία. Liddell, Henry George; Scott, Robert; A Greek–English Lexicon at the Perseus Project.
+
+^ ἁρμόζω in Liddell and Scott.
+
+^ a b c Dahlhaus, Carl (2001). "Harmony".  In Sadie, Stanley; Tyrrell, John (eds.). The New Grove Dictionary of Music and Musicians (2nd ed.). London: Macmillan.‎
+
+^ Aristoxenus (1902). Harmonika Stoicheia (The Harmonics of Aristoxenus). Translated by Macran, Henry Stewart. Georg Olms Verlag. ISBN 3487405105. OCLC 123175755.
+
+^ a b c d Whittall, Arnold (2002). "Harmony".  In Latham, Alison (ed.). The Oxford Companion to Music.
+
+^ Dahlhaus, Carl (2001). "Harmony, §3: Historical development".  In Sadie, Stanley; Tyrrell, John (eds.). The New Grove Dictionary of Music and Musicians (2nd ed.). London: Macmillan.‎
+
+^ Stone, Ruth (1998). Garland Encyclopedia of World Music vol. I Africa. New York and London: garland. ISBN 0-8240-6035-0.
+
+^ Qureshi, Regula (2001). "India, §I, 2(ii): Music and musicians: Art music".  In Sadie, Stanley; Tyrrell, John (eds.). The New Grove Dictionary of Music and Musicians (2nd ed.). London: Macmillan.‎ and Catherine Schmidt Jones, 'Listening to Indian Classical Music', Connexions, (accessed 16 November 2007) [1]
+
+^ Powers, Harold S.; Widdess, Richard (2001). "India, §III, 2: Theory and practice of classical music: Rāga".  In Sadie, Stanley; Tyrrell, John (eds.). The New Grove Dictionary of Music and Musicians (2nd ed.). London: Macmillan.‎
+
+^ Powers, Harold S.; Widdess, Richard (2001). "India, §III, 3(ii): Theory and practice of classical music: Melodic elaboration".  In Sadie, Stanley; Tyrrell, John (eds.). The New Grove Dictionary of Music and Musicians (2nd ed.). London: Macmillan.‎
+
+^ Wegman, Rob C. (2001). "Improvisation, §II: Western art music".  In Sadie, Stanley; Tyrrell, John (eds.). The New Grove Dictionary of Music and Musicians (2nd ed.). London: Macmillan.‎
+
+^ Levin, Robert D (2001). "Improvisation, §II, 4(i): The Classical period in Western art music: Instrumental music".  In Sadie, Stanley; Tyrrell, John (eds.). The New Grove Dictionary of Music and Musicians (2nd ed.). London: Macmillan.‎
+
+^ Nettl, Bruno (2001). "Improvisation, §I, 2: Concepts and practices: Improvisation in musical cultures".  In Sadie, Stanley; Tyrrell, John (eds.). The New Grove Dictionary of Music and Musicians (2nd ed.). London: Macmillan.‎
+
+^ See Whittall, 'Harmony'
+
+^ Ghani, Nour Abd (2 October 2021). "Skytopia : Tuning & Music Scales Theory - Why are there 12 notes in Equal temperament?". www.skytopia.com. Retrieved 2 October 2021.
+
+^ STEFANUK, MISHA V. (7 October 2010). Jazz Piano Chords. Mel Bay Publications. ISBN 978-1-60974-315-4.
+
+^ 33905618. "Music and the Making of Modern Science - Peter Pesic". Issuu. Retrieved 2 October 2021.CS1 maint: numeric names: authors list (link)
+
+^ "Intervals | Music Appreciation". courses.lumenlearning.com. Retrieved 2 October 2021.
+
+^ a b Schejtman, Rod (2008). The Piano Encyclopedia's "Music Fundamentals eBook", pp. 20–43 (accessed 10 March 2009) PianoEncyclopedia.com
+
+^ a b c Bidelman, Gavin M. (2013). "The Role of the Auditory Brainstem in Processing Musically Relevant Pitch". Frontiers in Psychology. 4: 264. doi:10.3389/fpsyg.2013.00264. ISSN 1664-1078. PMC 3651994. PMID 23717294.
+
+^ Tanguiane (Tangian), Andranick (1993). Artificial Perception and Music Recognition. Lecture Notes in Artificial Intelligence. 746. Berlin-Heidelberg: Springer. ISBN 978-3-540-57394-4.
+
+^ Tanguiane (Tangian), Andranick (1994). "A principle of correlativity of perception and its application to music recognition". Music Perception. 11 (4): 465–502. doi:10.2307/40285634. JSTOR 40285634.
+
+^ Langner, Gerald; Ochse, Michael (2006). "The neural basis of pitch and harmony in the auditory system". Musicae Scientiae. 10 (1_suppl): 185–208. doi:10.1177/102986490601000109. ISSN 1029-8649. S2CID 144133151.
+
+^ Plomp, R.; Levelt, W. J. M. (1965). "Tonal Consonance and Critical Bandwidth". The Journal of the Acoustical Society of America. 38 (4): 548–560. Bibcode:1965ASAJ...38..548P. doi:10.1121/1.1909741. hdl:11858/00-001M-0000-0013-29B7-B. ISSN 0001-4966. PMID 5831012.
+
+^ Schellenberg, E. Glenn; Trehub, Sandra E. (1994). "Frequency ratios and the perception of tone patterns". Psychonomic Bulletin & Review. 1 (2): 191–201. doi:10.3758/bf03200773. ISSN 1069-9384. PMID 24203470.
+
+^ Parncutt, Richard (1988). "Revision of Terhardt's Psychoacoustical Model of the Root(s) of a Musical Chord". Music Perception. 6 (1): 65–93. doi:10.2307/40285416. ISSN 0730-7829. JSTOR 40285416.
+
+^ Parncutt, Richard (2011). "The Tonic as Triad: Key Profiles as Pitch Salience Profiles of Tonic Triads". Music Perception. 28 (4): 333–366. doi:10.1525/mp.2011.28.4.333. ISSN 0730-7829.
+
+^ Bidelman, Gavin M.; Gandour, Jackson T.; Krishnan, Ananthanarayan (2011). "Musicians demonstrate experience-dependent brainstem enhancement of musical scale features within continuously gliding pitch". Neuroscience Letters. 503 (3): 203–207. doi:10.1016/j.neulet.2011.08.036. ISSN 0304-3940. PMC 3196385. PMID 21906656.
+
+^ a b c Bones, O.; Plack, C. J. (4 March 2015). "Losing the Music: Aging Affects the Perception and Subcortical Neural Representation of Musical Harmony". Journal of Neuroscience. 35 (9): 4071–4080. doi:10.1523/jneurosci.3214-14.2015. ISSN 0270-6474. PMC 4348197. PMID 25740534.
+
+^ Ito, Tetsufumi; Bishop, Deborah C.; Oliver, Douglas L. (26 October 2015). "Functional organization of the local circuit in the inferior colliculus". Anatomical Science International. 91 (1): 22–34. doi:10.1007/s12565-015-0308-8. ISSN 1447-6959. PMC 4846595. PMID 26497006.
+
+
+Citations[edit]
+Dahlhaus, Carl. Gjerdingen, Robert O. trans. (1990). Studies in the Origin of Harmonic Tonality, p. 141. Princeton University Press. ISBN 0-691-09135-8.
+van der Merwe, Peter (1989). Origins of the Popular Style: The Antecedents of Twentieth-Century Popular Music. Oxford: Clarendon Press. ISBN 0-19-316121-4.
+Nettles, Barrie & Graf, Richard (1997). The Chord Scale Theory and Jazz Harmony. Advance Music, ISBN 3-89221-056-X
+Further reading[edit]
+Prout, Ebenezer, Harmony, its Theory and Practice (1889, revised 1903)
+External links[edit]
+
+
+
+Look up harmony in Wiktionary, the free dictionary.
+
+Chord Geometry – Graphical Analysis of Harmony Tool
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteAesthetics topicsPhilosophers
+Abhinavagupta
+Theodor W. Adorno
+Leon Battista Alberti
+Thomas Aquinas
+Hans Urs von Balthasar
+Alexander Gottlieb Baumgarten
+Clive Bell
+Bernard Bosanquet
+Edward Bullough
+R. G. Collingwood
+Ananda Coomaraswamy
+Arthur Danto
+Gilles Deleuze
+John Dewey
+Denis Diderot
+Hubert Dreyfus
+Curt John Ducasse
+Thierry de Duve
+Roger Fry
+Nelson Goodman
+Clement Greenberg
+Georg Hegel
+Martin Heidegger
+David Hume
+Immanuel Kant
+Paul Klee
+Susanne Langer
+Theodor Lipps
+György Lukács
+Jean-François Lyotard
+Joseph Margolis
+Jacques Maritain
+Thomas Munro
+Friedrich Nietzsche
+José Ortega y Gasset
+Dewitt H. Parker
+Stephen Pepper
+David Prall
+Jacques Rancière
+Ayn Rand
+Louis Lavelle
+George Lansing Raymond
+I. A. Richards
+George Santayana
+Friedrich Schiller
+Arthur Schopenhauer
+Roger Scruton
+Irving Singer
+Rabindranath Tagore
+Giorgio Vasari
+Morris Weitz
+Johann Joachim Winckelmann
+Richard Wollheim
+more...
+Theories
+Classicism
+Evolutionary aesthetics
+Historicism
+Modernism
+New Classical
+Postmodernism
+Psychoanalytic theory
+Romanticism
+Symbolism
+more...
+Concepts
+Aesthetic emotions
+Aesthetic interpretation
+Art manifesto
+Avant-garde
+Axiology
+Beauty
+Boredom
+Camp
+Comedy
+Creativity
+Cuteness
+Disgust
+Ecstasy
+Elegance
+Entertainment
+Eroticism
+Fashion
+Fun
+Gaze
+Harmony
+Judgement
+Kama
+Kitsch
+Life imitating art
+Magnificence
+Mimesis
+Perception
+Quality
+Rasa
+Recreation
+Reverence
+Style
+Sthayibhava
+Sublime
+Taste
+Work of art
+Related
+Aesthetics of music
+Applied aesthetics
+Architecture
+Art
+Arts criticism
+Feminist aesthetics
+Gastronomy
+History of painting
+Humour
+Japanese aesthetics
+Literary merit
+Mathematical beauty
+Mathematics and architecture
+Mathematics and art
+Medieval aesthetics
+Music theory
+Neuroesthetics
+Painting
+Patterns in nature
+Philosophy of design
+Philosophy of film
+Philosophy of music
+Poetry
+Sculpture
+Theory of painting
+Theory of art
+Tragedy
+Visual arts
+
+Index
+Outline
+Category
+ Philosophy portal
+
+vteHarmony
+Accompaniment
+Alberti bass
+Banjo roll
+Cadence
+Chord
+Chord progression
+Four-part
+Harmonic rhythm
+Harmonization
+List of chords
+List of chord progressions
+Note
+Pitch
+Sequence
+Simultaneity
+Voice leading
+
+Authority control General
+Integrated Authority File (Germany)
+National libraries
+Spain
+France (data)
+United States
+Japan
+Other
+Microsoft Academic
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Harmony&oldid=1060641518"
+		Categories: HarmonyConcepts in aestheticsAuditory perceptionSoundAcousticsConsonance and dissonanceHidden categories: Wikipedia articles incorporating the Cite Grove templateWikipedia articles incorporating the Cite Grove template without a link parameterArticles containing Ancient Greek (to 1453)-language textCS1 maint: numeric names: authors listArticles with short descriptionShort description matches WikidataUse dmy dates from July 2013All articles with unsourced statementsArticles with unsourced statements from March 2018Wikipedia articles needing page number citations from March 2018All articles with vague or ambiguous timeVague or ambiguous time from September 2014Articles with hAudio microformatsWikipedia articles needing clarification from January 2020Articles with unsourced statements from January 2020Articles with GND identifiersArticles with BNE identifiersArticles with BNF identifiersArticles with LCCN identifiersArticles with NDL identifiersArticles with MA identifiers
+	

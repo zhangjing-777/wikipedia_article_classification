@@ -1,0 +1,958 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}Not to be confused with Median (geometry).
+  Example of geometric median (in yellow) of a series of points. In blue the Center of mass.
+The geometric median of a discrete set of sample points in a Euclidean space is the point minimizing the sum of distances to the sample points. This generalizes the median, which has the property of minimizing the sum of distances for one-dimensional data, and provides a central tendency in higher dimensions. It is also known as the 1-median,[1] spatial median,[2] Euclidean minisum point,[2]  or Torricelli point.[3]
+The geometric median is an important estimator of location in statistics,[4] where it is also known as the L1 estimator.[5] It is also a standard problem in facility location, where it models the problem of locating a facility to minimize the cost of transportation.[6]
+The special case of the problem for three points in the plane (that is, m = 3 and n = 2 in the definition below) is sometimes also known as Fermat's problem; it arises in the construction of minimal Steiner trees, and was originally posed as a problem by Pierre de Fermat and solved by Evangelista Torricelli.[7] Its solution is now known as the Fermat point of the triangle formed by the three sample points.[8] The geometric median may in turn be generalized to the problem of minimizing the sum of weighted distances, known as the Weber problem after Alfred Weber's discussion of the problem in his 1909 book on facility location.[2] Some sources instead call Weber's problem the Fermat–Weber problem,[9] but others use this name for the unweighted geometric median problem.[10]
+Wesolowsky (1993) provides a survey of the geometric median problem. See Fekete, Mitchell & Beurer (2005) for generalizations of the problem to non-discrete point sets.
+
+Contents
+
+1 Definition
+2 Properties
+3 Special cases
+4 Computation
+5 Characterization of the geometric median
+6 Generalizations
+7 See also
+8 Notes
+9 References
+
+
+
+Definition[edit]
+Formally, for a given set of m points 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            m
+          
+        
+        
+      
+    
+    {\displaystyle x_{1},x_{2},\dots ,x_{m}\,}
+  
+ with each 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        ∈
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x_{i}\in \mathbb {R} ^{n}}
+  
+, the geometric median is defined as
+
+
+  
+    
+      
+        
+          
+            
+              a
+              r
+              g
+              
+              m
+              i
+              n
+            
+            
+              y
+              ∈
+              
+                
+                  R
+                
+                
+                  n
+                
+              
+            
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            m
+          
+        
+        
+          
+            ‖
+            
+              
+                x
+                
+                  i
+                
+              
+              −
+              y
+            
+            ‖
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\underset {y\in \mathbb {R} ^{n}}{\operatorname {arg\,min} }}\sum _{i=1}^{m}\left\|x_{i}-y\right\|_{2}}
+  
+
+Here, arg min means the value of the argument 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+ which minimizes the sum. In this case, it is the point 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+ from where the sum of all Euclidean distances to the 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+  
+'s is minimum.
+
+Properties[edit]
+For the 1-dimensional case, the geometric median coincides with the median. This is because the univariate median also minimizes the sum of distances from the points.  (More precisely, if the points are p1, …, pn, in that order, the geometric median is the middle point 
+  
+    
+      
+        
+          p
+          
+            (
+            n
+            +
+            1
+            )
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle p_{(n+1)/2}}
+  
+ if n is odd, but is not uniquely determined if n is even, when it can be any point in the line segment between the two middling points 
+  
+    
+      
+        
+          p
+          
+            n
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle p_{n/2}}
+  
+ and 
+  
+    
+      
+        
+          p
+          
+            (
+            n
+            
+              /
+            
+            2
+            )
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle p_{(n/2)+1}}
+  
+.) [11][12]
+The geometric median is unique whenever the points are not collinear.[13]
+The geometric median is equivariant for Euclidean similarity transformations, including translation and rotation.[5][11] This means that one would get the same result either by transforming the geometric median, or by applying the same transformation to the sample data and finding the geometric median of the transformed data. This property follows from the fact that the geometric median is defined only from pairwise distances, and doesn't depend on the system of orthogonal Cartesian coordinates by which the sample data is represented. In contrast, the component-wise median for a multivariate data set is not in general rotation invariant, nor is it independent of the choice of coordinates.[5]
+The geometric median has a breakdown point of 0.5.[5] That is, up to half of the sample data may be arbitrarily corrupted, and the median of the samples will still provide a robust estimator for the location of the uncorrupted data.
+Special cases[edit]
+For 3 (non-collinear) points, if any angle of the triangle formed by those points is 120° or more, then the geometric median is the point at the vertex of that angle. If all the angles are less than 120°, the geometric median is the point inside the triangle which subtends an angle of 120° to each three pairs of triangle vertices.[11] This is also known as the Fermat point of the triangle formed by the three vertices. (If the three points are collinear then the geometric median is the point between the two other points, as is the case with a one-dimensional median.)
+For 4 coplanar points, if one of the four points is inside the triangle formed by the other three points, then the geometric median is that point. Otherwise, the four points form a convex quadrilateral and the geometric median is the crossing point of the diagonals of the quadrilateral. The geometric median of four coplanar points is the same as the unique Radon point of the four points.[14]
+Computation[edit]
+Despite the geometric median's being an easy-to-understand concept, computing it poses a challenge. The centroid or center of mass, defined similarly to the geometric median as minimizing the sum of the squares of the distances to each point, can be found by a simple formula — its coordinates are the averages of the coordinates of the points — but it has been shown that no explicit formula, nor an exact algorithm involving only arithmetic operations and kth roots, can exist in general for the geometric median. Therefore, only numerical or symbolic approximations to the solution of this problem are possible under this model of computation.[15]
+However, it is straightforward to calculate an approximation to the geometric median using an iterative procedure in which each step produces a more accurate approximation. Procedures of this type can be derived from the fact that the sum of distances to the sample points is a convex function, since the distance to each sample point is convex and the sum of convex functions remains convex. Therefore, procedures that decrease the sum of distances at each step cannot get trapped in a local optimum.
+One common approach of this type, called Weiszfeld's algorithm after the work of Endre Weiszfeld,[16] is a form of iteratively re-weighted least squares. This algorithm defines a set of weights that are inversely proportional to the distances from the current estimate to the sample points, and creates a new estimate that is the weighted average of the sample according to these weights. That is,
+
+
+  
+    
+      
+        
+          
+          
+            
+              y
+              
+                i
+                +
+                1
+              
+            
+            =
+            
+              (
+              
+                
+                  ∑
+                  
+                    j
+                    =
+                    1
+                  
+                  
+                    m
+                  
+                
+                
+                  
+                    
+                      x
+                      
+                        j
+                      
+                    
+                    
+                      ‖
+                      
+                        x
+                        
+                          j
+                        
+                      
+                      −
+                      
+                        y
+                        
+                          i
+                        
+                      
+                      ‖
+                    
+                  
+                
+              
+              )
+            
+          
+          /
+        
+        
+          (
+          
+            
+              ∑
+              
+                j
+                =
+                1
+              
+              
+                m
+              
+            
+            
+              
+                1
+                
+                  ‖
+                  
+                    x
+                    
+                      j
+                    
+                  
+                  −
+                  
+                    y
+                    
+                      i
+                    
+                  
+                  ‖
+                
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \left.y_{i+1}=\left(\sum _{j=1}^{m}{\frac {x_{j}}{\|x_{j}-y_{i}\|}}\right)\right/\left(\sum _{j=1}^{m}{\frac {1}{\|x_{j}-y_{i}\|}}\right).}
+  
+
+This method converges for almost all initial positions, but may fail to converge when one of its estimates falls on one of the given points. It can be modified to handle these cases so that it converges for all initial points.[13]
+Bose, Maheshwari & Morin (2003) describe more sophisticated geometric optimization procedures for finding approximately optimal solutions to this problem. As Nie, Parrilo & Sturmfels (2008) show, the problem can also be represented as a semidefinite program.
+Cohen et al. (2016) show how to compute the geometric median to arbitrary precision in nearly linear time.
+
+Characterization of the geometric median[edit]
+If y is distinct from all the given points, xj, then y is the geometric median if and only if it satisfies:
+
+
+  
+    
+      
+        0
+        =
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            m
+          
+        
+        
+          
+            
+              
+                x
+                
+                  j
+                
+              
+              −
+              y
+            
+            
+              ‖
+              
+                
+                  x
+                  
+                    j
+                  
+                
+                −
+                y
+              
+              ‖
+            
+          
+        
+        .
+      
+    
+    {\displaystyle 0=\sum _{j=1}^{m}{\frac {x_{j}-y}{\left\|x_{j}-y\right\|}}.}
+  
+
+This is equivalent to:
+
+
+  
+    
+      
+        
+          
+          
+            y
+            =
+            
+              (
+              
+                
+                  ∑
+                  
+                    j
+                    =
+                    1
+                  
+                  
+                    m
+                  
+                
+                
+                  
+                    
+                      x
+                      
+                        j
+                      
+                    
+                    
+                      ‖
+                      
+                        x
+                        
+                          j
+                        
+                      
+                      −
+                      y
+                      ‖
+                    
+                  
+                
+              
+              )
+            
+          
+          /
+        
+        
+          (
+          
+            
+              ∑
+              
+                j
+                =
+                1
+              
+              
+                m
+              
+            
+            
+              
+                1
+                
+                  ‖
+                  
+                    x
+                    
+                      j
+                    
+                  
+                  −
+                  y
+                  ‖
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \left.y=\left(\sum _{j=1}^{m}{\frac {x_{j}}{\|x_{j}-y\|}}\right)\right/\left(\sum _{j=1}^{m}{\frac {1}{\|x_{j}-y\|}}\right),}
+  
+
+which is closely related to Weiszfeld's algorithm.
+In general,  y is the geometric median if and only if there are vectors uj such that:
+
+
+  
+    
+      
+        0
+        =
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            m
+          
+        
+        
+          u
+          
+            j
+          
+        
+      
+    
+    {\displaystyle 0=\sum _{j=1}^{m}u_{j}}
+  
+
+where for xj ≠ y, 
+
+
+  
+    
+      
+        
+          u
+          
+            j
+          
+        
+        =
+        
+          
+            
+              
+                x
+                
+                  j
+                
+              
+              −
+              y
+            
+            
+              ‖
+              
+                
+                  x
+                  
+                    j
+                  
+                
+                −
+                y
+              
+              ‖
+            
+          
+        
+      
+    
+    {\displaystyle u_{j}={\frac {x_{j}-y}{\left\|x_{j}-y\right\|}}}
+  
+
+and for xj = y, 
+
+
+  
+    
+      
+        ‖
+        
+          u
+          
+            j
+          
+        
+        ‖
+        ≤
+        1.
+      
+    
+    {\displaystyle \|u_{j}\|\leq 1.}
+  
+
+An equivalent formulation of this condition is
+
+
+  
+    
+      
+        
+          ∑
+          
+            1
+            ≤
+            j
+            ≤
+            m
+            ,
+            
+              x
+              
+                j
+              
+            
+            ≠
+            y
+          
+        
+        
+          
+            
+              
+                x
+                
+                  j
+                
+              
+              −
+              y
+            
+            
+              ‖
+              
+                
+                  x
+                  
+                    j
+                  
+                
+                −
+                y
+              
+              ‖
+            
+          
+        
+        ≤
+        
+          |
+          
+            {
+            
+            j
+            ∣
+            1
+            ≤
+            j
+            ≤
+            m
+            ,
+            
+              x
+              
+                j
+              
+            
+            =
+            y
+            
+            }
+          
+          |
+        
+        .
+      
+    
+    {\displaystyle \sum _{1\leq j\leq m,x_{j}\neq y}{\frac {x_{j}-y}{\left\|x_{j}-y\right\|}}\leq \left|\{\,j\mid 1\leq j\leq m,x_{j}=y\,\}\right|.}
+  
+
+It can be seen as a generalization of the median property, in the sense that any partition of the points, in particular as induced by any hyperplane through y, has the same and opposite sum of positive directions from y on each side. In the one dimensional case, the hyperplane is the point y itself, and the sum of directions simplifies to the (directed) counting measure.
+
+Generalizations[edit]
+The geometric median can be generalized from Euclidean spaces to general Riemannian manifolds (and even metric spaces) using the same idea which is used to define the Fréchet mean on a Riemannian manifold.[17] Let 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ be a Riemannian manifold with corresponding distance function 
+  
+    
+      
+        d
+        (
+        ⋅
+        ,
+        ⋅
+        )
+      
+    
+    {\displaystyle d(\cdot ,\cdot )}
+  
+, let 
+  
+    
+      
+        
+          w
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          w
+          
+            n
+          
+        
+      
+    
+    {\displaystyle w_{1},\ldots ,w_{n}}
+  
+ be 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ weights summing to 1, and let 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x_{1},\ldots ,x_{n}}
+  
+
+be 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ observations from 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+.  Then we define the  weighted geometric median 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ (or weighted Fréchet median) of the data points as
+
+
+  
+    
+      
+        m
+        =
+        
+          
+            
+              a
+              r
+              g
+              
+              m
+              i
+              n
+            
+            
+              x
+              ∈
+              M
+            
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          w
+          
+            i
+          
+        
+        d
+        (
+        x
+        ,
+        
+          x
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle m={\underset {x\in M}{\operatorname {arg\,min} }}\sum _{i=1}^{n}w_{i}d(x,x_{i})}
+  
+.
+If all the weights are equal, we say simply that 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ is the geometric median.
+
+See also[edit]
+Medoid
+Geometric median absolute deviation
+Notes[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ The more general k-median problem asks for the location of k cluster centers minimizing the sum of distances from each sample point to its nearest center.
+
+^ a b c Drezner et al. (2002)
+
+^ Cieslik (2006).
+
+^ Lawera & Thompson (1993).
+
+^ a b c d Lopuhaä & Rousseeuw (1991)
+
+^ Eiselt & Marianov (2011).
+
+^ Krarup & Vajda (1997).
+
+^ Spain (1996).
+
+^ Brimberg (1995).
+
+^ Bose, Maheshwari & Morin (2003).
+
+^ a b c Haldane (1948)
+
+^ Claim 18.10, Geometric Methods and Optimization Problems, V. Boltyanski, H. Martini, V. Soltan, Springer, 1999.
+
+^ a b Vardi & Zhang (2000)
+
+^ Cieslik (2006), p. 6; Plastria (2006). The convex case was originally proven by Giovanni Fagnano.
+
+^ Bajaj (1986); Bajaj (1988). Earlier, Cockayne & Melzak (1969) proved that the Steiner point for 5 points in the plane cannot be constructed with ruler and compass
+
+^ Weiszfeld (1937); Kuhn (1973); Chandrasekaran & Tamir (1989).
+
+^ Fletcher, Venkatasubramanian & Joshi (2009).
+
+
+References[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}
+.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Bajaj, C. (1986). "Proving geometric algorithms nonsolvability: An application of factoring polynomials". Journal of Symbolic Computation. 2: 99–102. doi:10.1016/S0747-7171(86)80015-3.
+Bajaj, C. (1988). "The algebraic degree of geometric optimization problems". Discrete and Computational Geometry. 3 (2): 177–191. doi:10.1007/BF02187906.
+Bose, Prosenjit; Maheshwari, Anil; Morin, Pat (2003). "Fast approximations for sums of distances, clustering and the Fermat–Weber problem". Computational Geometry: Theory and Applications. 24 (3): 135–146. doi:10.1016/S0925-7721(02)00102-5.
+Brimberg, J. (1995). "The Fermat–Weber location problem revisited". Mathematical Programming. 71 (1, Ser. A): 71–76. doi:10.1007/BF01592245. MR 1362958. S2CID 206800756.
+Chandrasekaran, R.; Tamir, A. (1989). "Open questions concerning Weiszfeld's algorithm for the Fermat-Weber location problem". Mathematical Programming. Series A. 44 (1–3): 293–295. doi:10.1007/BF01587094. S2CID 43224801.
+Cieslik, Dietmar (2006). Shortest Connectivity: An Introduction with Applications in Phylogeny. Combinatorial Optimization. 17. Springer. p. 3. ISBN 9780387235394.
+Cockayne, E. J.; Melzak, Z. A. (1969). "Euclidean constructability in graph minimization problems". Mathematics Magazine. 42 (4): 206–208. doi:10.2307/2688541. JSTOR 2688541.
+Cohen, Michael; Lee, Yin Tat; Miller, Gary; Pachocki, Jakub; Sidford, Aaron (2016). "Geometric median in nearly linear time" (PDF). Proc. 48th Symposium on Theory of Computing (STOC 2016). Association for Computing Machinery. arXiv:1606.05225. doi:10.1145/2897518.2897647.
+Drezner, Zvi; Klamroth, Kathrin; Schöbel, Anita; Wesolowsky, George O. (2002). "The Weber problem". Facility Location: Applications and Theory. Springer, Berlin. pp. 1–36. ISBN 9783540213451. MR 1933966.
+Eiselt, H. A.; Marianov, Vladimir (2011). Foundations of Location Analysis. International Series in Operations Research & Management Science. 155. Springer. p. 6. ISBN 9781441975720.
+Fekete, Sándor P.; Mitchell, Joseph S. B.; Beurer, Karin (2005). "On the continuous Fermat-Weber problem". Operations Research. 53 (1): 61–76. arXiv:cs.CG/0310027. doi:10.1287/opre.1040.0137. S2CID 1121.
+Fletcher, P. Thomas; Venkatasubramanian, Suresh; Joshi, Sarang (2009). "The geometric median on Riemannian manifolds with application to robust atlas estimation". NeuroImage. 45 (1 Suppl): s143–s152. doi:10.1016/j.neuroimage.2008.10.052. PMC 2735114. PMID 19056498.
+Haldane, J. B. S. (1948). "Note on the median of a multivariate distribution". Biometrika. 35 (3–4): 414–417. doi:10.1093/biomet/35.3-4.414.
+Krarup, Jakob; Vajda, Steven (1997). "On Torricelli's geometrical solution to a problem of Fermat". IMA Journal of Mathematics Applied in Business and Industry. 8 (3): 215–224. doi:10.1093/imaman/8.3.215. MR 1473041.
+Kuhn, Harold W. (1973). "A note on Fermat's problem". Mathematical Programming. 4 (1): 98–107. doi:10.1007/BF01584648. S2CID 22534094.
+Lawera, Martin; Thompson, James R. (1993). "Some problems of estimation and testing in multivariate statistical process control". Proceedings of the 38th Conference on the Design of Experiments. U.S. Army Research Office Report. 93–2. pp. 99–126.
+Lopuhaä, Hendrick P.; Rousseeuw, Peter J. (1991). "Breakdown points of affine equivariant estimators of multivariate location and covariance matrices". Annals of Statistics. 19 (1): 229–248. doi:10.1214/aos/1176347978. JSTOR 2241852.
+Nie, Jiawang; Parrilo, Pablo A.; Sturmfels, Bernd (2008). "Semidefinite representation of the k-ellipse".  In Dickenstein, A.; Schreyer, F.-O.; Sommese, A.J. (eds.). Algorithms in Algebraic Geometry. IMA Volumes in Mathematics and its Applications. 146. Springer-Verlag. pp. 117–132. arXiv:math/0702005. Bibcode:2007math......2005N. doi:10.1007/978-0-387-75155-9_7. S2CID 16558095.
+Ostresh, L. (1978). "Convergence of a class of iterative methods for solving Weber location problem". Operations Research. 26 (4): 597–609. doi:10.1287/opre.26.4.597.
+Plastria, Frank (2006). "Four-point Fermat location problems revisited. New proofs and extensions of old results" (PDF). IMA Journal of Management Mathematics. 17 (4): 387–396. doi:10.1093/imaman/dpl007. Zbl 1126.90046..
+Spain, P. G. (1996). "The Fermat point of a triangle". Mathematics Magazine. 69 (2): 131–133. doi:10.1080/0025570X.1996.11996409. JSTOR 2690672?origin=pubexport. MR 1573157.
+Vardi, Yehuda; Zhang, Cun-Hui (2000). "The multivariate L1-median and associated data depth". Proceedings of the National Academy of Sciences of the United States of America. 97 (4): 1423–1426 (electronic). Bibcode:2000PNAS...97.1423V. doi:10.1073/pnas.97.4.1423. MR 1740461. PMC 26449. PMID 10677477.
+Weber, Alfred (1909). Über den Standort der Industrien, Erster Teil: Reine Theorie des Standortes (in German). Tübingen: Mohr.
+Wesolowsky, G. (1993). "The Weber problem: History and perspective". Location Science. 1: 5–23.
+Weiszfeld, E. (1937). "Sur le point pour lequel la somme des distances de n points donnes est minimum". Tohoku Mathematical Journal (in French). 43: 355–386. Translated into English as Weiszfeld, E.; Plastria, Frank (April 2008). "On the point for which the sum of the distances to n given points is minimum". Annals of Operations Research. 167 (1): 7–41. doi:10.1007/s10479-008-0352-z. S2CID 21000317.
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Geometric_median&oldid=1061179886"
+		Categories: MeansMultivariate statisticsNonparametric statisticsMathematical optimizationGeometric algorithmsDescriptive statisticsHidden categories: CS1 German-language sources (de)CS1 French-language sources (fr)
+	

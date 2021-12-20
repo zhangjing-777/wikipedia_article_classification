@@ -1,0 +1,52 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		In statistics, k-medians clustering[1][2] is a cluster analysis algorithm. It is a variation of k-means clustering where instead of calculating the mean for each cluster to determine its centroid, one instead calculates the median. This has the effect of minimizing error over all clusters with respect to the 1-norm distance metric, as opposed to the squared 2-norm distance metric (which k-means does.)
+This relates directly to the k-median problem with respect to the 1-norm, which is the problem of finding k centers such that the clusters formed by them are the most compact. Formally, given a set of data points x, the k centers ci are to be chosen so as to minimize the sum of the distances from each x to the nearest ci.
+The criterion function formulated in this way is sometimes a better criterion than that used in the k-means clustering algorithm, in which the sum of the squared distances is used. The sum of distances is widely used in applications such as facility location.
+The proposed algorithm uses Lloyd-style iteration which alternates between an expectation (E) and maximization (M) step, making this an expectation–maximization algorithm. In the E step, all objects are assigned to their nearest median. In the M step, the medians are recomputed by using the median in each single dimension.
+
+Contents
+
+1 Medians and medoids
+2 Software
+3 See also
+4 References
+
+
+
+Medians and medoids[edit]
+The median is computed in each single dimension in the Manhattan-distance formulation of the k-medians problem, so the individual attributes will come from the dataset (or be an average of two values from the dataset).  This makes the algorithm more reliable for discrete or even binary data sets. In contrast, the use of means or Euclidean-distance medians will not necessarily yield individual attributes from the dataset.  Even with the Manhattan-distance formulation, the individual attributes may come from different instances in the dataset; thus, the resulting median may not be a member of the input dataset.
+This algorithm is often confused with the k-medoids algorithm. However, a medoid has to be an actual instance from the dataset, while for the multivariate Manhattan-distance median this only holds for single attribute values. The actual median can thus be a combination of multiple instances. For example, given the vectors (0,1), (1,0) and (2,2), the Manhattan-distance median is (1,1), which does not exist in the original data, and thus cannot be a medoid.
+
+Software[edit]
+ELKI includes various k-means variants, including k-medians.
+FORTRAN kmedians
+GNU R includes k-medians in the "flexclust" package.
+Stata kmedians
+See also[edit]
+cluster analysis
+k-means
+medoid
+silhouette
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ A. K. Jain and R. C. Dubes, Algorithms for Clustering Data. Prentice-Hall, 1988.
+
+^ P. S. Bradley, O. L. Mangasarian, and W. N. Street, "Clustering via Concave Minimization," in Advances in Neural Information Processing Systems, vol. 9, M. C. Mozer, M. I. Jordan, and T. Petsche, Eds. Cambridge, Massachusetts: MIT Press, 1997, pp. 368–374.
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=K-medians_clustering&oldid=1052752895"
+		Categories: Cluster analysis algorithms
+	

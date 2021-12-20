@@ -1,0 +1,373 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		desktop computers by Lenovo
+
+
+
+.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}ThinkCentre seriesThinkCentre All-in-OneDeveloperIBM (2003–2005)Lenovo (2005–present)TypeDesktop/All-in-oneRelease date2003Marketing targetBusiness purposePredecessorIBM NetVista
+The ThinkCentre is a line of business-oriented desktop computers designed, developed and marketed today by Lenovo. It was initially sold by IBM from 2003 to 2005. ThinkCentre computers typically include mid-range to high-end processors, options for discrete graphics cards, and multi-monitor support.[1]
+
+Contents
+
+1 History
+
+1.1 Launch
+1.2 Acquisition by Lenovo
+
+
+2 Product series
+3 Notable Models
+
+3.1 ThinkCentre X1
+3.2 ThinkCentre Tiny-In-One II
+3.3 Chromebox Tiny
+3.4 M83 Tiny
+3.5 S50
+3.6 A series
+
+3.6.1 A60
+3.6.2 A55
+3.6.3 A58 and M58e
+
+
+
+
+4 Environmental certifications
+5 See also
+6 References
+7 External links
+
+
+
+History[edit]
+Launch[edit]
+  IBM ThinkCentre used as a Linux server
+The ThinkCentre line of desktop computers was introduced by IBM in 2003. The first three models in this line were the S50, the M50, and A50p.[2] All three desktops were equipped with Intel Pentium 4 processors.[2] The chassis was made of steel and designed for easy component access without the use of tools.[2] The hard disk was fixed in place by a 'caddy' without the use of screws.[2] The caddy had rubber bumpers to reduce vibration and operational noise.[2]
+Additional updates to the desktops included greater use of ThinkVantage technologies.[2] All desktop models were made available with ImageUltra.[2] The three desktop models also included an 'Access IBM' button, allowing access to onboard resources, diagnostic tools, automated software, and links to online updates and services.[2] Select models featured IBM's Embedded Security Subsystem, with an integrated security chip and IBM Client Security Software.[2]
+
+Acquisition by Lenovo[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}Main article: Lenovo
+In 2005, after completing its acquisition of IBM's personal computing business, leading to the IBM/Lenovo partnership, IBM/Lenovo announced the ThinkCentre E Series desktops, designed specifically for small businesses.[3] The ThinkCentre E50 was made available in tower and small form factor, with a silver and black design.[3]
+In 2005, Technology Business Research (TBR) observed an increase in the customer satisfaction rate for ThinkCentre desktops.[4] According to TBR's "Corporate IT Buying Behavior and Customer Satisfaction Study” published in the second quarter of 2005, Lenovo was the only one of four surveyed companies that displayed a substantial increase in ratings.[4]
+In May 2005, the ThinkCentre M52 and A52 desktops were announced by Lenovo.[5] These desktops marked the first time the ThinkCentre line incorporated dual-core processors and 64-bit technology.[5] At the time of release, Lenovo also announced plans to incorporate Intel Active Management Technology in future products.[5]
+
+Product series[edit]
+  ThinkCentre Edge all-in-one (AIO) PC
+The ThinkCentre desktops available from IBM/Lenovo are:
+
+ThinkCentre A Series (SFF and AIO)
+ThinkCentre M Series (in tower, SFF, and USFF)
+ThinkCentre Edge (in tower and AIO form factors)
+Notable Models[edit]
+ThinkCentre X1[edit]
+The ThinkCentre X1 is a mid-range all-in-one desktop computer announced by Lenovo at the 2016 International CES. The X1 is powered by a "Skylake" Intel Core i7 processor paired with 16 gigabytes of 2,333 megahertz DDR4 RAM and a variety of storage media such as hard drives, hybrid drives, and solid state drives. The display uses 23.8-inch 1920 pixel by 1080 pixel panel with an anti-glare coating. A 1080p webcam is mounted just above the screen. Five USB 3.0 ports, DisplayPort video output, and an Ethernet port come standard. A memory card reader is optional.[6] One variant of the X1 is a display-only device.[7]
+
+ThinkCentre Tiny-In-One II[edit]
+The ThinkCentre Tiny-In-One II is Lenovo's second-generation all-in-one desktop computer. Its modular design allows its display and internals to be upgraded as needed. The ThinkCentre Tiny-In-One II comes in versions with 22-inch and 24-inch anti-glare displays with thin bezels and optional multitouch input. Both versions use 1920 pixel by 1080 pixel display panels. Two USB 3.0 ports, two USB 2.0 ports, one minI USB 2.0 port. and a Kensington security slot is included. Options for Microsoft Windows and Google's Chrome OS are both available.[8][9]
+
+Chromebox Tiny[edit]
+The Chromebox Tiny is a small desktop computer with 2-gigahertz Intel i3-5005U processor, 4 gigabytes of memory, a 16 GB solid-state drive, integrated graphics that runs Google's Chrome OS. It was designed for education and business. Its largest side measures about 7 inches square. It is 1.4 inches thick and weighs 2.2 pounds. Computers with this form factor are called "one-liter" machines in some countries that use the metric system. The Tiny can be mounted on the back of monitors or placed on walls with a VESA mount. The Chromebox Tiny has two USB 3.0 ports on its front and two more on its rear.[10] Dual-band 802.11ac Wi-Fi and Bluetooth 4.0 are both supported. An external antenna is included to improve reception. A mouse and keyboard come standard.[11]
+
+M83 Tiny[edit]
+The ThinkCentre M83 Tiny is a small-form-factor desktop computer released in 2014. The M83 Tiny uses an Intel Core i5 processor. It comes standard with one DisplayPort jack, and Ethernet port, five USB 3.0 ports, and a VGA port. There is a customizable port that can be configured with another DisplayPort jack, a serial port, another USB port, or an HDMI port. Wi-fi is 802.11ac. Wireless accessories are supported via Bluetooth 4.0.[12]
+
+S50[edit]
+  ThinkCentre S50
+In 2004, an ultra-small version of the S50 was announced, the smallest desktop PC introduced until that time by IBM.[13] The ultra-small ThinkCentre S50 desktop weighed approximately the same as IBM's first notebook (IBM 5140 PC Convertible).[13] The ultra-small desktop was roughly the size of a New York City phonebook, or a box of cereal.[13] The ultra-small desktop also featured a tool-free tool-less steel chassis and IBM ThinkVantage Technologies.[13]
+
+A series[edit]
+Main article: ThinkCentre A series
+A60[edit]
+In August 2006, the ThinkCentre A60 desktop was announced.[14] It was the first ThinkCentre Desktop with AMD processors.[14]
+In September 2006, Lenovo announced that its ThinkPad, ThinkCentre, and ThinkVision products received high ratings from EPEAT.[15] A total of 42 products were rated by EPEAT.[15] The ThinkCentre desktops received an overall rating of EPEAT silver.[15] This indicated that all criteria for environmentally safe computing had been met – including the minimum requirements and additional optional implementations.[15] Some of the criteria met included reduced levels of cadmium, mercury, and lead, energy efficiency, and reduced greenhouse gas emissions.[15]
+In September 2006, Lenovo announced several desktops in the ThinkCentre line, including the M55p, M55, M55e, A55 and A53.[16]
+
+A55[edit]
+In January 2007, the ThinkCentre A55 small-form-factor desktop was announced by Lenovo.[17] The A55 was approximately 64% smaller than Lenovo's traditional tower desktops and 25% smaller than Lenovo's traditional small desktops.[17] In September 2007, Lenovo announced the ultra-small-form-factor A61e.[18]
+Also in September 2007, two new M Series desktops were announced: the M57 and M57p.[19]
+
+A58 and M58e[edit]
+In March 2009, two small, low-cost desktops were announced by Lenovo: the ThinkCentre A58 and the ThinkCentre M58e.[20] The A58 desktop was designed for small and medium businesses, while the M58e was designed for medium-sized and large enterprises.[20] The desktops were made available in both tower and small form-factor versions.[20]
+
+Environmental certifications[edit]
+In March 2008, the ultra-small M57 and M57p desktops were announced.[21] This was because the M57 and M57p were the first desktops from any manufacturer to receive a GREENGUARD certification.[21] The desktops were also rated by EPEAT Gold and Energy Star 4.0, and were the first ThinkCentre desktops to feature post-consumer recycled content.[21] The noise levels of the desktops were also low – at 4.0bels or lower.[21]
+In October 2008, the M58 and M58p desktops were announced.[22] One of the key features of the desktop was a ThinkVantage Technology called Power Manager, allowing users to remotely control the PC's electricity use.[22] The desktops were available in tower, SFF, and USFF.[22]
+
+See also[edit]
+ThinkCentre: A Series, M Series and Edge Series
+ThinkPad
+ThinkStation
+Aptiva
+IBM PC and IBM PC compatible (IBM PC clone)
+List of IBM products
+IBM NetVista
+PS/2
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"ThinkCentre Desktop Features". Retrieved 20 February 2012.
+
+^ a b c d e f g h i "IBM Unveils New ThinkCentre Line of Desktops Designed for Easy Maintenance and Lower Operating Costs". 21 May 2003. Retrieved 22 September 2011.
+
+^ a b "Lenovo Launches First Desktop Line for Small Business". 18 October 2005. Retrieved 22 September 2011.
+
+^ a b "Lenovo Posts Largest Percentage Gain in Desktop User Satisfaction". 30 August 2005. Retrieved 22 September 2011.
+
+^ a b c "Lenovo Powers up the Desktop with New Dual-Core ThinkCentre Models". 26 May 2005. Retrieved 22 September 2011.
+
+^ "The new Lenovo ThinkCentre X1: You won't believe how slim it is". Windows Central.
+
+^ Andrew E. Freedman. "Lenovo Thinkpad Stack - Full Review and Benchmarks".
+
+^ Henry T. Casey (3 January 2016). "Lenovo's Modular ThinkCentre II Shrinks Bezel, Adds Speaker". Tom's Guide.
+
+^ Gabe Carey (3 January 2016). "These are Lenovo's First 2016 ThinkPads - CES 2016 - Page 4 - Digital Trends". Digital Trends.
+
+^ Riofrio, Melissa (27 April 2015). "Lenovo's $199 Chromebox Tiny is an affordable addition to its line of ThinkCentre Tiny PCs". PC World. United States. Retrieved 6 May 2015.
+
+^ Buzzi, Matthew (1 January 1970). "Lenovo ThinkCentre Chromebox Tiny Desktop Review & Rating". PCMag.com. Retrieved 4 September 2018.
+
+^ "Lenovo ThinkCentre M83 Tiny". PC Magazine. United States. Retrieved 10 March 2015.
+
+^ a b c d "The Incredible Shrinking IBM Desktop". 9 June 2004. Retrieved 22 September 2011.
+
+^ a b "Lenovo Introduces First ThinkCentre Desktop PCs with AMD Processors". 8 August 2006. Retrieved 22 September 2011.
+
+^ a b c d e "EPA-Funded Standard Gives Lenovo Green Thumbs-Up". 18 September 2006. Retrieved 22 September 2011.
+
+^ "Lenovo Debuts Fleet of Intel Core 2 Duo ThinkCentre Desktop PCs". 26 September 2006. Retrieved 22 September 2011.
+
+^ a b "Lenovo Expands Desktop Lineup to Go Small on Size, Big on Value". 29 January 2007. Retrieved 22 September 2011.
+
+^ "Lenovo Raises Energy-Efficiency Bar with Its Smallest, Quietest Desktop PC". 12 September 2007. Retrieved 22 September 2011.
+
+^ "Lenovo Empowers Enterprise Manageability Platform with New ThinkCentre Desktop PCs". 18 September 2007. Retrieved 22 September 2011.
+
+^ a b c "Lenovo Retools ThinkCentre Business Desktops for Smaller, Lower Cost Options". 10 March 2009. Retrieved 22 September 2011.
+
+^ a b c d "Lenovo Plants Seeds For "Greener" Computing With New ThinkCentre PC". 5 March 2008. Retrieved 22 September 2011.
+
+^ a b c "Lenovo turns the lights down low with power manager on new ThinkCentre PC". 29 October 2008. Retrieved 22 September 2011.
+
+
+External links[edit]
+Lenovo ThinkCentre Home page 
+
+
+
+Preceded byIBM NetVista
+
+ IBM/Lenovo ThinkCentre 2003 - current
+
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteLenovo
+vteLG ElectronicsSubsidiaries
+Zenith Electronics
+Brands and Products
+GoldStar
+Super Multi
+UltraFine
+Laptops and PC's: LG Gram
+Xnote
+Tab-Book
+Phones and tablets: Cyon
+G
+V
+Velvet
+Vu
+Optimus
+Software: UX
+Optimus UI
+webOS
+Pay
+Home electronics: ThinQ
+Tromm
+Internet Digital DIOS
+Joint ventures, Current and Former
+LG Philips LCD
+LG.Philips Displays
+
+vtePersonal computers made by IBMDesktopand all-in-oneSingle models
+5120
+DataMaster
+PC
+PC XT
+XT/370
+3270 PC
+XT 286
+JX
+PCjr
+PC AT
+AT/370
+3270 AT
+
+  Series
+5550
+PS/2
+list of models
+E
+PS/V
+PS/1
+PS/55
+ValuePoint
+PC Series
+Aptiva
+NetVista
+ThinkCentre
+Portable
+5100
+5110
+Portable PC
+PS/2 portables
+P70
+P75
+Laptop
+non-ThinkPad
+Convertible
+PS/2 Laptop
+L40 SX
+CL57 SX
+PS/2 Note and PS/note
+N33SX
+N45SL
+N51SX
+N51SLC
+Model 425/425C
+PS/55 Note
+PCradio
+
+ThinkPad2xx series
+220
+230
+235
+240
+
+3xx series
+300
+300C
+310
+310D
+310E
+310ED
+350
+350C
+360
+360C
+360CS
+360PE
+360CE
+360CSE
+365
+380
+390
+
+5xx series
+500
+550BJ
+555BJ
+560
+570
+
+6xx series
+600
+
+7xx series
+700
+701 "Butterfly"
+750
+760
+765
+770
+
+Power Series
+800
+820
+821
+822
+823
+850
+851
+860
+
+G series
+G40
+G41
+G50
+
+T series
+T20
+T21
+T22
+T23
+T30
+T40
+T41
+T42
+T43
+T60
+T61
+
+A series
+A20m
+A21m
+A22m
+A22e
+A20p
+A21p
+A22p
+A30
+A31
+A30p
+A31p
+
+X series
+X20
+X21
+X22
+X23
+X24
+X30
+X31
+X32
+X40
+X41
+X60
+X60t
+X61t
+
+R series
+R30
+R31
+R32
+R40
+R50
+R51
+R52
+R60
+R61
+
+Others
+TransNote
+Handheld
+Palm Top PC 110
+WorkPad
+Z50
+Prototypes
+Leapfrog
+Power Series 600
+ThinkPad 240 with Transmeta Crusoe
+WatchPad
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=ThinkCentre&oldid=1054837121"
+		Categories: X86 IBM personal computersLenovoProducts introduced in 2003All-in-one desktop computersDivested IBM productsHidden categories: Articles with short descriptionShort description matches WikidataUse American English from October 2020All Wikipedia articles written in American EnglishUse dmy dates from October 2020
+	

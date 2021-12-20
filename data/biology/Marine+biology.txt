@@ -1,0 +1,410 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Sources of methane gas in earth's atmosphere
+
+
+
+
+
+
+
+
+
+
+
+Sources of methane emissions due to human activity:year 2020 estimates [1]
+
+.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}  Fossil Fuel Use (33%)  Animal Agriculture (30%)  Plant Agriculture (18%)  Waste (15%)  All Other (4%)
+
+
+Increasing methane emissions are a major contributor to the rising concentration of greenhouse gases in Earth's atmosphere, and are responsible for up to one-third of near-term global heating.[1][2] During 2019, about 60% (360 million tons) of methane released globally was from human activities, while natural sources contributed about 40% (230 million tons).[3][4]  Reducing methane emissions by capturing and utilizing the gas can produce simultaneous environmental and economic benefits.[1][5]
+About one-third (33%) of anthropogenic emissions are from gas release during the extraction and delivery of fossil fuels;  mostly due to gas venting and gas leaks from both active fossil fuel infrastructure and orphan wells.  Russia is the world's top methane emitter from oil and gas.[6]  Animal agriculture is a similarly large source (30%);  primarily because of enteric fermentation by ruminant livestock such as cattle and sheep. Human consumer waste flows, especially those passing through landfills and wastewater treatment, have grown to become a third major category (18%). Plant agriculture, including both food and biomass production, constitutes a fourth group (15%), with rice production being the largest single contributor.[1][7] 
+The world's wetlands contribute about three-quarters (75%) of the enduring natural sources of methane.[3][4] Seepages from near-surface hydrocarbon and clathrate hydrate deposits, volcanic releases, wildfires, and termite emissions account for much of the remainder.[7]   Contributions from the surviving wild populations of ruminant mammals are vastly overwhelmed by those of cattle, humans, and other livestock animals.[8]
+
+Contents
+
+1 Atmospheric concentration and warming influence
+2 List of emission sources
+
+2.1 Anthropogenic
+2.2 Natural
+
+
+3 Importance of methane emissions
+4 Global monitoring
+5 National reduction policies
+6 Removal technology
+7 See also
+8 References
+9 External links
+
+
+
+Atmospheric concentration and warming influence[edit]
+  Globally averaged atmospheric CH4 (upper graph) and its annual growth rate (lower graph)[9]
+The atmospheric methane (CH4) concentration is increasing and exceeded 1860 parts per billion in 2019, equal to two-and-a-half times the pre-industrial level.[10] The methane itself causes direct radiative forcing that is second only to that of carbon dioxide (CO2).[11]  Due to interactions with oxygen compounds stimulated by sunlight, CH4 can also increase the atmospheric presence of shorter-lived ozone and water vapour, themselves potent warming gases: atmospheric researchers call this amplification of methane's near-term warming influence indirect radiative forcing.[12] When such interactions occur, longer-lived and less-potent CO2 is also produced.  Including both the direct and indirect forcings, the increase in atmospheric methane is responsible for about one-third of near-term global heating.[1][2]
+Though methane causes far more heat to be trapped than the same mass of carbon dioxide, less than half of the emitted CH4 remains in the atmosphere after a decade.  On average, carbon dioxide warms for much longer, assuming no change in rates of carbon sequestration.[13][14] The global warming potential (GWP) is a way of comparing the warming due to other gases to that from carbon dioxide, over a given time period. Methane's GWP20 of 85 means that a ton of CH4 emitted into the atmosphere creates approximately 85 times the atmospheric warming as a ton of CO2 over a period of 20 years.[14] On a 100-year timescale, methane's GWP100 is in the range of 28–34.
+
+List of emission sources[edit]
+  The main sources of methane for the decade 2008–2017, estimated by the Global Carbon Project[9]
+  "Methane global emissions from the five broad categories for the 2008–2017 decade for top-down inversion models and for bottom-up models and inventories (right dark coloured box plots).[9][clarification needed]
+Abiogenic methane is stored in rocks and soil stems from the geologic processes that convert ancient biomass into fossil fuels.[clarification needed][contradictory]
+Biogenic methane is actively produced by microorganisms in a process called methanogenesis.  Under certain conditions, the process mix responsible for a sample of methane may be deduced from the ratio of the isotopes of carbon, and through analysis methods similar to carbon dating.[15][16]
+
+Anthropogenic[edit]
+  Map of methane emissions from four source categories[9]
+A comprehensive systems method from describing the sources of methane due to human society is known as anthropogenic metabolism.[clarification needed]  As of 2020[update], emission volumes from some sources remain more uncertain than others; due in part to localized emission spikes not captured by the limited global measurement capability.  The time required for a methane emission to become well-mixed throughout earth's troposphere is about 1–2 years.[17]
+
+
+
+
+Category
+Major Sources
+IEA Annual Emission[3](Million Tons)
+
+
+Fossil fuels
+
+Gas distribution
+
+45
+
+
+Oil wells
+
+39*
+
+
+Coal mines
+
+39
+
+
+Biofuels
+
+Anaerobic digestion
+
+11
+
+
+Industrial agriculture
+
+Enteric fermentation
+
+145
+
+
+Rice paddies
+
+
+Manure management
+
+
+Biomass
+
+Biomass burning
+
+16
+
+
+Consumer waste
+
+Solid wasteLandfill gas
+
+68
+
+
+Wastewater
+
+
+Total anthropogenic
+
+363
+
+
+* An additional 100 million tons (140 billion cubic meters) of gas is vented and flared each year from oil wells.[18]Additional References: [1][19][20][21][22]
+
+Natural[edit]
+  Map of methane emissions from three natural sources and one sink.[9]
+Natural sources have always been a part of the methane cycle.  Wetland emissions have been declining due to draining for agricultural and building areas.
+
+
+
+
+Category
+Major Sources
+IEA Annual Emission[3](Million Tons)
+
+
+Wetlands
+
+Wetland methane
+
+194
+
+
+Other natural
+
+Geologic seepagesVolcanic gas
+
+39
+
+
+Arctic meltingPermafrost
+
+
+Ocean sediments
+
+
+Wildfires
+
+
+Termites
+
+
+Total natural
+
+233
+
+
+Additional References: [1][19][20]
+
+Importance of methane emissions[edit]
+Methane emissions are important as reducing them can buy time to tackle carbon emissions.[23][24]
+
+Global monitoring[edit]
+Uncertainties in methane emissions, including so-called "super-emitter" fossil extractions[25] and unexplained atmospheric fluctuations,[26] highlight the need for improved monitoring at both regional and global scale.  Satellites have recently begun to come online with capability to measure methane and other more powerful greenhouse gases with improving resolution.[27][28]  The Tropomi[29] instrument launched in year 2017 by the European Space Agency can measure methane, sulphur dioxide, nitrogen dioxide, carbon monoxide, aerosol, and ozone concentrations in earth's troposphere at resolutions of several kilometers.[25][30][31]    Japan's GOSAT-2 platform launched in 2018 provides similar capability.[32] The CLAIRE satellite launched in year 2016 by the Canadian firm GHGSat can resolve carbon dioxide and methane to as little as 50 meters, thus enabling its customers to pinpoint the source of emissions.[27]
+
+National reduction policies[edit]
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Part of a series on theCarbon cycle
+By regions
+Terrestrial
+Marine
+Atmospheric
+Deep carbon
+Soil
+Permafrost
+Boreal forest
+Geochemistry
+
+
+Carbon dioxide
+In the atmosphere
+Ocean acidification
+Removal
+Satellite measurements
+
+
+Forms of carbon
+Total carbon (TC)
+Total organic carbon (TOC)
+Total inorganic carbon (TIC)
+Dissolved organic carbon (DOC)
+Dissolved inorganic carbon (DIC)
+Particulate organic carbon (POC)
+Particulate inorganic carbon (PIC)
+
+
+Primary production
+marine
+
+
+Black carbon
+Blue carbon
+Kerogen
+
+
+Metabolic pathways
+Photosynthesis
+Chemosynthesis
+
+
+Calvin cycle
+Reverse Krebs cycle
+Carbon fixation
+C3
+C4
+
+
+Carbon respiration
+Ecosystem respiration
+Net ecosystem production
+Photorespiration
+Soil respiration
+
+
+Carbon pumps
+Biological pump
+Martin curve
+Solubility pump
+Lipid pump
+Marine snow
+Microbial loop
+Viral shunt
+Jelly pump
+Whale pump
+Continental shelf pump
+
+
+Carbon sequestration
+Biosequestration
+Carbon sink
+Soil carbon storage
+Ocean storage of carbon dioxide
+Marine sediment
+pelagic sediment
+
+
+Methane
+Atmospheric methane
+Methanogenesis
+Methane emissions
+Arctic
+Wetland
+Aerobic production
+Clathrate gun hypothesis
+Carbon dioxide clathrate
+
+
+Biogeochemical
+Marine cycles
+Nutrient cycle
+Carbonate–silicate cycle
+Carbonate compensation depth
+Great Calcite Belt
+Redfield ratio
+
+
+List
+Climate reconstruction proxies
+Carbon-to-nitrogen ratio
+Deep biosphere
+Deep Carbon Observatory
+Global Carbon Project
+Carbon capture and storage
+Carbon cycle re-balancing
+Territorialisation of carbon governance
+Total Carbon Column Observing Network
+C4MIP
+CO2SYS
+
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+  Global anthropogenic methane emissions from historical inventories and future Shared Socioeconomic Pathways (SSP) projections.[9]
+China implemented regulations requiring coal plants to either capture methane emissions or convert methane into .mw-parser-output .template-chem2-su{display:inline-block;font-size:80%;line-height:1;vertical-align:-0.35em}.mw-parser-output .template-chem2-su>span{display:block}.mw-parser-output sub.template-chem2-sub{font-size:80%;vertical-align:-0.35em}.mw-parser-output sup.template-chem2-sup{font-size:80%;vertical-align:0.65em}CO2 in 2010.  According to a Nature Communications paper published in January 2019, methane emissions instead increased 50 percent between 2000 and 2015.[33][34]
+In March 2020, Exxon called for stricter methane regulations, which would include detection and repair of leaks, minimization of venting and releases of unburned methane, and reporting requirements for companies.[35]  However, in August 2020, the U.S. Environmental Protection Agency rescinded a prior tightening of methane emission rules for the U.S. oil and gas industry.[36][37]
+
+  Methane emissions for 2017 by region, source category, and latitude.[38]
+Removal technology[edit]
+Various approaches have been suggested to actively remove methane from the atmosphere. In 2019, researchers proposed a technique for removing methane from the atmosphere using zeolite. Each molecule of methane would be converted into CO2, which has a far smaller impact on climate (99% less).  Replacing all atmospheric methane with CO2 would reduce total greenhouse gas warming by approximately one-sixth.[39]
+Zeolite is a crystalline material with a porous molecular structure.[39] Powerful fans could push air through reactors of zeolite and catalysts to absorb the methane. The reactor could then be heated to form and release CO2. Because of methane's higher GWP, at a carbon price of $500/ton removing one ton of methane would earn $12,000.[39]
+In 2021, Methane Action proposed adding iron to seawater sprays from ship smokestacks. The group claimed that an amount equal to approximately 10% of the iron dust that already reaches the atmosphere could readily restore methane to pre-industrial levels.[40]
+Another approach is to apply titanium dioxide paint to large surfaces.[40]
+
+See also[edit]
+Global Methane Initiative
+China United Coalbed Methane
+CO2 emissions
+Fugitive gas emissions
+Climate change feedback
+Greenhouse Gases Observing Satellite-2
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ a b c d e f g .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"Global Methane Emissions and Mitigation Opportunities" (PDF). Global Methane Initiative. 2020.
+
+^ a b IPCC Fifth Assessment Report - Radiative Forcings (AR5 Figure SPM.5) (Report). Intergovernmental Panel on Climate Change. 2013.
+
+^ a b c d "Sources of methane emissions". International Energy Agency. Retrieved 2020-08-20.
+
+^ a b "Global Carbon Project (GCP)". www.globalcarbonproject.org. Retrieved 2019-07-25.
+
+^ Methane - A compelling case for action (Report). International Energy Agency. 2020-08-20.
+
+^ Timothy Puko (19 October 2021). "Who Are the World's Biggest Climate Polluters? Satellites Sweep for Culprits". The Wall Street Journal. Retrieved 19 October 2021. Russia is the world’s top source of methane emissions from the oil-and-gas industry
+
+^ a b "Methane, explained". National Geographic. nationalgeographic.com. 2019-01-23. Retrieved 2019-07-25.
+
+^ Vaclav Smil (2017-03-29). "Planet of the Cows". IEEE Spectrum. Retrieved 2020-09-08.
+
+^ a b c d e f Saunois, Marielle; Stavert, Ann R.; Poulter, Ben; Bousquet, Philippe; Canadell, Josep G.; Jackson, Robert B.; Raymond, Peter A.; Dlugokencky, Edward J.; Houweling, Sander; Patra, Prabir K.; Ciais, Philippe; Arora, Vivek K.; Bastviken, David; Bergamaschi, Peter; Blake, Donald R.; Brailsford, Gordon; Bruhwiler, Lori; Carlson, Kimberly M.; Carrol, Mark; Castaldi, Simona; Chandra, Naveen; Crevoisier, Cyril; Crill, Patrick M.; Covey, Kristofer; Curry, Charles L.; Etiope, Giuseppe; Frankenberg, Christian; Gedney, Nicola; Hegglin, Michaela I.;  et al. (15 July 2020). "The Global Methane Budget 2000–2017". Earth System Science Data. 12 (3): 1561–1623. Bibcode:2020ESSD...12.1561S. doi:10.5194/essd-12-1561-2020. ISSN 1866-3508. Retrieved 28 August 2020.
+
+^ Earth System Research Laboratory Global Monitoring Division, NOAA, May 5, 2019
+
+^ Butler J. and Montzka S. (2020). "The NOAA Annual Greenhouse Gas Index (AGGI)". NOAA Global Monitoring Laboratory/Earth System Research Laboratories.
+
+^ Boucher O, Friedlingstein P, Collins B, Shine KP (2009). "The indirect global warming potential and global temperature change potential due to methane oxidation". Environ. Res. Lett. 4 (4): 044007. Bibcode:2009ERL.....4d4007B. doi:10.1088/1748-9326/4/4/044007.
+
+^ "Understanding Global Warming Potentials". 12 January 2016. Retrieved 2019-09-09.
+
+^ a b Myhre, G., D. Shindell, F.-M. Bréon, W. Collins, J. Fuglestvedt, J. Huang, D. Koch, J.-F. Lamarque, D. Lee, B. Mendoza, T. Nakajima, A. Robock, G. Stephens, T. Takemura and H. Zhang (2013) "Anthropogenic and Natural Radiative Forcing". Table 8.7 on page 714.  In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.). Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. Anthropogenic and Natural Radiative Forcing
+
+^ Schwietzke, S., Sherwood, O., Bruhwiler, L.;  et al. (2016). "Upward revision of global fossil fuel methane emissions based on isotope database". Nature. Springer Nature. 538 (7623): 88–91. Bibcode:2016Natur.538...88S. doi:10.1038/nature19797. PMID 27708291. S2CID 4451521.CS1 maint: multiple names: authors list (link)
+
+^ Hmiel, B., Petrenko, V.V., Dyonisius, M.N.;  et al. (2020). "Preindustrial 14CH4 indicates greater anthropogenic fossil CH4 emissions". Nature. Springer Nature. 578 (7795): 409–412. Bibcode:2020Natur.578..409H. doi:10.1038/s41586-020-1991-8. PMID 32076219. S2CID 211194542.CS1 maint: multiple names: authors list (link)
+
+^ Adam Voiland and Joshua Stevens (8 March 2016). "Methane Matters". NASA Earth Observatory. Retrieved 2020-09-15.
+
+^ "Zero Routine Flaring by 2030". World Bank. Retrieved 2020-09-18.
+
+^ a b "About Methane". Global Methane Initiative. Retrieved 2020-09-15.
+
+^ a b US EPA, OA (23 December 2015). "Overview of Greenhouse Gases". US EPA.
+
+^ "Agriculture's greenhouse gas emissions on the rise". FAO. Retrieved 2017-04-19.
+
+^ "Fossil fuel industry's methane emissions far higher than thought". The Guardian. 2016. Emissions of the powerful greenhouse gas from coal, oil and gas are up to 60% greater than previously estimated, meaning current climate prediction models should be revised, research shows
+
+^ Terazono, Emiko; Hodgson, Camilla (2021-10-10). "How methane-producing cows leapt to the frontline of climate change". Financial Times. Retrieved 2021-10-10.
+
+^ "Governments should set targets to reduce methane emissions". The Economist. 2021-03-31. ISSN 0013-0613. Retrieved 2021-10-10.
+
+^ a b Hiroko Tabuchi (2019-12-16). "A Methane Leak, Seen From Space, Proves to Be Far Larger Than Thought". New York Times.
+
+^ E Roston and NS Malik (2020-04-06). "Methane emissions hit a new record and scientists can't say why". Bloomberg.com. Bloomberg News.
+
+^ a b John Fialka (2018-03-09). "Meet the satellite that can pinpoint methane and carbon dioxide leaks". Scientific American.
+
+^ "MethaneSAT". methanesat.org. Retrieved 2020-09-10.
+
+^ "Tropomi". European Space Agency. Retrieved 2020-09-10.
+
+^ Michelle Lewis (2019-12-18). "New satellite technology reveals Ohio gas leak released 60K tons of methane". Electrek.
+
+^ Joost A de Gouw;  et al. (2020). "Daily Satellite Observations of Methane from Oil and Gas Production Regions in the United States". Scientific Reports. Springer Nature. 10 (10): 1379. Bibcode:2020NatSR..10.1379D. doi:10.1038/s41598-020-57678-4. PMC 6987228. PMID 31992727.
+
+^ "Greenhouse gases Observing SATellite-2 "IBUKI-2" (GOSAT-2)". Japan Aerospace Exploration Agency. Retrieved 2020-10-21.
+
+^ Brooks Hays (29 January 2019). "Regulations haven't slowed China's growing methane emissions". UPI. Retrieved 31 January 2019. China's methane emissions increased 50 percent between 2000 and 2015
+
+^ Miller, Scot M.; Michalak, Anna M.; Detmers, Robert G.; Hasekamp, Otto P.; Bruhwiler, Lori M. P.; Schwietzke, Stefan (January 29, 2019). "China's coal mine methane regulations have not curbed growing emissions". Nature Communications. 10 (1): 303. Bibcode:2019NatCo..10..303M. doi:10.1038/s41467-018-07891-7. PMC 6351523. PMID 30696820.
+
+^ Guzman, Joseph (2020-03-03). "Exxon calls for tighter regulations of methane". TheHill. Retrieved 2020-03-04.
+
+^ Alison Durkee (August 10, 2020). "EPA Rescinds Obama-Era Methane Rules As White House Speeds Environmental Rollbacks Ahead Of Election". Forbes.
+
+^ Emma Newburger (August 29, 2020). "Critics rail against Trump's methane proposal as an 'unconscionable assault on environment'". CNBC.
+
+^ Jackson, R B; Saunois, M; Bousquet, P; Canadell, J G; Poulter, B; Stavert, A R; Bergamaschi, P; Niwa, Y; Segers, A; Tsuruta, A (14 July 2020). "Increasing anthropogenic methane emissions arise equally from agricultural and fossil fuel sources". Environmental Research Letters. 15 (7): 071002. Bibcode:2020ERL....15g1002J. doi:10.1088/1748-9326/ab9ed2. ISSN 1748-9326.
+
+^ a b c Alexandru Micu (2019-05-21). "One research team proposes swapping atmospheric methane for CO2, and it might be a good idea". ZME Science. Retrieved 2019-07-17.
+
+^ a b O'Grady, Cathleen (2 November 2021). "To slow global warming, some researchers want to pull methane out of the air". www.science.org. Retrieved 2021-11-04.
+
+
+External links[edit]
+"Main sources of methane emissions". What's Your Impact. 2014-03-14. Retrieved 2018-03-06.
+"Greenhouse Gas Emissions - Methane Emissions". EIA. 2011-03-31. Retrieved 2018-03-06.
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Methane_emissions&oldid=1057579826"
+		Categories: Greenhouse gas emissionsMethaneHidden categories: CS1 maint: multiple names: authors listArticles with short descriptionShort description matches WikidataWikipedia articles needing clarification from April 2021Articles contradicting other articlesArticles containing potentially dated statements from 2020All articles containing potentially dated statements
+	

@@ -1,0 +1,787 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by adding missing items with reliable sources.
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Part of a series onBiologyScience of life
+
+Index
+Outline
+Glossary
+
+
+History (timeline)
+
+Key components
+Cell theory
+Ecosystem
+Evolution
+ Phylogeny
+
+Properties of life
+
+Adaptation
+ Energy processing
+Growth
+Order
+Regulation
+Reproduction
+Response to environment
+
+ Domains and Kingdoms of life
+
+Archaea
+Bacteria
+Eukarya (Animals, Fungi, Plants, Protists)
+
+Branches
+Anatomy
+Biotechnology
+Botany
+Cell biology
+Ecology
+Evolutionary biology
+Genetics
+Marine biology
+Microbiology
+Molecular biology
+Mycology
+Neuroscience
+Paleontology
+Phycology
+Physiology
+Protistology
+Virology
+Zoology
+
+Research
+Biologist (list)
+List of biology awards
+List of journals
+List of research methods
+List of unsolved problems
+
+Applications
+Agricultural science
+Biomedical sciences
+Health technology
+ Pharming
+
+ Biology portal
+ Category.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+This list of research methods in biology is an index to articles about research methodologies used in various branches of biology.
+
+Contents
+
+1 Research design and analysis
+
+1.1 Research designs
+1.2 Charts and diagrams
+1.3 Statistical analyses
+
+
+2 Laboratory techniques
+3 Field techniques
+4 Computational tools
+
+4.1 Mathematical models
+4.2 Algorithms
+
+
+5 References
+6 External links
+
+
+
+Research design and analysis[edit]
+Research designs[edit]
+
+
+
+Research design
+Utility
+Potential analysis
+
+
+Between-group design
+Experiment that has two or more groups of subjects each being tested by a different testing factor simultaneously
+Student's t-test, Analysis of variance, Mann–Whitney U test
+
+
+Repeated measures design
+A research design that involves multiple measures of the same variable taken on the same or matched subjects either under different conditions or over two or more time periods.[1]
+Paired t-test, Wilcoxon signed-rank test
+
+Charts and diagrams[edit]
+
+
+
+Analysis
+Utility
+Branch
+
+
+Dose–response curves
+Graph that shows the magnitude of the response of an organism, as a function of exposure (or doses) to a stimulus or stressor (usually a chemical) after a certain exposure time[2]
+Physiology
+
+
+Electroencephalogram
+Graph that shows voltage fluctuations resulting from ionic current within the neurons of the brain[3]
+Neuroscience
+
+
+Electrocardiogram
+Graph of voltage versus time of the electrical activity of the heart[4] using electrodes placed on the skin
+Physiology
+
+
+Manhattan plot
+Used to display data with a large number of data-points, many of non-zero amplitude, and with a distribution of higher-magnitude values. The plot is commonly used in genome-wide association studies (GWAS) to display significant SNPs.[5]
+Genetics
+
+
+Pedigree chart
+Used to show the occurrence of phenotypes of a particular gene or organism and its ancestors from one generation to the next,[6][7][8] most commonly humans, show dogs,[9] and race horses
+Genetics
+
+
+Phylogenetic tree
+Used to show the evolutionary relationships among various biological species or other entities based upon similarities and differences in their physical or genetic characteristics
+Systematics, Evolutionary biology
+
+
+Population pyramid
+Used to illustrate the distribution of a population (typically that of a country or region of the world) by age groups and sex; it typically forms the shape of a pyramid when the population is growing[10]
+Population ecology
+
+
+Punnett square
+Used to predict the genotypes of a particular cross or breeding experiment
+Genetics
+
+
+Statistical analyses[edit]
+
+
+
+Analysis
+Utility
+Type
+
+
+Analysis of variance
+A collection of statistical models and their associated estimation procedures (such as the "variation" among and between groups) used to analyze the differences among means
+Statistical model
+
+
+Chi-squared test
+A statistical hypothesis test that is valid to perform when the test statistic is chi-squared distributed under the null hypothesis, specifically Pearson's chi-squared test and variants thereof
+Statistical hypothesis test
+
+
+Mann–Whitney U test
+A statistical hypothesis test of the null hypothesis that, for randomly selected values X and Y from two populations, the probability of X being greater than Y is equal to the probability of Y being greater than X
+Nonparametric statistics
+
+
+Student's t-test
+Any statistical hypothesis test in which the test statistic follows a Student's t-distribution under the null hypothesis
+Parametric statistics
+
+Laboratory techniques[edit]
+
+
+
+Method
+Utility
+Branches
+
+
+Agarose gel electrophoresis
+Used to separate a mixed population of macromolecules such as DNA or proteins in a matrix of agarose, one of the two main components of agar
+Biochemistry, Molecular biology, Genetics
+
+
+Animal Model
+Used for researching diseases and disorders in humans. Some animals may have human-like traits, such as mice, while others may have traits that are ideal for research, such as the squid giant axon
+Biochemistry, Neuroscience, Physiology
+
+
+Biological ablation
+Used to remove a biological structure or functionality
+Genetics, Physiology
+
+
+Calcium imaging
+Used to optically measure the status of calcium ions (Ca2+) in an isolated cell, tissue or medium
+Physiology
+
+
+Cell isolation
+Process of separating individual living cells from a solid block of tissue or cell suspension
+Cell biology
+
+
+Centrifugation
+Use of centrifugal force to separate particles from a solution according to their size, shape, density, medium viscosity, and rotor speed
+Cell biology, Biochemistry
+
+
+CRISPR gene editing
+Used to modify the genomes of living organisms based on a simplified version of the bacterial CRISPR-Cas9 antiviral defense system
+Molecular biology
+
+
+DNA sequencer
+Used to automate the DNA sequencing process
+Genetics, Molecular biology
+
+
+Enzyme-linked immunosorbent assay (ELISA)
+Used to detect the presence of a ligand (commonly a protein) in a liquid sample using antibodies directed against the protein to be measure
+Biochemistry, Molecular biology
+
+
+Gene knockout
+Used to make one of an organism's genes inoperative ("knocked out" of the organism)
+Molecular biology, Genetics
+
+
+Immunostaining
+Used of an antibody-based method to detect a specific protein in a sample
+Molecular biology, Biochemistry
+
+
+Intracellular recording
+Used to measure the voltage across a cell membrane
+Neuroscience, Electrophysiology
+
+
+Microarray
+Assays (tests) large amounts of biological material using high-throughput screening miniaturized, multiplexed and parallel processing and detection methods
+Genetics, Molecular biology
+
+
+Microelectrode array
+Devices that contain multiple (tens to thousands) microelectrodes through which neural signals are obtained or delivered, essentially serving as neural interfaces that connect neurons to electronic circuitry
+Neuroscience
+
+
+Microscope
+Used to examine objects that are too small to be seen by the naked eye
+Cell biology
+
+
+Molecular cloning
+Used to assemble recombinant DNA molecules and to direct their replication within host organisms.[11]
+Molecular biology
+
+
+Northern blot
+Used to study gene expression by detection of RNA (or isolated mRNA) in a sample.[12][13]
+Molecular biology
+
+
+Optogenetics
+Uses light to control neurons that have been genetically modified to express light-sensitive ion channels
+Neuroscience
+
+
+Oscilloscope
+Used to graphically displays varying signal voltages, usually as a calibrated two-dimensional plot of one or more signals as a function of time
+Neuroscience, Physiology
+
+
+Paper chromatography
+Used to separate coloured chemicals or substances.[14]
+Molecular biology
+
+
+Patch clamp
+Used to study ionic currents in individual isolated living cells, tissue sections, or patches of cell membrane
+Electrophysiology, Neuroscience
+
+
+Polymerase chain reaction (PCR)
+Used to rapidly make millions to billions of copies (complete copies or partial copies) of a specific DNA sample, allowing scientists to take a very small sample of DNA and amplify it (or a part of it) to a large enough amount to study in detail
+Genetics, Molecular biology
+
+
+Somatic cell nuclear transfer
+Used for creating a viable embryo from a body cell and an egg cell
+Developmental biology
+
+
+Southern blot
+Used to detect specific DNA sequence in DNA samples
+Molecular biology
+
+
+Test cross
+Used to determine whether an individual is homozygous or heterozygous dominant
+Genetics
+
+
+Voltage clamp
+Used to measure the ion currents through the membranes of excitable cells, such as neurons, while holding the membrane voltage at a set level.[15]
+Physiology, Neuroscience
+
+
+Western blot
+Used analytical technique in molecular biology and immunogenetics to detect specific proteins in a sample of tissue homogenate or extract
+Molecular biology
+
+
+X-ray crystallography
+Used to determine the atomic and molecular structure of a crystal, in which the crystalline structure causes a beam of incident X-rays to diffract into many specific directions
+Structural biology
+
+
+Field techniques[edit]
+
+
+
+Method
+Utility
+Branches
+
+
+Distance sampling
+Used for estimating the density and/or abundance of populations
+Ecology
+
+
+Mark and recapture
+Used to estimate an animal population's size where it is impractical to count every individual.[16]
+Ecology
+
+Computational tools[edit]
+Mathematical models[edit]
+
+
+
+Model
+Utility
+Branches
+
+
+Exponential integrate-and-fire
+Describes compact and computationally efficient nonlinear spiking neuron models with one or two variables
+Neuroscience
+
+
+FitzHugh–Nagumo model
+Describes a prototype of an excitable system (e.g., a neuron)
+Neuroscience
+
+
+Hardy–Weinberg principle
+States that allele and genotype frequencies in a population will remain constant from generation to generation in the absence of other evolutionary influences
+Genetics, Evolutionary biology
+
+
+Hodgkin–Huxley model
+Describes how action potentials in neurons are initiated and propagated
+Neuroscience
+
+
+Infinite sites model
+Allows for the calculation of heterozygosity, or genetic diversity, in a finite population and for the estimation of genetic distances between populations of interest[17]
+Evolutionary biology
+
+
+Logistic growth
+Describes the growth of a population as exponential, followed by a decrease in growth, and bound by a carrying capacity due to environmental pressures.[18]
+Ecology
+
+
+Lotka–Volterra equations
+Describe the dynamics of biological systems in which two species interact, one as a predator and the other as prey
+Ecology
+
+
+Moran process
+Stochastic process that describes finite populations
+Genetics
+
+
+Species–area relationship
+describes the relationship between the area of a habitat, or of part of a habitat, and the number of species found within that area
+Ecology
+
+Algorithms[edit]
+
+
+
+Algorithm
+Utility
+Branches
+
+
+Evolutionary algorithm
+Uses mechanisms inspired by biological evolution. Candidate solutions to the optimization problem play the role of individuals in a population, and the fitness function determines the quality of the solutions.
+Neuroscience
+
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Salkind, Neil J. "Repeated Measures Design". SAGE Research Methods. SAGE. Retrieved 8 January 2019.
+
+^ Crump, K. S.; Hoel, D. G.; Langley, C. H.; Peto, R. (1 September 1976). "Fundamental Carcinogenic Processes and Their Implications for Low Dose Risk Assessment". Cancer Research. 36 (9 Part 1): 2973–2979. PMID 975067.
+
+^ Niedermeyer E.; da Silva F.L. (2004). Electroencephalography: Basic Principles, Clinical Applications, and Related Fields. Lippincott Williams & Wilkins. ISBN 978-0-7817-5126-1.[page needed]
+
+^ Lilly, Leonard S, ed. (2016). Pathophysiology of Heart Disease: A Collaborative Project of Medical Students and Faculty (sixth ed.). Lippincott Williams & Wilkins. p. 74. ISBN 978-1451192759.
+
+^ Gibson, Greg (2010). "Hints of hidden heritability in GWAS". Nature Genetics. 42 (7): 558–560. doi:10.1038/ng0710-558. PMID 20581876. S2CID 34546516.
+
+^ pedigree chart Genealogy Glossary - About.com, a part of The New York Times Company.
+
+^ "HELP - Ancestral File - Pedigree Chart". familysearch.org. Retrieved 6 April 2018.
+
+^ Documenting Your Pedigree Chart By Melody Daisson -  GeneaSearch.com
+
+^ "AKC Pedigree: How to Purchase a Document on Your Dog's Lineage".
+
+^ "Population Pyramids of the World from 1950 to 2100". PopulationPyramid.net. Retrieved 21 April 2018.
+
+^ Watson JD (2007). Recombinant DNA: genes and genomes: a short course. San Francisco: W.H. Freeman. ISBN 978-0-7167-2866-5.
+
+^ Alberts, B., Johnson, A., Lewis, J. Raff, M., Roberts, K., Walter, P. 2008. Molecular Biology of the Cell, 5th ed. Garland Science, Taylor & Francis Group, NY, pp 538–539.
+
+^ Kevil, C. G., Walsh, L., Laroux, F. S., Kalogeris, T., Grisham, M. B., Alexander, J. S. (1997) An Improved, Rapid Northern Protocol.  Biochem. and Biophys. Research Comm. 238:277–279.
+
+^ "Paper chromatography | chemistry". Encyclopedia Britannica. Retrieved 2018-06-01.
+
+^ Nowotny, Dr Thomas; Levi, Dr Rafael (2014).  Jaeger, Dieter; Jung, Ranu (eds.). Encyclopedia of Computational Neuroscience. Springer New York. pp. 1–5. doi:10.1007/978-1-4614-7320-6_137-2. ISBN 9781461473206.
+
+^ "Mark-Recapture".
+
+^ Kimura, Motoo (1969-04-01). "The Number of Heterozygous Nucleotide Sites Maintained in a Finite Population Due to Steady Flux of Mutations". Genetics. 61 (4): 893–903. doi:10.1093/genetics/61.4.893. ISSN 0016-6731. PMC 1212250. PMID 5364968.
+
+^ Renshaw, Eric (1991). Modeling Biological Populations in Space and Time. Cambridge University Press. pp. 6–9.
+
+
+External links[edit]
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteBranches of biology
+Abiogenesis
+Aerobiology
+Agrostology
+Anatomy
+Astrobiology
+Bacteriology
+Biochemistry
+Biogeography
+Biogeology
+Biohistory
+Bioinformatics
+Biological engineering
+Biomechanics
+Biophysics
+Biostatistics
+Biotechnology
+Botany
+Cell biology
+Cellular microbiology
+Chemical biology
+Chronobiology
+Cognitive biology
+Computational biology
+Conservation biology
+Cryobiology
+Cytogenetics
+Dendrology
+Developmental biology
+Ecological genetics
+Ecology
+Embryology
+Epidemiology
+Epigenetics
+Evolutionary biology
+Freshwater biology
+Genetics
+Genomics
+Geobiology
+Gerontology
+Herpetology
+Histology
+Human biology
+Ichthyology
+Immunology
+Lipidology
+Mammalogy
+Marine biology
+Mathematical biology
+Microbiology
+Molecular biology
+Mycology
+Neontology
+Neuroscience
+Nutrition
+Ornithology
+Osteology
+Paleontology
+Parasitology
+Pathology
+Pharmacology
+Photobiology
+Phycology
+Phylogenetics
+Physiology
+Pomology
+Primatology
+Proteomics
+Protistology
+Quantum biology
+Reproductive biology
+Sociobiology
+Structural biology
+Synthetic biology
+Systematics
+Systems biology
+Taxonomy
+Teratology
+Toxicology
+Virology
+Virophysics
+Xenobiology
+Zoology
+See also
+History of biology
+Nobel Prize in Physiology or Medicine
+Timeline of biology and organic chemistry
+
+vteBiology
+Introduction (Genetics, Evolution)
+Outline
+History
+Timeline
+Index
+FundamentalsOverview
+Science
+Life
+Properties (Adaptation,  Energy processing, Growth, Order, Regulation, Reproduction, Response to environment)
+Hierarchy of life (Atom > Molecule > Organelle > Cell > Tissue > Organ > Organ system > Organism > Population > Community > Ecosystem > Biosphere)
+Reductionistic
+ Emergent property
+Mechanistic
+Scientific method
+ Theory
+ Law
+Peer review
+Biology journals
+Chemical basis
+Atoms
+Amino acids
+Carbohydrates
+Chemical bond
+Chemical element
+Lipids
+Matter
+Molecules
+Monomer
+Nucleic acids
+Organic compounds
+pH
+Polymer
+Proteins
+Water
+Cells
+ATP
+Cell cycle
+Cell theory
+Cell signaling
+Cellular respiration
+Energy transformation
+Enzyme
+Eukaryote
+Fermentation
+Metabolism
+Meiosis
+Mitosis
+Photosynthesis
+Prokaryote
+Genetics
+DNA
+Epigenetics
+Evolutionary developmental biology
+Gene expression
+Gene regulation
+Genomes
+Mendelian inheritance
+Post-transcriptional modification
+Evolution
+Adaptation
+Earliest known life forms
+Function
+Genetic drift
+Gene flow
+History of life
+Macroevolution
+Microevolution
+Mutation
+Natural selection
+Phylogenetics
+Speciation
+Taxonomy
+Diversity
+Archaea
+Animals
+Bacteria
+Biodiversity
+Fungus
+Invertebrates
+Plants
+Protists
+Vertebrates
+Viruses
+Plant form and function
+Epidermis (botany)
+Flower
+Ground tissue
+Leaf
+Phloem
+Plant stem
+Root
+Shoot
+Vascular plant
+Vascular tissue
+Xylem
+Animal form and function
+Breathing
+Circulatory system
+Endocrine system
+Digestive system
+Homeostasis
+Immune system
+Internal environment
+Muscular system
+Nervous system
+Reproductive system
+Respiratory system
+Ecology
+Biogeochemical cycle
+Biological interaction
+Biomass
+Biomes
+Biosphere
+Climate
+Climate change
+Community
+Conservation
+Ecosystem
+Habitat
+niche
+Microbiome
+Population dynamics
+Resources
+Research methodsLaboratory techniques
+Genetic engineering
+Transformation
+Gel electrophoresis
+Chromatography
+Centrifugation
+Cell culture
+DNA sequencing
+DNA microarray
+Green fluorescent protein
+vector
+Enzyme assay
+Protein purification
+Western blot
+Northern blot
+Southern blot
+Restriction enzyme
+Polymerase chain reaction
+Two-hybrid screening
+in vivo
+in vitro
+in silico
+Field techniques
+Belt transect
+mark and recapture
+species discovery curve
+Branches
+Anatomy
+Biochemistry
+Biogeography
+Biomechanics
+Biophysics
+Bioinformatics
+Biostatistics
+Biotechnology
+Botany
+Cell biology
+Cellular microbiology
+Chronobiology
+Cognitive biology
+Computational biology
+Conservation biology
+Developmental biology
+Ecology
+Epidemiology
+Epigenetics
+Evolutionary biology
+Evolutionary developmental biology
+Genetics
+Genomics
+Histology
+Human biology
+Immunology
+Lipidology
+Marine biology
+Mathematical biology
+Microbiology
+Molecular biology
+Mycology
+Neuroscience
+Paleontology
+Parasitology
+Pathology
+Pharmacology
+Phycology
+Physiology
+Reproductive biology
+Sociobiology
+Structural biology
+Synthetic biology
+Systematics
+Systems biology
+Virology
+Zoology
+Glossaries
+Biology
+Botanical terms
+Ecological terms
+Plant morphology terms
+
+ Biology portal
+ Category
+ Commons
+ WikiProject
+
+vteWikipedia OutlinesGeneral reference
+Culture and the arts
+Geography and places
+Health and fitness
+History and events
+Mathematics and logic
+Natural and physical sciences
+People and self
+Philosophy and thinking
+Religion and belief systems
+Society and social sciences
+Technology and applied sciences
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_research_methods_in_biology&oldid=1056211319"
+		Categories: Outlines of sciencesWikipedia outlinesBiology-related listsHidden categories: Wikipedia articles needing page number citations from August 2013Dynamic lists
+	

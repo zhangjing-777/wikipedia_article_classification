@@ -1,0 +1,1444 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Algebraic structure with an associative operation and an identity element
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}For monoid objects in category theory, see Monoid (category theory).
+Not to be confused with Monad.
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Algebraic structures
+Group-like
+Group
+Semigroup / Monoid
+Rack and quandle
+Quasigroup and loop
+
+Abelian group
+Magma
+Lie group
+
+Group theory
+
+Ring-like
+Ring
+Rng
+Semiring
+Near-ring
+Commutative ring
+Integral domain
+Field
+Division ring
+Lie ring
+
+Ring theory
+
+Lattice-like
+Lattice
+Semilattice
+Complemented lattice
+Total order
+Heyting algebra
+Boolean algebra
+
+Map of lattices
+Lattice theory
+
+Module-like
+Module
+Group with operators
+Vector space
+
+Linear algebra
+
+Algebra-like
+Algebra
+
+Associative
+Non-associative
+Composition algebra
+Lie algebra
+Graded
+Bialgebra
+Hopf algebra
+
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+  Algebraic structures between magmas and groups. For example, monoids are semigroups with identity.
+In abstract algebra, a branch of mathematics, a monoid is a set equipped with an associative binary operation and an identity element.
+Monoids are semigroups with identity.  Such algebraic structures occur in several branches of mathematics. 
+For example, the functions from a set into itself form a monoid with respect to function composition. More generally, in category theory, the morphisms of an object to itself form a monoid, and, conversely, a monoid may be viewed as a category with a single object. 
+In computer science and computer programming, the set of strings built from a given set of characters is a free monoid. Transition monoids and syntactic monoids are used in describing finite-state machines. Trace monoids and history monoids provide a foundation for process calculi and concurrent computing.
+In theoretical computer science, the study of monoids is fundamental for automata theory (Krohn–Rhodes theory), and formal language theory (star height problem).
+See semigroup for the history of the subject, and some other general properties of monoids.
+
+Contents
+
+1 Definition
+2 Monoid structures
+
+2.1 Submonoids
+2.2 Generators
+2.3 Commutative monoid
+2.4 Partially commutative monoid
+
+
+3 Examples
+4 Properties
+
+4.1 Products and powers
+4.2 Invertible elements
+4.3 Grothendieck group
+4.4 Types of monoids
+
+
+5 Acts and operator monoids
+6 Monoid homomorphisms
+7 Equational presentation
+8 Relation to category theory
+9 Monoids in computer science
+10 MapReduce
+11 Complete monoids
+12 See also
+13 Notes
+14 References
+15 External links
+
+
+
+Definition[edit]
+A set S equipped with a binary operation S × S → S, which we will denote •, is a monoid if it satisfies the following two axioms:
+
+Associativity
+For all a, b and c in S, the equation (a • b) • c = a • (b • c) holds.
+Identity element
+There exists an element e in S such that for every element a in S, the equations e • a = a and a • e = a hold.
+In other words, a monoid is a semigroup with an identity element. It can also be thought of as a magma with associativity and identity. The identity element of a monoid is unique.[1]  For this reason the identity is regarded as a constant, i. e. 0-ary (or nullary) operation. The monoid therefore is characterized by specification of the triple (S, • , e).
+Depending on the context, the symbol for the binary operation may be omitted, so that the operation is denoted by juxtaposition; for example, the monoid axioms may be written (ab)c = a(bc) and ea = ae = a. This notation does not imply that it is numbers being multiplied.
+A monoid in which each element has an inverse is a group.
+
+Monoid structures[edit]
+Submonoids[edit]
+A submonoid of a monoid (M, •) is a subset N of M that is closed under the monoid operation and contains the identity element e of M.[2][3] Symbolically, N is a submonoid of M if N ⊆ M, x • y ∈ N whenever x, y ∈ N, and e ∈ N.  In this case, N is a monoid under the binary operation inherited from M.
+On the other hand, if N is subset of a monoid that is closed under the monoid operation, and is a monoid for this inherited operation, then N is not always a submonoid, since the identity elements may differ. For example, the singleton set {0} is closed under multiplication, and is not a submonoid of the (multiplicative) monoid of the nonnegative integers.
+
+Generators[edit]
+A subset S of M is said to generate M if the smallest submonoid of M containing S is M. If there is a finite set that generates M, then M is said to be a finitely generated monoid.
+
+Commutative monoid[edit]
+A monoid whose operation is commutative is called a commutative monoid (or, less commonly, an abelian monoid). Commutative monoids are often written additively. Any commutative monoid is endowed with its algebraic preordering ≤, defined by x ≤ y if there exists z such that x + z = y.[4] An order-unit of a commutative monoid M is an element u of M such that for any element x of M, there exists v in the set generated by u such that x ≤ v. This is often used in case M is the positive cone of a partially ordered abelian group G, in which case we say that u is an order-unit of G.
+
+Partially commutative monoid[edit]
+A monoid for which the operation is commutative for some, but not all elements is a trace monoid; trace monoids commonly occur in the theory of concurrent computation.
+
+Examples[edit]
+Out of the 16 possible binary Boolean operators, each of the four that has a two-sided identity is also commutative and associative and thus makes the set {False, True} a commutative monoid. Under the standard definitions, AND and XNOR have the identity True while XOR and OR have the identity False. The monoids from AND and OR are also idempotent while those from XOR and XNOR are not.
+The set of natural numbers 
+  
+    
+      
+        
+          N
+        
+        =
+        {
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+        }
+      
+    
+    {\displaystyle \mathbb {N} =\{0,1,2,\ldots \}}
+  
+ is a commutative monoid under addition (identity element 0) or multiplication (identity element 1). A submonoid of N under addition is called a numerical monoid.
+The set of positive integers 
+  
+    
+      
+        
+          N
+        
+        ∖
+        {
+        0
+        }
+      
+    
+    {\displaystyle \mathbb {N} \setminus \{0\}}
+  
+ is a commutative monoid under multiplication (identity element 1).
+Given a set A, the set of subsets of A is a commutative monoid under intersection (identity element is A itself).
+Given a set A, the set of subsets of A is a commutative monoid under union (identity element is the empty set).
+Generalizing the previous example, every bounded semilattice is an idempotent commutative monoid.
+In particular, any bounded lattice can be endowed with both a meet- and a join- monoid structure. The identity elements are the lattice's top and its bottom, respectively. Being lattices, Heyting algebras and Boolean algebras are endowed with these monoid structures.
+Every singleton set {x} closed under a binary operation • forms the trivial (one-element) monoid, which is also the trivial group.
+Every group is a monoid and every abelian group a commutative monoid.
+Any semigroup S may be turned into a monoid simply by adjoining an element e not in S and defining e • s = s = s • e for all s ∈ S. This conversion of any semigroup to the monoid is done by the free functor between the category of semigroups and the category of monoids.[5]
+Thus, an idempotent monoid (sometimes known as find-first) may be formed by adjoining an identity element e to the left zero semigroup over a set S. The opposite monoid (sometimes called find-last) is formed from the right zero semigroup over S.
+Adjoin an identity e to the left-zero semigroup with two elements {lt, gt}. Then the resulting idempotent monoid {lt, e, gt} models the lexicographical order of a sequence given the orders of its elements, with e representing equality.
+The underlying set of any ring, with addition or multiplication as the operation.  (By definition, a ring has a multiplicative identity 1.)
+The integers, rational numbers, real numbers or complex numbers, with addition or multiplication as operation.[6]
+The set of all n by n matrices over a given ring, with matrix addition or matrix multiplication as the operation.
+The set of all finite strings over some fixed alphabet Σ forms a monoid with string concatenation as the operation. The empty string serves as the identity element. This monoid is denoted Σ∗ and is called the free monoid over Σ. It is not commutative.
+Given any monoid M, the opposite monoid Mop has the same carrier set and identity element as M, and its operation is defined by x •op y = y • x. Any commutative monoid is the opposite monoid of itself.
+Given two sets M and N endowed with monoid structure (or, in general, any finite number of monoids, M1, …, Mk), their cartesian product M × N is also a monoid (respectively, M1 × ⋯ × Mk). The associative operation and the identity element are defined pairwise.[7]
+Fix a monoid M. The set of all functions from a given set to M is also a monoid. The identity element is a constant function mapping any value to the identity of M; the associative operation is defined pointwise.
+Fix a monoid M with the operation • and identity element e, and consider its power set P(M) consisting of all subsets of M. A binary operation for such subsets can be defined by S • T = { s • t : s ∈ S, t ∈ T }. This turns P(M) into a monoid with identity element {e}. In the same way the power set of a group G is a monoid under the product of group subsets.
+Let S be a set. The set of all functions S → S forms a monoid under function composition. The identity is just the identity function. It is also called the full transformation monoid of S. If S is finite with n elements, the monoid of functions on S is finite with nn elements.
+Generalizing the previous example, let C be a category and X an object of C. The set of all endomorphisms of X, denoted EndC(X), forms a monoid under composition of morphisms. For more on the relationship between category theory and monoids see below.
+The set of homeomorphism classes of compact surfaces with the connected sum. Its unit element is the class of the ordinary 2-sphere. Furthermore, if a denotes the class of the torus, and b denotes the class of the projective plane, then every element c of the monoid has a unique expression the form c = na + mb where n is a positive integer and m = 0, 1, or 2. We have 3b = a + b.
+Let 
+  
+    
+      
+        ⟨
+        f
+        ⟩
+      
+    
+    {\displaystyle \langle f\rangle }
+  
+ be a cyclic monoid of order n, that is, 
+  
+    
+      
+        ⟨
+        f
+        ⟩
+        =
+        
+          {
+          
+            
+              f
+              
+                0
+              
+            
+            ,
+            
+              f
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              f
+              
+                n
+                −
+                1
+              
+            
+          
+          }
+        
+      
+    
+    {\displaystyle \langle f\rangle =\left\{f^{0},f^{1},\dots ,f^{n-1}\right\}}
+  
+. Then 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+        =
+        
+          f
+          
+            k
+          
+        
+      
+    
+    {\displaystyle f^{n}=f^{k}}
+  
+ for some 
+  
+    
+      
+        0
+        ≤
+        k
+        <
+        n
+      
+    
+    {\displaystyle 0\leq k<n}
+  
+. In fact, each such k gives a distinct monoid of order n, and every cyclic monoid is isomorphic to one of these.Moreover, f can be considered as a function on the points 
+  
+    
+      
+        {
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+        ,
+        n
+        −
+        1
+        }
+      
+    
+    {\displaystyle \{0,1,2,\dots ,n-1\}}
+  
+ given by
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  0
+                
+                
+                  1
+                
+                
+                  2
+                
+                
+                  ⋯
+                
+                
+                  n
+                  −
+                  2
+                
+                
+                  n
+                  −
+                  1
+                
+              
+              
+                
+                  1
+                
+                
+                  2
+                
+                
+                  3
+                
+                
+                  ⋯
+                
+                
+                  n
+                  −
+                  1
+                
+                
+                  k
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}0&1&2&\cdots &n-2&n-1\\1&2&3&\cdots &n-1&k\end{bmatrix}}}
+  
+
+or, equivalently
+
+  
+    
+      
+        f
+        (
+        i
+        )
+        :=
+        
+          
+            {
+            
+              
+                
+                  i
+                  +
+                  1
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  0
+                  ≤
+                  i
+                  <
+                  n
+                  −
+                  1
+                
+              
+              
+                
+                  k
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  i
+                  =
+                  n
+                  −
+                  1.
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle f(i):={\begin{cases}i+1,&{\text{if }}0\leq i<n-1\\k,&{\text{if }}i=n-1.\end{cases}}}
+  
+
+Multiplication of elements in 
+  
+    
+      
+        ⟨
+        f
+        ⟩
+      
+    
+    {\displaystyle \langle f\rangle }
+  
+ is then given by function composition.
+When 
+  
+    
+      
+        k
+        =
+        0
+      
+    
+    {\displaystyle k=0}
+  
+ then the function f is a permutation of 
+  
+    
+      
+        {
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+        ,
+        n
+        −
+        1
+        }
+        ,
+      
+    
+    {\displaystyle \{0,1,2,\dots ,n-1\},}
+  
+ and gives the unique cyclic group of order n.
+Properties[edit]
+The monoid axioms imply that the identity element e is unique: If e and f are identity elements of a monoid, then e = ef = f.
+
+Products and powers[edit]
+For each nonnegative integer n, one can define the product 
+  
+    
+      
+        
+          p
+          
+            n
+          
+        
+        =
+        
+          
+            ∏
+            
+              i
+              =
+              1
+            
+            
+              n
+            
+          
+          
+            a
+            
+              i
+            
+          
+        
+      
+    
+    {\displaystyle p_{n}=\textstyle \prod _{i=1}^{n}a_{i}}
+  
+ of any sequence 
+  
+    
+      
+        (
+        
+          a
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (a_{1},\ldots ,a_{n})}
+  
+ of n elements of a monoid recursively: let p0 = e and let pm = pm−1 • am for 1 ≤ m ≤ n.
+As a special case, one can define nonnegative integer powers of an element x of a monoid: x0 = 1 and xn = xn−1 • x for n ≥ 1.  Then xm+n = xm • xn for all m, n ≥ 0.
+
+Invertible elements[edit]
+An element x is called invertible if there exists an element y such that x • y = e and y • x = e. The element y is called the inverse of x. Inverses, if they exist, are unique: If y and z are inverses of x, then by associativity y = ey = (zx)y = z(xy) = ze = z.[8]
+If x is invertible, say with inverse y, then one can define negative powers of x by setting x−n = yn for each n ≥ 1; this makes the equation xm+n = xm • xn hold for all m, n ∈ Z.
+The set of all invertible elements in a monoid, together with the operation •, forms a group.
+
+Grothendieck group[edit]
+Main article: Grothendieck group
+Not every monoid sits inside a group. For instance, it is perfectly possible to have a monoid in which two elements a and b exist such that a • b = a holds even though b is not the identity element. Such a monoid cannot be embedded in a group, because in the group multiplying both sides with the inverse of a would get that b = e, which is not true. 
+A monoid (M, •) has the cancellation property (or is cancellative) if for all a, b and c in M, the equality a • b = a • c implies b = c, and the equality b • a = c • a implies b = c. 
+A commutative monoid with the cancellation property can always be embedded in a group via the Grothendieck group construction. That is how the additive group of the integers (a group with operation +) is constructed from the additive monoid of natural numbers (a commutative monoid with operation + and cancellation property). However, a non-commutative cancellative monoid need not be embeddable in a group.
+If a monoid has the cancellation property and is finite, then it is in fact a group.[9]
+The right- and left-cancellative elements of a monoid each in turn form a submonoid (i.e. are closed under the operation and obviously include the identity). This means that the cancellative elements of any commutative monoid can be extended to a group.
+The cancellative property in a monoid is not necessary to perform the Grothendieck construction – commutativity is sufficient. However, if a commutative monoid does not have the cancellation property, the homomorphism of the monoid into its Grothendieck group is not injective. More precisely, if a • b = a • c, then b and c have the same image in the Grothendieck group, even if b ≠ c. In particular, if the monoid has an absorbing element, then its Grothendieck group is the trivial group.
+
+Types of monoids[edit]
+An inverse monoid is a monoid where for every a in M, there exists a unique a−1 in M such that a = a • a−1 • a and a−1 = a−1 • a • a−1. If an inverse monoid is cancellative, then it is a group.
+In the opposite direction, a zerosumfree monoid is an additively written monoid in which a + b = 0 implies that a = 0 and b = 0:[10] equivalently, that no element other than zero has an additive inverse.
+
+Acts and operator monoids[edit]
+Main article: monoid act
+Let M be a monoid, with the binary operation denoted by • and the identity element denoted by e. Then a (left) M-act (or left act over M) is a set X together with an operation ⋅ : M × X → X which is compatible with the monoid structure as follows:
+
+for all x in X: e ⋅ x = x;
+for all a, b in M and x in X: a ⋅ (b ⋅ x) = (a • b) ⋅ x.
+This is the analogue in monoid theory of a (left) group action. Right M-acts are defined in a similar way. A monoid with an act is also known as an operator monoid. Important examples include transition systems of semiautomata. A transformation semigroup can be made into an operator monoid by adjoining the identity transformation.
+
+Monoid homomorphisms[edit]
+  Example monoid homomorphism x ↦ 2x from (N, +, 0) to (N, ×, 1). It is injective, but not surjective.
+A homomorphism between two monoids (M, ∗) and (N, •) is a function f : M → N such that
+
+f(x ∗ y) = f(x) • f(y) for all x, y in M
+f(eM) = eN,
+where eM and eN are the identities on M and N respectively. Monoid homomorphisms are sometimes simply called monoid morphisms.
+Not every semigroup homomorphism between monoids is a monoid homomorphism, since it may not map the identity to the identity of the target monoid, even though the identity is the identity of the image of homomorphism.[11] For example, consider 
+  
+    
+      
+        
+          M
+          
+            n
+          
+        
+      
+    
+    {\displaystyle M_{n}}
+  
+, the set of residue classes modulo 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ equipped with multiplication. In particular, the class of 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  
+ is the identity. Function 
+  
+    
+      
+        f
+        :
+        
+          M
+          
+            3
+          
+        
+        →
+        
+          M
+          
+            6
+          
+        
+      
+    
+    {\displaystyle f\colon M_{3}\to M_{6}}
+  
+ given by 
+  
+    
+      
+        f
+        (
+        k
+        )
+        =
+        3
+        k
+      
+    
+    {\displaystyle f(k)=3k}
+  
+ is a semigroup homomorphism as 
+  
+    
+      
+        3
+        k
+        ⋅
+        3
+        l
+        =
+        9
+        k
+        l
+        =
+        3
+        k
+        l
+      
+    
+    {\displaystyle 3k\cdot 3l=9kl=3kl}
+  
+ in 
+  
+    
+      
+        
+          M
+          
+            6
+          
+        
+      
+    
+    {\displaystyle M_{6}}
+  
+. However, 
+  
+    
+      
+        f
+        (
+        1
+        )
+        =
+        3
+        ≠
+        1
+      
+    
+    {\displaystyle f(1)=3\neq 1}
+  
+, so a monoid homomorphism is  a semigroup homomorphism between monoids that maps the identity of the first monoid to the identity of the second monoid and the latter condition cannot be omitted.
+In contrast, a semigroup homomorphism between groups is always a group homomorphism, as it necessarily preserves the identity (because, in a group, the identity is the only element such that x ⋅ x = x).
+A bijective monoid homomorphism is called a monoid isomorphism. Two monoids are said to be isomorphic if there is a monoid isomorphism between them.
+
+Equational presentation[edit]
+Main article: Presentation of a monoid
+Monoids may be given a presentation, much in the same way that groups can be specified by means of a group presentation. One does this by specifying a set of generators Σ, and a set of relations on the free monoid Σ∗. One does this by extending (finite) binary relations on Σ∗ to monoid congruences, and then constructing the quotient monoid, as above.
+Given a binary relation R ⊂ Σ∗ × Σ∗, one defines its symmetric closure as R ∪ R−1. This can be extended to a symmetric relation E ⊂ Σ∗ × Σ∗ by defining x ~E y if and only if x = sut and y = svt for some strings u, v, s, t ∈ Σ∗ with (u,v) ∈ R ∪ R−1. Finally, one takes the reflexive and transitive closure of E, which is then a monoid congruence.
+In the typical situation, the relation R is simply given as a set of equations, so that 
+  
+    
+      
+        R
+        =
+        {
+        
+          u
+          
+            1
+          
+        
+        =
+        
+          v
+          
+            1
+          
+        
+        ,
+        ⋯
+        ,
+        
+          u
+          
+            n
+          
+        
+        =
+        
+          v
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle R=\{u_{1}=v_{1},\cdots ,u_{n}=v_{n}\}}
+  
+. Thus, for example,
+
+
+  
+    
+      
+        ⟨
+        p
+        ,
+        q
+        
+        |
+        
+        p
+        q
+        =
+        1
+        ⟩
+      
+    
+    {\displaystyle \langle p,q\,\vert \;pq=1\rangle }
+  
+
+is the equational presentation for the bicyclic monoid, and
+
+
+  
+    
+      
+        ⟨
+        a
+        ,
+        b
+        
+        |
+        
+        a
+        b
+        a
+        =
+        b
+        a
+        a
+        ,
+        b
+        b
+        a
+        =
+        b
+        a
+        b
+        ⟩
+      
+    
+    {\displaystyle \langle a,b\,\vert \;aba=baa,bba=bab\rangle }
+  
+
+is the plactic monoid of degree 2 (it has infinite order). Elements of this plactic monoid may be written as 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        
+          b
+          
+            j
+          
+        
+        (
+        b
+        a
+        
+          )
+          
+            k
+          
+        
+      
+    
+    {\displaystyle a^{i}b^{j}(ba)^{k}}
+  
+ for integers i, j, k, as the relations show that ba commutes with both a and b.
+
+Relation to category theory[edit]
+
+
+
+Group-like structures
+
+
+
+
+Totalityα
+
+Associativity
+
+Identity
+
+Invertibility
+
+Commutativity
+
+
+Semigroupoid
+
+Unneeded
+Required
+Unneeded
+Unneeded
+Unneeded
+
+
+Small category
+
+Unneeded
+Required
+Required
+Unneeded
+Unneeded
+
+
+Groupoid
+
+Unneeded
+Required
+Required
+Required
+Unneeded
+
+
+Magma
+
+Required
+Unneeded
+Unneeded
+Unneeded
+Unneeded
+
+
+Quasigroup
+
+Required
+Unneeded
+Unneeded
+Required
+Unneeded
+
+
+Unital magma
+
+Required
+Unneeded
+Required
+Unneeded
+Unneeded
+
+
+Semigroup
+
+Required
+Required
+Unneeded
+Unneeded
+Unneeded
+
+
+Loop
+
+Required
+Unneeded
+Required
+Required
+Unneeded
+
+
+Inverse semigroup
+
+Required
+Required
+Unneeded
+Required
+Unneeded
+
+
+Monoid
+
+Required
+Required
+Required
+Unneeded
+Unneeded
+
+
+Commutative monoid
+
+Required
+Required
+Required
+Unneeded
+Required
+
+
+Group
+
+Required
+Required
+Required
+Required
+Unneeded
+
+
+Abelian group
+
+Required
+Required
+Required
+Required
+Required
+
+
+.mw-parser-output .citation{word-wrap:break-word}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}^α The closure axiom, used by many sources and defined differently, is equivalent.
+
+Monoids can be viewed as a special class of categories. Indeed, the axioms required of a monoid operation are exactly those required of morphism composition when restricted to the set of all morphisms whose source and target is a given object.[12] That is,
+
+A monoid is, essentially, the same thing as a category with a single object.
+More precisely, given a monoid (M, •), one can construct a small category with only one object and whose morphisms are the elements of M. The composition of morphisms is given by the monoid operation •.
+Likewise, monoid homomorphisms are just functors between single object categories.[12]  So this construction gives an equivalence between the category of (small) monoids Mon and a full subcategory of the category of (small) categories Cat. Similarly, the category of groups is equivalent to another full subcategory of Cat.
+In this sense, category theory can be thought of as an extension of the concept of a monoid. Many definitions and theorems about monoids can be generalised to small categories with more than one object. For example, a quotient of a category with one object is just a quotient monoid.
+Monoids, just like other algebraic structures, also form their own category, Mon, whose objects are monoids and whose morphisms are monoid homomorphisms.[12]
+There is also a notion of monoid object which is an abstract definition of what is a monoid in a category. A monoid object in Set is just a monoid.
+
+Monoids in computer science[edit]
+In computer science, many abstract data types can be endowed with a monoid structure. In a common pattern, a sequence of elements of a monoid is "folded" or "accumulated" to produce a final value. For instance, many iterative algorithms need to update some kind of "running total" at each iteration; this pattern may be elegantly expressed by a monoid operation. Alternatively, the associativity of monoid operations ensures that the operation can be parallelized by employing a prefix sum or similar algorithm, in order to utilize multiple cores or processors efficiently.
+Given a sequence of values of type M with identity element 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  
+ and associative operation 
+  
+    
+      
+        ∙
+      
+    
+    {\displaystyle \bullet }
+  
+, the fold operation is defined as follows:
+
+
+  
+    
+      
+        
+          f
+          o
+          l
+          d
+        
+        :
+        
+          M
+          
+            ∗
+          
+        
+        →
+        M
+        =
+        ℓ
+        ↦
+        
+          
+            {
+            
+              
+                
+                  ε
+                
+                
+                  
+                    
+                      if 
+                    
+                  
+                  ℓ
+                  =
+                  
+                    n
+                    i
+                    l
+                  
+                
+              
+              
+                
+                  m
+                  ∙
+                  
+                    f
+                    o
+                    l
+                    d
+                  
+                  
+                  
+                    ℓ
+                    ′
+                  
+                
+                
+                  
+                    
+                      if 
+                    
+                  
+                  ℓ
+                  =
+                  
+                    c
+                    o
+                    n
+                    s
+                  
+                  
+                  m
+                  
+                  
+                    ℓ
+                    ′
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {fold} :M^{*}\rightarrow M=\ell \mapsto {\begin{cases}\varepsilon &{\mbox{if }}\ell =\mathrm {nil} \\m\bullet \mathrm {fold} \,\ell '&{\mbox{if }}\ell =\mathrm {cons} \,m\,\ell '\end{cases}}}
+  
+
+In addition, any data structure can be 'folded' in a similar way, given a serialization of its elements. For instance, the result of "folding" a binary tree might differ depending on pre-order vs. post-order tree traversal.
+
+MapReduce[edit]
+An application of monoids in computer science is so-called MapReduce programming model (see Encoding Map-Reduce As A Monoid With Left Folding). MapReduce, in computing, consists of two or three operations. Given a dataset, "Map" consists of mapping arbitrary data to elements of a specific monoid. "Reduce" consists of folding those elements, so that in the end we produce just one element.
+For example, if we have a multiset, in a program it is represented as a map from elements to their numbers. Elements are called keys in this case. The number of distinct keys may be too big, and in this case the multiset is being sharded. To finalize reduction properly, the "Shuffling" stage regroups the data among the nodes. If we do not need this step, the whole Map/Reduce consists of mapping and reducing; both operation are parallelizable, the former due to its element-wise nature, the latter due to associativity of the monoid.
+
+Complete monoids[edit]
+A complete monoid is a commutative monoid equipped with an infinitary sum operation 
+  
+    
+      
+        
+          Σ
+          
+            I
+          
+        
+      
+    
+    {\displaystyle \Sigma _{I}}
+  
+ for any index set I such that:[13][14][15][16]
+
+
+  
+    
+      
+        
+          ∑
+          
+            i
+            ∈
+            ∅
+          
+        
+        
+          
+            m
+            
+              i
+            
+          
+        
+        =
+        0
+        ;
+        
+        
+          ∑
+          
+            i
+            ∈
+            {
+            j
+            }
+          
+        
+        
+          
+            m
+            
+              i
+            
+          
+        
+        =
+        
+          m
+          
+            j
+          
+        
+        ;
+        
+        
+          ∑
+          
+            i
+            ∈
+            {
+            j
+            ,
+            k
+            }
+          
+        
+        
+          
+            m
+            
+              i
+            
+          
+        
+        =
+        
+          m
+          
+            j
+          
+        
+        +
+        
+          m
+          
+            k
+          
+        
+        
+        
+           for 
+        
+        j
+        ≠
+        k
+      
+    
+    {\displaystyle \sum _{i\in \emptyset }{m_{i}}=0;\quad \sum _{i\in \{j\}}{m_{i}}=m_{j};\quad \sum _{i\in \{j,k\}}{m_{i}}=m_{j}+m_{k}\quad {\text{ for }}j\neq k}
+  
+
+and
+
+
+  
+    
+      
+        
+          ∑
+          
+            j
+            ∈
+            J
+          
+        
+        
+          
+            ∑
+            
+              i
+              ∈
+              
+                I
+                
+                  j
+                
+              
+            
+          
+          
+            
+              m
+              
+                i
+              
+            
+          
+        
+        =
+        
+          ∑
+          
+            i
+            ∈
+            I
+          
+        
+        (
+        
+          m
+          
+            i
+          
+        
+        )
+        
+        
+           if 
+        
+        
+          ⋃
+          
+            j
+            ∈
+            J
+          
+        
+        
+          I
+          
+            j
+          
+        
+        =
+        I
+        
+           and 
+        
+        
+          I
+          
+            j
+          
+        
+        ∩
+        
+          I
+          
+            
+              j
+              ′
+            
+          
+        
+        =
+        ∅
+        
+        
+           for 
+        
+        j
+        ≠
+        
+          j
+          ′
+        
+      
+    
+    {\displaystyle \sum _{j\in J}{\sum _{i\in I_{j}}{m_{i}}}=\sum _{i\in I}(m_{i})\quad {\text{ if }}\bigcup _{j\in J}I_{j}=I{\text{ and }}I_{j}\cap I_{j'}=\emptyset \quad {\text{ for }}j\neq j'}
+  
+
+A continuous monoid is an ordered commutative monoid in which every directed set has a least upper bound compatible with the monoid operation:
+
+
+  
+    
+      
+        a
+        +
+        sup
+        S
+        =
+        sup
+        (
+        a
+        +
+        S
+        )
+         
+        .
+      
+    
+    {\displaystyle a+\sup S=\sup(a+S)\ .}
+  
+
+These two concepts are closely related: a continuous monoid is a complete monoid in which the infinitary sum may be defined as
+
+
+  
+    
+      
+        
+          ∑
+          
+            I
+          
+        
+        
+          a
+          
+            i
+          
+        
+        =
+        sup
+        
+          ∑
+          
+            E
+          
+        
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \sum _{I}a_{i}=\sup \sum _{E}a_{i}}
+  
+
+where the supremum on the right runs over all finite subsets E of I and each sum on the right is a finite sum in the monoid.[16]
+
+See also[edit]
+Green's relations
+Monad (functional programming)
+Semiring and Kleene algebra
+Star height problem
+Vedic square
+Notes[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ If both e1 and e2 satisfy the above equations, then e1 = e1 • e2 = e2.
+
+^ Jacobson 2009.
+
+^ Some authors omit the requirement that a submonoid must contain the identity element from its definition, requiring only that it have an identity element, which can be distinct from that of M.
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Gondran, Michel; Minoux, Michel (2008). Graphs, Dioids and Semirings: New Models and Algorithms. Operations Research/Computer Science Interfaces Series. 41. Dordrecht: Springer-Verlag. p. 13. ISBN 978-0-387-75450-5. Zbl 1201.16038.
+
+^ Rhodes, John; Steinberg, Benjamin (2009), The q-theory of Finite Semigroups: A New Approach, Springer Monographs in Mathematics, 71, Springer, p. 22, ISBN 9780387097817.
+
+^ Jacobson 2009, p. 29, examples 1, 2, 4 & 5.
+
+^ Jacobson 2009, p. 35.
+
+^ Jacobson, I.5. p. 22
+
+^ Proof: Fix an element x in the monoid. Since the monoid is finite, xn = xm for some m > n > 0. But then, by cancellation we have that xm − n = e where e is the identity. Therefore, x • xm − n − 1 = e, so x has an inverse.
+
+^ Wehrung, Friedrich (1996). "Tensor products of structures with interpolation". Pacific Journal of Mathematics. 176 (1): 267–285. Zbl 0865.06010.
+
+^ f(x)*f(eM) = f(x*eM) = f(x) for each x in M, when f is a semigroup homomorphism and eM is the identity of its domain monoid M.
+
+^ a b c Awodey, Steve (2006). Category Theory. Oxford Logic Guides. 49. Oxford University Press. p. 10. ISBN 0-19-856861-4. Zbl 1100.18001.
+
+^ Droste, M., & Kuich, W. (2009). Semirings and Formal Power Series. Handbook of Weighted Automata, 3–28. doi:10.1007/978-3-642-01492-5_1, pp. 7–10
+
+^ Hebisch, Udo (1992). "Eine algebraische Theorie unendlicher Summen mit Anwendungen auf Halbgruppen und Halbringe". Bayreuther Mathematische Schriften (in German). 40: 21–152. Zbl 0747.08005.
+
+^ Kuich, Werner (1990). "ω-continuous semirings, algebraic systems and pushdown automata".  In Paterson, Michael S. (ed.). Automata, Languages and Programming: 17th International Colloquium, Warwick University, England, July 16-20, 1990, Proceedings. Lecture Notes in Computer Science. 443. Springer-Verlag. pp. 103–110. ISBN 3-540-52826-1.
+
+^ a b Kuich, Werner (2011). "Algebraic systems and pushdown automata".  In Kuich, Werner (ed.). Algebraic foundations in computer science. Essays dedicated to Symeon Bozapalidis on the occasion of his retirement. Lecture Notes in Computer Science. 7020. Berlin: Springer-Verlag. pp. 228–256. ISBN 978-3-642-24896-2. Zbl 1251.68135.
+
+
+References[edit]
+Howie, John M. (1995), Fundamentals of Semigroup Theory, London Mathematical Society Monographs. New Series, 12, Oxford: Clarendon Press, ISBN 0-19-851194-9, Zbl 0835.20077
+Jacobson, Nathan (1951), Lectures in Abstract Algebra, I, D. Van Nostrand Company, ISBN 0-387-90122-1
+Jacobson, Nathan (2009), Basic algebra, 1 (2nd ed.), Dover, ISBN 978-0-486-47189-1
+Kilp, Mati; Knauer, Ulrich; Mikhalev, Alexander V. (2000), Monoids, acts and categories. With applications to wreath products and graphs. A handbook for students and researchers, de Gruyter Expositions in Mathematics, 29, Berlin: Walter de Gruyter, ISBN 3-11-015248-7, Zbl 0945.20036
+Lothaire, M. (1997), Combinatorics on words, Encyclopedia of Mathematics and Its Applications, 17, Perrin, D.; Reutenauer, C.; Berstel, J.; Pin, J. E.; Pirillo, G.; Foata, D.; Sakarovitch, J.; Simon, I.; Schützenberger, M. P.; Choffrut, C.; Cori, R.; Lyndon, Roger; Rota, Gian-Carlo. Foreword by Roger Lyndon (2nd ed.), Cambridge University Press, doi:10.1017/CBO9780511566097, ISBN 0-521-59924-5, MR 1475463, Zbl 0874.20040
+External links[edit]
+"Monoid", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Weisstein, Eric W. "Monoid". MathWorld.
+Monoid at PlanetMath.
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Monoid&oldid=1060886367"
+		Categories: Algebraic structuresCategory theorySemigroup theoryHidden categories: CS1 German-language sources (de)Articles with short descriptionShort description matches Wikidata
+	

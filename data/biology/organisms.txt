@@ -1,0 +1,368 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+In biology, altruism refers to behaviour by an individual that increases the fitness of another individual while decreasing the fitness of the actor.[1] Altruism in this sense is different from the philosophical concept of altruism, in which an action would only be called "altruistic" if it was done with the conscious intention of helping another. In the behavioural sense, there is no such requirement. As such, it is not evaluated in moral terms—it is the consequences of an action for reproductive fitness that determine whether the action is considered altruistic, not the intentions, if any, with which the action is performed.[2]
+The term altruism was coined by the French philosopher Auguste Comte in French, as altruisme, for an antonym of egoism.[3][4] He derived it from the Italian altrui, which in turn was derived from Latin alteri, meaning "other people" or "somebody else".[5]
+Altruistic behaviours appear most obviously in kin relationships, such as in parenting, but may also be evident among wider social groups, such as in social insects. They allow an individual to increase the success of its genes by helping relatives that share those genes.[6] Obligate altruism is the permanent loss of direct fitness (with potential for indirect fitness gain).[7] For example, honey bee workers may forage for the colony. Facultative altruism is temporary loss of direct fitness (with potential for indirect fitness gain followed by personal reproduction). For example, a Florida scrub jay may help at the nest, then gain parental territory.[8]
+
+Contents
+
+1 Overview
+2 Implications in evolutionary theory
+3 Reciprocity mechanisms
+
+3.1 Symmetry-based
+3.2 Attitudinal
+3.3 Calculated
+
+
+4 Biological market theory
+5 Examples in vertebrates
+
+5.1 Mammals
+5.2 Birds
+5.3 Fish
+
+
+6 Examples in invertebrates
+7 Examples in protists
+8 See also
+9 Foot note
+10 References
+11 Further reading
+12 External links
+
+
+
+Overview[edit]
+In ethology (the study of behavior), and more generally in the study of social evolution, on occasion, some animals do behave in ways that reduce their individual fitness but increase the fitness of other individuals in the population; this is a functional definition of altruism.[9] Research in evolutionary theory has been applied to social behaviour, including altruism. Cases of animals helping individuals to whom they are closely related can be explained by kin selection, and are not considered true altruism. Beyond the physical exertions that in some species mothers and in some species fathers undertake to protect their young, extreme examples of sacrifice may occur. One example is matriphagy (the consumption of the mother by her offspring) in the spider Stegodyphus; another example is a male spider allowing a female fertilized by him to eat him. Hamilton's rule describes the benefit of such altruism in terms of Wright's coefficient of relationship to the beneficiary and the benefit granted to the beneficiary minus the cost to the sacrificer. Should this sum be greater than zero a fitness gain will result from the sacrifice.
+When apparent altruism is not between kin, it may be based on reciprocity. A monkey will present its back to another monkey, who will pick out parasites; after a time the roles will be reversed. Such reciprocity will pay off, in evolutionary terms, as long as the costs of helping are less than the benefits of being helped and as long as animals will not gain in the long run by "cheating"—that is to say, by receiving favours without returning them. This is elaborated on in evolutionary game theory and specifically the prisoner's dilemma as social theory.
+
+Implications in evolutionary theory[edit]
+  Cooperative hunting by wolves allows them to tackle much larger and more nutritious prey than any individual wolf could handle. However, such cooperation could, potentially, be exploited by selfish individuals who do not expose themselves to the dangers of the hunt, but nevertheless share in the spoils.
+The existence of altruism in nature is at first sight puzzling, because altruistic behaviour reduces the likelihood that an individual will reproduce. The idea that group selection might explain the evolution of altruism was first broached by Darwin himself in The Descent of Man, and Selection in Relation to Sex, (1871). The concept of group selection has had a chequered and controversial history in evolutionary biology but the uncritical 'good of the species' tradition came to an abrupt halt in the 1960s, due largely to the work of George C. Williams,[10] and  John Maynard Smith[11] as well as Richard Dawkins.[12][13][14][15] These evolutionary theorists pointed out that natural selection acts on the individual, and that it is the individual's fitness (number of offspring and grand-offspring produced compared to the rest of the population) that drives evolution. A group advantage (e.g. hunting in a pack) that is disadvantageous to the individual (who might be harmed during the hunt, when it could avoid injury by hanging back from the pack but still share in the spoils) cannot evolve, because the selfish individual will leave, on average, more offspring than those who join the pack and suffer injuries as a result. If the selfishness is hereditary, this will ultimately result in the population consisting entirely of selfish individuals. However, in the 1960s and 1970s an alternative to the "group selection" theory emerged. This was the kin selection theory, due originally to W. D. Hamilton.[16] Kin selection is an instance of inclusive fitness, which is based on the notion that an individual shares only half its genes with each offspring, but also with each full sib (See footnote[nb 1]).  From an evolutionary genetic point of view it is therefore as advantageous to help with the upbringing of full sibs as it is to produce and raise one's own offspring. The two activities are evolutionarily entirely equivalent. Co-operative breeding (i.e. helping one's parents raise sibs—provided they are full sibs) could thus evolve without the need for group-level selection. This  quickly gained prominence among biologists interested in the evolution of social behaviour.[2]
+
+  Olive baboons grooming
+In 1971 Robert Trivers[19] introduced his reciprocal altruism theory to explain the evolution of helping at the nest of an unrelated breeding pair of birds. He argued that an individual might act as a helper if there was a high probabilistic expectation of being helped by the recipients at some later date. If, however, the recipients did not reciprocate when it was possible to do so, the altruistic interaction with these recipients would be permanently terminated. But if the recipients did not cheat then the reciprocal altruism would continue indefinitely to both parties' advantage.[20] This model was considered by many (e.g. West-Eberhard[21] and Dawkins[22]) to be evolutionarily unstable because it is prone to invasion by cheats for the same reason that cooperative hunting can be invaded and replaced by cheats. However, Trivers did make reference to the Prisoner's Dilemma Game which, 10 years later, would restore interest in Trivers' reciprocal altruism theory, but under the title of "tit-for-tat".[23]
+In its original form the Prisoner's Dilemma Game (PDG) described two awaiting trial prisoners, A and B, each faced with the choice of betraying the other or remaining silent. The "game" has four possible outcomes: (a) they both betray each other, and are both sentenced to two years in prison; (b) A betrays B, which sets A free and B is sentenced to four years in prison; (c) B betrays A, with the same result as (b) except that it is B who is set free and the other spends four years in jail; (d) both remain silent, resulting in a six-month sentence each. Clearly (d) ("cooperation") is the best mutual strategy, but from the point of view of the individual betrayal is  unbeatable (resulting in being set free, or getting only a two-year sentence). Remaining silent results in a four-year or six-month sentence. This is exemplified by a further example of the PDG:  two strangers attend a restaurant together and decide to split the bill. The mutually best ploy would be for both parties to order the cheapest items on the menu (mutual cooperation). But if one member of the party exploits the situation by ordering the most expensive items, then it is best for the other member to do likewise. In fact, if the fellow diner's personality is completely unknown, and the two diners are unlikely ever to meet again, it is always in one's own best interests to eat as expensively as possible. Situations in nature that are subject to the same dynamics (rewards and penalties) as the PDG define cooperative behaviour: it is never in the individual's fitness interests to cooperate, even though mutual cooperation rewards the two contestants (together) more highly than any other strategy.[24] Cooperation cannot evolve under these circumstances.
+However, in 1981 Axelrod and Hamilton[23] noted that if the same contestants in the PDG meet repeatedly (the so-called Iterated Prisoner's Dilemma game, IPD) then tit-for-tat (foreshadowed by Robert Triver's reciprocal altruism theory) is a robust strategy which promotes altruism.[23][24][25] In "tit-for-tat" both players' opening moves are cooperation. Thereafter each contestant repeats the other player's last move, resulting in a seemingly endless sequence of mutually cooperative moves. However, mistakes severely undermine tit-for-tat's effectiveness, giving rise to prolonged sequences of betrayal, which can only be rectified by another mistake. Since these initial discoveries, all the other possible IPD game strategies have been identified (16 possibilities in all, including, for instance, "generous tit-for-tat", which behaves like "tit-for-tat", except that it cooperates with a small probability when the opponent's last move was "betray".[26]), but all can be outperformed by at least one of the other strategies, should one of the players switch to such a strategy. The result is that none is evolutionarily stable, and any prolonged series of the iterated prisoner's dilemma game, in which alternative strategies arise at random, gives rise to a chaotic sequence of strategy changes that never ends.[24][27][28]
+
+.mw-parser-output .tmulti .thumbinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}The handicap principleA male peacock with its beautiful but clumsy, aerodynamically unsound tail—a handicap, comparable to a race horse's handicap.The best horses in a handicap race carry the largest weights, so the size of the handicap is a measure of the animal's quality
+In the light of the Iterated Prisoner's Dilemma Game failing to provide a full answer to the evolution of cooperation or altruism, several alternative explanations have been proposed.
+There are striking parallels between altruistic acts and exaggerated sexual ornaments displayed by some animals, particularly certain bird species, such as, amongst others, the peacock. Both are costly in fitness terms, and both are generally conspicuous to other members of the population or species. This led Amotz Zahavi to suggest that both might be fitness signals rendered evolutionarily stable by his handicap principle.[29][30][31] If a signal is to remain reliable, and generally resistant to falsification, the signal has to be evolutionarily costly.[32] Thus, if a (low fitness) liar were to use the highly costly signal, which seriously eroded its real fitness, it would find it difficult to maintain a semblance or normality.[33] Zahavi borrowed the term "handicap principle" from sports handicapping systems. These systems are aimed at reducing disparities in performance, thereby making the outcome of contests less predictable. In a horse handicap race, provenly faster horses are given heavier weights to carry under their saddles than inherently slower horses. Similarly, in amateur golf, better golfers have fewer strokes subtracted from their raw scores than the less talented players. The handicap therefore correlates with unhandicapped performance, making it possible, if one knows nothing about the horses, to predict which unhandicapped horse would win an open race. It would be the one handicapped with the greatest weight in the saddle. The handicaps in nature are highly visible, and therefore a peahen, for instance, would be able to deduce the health of a potential mate by comparing its handicap (the size of the peacock's tail) with those of the other males. The loss of the male's fitness caused by the handicap is offset by its increased access to females, which is as much of a fitness concern as is its health. An altruistic act is, by definition, similarly costly. It would therefore also signal fitness, and is probably as attractive to females as a physical handicap. If this is the case altruism is evolutionarily stabilized by sexual selection.[30]
+
+  African pygmy kingfisher, showing details of appearance and colouration that are shared by all African pygmy kingfishers to a high degree of fidelity.[34]
+There is an alternate strategy for identifying fit mates which does not rely on one gender having exaggerated sexual ornaments or other handicaps, but is generally applicable to most, if not all sexual creatures. It derives from the concept that the change in appearance and functionality caused by a non-silent mutation will generally stand out in a population. This is because that altered appearance and functionality will be unusual, peculiar, and different from the norm within that population. The norm against which these unusual features are judged is made up of fit attributes that have attained their plurality through natural selection, while less adaptive attributes will be in the minority or frankly rare.[35]  Since the overwhelming majority of mutant features are maladaptive, and it is impossible to predict evolution's future direction, sexual creatures would be expected to prefer mates with the fewest unusual or minority features.[35][36][37][38][39] This will have the effect of a sexual population rapidly shedding peripheral phenotypic features and canalizing the entire outward appearance and behaviour so that all the members of that population will begin to look remarkably similar in every detail, as illustrated in the accompanying photograph of  the African pygmy kingfisher, Ispidina picta. Once a population has become as homogeneous in appearance as is typical of most species, its entire repertoire of behaviours will also be rendered evolutionarily stable, including any altruistic, cooperative and social characteristics. Thus, in the example of the selfish individual who hangs back from the rest of the hunting pack, but who nevertheless joins in the spoils, that individual will be recognized as being different from the norm, and will therefore find it difficult to attract a mate.[38] Its genes will therefore have only a very small probability of being passed on to the next generation, thus evolutionarily stabilizing cooperation and social interactions at whatever level of complexity is the norm in that population.[28][40]
+
+Reciprocity mechanisms[edit]
+Altruism in animals describes a range of behaviors performed by animals that may be to their own disadvantage but which benefit others.[41] The costs and benefits are measured in terms of reproductive fitness, or expected number of offspring. So by behaving altruistically, an organism reduces the number of offspring it is likely to produce itself, but boosts the likelihood that other organisms are to produce offspring. There are other forms of altruism in nature other than risk-taking behavior, such as reciprocal altruism. This biological notion of altruism is not identical to the everyday human concept. For humans, an action would only be called 'altruistic' if it was done with the conscious intention of helping another. Yet in the biological sense there is no such requirement. Instead, until we can communicate directly with other species, an accurate theory to describe altruistic acts between species is Biological Market Theory.
+Humans and other animals exchange benefits in several ways, known technically as reciprocity mechanism. No matter what the mechanism, the common thread is that benefits find their way back to the original giver.
+
+Symmetry-based[edit]
+Also known as the "buddy-system", mutual affection between two parties prompts similar behavior in both directions without need to track of daily give-and-take, so long as the overall relationship remains satisfactory. This is one of the most common mechanism of reciprocity in nature, this kind is present in humans, primates, and many other mammals.
+
+Attitudinal[edit]
+Also known as, "If you're nice, I'll be nice too." This mechanism of reciprocity is similar to the heuristic of the golden rule, "Treat others how you would like to be treated." Parties mirror one another's attitudes, exchanging favors on the spot. Instant attitudinal reciprocity occurs among monkeys, and people often rely on it with strangers and acquaintances.
+
+Calculated[edit]
+Also known as, "what have you done for me lately?" Individuals keep track of the benefits they exchange with particular partners, which helps them decide to whom to return favors. This mechanism is typical of chimpanzees and very common among human relationships.[42] Yet some opposing experimental research suggests that calculated or contingent reciprocity does not spontaneously arise in laboratory experimental settings, despite patterns of behavior.
+
+Biological market theory[edit]
+Biological market theory is an extension of the idea of reciprocal altruism, as a mechanism to explain altruistic acts between unrelated individuals in a more flexible system of exchanging commodities. The term 'biological market' was first used by Ronald Noe and Hammerstein in 1994 to refer to all the interactions between organisms in which different organisms function as 'traders' that exchange goods and services such as food and water, grooming, warning calls, shelter, etc. Biological market theory consists of five formal characteristics which present a basis for altruism.
+
+Commodities are exchanged between individuals that differ in the degree of control over those commodities.
+Trading partners are chosen from a number of potential partners.
+There is competition among the members of the chosen class to be the most attractive partner. This competition by 'outbidding' causes an increase in the value of the commodity offered.
+Supply and demand determine the bartering value of commodities exchanged.
+Commodities on offer can be advertised. As in commercial advertisements there is a potential for false information.[43]
+  Two bluestreak cleaner wrasses cleaning a potato cod
+The applicability of biological market theory with its emphasis on partner choice is evident in the interactions between the cleaner wrasse and its "client" reef fish. Cleaners have small territories, which the majority of reef fish species actively visit to invite inspection of their surface, gills, and mouth. Clients benefit from the removal of parasites while cleaners benefit from the access to a food source. Some particularly choosy client species have large home ranges that cover several cleaning stations, whereas other clients have small ranges and have access to one cleaning station only (resident clients). Field observations, field manipulations, and laboratory experiments revealed that whether or not a client has choice options influences several aspects of both cleaner and client behaviour. Cleaners give choosy clients priority of access. Choosy clients switch partners if cheated by a cleaner by taking a bite of out of the cleaner, whereas resident clients punish cheats. Cleaners and resident clients, but not choosy clients, build up relationships before normal cleaning interactions take place. Cleaners are particularly cooperative if choosy clients are bystanders of an interaction but less so when resident clients are bystanders.[44]
+Researchers tested whether wild white-handed gibbon males from Khao Yai National Park, Thailand, increased their grooming activity when the female partner was fertile.[45] Adult females and males of our study population are codominant (in terms of aggression), they live in pairs or small multi male groups and mate promiscuously. They found that males groomed females more than vice versa and more grooming was exchanged when females were cycling than during pregnancy or lactation. The number of copulations/day was elevated when females were cycling, and females copulated more frequently with males on days when they received more grooming. When males increased their grooming efforts, females also increased their grooming of males, perhaps to equalize give and take. Although grooming might be reciprocated because of intrinsic benefits of receiving grooming, males also interchange grooming as a commodity for sexual opportunities during a female's fertile period.[clarification needed][46]
+
+Examples in vertebrates[edit]
+Mammals[edit]
+Wolves and wild dogs bring meat back to members of the pack not present at the kill.[47] Though in harsh conditions, the breeding pair of wolves take the greatest share to continue to produce pups.[48]
+Mongooses support elderly, sick, or injured animals.[49]
+Meerkats often have one standing  guard to warn while the rest feed in case of predator attack.[50]
+Raccoons inform conspecifics about feeding grounds by droppings left on commonly shared latrines. A similar information system has been observed to be used by common ravens.[51]
+Male baboons threaten predators and cover the rear as the troop retreats.[52]
+Gibbons and chimpanzees with food will, in response to a gesture, share their food with others of the group.[53] Chimpanzees will help humans and conspecifics without any reward in return.[54][55]
+Bonobos have been observed aiding injured or handicapped bonobos.[56]
+Vampire bats commonly regurgitate blood to share with unlucky or sick roost mates that have been unable to find a meal, often forming a buddy system.[57][58]
+Vervet monkeys give alarm calls to warn fellow monkeys of the presence of predators, even though in doing so they attract attention to themselves, increasing their personal chance of being attacked.[59]
+Lemurs of all ages and of both sexes will take care of infants unrelated to them.[60]
+Dolphins support sick or injured members of their pod, swimming under them for hours at a time and pushing them to the surface so they can breathe.[61]
+Walruses have been seen adopting orphans who lost their parents to predators.[62]
+African buffalo will rescue a member of the herd captured by predators. (See Battle at Kruger.)[63]
+Humpback whales have been observed protecting other species from killer whales.[64]
+Male Przewalski's horses have been observed engaging in intervention behaviour when their group members were threatened. They did not distinguish between kin and non-kin members. It has been theorized that they may do this to promote group cohesion and reduce social disruption within the group.[65]
+Birds[edit]
+In numerous bird species, a breeding pair receives support in raising its young from other "helper" birds,  including help with the feeding of its fledglings.[66] Some will even go as far as protecting an unrelated bird's young from predators.[67]
+Fish[edit]
+Harpagifer bispinis, a species of fish, live in social groups in the harsh environment of the Antarctic Peninsula. If the parent guarding the nest of eggs is removed, a usually male replacement unrelated to the parents guards the nest from predators and prevents fungal growth that would kill off the brood. There is no clear benefit to the male so the act may be considered altruistic.[68]
+Examples in invertebrates[edit]
+Some termites, such as Globitermes sulphureus and ants, such as Camponotus saundersi release a sticky secretion by fatally rupturing a specialized gland.  This autothysis altruistically defends the colony at the expense of the individual insect.[69] This can be attributed to the fact that ants share their genes with the entire colony, and so this behaviour is evolutionarily beneficial (not necessarily for the individual ant but for the continuation of its genetic make-up).
+Synalpheus regalis is a species of eusocial marine snapping shrimp that lives in sponges in coral reefs. They live in colonies of about 300 individuals with one reproductive female.[70]  Other colony members defend the colony against intruders, forage, and care for the young.[70] Eusociality in this system entails an adaptive division of labor which results in enhanced reproductive output of the breeders and inclusive fitness benefits for the nonbreeding helpers.[71]   S. regalis are exceptionally tolerant of conspecifics within their colonies due to close genetic relatedness among nestmates. Allozyme data reveals that relatedness within colonies is high, which is an indication that colonies in this species represent close kin groups.[72] The existence of such groups is an important prerequisite of explanations of social evolution based on kin selection.[71][16][73]
+Examples in protists[edit]
+An example of altruism is found in the cellular slime moulds, such as Dictyostelium mucoroides. These protists live as individual amoebae until starved, at which point they aggregate and form a multicellular fruiting body in which some cells sacrifice themselves to promote the survival of other cells in the fruiting body.[74]
+
+See also[edit]
+Altruism
+Reciprocal altruism
+Koinophilia
+Cheating (biology)
+Co-operation (evolution)
+Evolution of morality
+Evolutionarily stable strategy
+Evolutionary ethics
+Gene-centered view of evolution
+Sociobiology
+Foot note[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ An individual's gene complement (or genome) can be represented by the letters of the alphabet. Each letter is represented twice: A1 and A2. The subscript indicates from which parent that copy of A has come. Mostly the two copies are identical, but occasionally they differ slightly.
+
+When this individual reproduces sexually, one or other copy of A (chosen randomly) is passed on to offspring-1, who gets its other copy of A from the sexual partner. The same happens with genes B, C, D …. Z. If we denote the two sexual partners by means of  subscripts "m" and "f", then the genome of the offspring they produce might consist of Am2/Af1, Bm2/Bf2, Cm1/Cf1, Dm1/Df1 …… Zm1/Zf2. Each parent has contributed exactly half of the offspring's genome. So individual "m" shares only half of its genome with its offspring.
+Suppose individuals "m" and "f" produce a second offspring (offspring-2), whose genome is determined in exactly the same manner. For this example, suppose their genome consists of 52 genes. There is a coin-flip 50% probability that offspring-2 will inherit the same copy of A from "m" as offspring-1 did (i.e. Am2). This also applies to gene B and so on through the alphabet. If a coin-flip "heads" means that gene X is the same in offspring-1 as it is in offspring-2, then in 26 flips of the coin, approximately half are going to be "heads", and the rest "tails", i.e. half the genes inherited from parent "m" will be the same in the two offspring. The same will happen to the genes inherited from parent "f". Thus of the 52 genes inherited from the two parents, on average, 13 +  13 =  26 (or half) will be identical in the two sibs.
+Thus sibs are genetically as similar to one another as a parent is to an offspring.[17][18]
+
+
+References[edit]
+
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Bell G (2008). Selection: The Mechanism of Evolution. Oxford: Oxford University Press. pp. 367–368. ISBN 978-0-19-856972-5.
+
+^ a b Okasha S (2008). "Biological altruism". The Stanford Encyclopedia of Philosophy. Retrieved July 20, 2013.
+
+^ "altruism (n .)". Online Etymology Dictionary. Douglas Harper. Retrieved September 19, 2014.
+
+^ Teske N (2009). Political Activists in America: The Identity Construction Model of Political Participation. University Park, Pa.: Pennsylvania State University Press. p. 101. ISBN 9780271035468.
+
+^ Ciciloni F (1825). A Grammar of the Italian Language. London: John Murray. p. 64.
+
+^ Davies NB, Krebs JR, West SA (April 9, 2012). "11". An Introduction to Behavioural Ecology. John Wiley & Sons. pp. 307–333. ISBN 978-1-4443-3949-9.
+
+^ Galliard, Jean-François Le; Ferriére, Regis; Dieckmann, Ulf (2003). "The Adaptive Dynamics of Altruism in Spatially Heterogeneous Populations". Evolution. 57 (1): 1–17. doi:10.1111/j.0014-3820.2003.tb00211.x. ISSN 1558-5646.
+
+^ Alcock A (2009). Animal Behavior (9th ed.). Sinauer Associates. ISBN 978-0878932252.
+
+^ Trivers RL (1971). "The Evolution of Reciprocal Altruism". The Quarterly Review of Biology. 46 (1): 35–57. doi:10.1086/406755. JSTOR 2822435. S2CID 19027999.
+
+^ Williams, G.C. (1972) Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought. Princeton University Press.ISBN 0-691-02357-3
+
+^ Smith JM (1964). "Group selection and kin selection". Nature. 201 (4924): 1145–1147. Bibcode:1964Natur.201.1145S. doi:10.1038/2011145a0. S2CID 4177102.
+
+^ See the chapter God's utility function in Dawkins R (1995). River Out of Eden. New York: Basic Books. ISBN 978-0-465-06990-3.
+
+^ Dawkins R (1994). "Burying the Vehicle Commentary on Wilson & Sober: Group Selection". Behavioral and Brain Sciences. 17 (4): 616–617. doi:10.1017/s0140525x00036207. Archived from the original on September 15, 2006.
+
+^ Dennett DC (1994). "E Pluribus Unum? Commentary on Wilson & Sober: Group Selection". Behavioral and Brain Sciences. 17 (4): 617–618. doi:10.1017/s0140525x00036219. Archived from the original on December 27, 2007.
+
+^ Pinker, S. (2012). The False Allure of Group Selection.  Edge,  Jun 19, 2012.  http://edge.org/conversation/the-false-allure-of-group-selection
+
+^ a b Hamilton WD (July 1964). "The genetical evolution of social behaviour. I". Journal of Theoretical Biology. 7 (1): 1–16. Bibcode:1964JThBi...7....1H. doi:10.1016/0022-5193(64)90038-4. PMID 5875341.
+
+^ Grafen A (1984). "Natural selection, kin selection and group selection".  In Krebs JR, Davies NB (eds.). Behavioural Ecology. An Evolutionary Approach. Oxford: Blackwell Scientific Publications. pp. 70–71. ISBN 978-0-632-00998-5.
+
+^ Smith JM (1989). "Evolution in structured populations.". Evolutionary Genetics. Oxford: Oxford University Press. pp. 173–175. ISBN 978-0198542155.
+
+^ Trivers RL (1971). "The evolution of reciprocal altruism". Quarterly Review of Biology. 46: 35–57. doi:10.1086/406755. S2CID 19027999.
+
+^ Emlen ST (1984). "Cooperative breeding in birds and mammals.".  In Krebs JR, Davies NB (eds.). Behavioural Ecology. An Evolutionary Approach. Oxford: Blackwell Scientific Publications. pp. 328–329. ISBN 978-0-632-00998-5.
+
+^ Eberhard MJ (1975). "The evolution of social behaviour by kin selection". Quarterly Review of Biology. 50: 1–33. doi:10.1086/408298. S2CID 14459515.
+
+^ Dawkins R (1989). "You scratch my back, I'll ride on yours.". The Selfish Gene. Oxford: Oxford University Press. pp. 183–185. ISBN 978-0192860927.
+
+^ a b c Axelrod R, Hamilton WD (March 1981). "The evolution of cooperation". Science. 211 (4489): 1390–6. Bibcode:1981Sci...211.1390A. doi:10.1126/science.7466396. PMID 7466396.
+
+^ a b c Sigmund K (1993). Games of Life. Oxford: Oxford University Press. pp. 180–206. ISBN 9780198546658.
+
+^ Smith JM (1989). "Evolution in structured populations". Evolutionary Genetics. Oxford: Oxford University Press. pp. 168–169, 181–183. ISBN 978-0198542155.
+
+^ Godfray HC (1992). "The evolution of forgiveness". Nature. 355 (6357): 206–207. Bibcode:1992Natur.355..206G. doi:10.1038/355206a0. S2CID 4335611.
+
+^ Nowak M, Sigmund K (June 1993). "Chaos and the evolution of cooperation". Proceedings of the National Academy of Sciences of the United States of America. 90 (11): 5091–4. Bibcode:1993PNAS...90.5091N. doi:10.1073/pnas.90.11.5091. PMC 46660. PMID 8506355.
+
+^ a b Koeslag JH (November 1997). "Sex, the Prisoner's Dilemma Game, and the evolutionary inevitability of cooperation". Journal of Theoretical Biology. 189 (1): 53–61. Bibcode:1997JThBi.189...53K. doi:10.1006/jtbi.1997.0496. PMID 9398503.
+
+^ Zahavi A (September 1975). "Mate selection-a selection for a handicap". Journal of Theoretical Biology. 53 (1): 205–14. Bibcode:1975JThBi..53..205Z. CiteSeerX 10.1.1.586.3819. doi:10.1016/0022-5193(75)90111-3. PMID 1195756.
+
+^ a b Zahavi A (August 1977). "The cost of honesty (further remarks on the handicap principle)". Journal of Theoretical Biology. 67 (3): 603–5. Bibcode:1977JThBi..67..603Z. doi:10.1016/0022-5193(77)90061-3. PMID 904334.
+
+^ Zahavi A (1997). The handicap principle: a missing piece of Darwin's puzzle. Oxford: Oxford University Press. ISBN 978-0-19-510035-8.
+
+^ Grafen A (June 1990). "Biological signals as handicaps". Journal of Theoretical Biology. 144 (4): 517–46. Bibcode:1990JThBi.144..517G. doi:10.1016/S0022-5193(05)80088-8. PMID 2402153.
+
+^ Johnstone RA, Grafen A (1993). "Dishonesty and the handicap principle". Anim. Behav. 46 (4): 759–764. doi:10.1006/anbe.1993.1253. S2CID 53191998.
+
+^ Hockey PA, Dean WR, Ryan PG (2005). Roberts Birds of Southern Africa. Cape Town: Trustees of the John Voelcker Bird Book Fund. pp. 176, 193.
+
+^ a b Fisher R (1930). The Genetical Theory of Natural Selection. Oxford: Clarendon Press..
+
+^ Symons D (1979). The Evolution of Human Sexuality. Oxford: Oxford University Press.
+
+^ Langlois JH, Roggman L (1990). "Attractive faces are only average". Psychol. Sci. 1 (2): 115–121. doi:10.1111/j.1467-9280.1990.tb00079.x. S2CID 18557871.
+
+^ a b Koeslag JH (May 1990). "Koinophilia groups sexual creatures into species, promotes stasis, and stabilizes social behaviour". Journal of Theoretical Biology. 144 (1): 15–35. Bibcode:1990JThBi.144...15K. doi:10.1016/s0022-5193(05)80297-8. PMID 2200930.
+
+^ Poelstra JW, Vijay N, Bossu CM, Lantz H, Ryll B, Müller I,  et al. (June 2014). "The genomic landscape underlying phenotypic integrity in the face of gene flow in crows". Science. 344 (6190): 1410–4. Bibcode:2014Sci...344.1410P. doi:10.1126/science.1253226. PMID 24948738. S2CID 14431499.
+
+^ Koeslag JH, Terblanche E (October 2003). "Evolution of cooperation: cooperation defeats defection in the cornfield model". Journal of Theoretical Biology. 224 (3): 399–410. Bibcode:2003JThBi.224..399K. doi:10.1016/s0022-5193(03)00188-7. PMID 12941597.
+
+^ "Altruism | Define Altruism at Dictionary.com". Dictionary.reference.com. Retrieved June 4, 2018.
+
+^ de Waal FB (April 2005). "How animals do business?". Scientific American. 292 (4): 54–61. JSTOR 26060958. PMID 15915815.
+
+^ Noe R, Voelkl B (2013). "Cooperation and biological markets: The power of partner choice.".  In Sterelny K, Joyce R, Calcott B, Fraser B (eds.). Cooperation and its evolution. Cambridge, MA US: The MIT Press. pp. 131–151.
+
+^ Bshary R, Noë R (2003). "Biological markets: the ubiquitous influence of partner choice on the dynamics of cleaner fish-client reef fish interactions.".  In Hammerstein P (ed.). Genetic and cultural evolution of cooperation. 9. Cambridge, MA US: MIT Press. pp. 167–184.
+
+^ Barelii C, Reichard U, Mundry R (2011). "Is grooming used as a commodity in wild white-handed gibbons, Hylobates lar?". Animal Behaviour. 82 (4): 801–809. doi:10.1016/j.anbehav.2011.07.012. S2CID 53190848.
+
+^ "Animal behaviour monographs". Animal Behaviour. 15 (4): 401–402. October 1967. doi:10.1016/0003-3472(67)90034-6. ISSN 0003-3472.
+
+^ Singer P (2011). The expanding circle: ethics, evolution, and moral progress. Princeton, NJ: Princeton University Press. ISBN 978-1-4008-3843-1. OCLC 733058004.
+
+^ Mech LD (2003). Wolves: Behavior,Ecology and conservation. university of Chicago press. p. 58. ISBN 978-0-226-51696-7.
+
+^ Baker CM (January 1, 1984). "Social care behaviour of captive slender mongooses (Herpestes sanguineus)". Mammalia. 48 (1): 43–52. doi:10.1515/mamm.1984.48.1.43. ISSN 1864-1547. S2CID 84868529.
+
+^ Allchin D (September 2009). "The evolution of morality". Evolution: Education and Outreach. 2 (4): 590–601. doi:10.1007/s12052-009-0167-7.
+
+^ Hohmann U, Bartussek I, Böer B (2001). Der Waschbär (in German). Reutlingen, Germany: Oertel+Spörer. ISBN 978-3-88627-301-0.
+
+^ Robert Ardrey, African Ganesis (N.Y.: Dell publishers, 1961), pp. 80-81, 136.
+
+^ Yamamoto S, Humle T, Tanaka M (October 2009). "Chimpanzees help each other upon request". PLOS ONE. 4 (10): e7416. Bibcode:2009PLoSO...4.7416Y. doi:10.1371/journal.pone.0007416. PMC 2757899. PMID 19826478.
+
+^ "Human-like Altruism Shown In Chimpanzees". ScienceDaily.
+
+^ Brosnan SF, Silk JB, Henrich J, Mareno MC, Lambeth SP, Schapiro SJ (July 2009). "Chimpanzees (Pan troglodytes) do not develop contingent reciprocity in an experimental task". Animal Cognition. 12 (4): 587–97. doi:10.1007/s10071-009-0218-z. PMC 2698971. PMID 19259709.
+
+^ "October 7, 2005, Hour Two". Archived from the original on October 13, 2005. Retrieved October 9, 2005.
+
+^ de Waal F (1996). Good Natured. Harvard University Press. pp. 20–21. ISBN 978-0-674-35660-3.
+
+^ Perry J (April 19, 2002). "Reciprocal Altruism in Vampire Bats". Archived from the original on September 20, 2009. Retrieved October 10, 2009.
+
+^ Cheney DL, Seyfarth RM (1990). How monkeys see the world: Inside the mind of another species. University of Chicago Press. ISBN 978-0-226-10246-7.
+
+^ Pereira ME, Izard MK (1989). "Lactation and care for unrelated infants in forest-living ringtailed Lemurs". American Journal of Primatology. 18 (2): 101–108. doi:10.1002/ajp.1350180204. PMID 31964040. S2CID 85433858.
+
+^ Davidson College, biology department (2001) Bottlenose Dolphins – Altruism  Archived January 6, 2010, at the Wayback Machine, article retrieved March 11, 2009. Archived version
+
+^ "Walrus: Odobenidae – Behavior And Reproduction". Retrieved August 12, 2008.
+
+^ Budzinski D, Schlosberg J. "Battle at Kruger". Youtube. Archived from the original on December 13, 2021.
+
+^ Pitman RL (2017). "Humpback whales interfering when mammal‐eating killer whales attack other species: Mobbing behavior and interspecific altruism?". Marine Mammal Science. 33: 7–58. doi:10.1111/mms.12343.
+
+^ Krueger K, Schneider G, Flauger B, Heinze J (December 2015). "Context-dependent third-party intervention in agonistic encounters of male Przewalski horses" (PDF). Behavioural Processes. 121: 54–62. doi:10.1016/j.beproc.2015.10.009. PMID 26478251. S2CID 3647491.
+
+^ Brown D (August 17, 2007). "Birds' Cooperative Breeding Sheds Light on Altruism". The Washington Post. Retrieved April 23, 2010.
+
+^ Fackelmann KA (1989). "Avian altruism: African birds sacrifice self-interest to help their kin – white-fronted bee eaters". Science News.
+
+^ Daniels RA (August 1979). "Nest Guard Replacement in the Antarctic Fish Harpagifer bispinis: Possible Altruistic Behavior". Science. New York, N.Y. 205 (4408): 831–3. Bibcode:1979Sci...205..831D. doi:10.1126/science.205.4408.831. PMID 17814861. S2CID 1628887.
+
+^ Bordereau C, Robert A, Van Tuyen V, Peppuy A (1997). "Suicidal defensive behavior by frontal gland dehiscence in Globitermes sulphureus Haviland soldiers (Isoptera)". Insectes Sociaux. 44 (3): 289–297. doi:10.1007/s000400050049. S2CID 19770804.
+
+^ a b Duffy JE (1996). "Eusociality in a coral-reef shrimp" (PDF). Nature. 381 (6582): 512–514. Bibcode:1996Natur.381..512D. doi:10.1038/381512a0. S2CID 33166806.
+
+^ a b Duffy JE, Morrison CL, Macdonald KS (2002). "Colony defense and behavioral differentiation in the eusocial shrimp Synalpheus regalis" (PDF). Behavioral Ecology and Sociobiology. 51 (5): 488–495. doi:10.1007/s00265-002-0455-5. S2CID 25384748. Archived from the original (PDF) on August 3, 2015.
+
+^ Parker PG, Snow AA, Schug MD, Booton GC, Fuerst PA (1998). "What molecules can tell us about populations: Choosing and using a molecular marker". Ecology. 79 (2): 361–382. doi:10.2307/176939. JSTOR 176939.
+
+^ Hamilton WD (July 1964). "The genetical evolution of social behaviour. II". Journal of Theoretical Biology. 7 (1): 17–52. Bibcode:1964JThBi...7...17H. doi:10.1016/0022-5193(64)90039-6. PMID 5875340.
+
+^ "Altruism". Reference.com. Archived from the original on November 8, 2012. Retrieved July 20, 2013.
+
+
+Further reading[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}
+Stoel A (2012). "The meme of altruism and degrees of personhood" (PDF). Journal of Personal Cyberconsciousness. 7 (1): 27–36.
+
+External links[edit]
+Biological Altruism 
+International Union for the Study of Social Insects
+Quick Guide: Kin Selection (Current Biology)
+Quick Guide: Altruism (Current Biology)
+"Mutt-ernal Instincts" An article about dogs caring for other species' young (cats, tigers, etc.).
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteEthologyBranches
+Animal cognition
+Animal communication
+Animal consciousness
+Animal culture
+Animal sexual behaviour
+Animal welfare science
+Anthrozoology
+Bee learning and communication
+Behavioural ecology
+Behavioral endocrinology
+Behavioural genetics
+Cognitive ethology
+Comparative psychology
+Emotion in animals
+Evolutionary neuroscience
+Human ethology
+Instinct
+Learning
+Neuroethology
+Pain in animals
+Sociobiology
+Tool use by animals
+Zoosemiotics
+Zoomusicology
+Ethologists
+Patrick Bateson
+Marc Bekoff
+Donald Broom
+John B. Calhoun
+Charles Darwin
+Marian Dawkins
+Richard Dawkins
+Irenäus Eibl-Eibesfeldt
+Dian Fossey
+Karl von Frisch
+Jane Goodall
+Heini Hediger
+Julian Huxley
+Konrad Lorenz
+Desmond Morris
+Thomas Sebeok
+William Homan Thorpe
+Nikolaas Tinbergen
+Jakob von Uexküll
+Wolfgang Wickler
+E. O. Wilson
+Solly Zuckerman
+Societies
+Association for the Study of Animal Behaviour
+International Society for Applied Ethology
+Journals
+Animal Behaviour
+Animal Cognition
+Animal Welfare
+Behavioral Ecology
+Behaviour
+
+Category
+
+Authority control: National libraries  
+United States
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Altruism_(biology)&oldid=1060211822"
+		Categories: Behavioral ecologyEthologyAltruismHidden categories: CS1 German-language sources (de)Webarchive template wayback linksUse mdy dates from February 2015Wikipedia articles needing clarification from August 2014Articles with LCCN identifiers
+	

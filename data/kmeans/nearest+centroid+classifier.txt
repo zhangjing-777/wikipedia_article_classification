@@ -1,0 +1,282 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		  Rocchio Classification
+In machine learning, a nearest centroid classifier or nearest prototype classifier is a classification model that assigns to observations the label of the class of training samples whose mean (centroid) is closest to the observation.
+When applied to text classification using tf*idf vectors to represent documents, the nearest centroid classifier is known as the Rocchio classifier because of its similarity to the Rocchio algorithm for relevance feedback.[1]
+An extended version of the nearest centroid classifier has found applications in the medical domain, specifically classification of tumors.[2]
+
+Algorithm[edit]
+Training procedure: given labeled training samples 
+  
+    
+      
+        
+          {
+          (
+          
+            
+              
+                
+                  x
+                  →
+                
+              
+            
+            
+              1
+            
+          
+          ,
+          
+            y
+            
+              1
+            
+          
+          )
+          ,
+          …
+          ,
+          (
+          
+            
+              
+                
+                  x
+                  →
+                
+              
+            
+            
+              n
+            
+          
+          ,
+          
+            y
+            
+              n
+            
+          
+          )
+          }
+        
+      
+    
+    {\displaystyle \textstyle \{({\vec {x}}_{1},y_{1}),\dots ,({\vec {x}}_{n},y_{n})\}}
+  
+ with class labels 
+  
+    
+      
+        
+          y
+          
+            i
+          
+        
+        ∈
+        
+          Y
+        
+      
+    
+    {\displaystyle y_{i}\in \mathbf {Y} }
+  
+, compute the per-class centroids 
+  
+    
+      
+        
+          
+            
+              
+                
+                  μ
+                  
+                    l
+                  
+                
+                →
+              
+            
+          
+          =
+          
+            
+              1
+              
+                
+                  |
+                
+                
+                  C
+                  
+                    l
+                  
+                
+                
+                  |
+                
+              
+            
+          
+          
+            
+              ∑
+              
+                i
+                ∈
+                
+                  C
+                  
+                    l
+                  
+                
+              
+            
+          
+          
+            
+              
+                
+                  x
+                  →
+                
+              
+            
+            
+              i
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\vec {\mu _{l}}}={\frac {1}{|C_{l}|}}{\underset {i\in C_{l}}{\sum }}{\vec {x}}_{i}}
+  
+ where 
+  
+    
+      
+        
+          C
+          
+            l
+          
+        
+      
+    
+    {\displaystyle C_{l}}
+  
+ is the set of indices of samples belonging to class 
+  
+    
+      
+        l
+        ∈
+        
+          Y
+        
+      
+    
+    {\displaystyle l\in \mathbf {Y} }
+  
+.
+Prediction function: the class assigned to an observation 
+  
+    
+      
+        
+          
+            
+              x
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {x}}}
+  
+ is 
+  
+    
+      
+        
+          
+            
+              y
+              ^
+            
+          
+        
+        =
+        
+          
+            arg
+            ⁡
+            min
+          
+          
+            l
+            ∈
+            
+              Y
+            
+          
+        
+        ‖
+        
+          
+            
+              
+                μ
+                →
+              
+            
+          
+          
+            l
+          
+        
+        −
+        
+          
+            
+              x
+              →
+            
+          
+        
+        ‖
+      
+    
+    {\displaystyle {\hat {y}}={\arg \min }_{l\in \mathbf {Y} }\|{\vec {\mu }}_{l}-{\vec {x}}\|}
+  
+.
+See also[edit]
+Cluster hypothesis
+k-means clustering
+k-nearest neighbor algorithm
+Linear discriminant analysis
+References[edit]
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Manning, Christopher; Raghavan, Prabhakar; Schütze, Hinrich (2008). "Vector space classification". Introduction to Information Retrieval. Cambridge University Press.
+
+^ Tibshirani, Robert; Hastie, Trevor; Narasimhan, Balasubramanian; Chu, Gilbert (2002). "Diagnosis of multiple cancer types by shrunken centroids of gene expression". Proceedings of the National Academy of Sciences. 99 (10): 6567–6572. doi:10.1073/pnas.082099299. PMC 124443. PMID 12011421.
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nearest_centroid_classifier&oldid=1043670299"
+		Categories: Classification algorithms
+	

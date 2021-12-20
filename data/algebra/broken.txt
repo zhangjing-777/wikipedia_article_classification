@@ -1,0 +1,329 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Arabic Mathematical treatise of Algebra
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}"Al-jabr" redirects here. For other uses, see Jaber (disambiguation).
+
+
+.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}title page, 9th centuryAuthorMuhammad ibn Musa al-KhwarizmiOriginal titleكتاب المختصر في حساب الجبر والمقابلةCountryAbbasid CaliphateLanguageArabicSubjectAlgebra[a]GenreMathematicsOriginal textكتاب المختصر في حساب الجبر والمقابلة at Arabic Wikisource
+The Compendious Book on Calculation by Completion and Balancing (Arabic: ٱلْكِتَاب ٱلْمُخْتَصَر فِي حِسَاب ٱلْجَبْر وَٱلْمُقَابَلَة‎, al-Kitāb al-Mukhtaṣar fī Ḥisāb al-Jabr wal-Muqābalah;[b] Latin: Liber Algebræ et Almucabola), also known as Al-Jabr (ٱلْجَبْر), is an Arabic mathematical treatise on algebra written by the Polymath Muḥammad ibn Mūsā al-Khwārizmī around 820 CE while he was in the Abbasid capital of Baghdad, modern-day Iraq. Al-Jabr was a landmark work in the history of mathematics, establishing algebra as an independent discipline, and with the term "algebra" itself derived from Al-Jabr.
+The Compendious Book provided an exhaustive account of solving for the positive roots of polynomial equations up to the second degree.[1]: 228 [c] It was the first text to teach algebra in an elementary form and for its own sake.[d] It also introduced the fundamental concept of "reduction" and "balancing" (which the term al-jabr originally referred to), the transposition of subtracted terms to the other side of an equation, i.e. the cancellation of like terms on opposite sides of the equation.[e] Mathematics historian Victor J. Katz regards Al-Jabr as the first true algebra text that is still extant.[f] Translated into Latin by Robert of Chester in 1145, it was used until the sixteenth century as the principal mathematical textbook of European universities.[4][g][6][7]
+Several authors have also published texts under this name, including Abū Ḥanīfa al-Dīnawarī, Abū Kāmil Shujā ibn Aslam, Abū Muḥammad al-ʿAdlī, Abū Yūsuf al-Miṣṣīṣī, 'Abd al-Hamīd ibn Turk, Sind ibn ʿAlī, Sahl ibn Bišr, and Šarafaddīn al-Ṭūsī.
+
+Contents
+
+1 Legacy
+2 The book
+3 Quadratic equations
+4 Area and volume
+5 Other topics
+6 Notes
+7 References
+8 Further reading
+9 External links
+
+
+
+Legacy[edit]
+R. Rashed and Angela Armstrong write:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}Al-Khwarizmi's text can be seen to be distinct not only from the Babylonian tablets, but also from the Diophantus' Arithmetica. It no longer concerns a series of problems to be resolved, but an exposition which starts with primitive terms in which the combinations must give all possible prototypes for equations, which henceforward explicitly constitute the true object of study. On the other hand, the idea of an equation for its own sake appears from the beginning and, one could say, in a generic manner, insofar as it does not simply emerge in the course of solving a problem, but is specifically called on to define an infinite class of problems.[8]
+J. J. O'Connor and E. F. Robertson wrote in the MacTutor History of Mathematics archive:
+
+Perhaps one of the most significant advances made by Arabic mathematics began at this time with the work of al-Khwarizmi, namely the beginnings of algebra. It is important to understand just how significant this new idea was. It was a revolutionary move away from the Greek concept of mathematics which was essentially geometry. Algebra was a unifying theory which allowed rational numbers, irrational numbers, geometrical magnitudes, etc., to all be treated as "algebraic objects". It gave mathematics a whole new development path so much broader in concept to that which had existed before, and provided a vehicle for future development of the subject. Another important aspect of the introduction of algebraic ideas was that it allowed mathematics to be applied to itself in a way which had not happened before.[9]
+The book[edit]
+The book was a compilation and extension of known rules for solving quadratic equations and for some other problems, and considered to be the foundation of algebra, establishing it as an independent discipline. The word algebra is derived from the name of one of the basic operations with equations described in this book, following its Latin translation by Robert of Chester.[10]
+
+Quadratic equations[edit]
+  Pages from a 14th-century Arabic copy of the book, showing geometric solutions to two quadratic equations
+The book classifies quadratic equations to one of the six basic types and provides algebraic and geometric methods to solve the basic ones. Historian Carl Boyer notes the following regarding the lack of modern abstract notations in the book:[11]
+
+... the algebra of al-Khwarizmi is thoroughly rhetorical, with none of the syncopation (see History of algebra) found in the Greek Arithmetica or in Brahmagupta's work. Even the numbers were written out in words rather than symbols! — Carl B. Boyer, A History of Mathematics
+Thus the equations are verbally described in terms of "squares" (what would today be "x2"), "roots" (what would today be "x") and "numbers" ("constants": ordinary spelled out numbers, like 'forty-two'). The six types, with modern notations, are:
+
+squares equal roots (ax2 = bx)
+squares equal number (ax2 = c)
+roots equal number (bx = c)
+squares and roots equal number (ax2 + bx = c)
+squares and number equal roots (ax2 + c = bx)
+roots and number equal squares (bx + c = ax2)
+Islamic mathematicians, unlike the Hindus, did not deal with negative numbers at all; hence an equation like bx + c = 0 does not appear in the classification, because it has no positive solutions if all the coefficients are positive. Similarly equation types 4, 5 and 6, which look equivalent to the modern eye, were distinguished because the coefficients must all be positive.[3][page needed]
+The al-ğabr ("forcing", "restoring") operation is moving a deficient quantity from one side of the equation to the other side. In an al-Khwarizmi's example (in modern notation), "x2 = 40x − 4x2" is transformed by al-ğabr into "5x2 = 40x". Repeated application of this rule eliminates negative quantities from calculations.
+Al-Muqabala (المقابله, "balancing" or "corresponding") means subtraction of the same positive quantity from both sides: "x2 + 5 = 40x + 4x2" is turned into "5 = 40x + 3x2". Repeated application of this rule makes quantities of each type ("square"/"root"/"number") appear in the equation at most once, which helps to see that there are only 6 basic solvable types of the problem, when restricted to positive coefficients and solutions. 
+Subsequent parts of the book do not rely on solving quadratic equations.
+
+Area and volume[edit]
+The second chapter of the book catalogues methods of finding area and volume. These include approximations of pi (π), given three ways, as 3 1/7, √10, and 62832/20000. This latter approximation, equalling 3.1416, earlier appeared in the Indian Āryabhaṭīya (499 CE).[12]
+
+Other topics[edit]
+Al-Khwārizmī explicates the Jewish calendar and the 19-year cycle described by the convergence of lunar months and solar years.[12]
+About half of the book deals with Islamic rules of inheritance, which are complex and require skill in first-order algebraic equations.[13]
+
+Notes[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ This book is the source of the word; see transliterated title.
+
+^ The Arabic title is sometimes condensed to Hisab al-Jabr wal-Muqabalah or Kitab al-Jabr wal-Muqabalah or given under other transliterations.
+
+^ "The Arabs in general loved a good clear argument from premise to conclusion, as well as systematic organization – respects in which neither Diophantus nor the Hindus excelled."[1]: 228 
+
+^ "In a sense, Khwarizmi is more entitled to be called "the father of algebra" than Diophantus because Khwarizmi is the first to teach algebra in an elementary form and for its own sake, Diophantus is primarily concerned with the theory of numbers".[2]
+
+^ "It is not certain just what the terms al-jabr and muqabalah mean, but the usual interpretation is similar to that implied in the translation above. The word al-jabr presumably meant something like "restoration" or "completion" and seems to refer to the transposition of subtracted terms to the other side of an equation, which is evident in the treatise; the word muqabalah is said to refer to "reduction" or "balancing"—that is, the cancellation of like terms on opposite sides of the equation."[1]: 229 
+
+^ "The first true algebra text which is still extant is the work on al-jabr and al-muqabala by Mohammad ibn Musa al-Khwarizmi, written in Baghdad around 825."[3]
+
+^ "The Compendious Book on Calculation by Completion and Balancing" (Hisab al-Jabr wa H-Muqabala) on the development of the subject cannot be underestimated. Translated into Latin during the twelfth century, it remained the principal mathematics textbook in European universities until the sixteenth century"[5]
+
+
+References[edit]
+
+
+^ a b c .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Boyer, Carl B. (1991). "The Arabic Hegemony". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. ISBN 0-471-54397-7.
+
+^ Gandz; Saloman (1936). The sources of al-Khwarizmi's algebra. I. Osiris. pp. 263–277.
+
+^ a b Katz, Victor J. (2006). "Stages in the History of Algebra With Implications For Teaching" (PDF). Washington, DC: University of the District of Columbia: 190. Cite journal requires |journal= (help)
+
+^ Philip Khuri Hitti (2002). History of the Arabs. Macmillan International Higher Education. pp. 379.
+
+^ Fred James Hill, Nicholas Awde (2003). A History of the Islamic World. Hippocrene Books. pp. 55.
+
+^ Shawn Overbay, Jimmy Schorer, and Heather Conger, University of Kentucky. "Al-Khwarizmi".CS1 maint: multiple names: authors list (link)
+
+^ "Islam Spain and the history of technology". www.sjsu.edu. Retrieved 24 January 2018.
+
+^ Rashed, R.; Armstrong, Angela (1994). The Development of Arabic Mathematics. Springer. pp. 11–12. ISBN 0-7923-2565-6. OCLC 29181926.
+
+^ O'Connor, John J.; Robertson, Edmund F. (1999), "Arabic mathematics: forgotten brilliance?", MacTutor History of Mathematics archive, University of St Andrews
+
+^ Robert of Chester (1915). Algebra of al-Khowarizmi. Macmillan.
+
+^ Carl B. Boyer, A History of Mathematics, Second Edition (Wiley, 1991), p. 228
+
+^ a b B.L. van der Waerden, A History of Algebra: From al-Khwārizmī to Emmy Noether; Berlin: Springer-Verlag, 1985. ISBN 3-540-13610-X
+
+^ David A. King (2003). "Mathematics applied to aspects of religious ritual in Islam".  In I. Grattan-Guinness (ed.). Companion Encyclopedia of the History and Philosophy of the Mathematical Sciences. 1. JHU Press. p. 83. ISBN 9780801873966.
+
+
+Further reading[edit]
+Barnabas B. Hughes, ed., Robert of Chester's Latin Translation of Al-Khwarizmi's Al-Jabr: A New Critical Edition, (in Latin) Wiesbaden: F. Steiner Verlag, 1989. ISBN 3-515-04589-9
+Boyer, Carl B. (1991). "The Arabic Hegemony". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. ISBN 0-471-54397-7.
+R. Rashed, The development of Arabic mathematics: between arithmetic and algebra, London, 1994.[ISBN missing]
+External links[edit]
+19th Century English Translation
+Al-Khwarizmi
+Annotated excerpt from a translation of the Compendious Book. University of Duisburg-Essen.
+The Compendious Book on Calculation by Completion and Balancing In the Arabic original with an English translation (PDF)
+Ghani, Mahbub (5 January 2007). "The Science of Restoring and Balancing – The Science of Algebra". Muslim Heritage.
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteMathematics in medieval IslamMathematicians9th century
+'Abd al-Hamīd ibn Turk
+Sanad ibn Ali
+al-Jawharī
+Al-Ḥajjāj ibn Yūsuf
+Al-Kindi
+Qusta ibn Luqa
+Al-Mahani
+al-Dinawari
+Banū Mūsā
+Hunayn ibn Ishaq
+al-Khwārizmī
+Yusuf Al-Khuri
+Ishaq ibn Hunayn
+Na'im ibn Musa
+Thābit ibn Qurra
+al-Marwazi
+Abu Said Gorgani
+10th century
+Abu al-Wafa
+al-Khazin
+Al-Qabisi
+Abū Kāmil
+Ahmad ibn Yusuf
+Aṣ-Ṣaidanānī
+Sinān ibn al-Fatḥ
+al-Khojandi
+Al-Nayrizi
+Al-Saghani
+Brethren of Purity
+Ibn Sahl
+Ibn Yunus
+al-Uqlidisi
+Al-Battani
+Sinan ibn Thabit
+Ibrahim ibn Sinan
+Al-Isfahani
+Nazif ibn Yumn
+al-Qūhī
+Abu al-Jud
+Al-Sijzi
+Al-Karaji
+al-Majriti
+al-Jabali
+11th century
+Abu Nasr Mansur
+Alhazen
+Kushyar Gilani
+Al-Biruni
+Ibn al-Samh
+Abu Mansur al-Baghdadi
+Avicenna
+al-Jayyānī
+ al-Nasawī
+al-Zarqālī
+ ibn Hud
+Al-Isfizari
+Omar Khayyam
+Muhammad al-Baghdadi
+12th century
+Jabir ibn Aflah
+Al-Kharaqī
+Al-Khazini
+Al-Samawal al-Maghribi
+al-Hassar
+Sharaf al-Dīn al-Ṭūsī
+Ibn al-Yasamin
+13th century
+Ibn al‐Ha'im al‐Ishbili
+Ahmad al-Buni
+Ibn Munim
+Alam al-Din al-Hanafi
+Ibn 'Adlan
+al-Urdi
+Nasir al-Din al-Tusi
+al-Abhari
+Muhyi al-Dīn al-Maghribī
+al-Hasan al-Marrakushi
+Qutb al-Din al-Shirazi
+Shams al-Dīn al-Samarqandī
+Ibn al-Banna'
+Kamāl al-Dīn al-Fārisī
+14th century
+Nizam al-Din Nishapuri
+Ibn al-Shatir
+Ibn al-Durayhim
+Al-Khalili
+al-Umawi
+15th century
+Ibn al-Majdi
+al-Rūmī
+al-Kāshī
+Ulugh Beg
+Ali Qushji
+al-Wafa'i
+ al-Qalaṣādī
+Sibt al-Maridini
+Ibn Ghazi al-Miknasi
+16th century
+Al-Birjandi
+Muhammad Baqir Yazdi
+Taqi ad-Din
+Ibn Hamza al-Maghribi
+Ahmad Ibn al-Qadi
+Mathematical works
+The Compendious Book on Calculation by Completion and Balancing
+De Gradibus
+Principles of Hindu Reckoning
+Book of Optics
+The Book of Healing
+Almanac
+Encyclopedia of the Brethren of Purity
+Toledan Tables
+Tabula Rogeriana
+Zij
+Concepts
+Alhazen's problem
+Islamic geometric patterns
+Centers
+Al-Azhar University
+Al-Mustansiriya University
+House of Knowledge
+House of Wisdom
+Constantinople observatory of Taqi al-Din
+Madrasa
+Maragheh observatory
+University of Al Quaraouiyine
+Influences
+Babylonian mathematics
+Greek mathematics
+Indian mathematics
+Influenced
+Byzantine mathematics
+European mathematics
+Indian mathematics
+Related
+Hindu–Arabic numeral system
+Arabic numerals (Eastern Arabic numerals, Western Arabic numerals)
+Trigonometric functions
+History of trigonometry
+History of algebra
+
+vteMathematics in IranMathematiciansBefore 20th Century
+Abu al-Wafa' Buzjani
+Jamshīd al-Kāshī (al-Kashi's theorem)
+Omar Khayyam (Khayyam-Pascal's triangle, Khayyam-Saccheri quadrilateral, Khayyam's Solution of Cubic Equations)
+Al-Mahani
+Muhammad Baqir Yazdi
+Nizam al-Din al-Nisapuri
+Al-Nayrizi
+Kushyar Gilani
+Ayn al-Quzat Hamadani
+Al-Isfahani
+Al-Isfizari
+Muhammad ibn Musa al-Khwarizmi (Al-jabr)
+Najm al-Din al-Qazwini al-Katibi
+Nasir al-Din al-Tusi
+Al-Biruni
+Modern
+Maryam Mirzakhani
+Caucher Birkar
+Sara Zahedi
+Farideh Firoozbakht (Firoozbakht's conjecture)
+S. L. Hakimi (Havel–Hakimi algorithm)
+Siamak Yassemi
+Freydoon Shahidi (Langlands–Shahidi method)
+Hamid Naderi Yeganeh (A Bird in Flight, Boat, Fractal Africa)
+Esmail Babolian
+Ramin Takloo-Bighash
+Lotfi A. Zadeh (Fuzzy mathematics, Fuzzy set, Fuzzy logic)
+Ebadollah S. Mahmoodian
+Reza Sarhangi (The Bridges Organization)
+Siavash Shahshahani
+Gholamhossein Mosaheb
+Amin Shokrollahi
+Reza Sadeghi
+Mohammad Mehdi Zahedi
+Mohsen Hashtroodi
+Hossein Zakeri
+Amir Ali Ahmadi
+Prize RecipientsFields Medal
+Maryam Mirzakhani (2014)
+Caucher Birkar (2018)
+EMS Prize
+Sara Zahedi (2016)
+Satter Prize
+Maryam Mirzakhani (2013)
+Organizations
+Iranian Mathematical Society
+Institutions
+Institute for Research in Fundamental Sciences
+
+
+
+Authority control 
+Integrated Authority File (Germany)
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=The_Compendious_Book_on_Calculation_by_Completion_and_Balancing&oldid=1045435234"
+		Categories: History of algebraMathematical works of the Abbasid Caliphate9th-century Arabic booksMathematics textbooksHidden categories: CS1 errors: missing periodicalCS1 maint: multiple names: authors listArticles with short descriptionShort description matches WikidataUse dmy dates from September 2020Articles containing Arabic-language textArticles that link to foreign-language WikisourcesArticles containing Latin-language textWikipedia articles needing page number citations from January 2020Pages with missing ISBNsArticles with GND identifiers
+	

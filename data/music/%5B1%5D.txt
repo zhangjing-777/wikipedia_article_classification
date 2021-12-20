@@ -1,0 +1,138 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+          This template is of interest to the following WikiProjects:
+
+
+
+
+WikiProject Theatre 
+(Rated Template-class)
+
+
+
+
+
+
+.mw-parser-output .portalbox{float:right;border:solid #aaa 1px;padding:0}.mw-parser-output .portalbox.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portalbox.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portalbox>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portalbox>ul>li{display:table-row}.mw-parser-output .portalbox>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}
+
+Theatre portalThis template is part of WikiProject Theatre, a WikiProject dedicated to coverage of theatre on Wikipedia. To participate: Feel free to edit the article attached to this page, join up at the project page, or contribute to the project discussion.TheatreWikipedia:WikiProject TheatreTemplate:WikiProject TheatreTheatre articles
+ Template 
+This template does not require a rating on the project's quality scale.
+
+
+ 
+
+
+
+
+WikiProject Musical Theatre 
+(Rated Template-class)
+
+
+
+
+
+
+Performing arts is part of WikiProject Musical Theatre, organized to improve and complete musical theatre articles and coverage on Wikipedia.  You can edit the article attached to this page, or visit the project page, where you can join the project and see a list of open tasks.Musical TheatreWikipedia:WikiProject Musical TheatreTemplate:WikiProject Musical TheatreMusical Theatre articles
+ Template 
+This template does not require a rating on the  quality scale.
+
+
+ 
+
+
+
+
+
+Contents
+
+1 Opera & Ballet · Theatre
+2 Ballet
+3 "Speach"
+4 Edit request on 2 February 2013
+5 edit request
+6 Semi-protected edit request on 12 April 2015
+7 Professional wrestling
+
+
+
+Opera & Ballet · Theatre[edit]
+It is strange to put it like this. Opera and Ballet are indeed theatrical genres. It is not something different from theatre. Instead of theatre I would put drama or I would merge all three terms under one term theatre (together with mime and puppetry mentioned as minor genres).
+--Rudoleska (talk) 22:42, 24 February 2013 (UTC)
+
+Ballet[edit]
+Why is ballet identified as its own major form of performing art? Why not just put it in parentheses as a major and theatrical type of the major form of dance, like opera is in parentheses as a major and theatrical type of music?  — Preceding unsigned comment added by 71.245.160.77 (talk) 18:02, 21 June 2013 (UTC) 
+Ballet is not the same as other forms of dance. Whether you like it or not Ballet is just as much theatre as it is dance. And it seems rather odd to have Opera on there without its sister art. Tahc what kind of sources would I need. You can't use sources on a template. Just read the Ballet article.-Rainbowofpeace (talk) 09:13, 13 October 2012 (UTC)
+
+Just remove the opera then.
+The lead from ballet is nothing like your description of ballet in your edit summary's. If there is a suitable passage from the article that is cited with a RS then just quote it here. Better yet quote the RS (a book on ballet or dance).
+Hula says right in the lead than the "hula dramatizes or portrays the words... in a visual dance form." Do you also want hula listed? It makes a better case than ballet. tahc chat 11:04, 13 October 2012 (UTC)
+http://dictionary.reference.com/browse/ballet?s=t
+http://www.merriam-webster.com/dictionary/ballet
+http://education.yahoo.com/reference/dictionary/entry/ballet
+http://www.collinsdictionary.com/dictionary/english/ballet
+http://www.macmillandictionary.com/dictionary/american/ballet
+http://www.wordnik.com/words/ballet
+http://dictionary.cambridge.org/dictionary/british/ballet
+http://machaut.uchicago.edu/?resource=Webster%27s&word=ballet&use1913=on
+http://www.allwords.com/query.php?SearchType=3&Keyword=Ballet&goquery=Find+it%21&Language=ENG
+http://www.bartleby.com/81/1284.html
+http://www.freedictionary.org/?Query=ballet
+http://poets.notredame.ac.jp/cgi-bin/wn?cmd=wn&word=ballet
+These are all dictionary defintions of the word ballet almost all of them define ballet as theatrical or say it is dance and pantomime using costumes to tell a story.-Rainbowofpeace (talk) 11:31, 13 October 2012 (UTC)
+"Speach"[edit]
+This is a misspelling of "speech", not simply an alternate spelling. Can someone with the authority to fix it please do so?  — Preceding unsigned comment added by 75.150.107.166 (talk) 22:59, 9 November 2012 (UTC) 
+
+ Already done HueSatLum 16:14, 2 February 2013 (UTC)
+Edit request on 2 February 2013[edit]
+This edit request has been answered. Set the |answered= or |ans= parameter to no to reactivate your request.
+2.96.43.214 (talk) 15:30, 2 February 2013 (UTC)
+please
+
+ Not done: please be more specific about what needs to be changed. HueSatLum 16:15, 2 February 2013 (UTC)
+edit request[edit]
+This edit request has been answered. Set the |answered= or |ans= parameter to no to reactivate your request.
+Music started from a bunch of white men standing in a circle hitting their drums.
+66.175.147.90 (talk) 17:13, 5 November 2013 (UTC)
+
+ Not done: --Stfg (talk) 18:54, 5 November 2013 (UTC)
+Semi-protected edit request on 12 April 2015[edit]
+This edit request has been answered. Set the |answered= or |ans= parameter to no to reactivate your request.
+Please replace
+
+ * [[Puppetry]]
+ ** [[Ventriloquism]] 
+
+with
+
+ * [[Puppetry]]&nbsp;([[ventriloquism]]) 
+
+to avoid the word wrap (and correct the parenthesis grammar).
+195.147.56.213 (talk) 07:57, 12 April 2015 (UTC)
+
+ Not done: There's been an intermediate edit that's done away with the nesting. Do you still want something changed? Alakzi (talk) 23:21, 12 April 2015 (UTC)
+Professional wrestling[edit]
+I have added professional wrestling to the template. If you would like to remove it, please outline your reasoning here. Interlaker (talk) 04:32, 11 April 2018 (UTC)
+Sources: 
+
+http://pk.ign.com/ign-pakistan/11700/opinion/pro-wrestling-is-the-most-misunderstood-art-form-in-the-worl
+http://theconversation.com/raw-theatre-pro-wrestling-belongs-on-the-arts-pages-41180
+https://www.npr.org/sections/monkeysee/2014/04/16/303652716/drag-is-raw-wrestlers-queens-and-gender-as-performance-art
+Fine, I'll count the third one. The first one is not a reliable source because its an opinion piece. The second one is much closer arguing its a form of theatre but doesn't explicitly call it a performing art. However I can't argue with the third one. I withdraw my objection. -Rainbowofpeace (talk) 08:37, 11 April 2018 (UTC)
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template_talk:Performing_arts&oldid=835873408"
+		Categories: Template-Class Theatre articlesNA-importance Theatre articlesWikiProject Theatre articlesTemplate-Class Musical Theatre articles
+	

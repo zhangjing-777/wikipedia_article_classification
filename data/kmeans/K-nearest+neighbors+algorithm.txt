@@ -1,0 +1,1577 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Non-parametric classification method
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}Not to be confused with k-means clustering.
+In statistics, the k-nearest neighbors algorithm (k-NN) is a non-parametric classification method first developed by Evelyn Fix and Joseph Hodges in 1951,[1] and later expanded by Thomas Cover.[2] It is used for classification and regression. In both cases, the input consists of the k closest training examples in a data set. The output depends on whether k-NN is used for classification or regression:
+
+In k-NN classification, the output is a class membership. An object is classified by a plurality vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small). If k = 1, then the object is simply assigned to the class of that single nearest neighbor.
+In k-NN regression, the output is the property value for the object. This value is the average of the values of k nearest neighbors.
+k-NN is a type of classification where the function is only approximated locally and all computation is deferred until function evaluation. Since this algorithm relies on distance for classification, if the features represent different physical units or come in vastly different scales then normalizing the training data can improve its accuracy dramatically.[3][4]
+Both for classification and regression, a useful technique can be to assign weights to the contributions of the neighbors, so that the nearer neighbors contribute more to the average than the more distant ones. For example, a common weighting scheme consists in giving each neighbor a weight of 1/d, where d is the distance to the neighbor.[5]
+The neighbors are taken from a set of objects for which the class (for k-NN classification) or the object property value (for k-NN regression) is known. This can be thought of as the training set for the algorithm, though no explicit training step is required.
+A peculiarity of the k-NN algorithm is that it is sensitive to the local structure of the data.
+
+Contents
+
+1 Statistical setting
+2 Algorithm
+3 Parameter selection
+4 The 1-nearest neighbor classifier
+5 The weighted nearest neighbour classifier
+6 Properties
+7 Error rates
+8 Metric learning
+9 Feature extraction
+10 Dimension reduction
+11 Decision boundary
+12 Data reduction
+
+12.1 Selection of class-outliers
+12.2 Condensed Nearest Neighbor for data reduction
+
+
+13 k-NN regression
+14 k-NN outlier
+15 Validation of results
+16 See also
+17 References
+18 Further reading
+
+
+
+Statistical setting[edit]
+Suppose we have pairs 
+  
+    
+      
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        
+          Y
+          
+            1
+          
+        
+        )
+        ,
+        (
+        
+          X
+          
+            2
+          
+        
+        ,
+        
+          Y
+          
+            2
+          
+        
+        )
+        ,
+        …
+        ,
+        (
+        
+          X
+          
+            n
+          
+        
+        ,
+        
+          Y
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (X_{1},Y_{1}),(X_{2},Y_{2}),\dots ,(X_{n},Y_{n})}
+  
+ taking values in 
+  
+    
+      
+        
+          
+            R
+          
+          
+            d
+          
+        
+        ×
+        {
+        1
+        ,
+        2
+        }
+      
+    
+    {\displaystyle \mathbb {R} ^{d}\times \{1,2\}}
+  
+, where Y is the class label of X, so that 
+  
+    
+      
+        X
+        
+          |
+        
+        Y
+        =
+        r
+        ∼
+        
+          P
+          
+            r
+          
+        
+      
+    
+    {\displaystyle X|Y=r\sim P_{r}}
+  
+ for 
+  
+    
+      
+        r
+        =
+        1
+        ,
+        2
+      
+    
+    {\displaystyle r=1,2}
+  
+ (and probability distributions 
+  
+    
+      
+        
+          P
+          
+            r
+          
+        
+      
+    
+    {\displaystyle P_{r}}
+  
+). Given some norm 
+  
+    
+      
+        ‖
+        ⋅
+        ‖
+      
+    
+    {\displaystyle \|\cdot \|}
+  
+ on 
+  
+    
+      
+        
+          
+            R
+          
+          
+            d
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{d}}
+  
+ and a point 
+  
+    
+      
+        x
+        ∈
+        
+          
+            R
+          
+          
+            d
+          
+        
+      
+    
+    {\displaystyle x\in \mathbb {R} ^{d}}
+  
+, let 
+  
+    
+      
+        (
+        
+          X
+          
+            (
+            1
+            )
+          
+        
+        ,
+        
+          Y
+          
+            (
+            1
+            )
+          
+        
+        )
+        ,
+        …
+        ,
+        (
+        
+          X
+          
+            (
+            n
+            )
+          
+        
+        ,
+        
+          Y
+          
+            (
+            n
+            )
+          
+        
+        )
+      
+    
+    {\displaystyle (X_{(1)},Y_{(1)}),\dots ,(X_{(n)},Y_{(n)})}
+  
+ be a reordering of the training data such that 
+  
+    
+      
+        ‖
+        
+          X
+          
+            (
+            1
+            )
+          
+        
+        −
+        x
+        ‖
+        ≤
+        ⋯
+        ≤
+        ‖
+        
+          X
+          
+            (
+            n
+            )
+          
+        
+        −
+        x
+        ‖
+      
+    
+    {\displaystyle \|X_{(1)}-x\|\leq \dots \leq \|X_{(n)}-x\|}
+  
+.
+
+Algorithm[edit]
+  Example of k-NN classification. The test sample (green dot) should be classified either to blue squares or to red triangles.  If k = 3 (solid line circle) it is assigned to the red triangles because there are 2 triangles and only 1 square inside the inner circle.  If k = 5 (dashed line circle) it is assigned to the blue squares (3 squares vs. 2 triangles inside the outer circle).
+The training examples are vectors in a multidimensional feature space, each with a class label. The training phase of the algorithm consists only of storing the feature vectors and class labels of the training samples.
+In the classification phase, k is a user-defined constant, and an unlabeled vector (a query or test point) is classified by assigning the label which is most frequent among the k training samples nearest to that query point.
+A commonly used distance metric for continuous variables is Euclidean distance. For discrete variables, such as for text classification, another metric can be used, such as the overlap metric (or Hamming distance). In the context of gene expression microarray data, for example, k-NN has been employed with correlation coefficients, such as Pearson and Spearman, as a metric.[6] Often, the classification accuracy of k-NN can be improved significantly if the distance metric is learned with specialized algorithms such as Large Margin Nearest Neighbor or Neighbourhood components analysis.
+A drawback of the basic "majority voting" classification occurs when the class distribution is skewed. That is, examples of a more frequent class tend to dominate the prediction of the new example, because they tend to be common among the k nearest neighbors due to their large number.[7] One way to overcome this problem is to weight the classification, taking into account the distance from the test point to each of its k nearest neighbors. The class (or value, in regression problems) of each of the k nearest points is multiplied by a weight proportional to the inverse of the distance from that point to the test point. Another way to overcome skew is by abstraction in data representation. For example, in a self-organizing map (SOM), each node is a representative (a center) of a cluster of similar points, regardless of their density in the original training data. K-NN can then be applied to the SOM.
+
+Parameter selection[edit]
+The best choice of k depends upon the data; generally, larger values of k reduces effect of the noise on the classification,[8] but make boundaries between classes less distinct. A good k can be selected by various heuristic techniques (see hyperparameter optimization). The special case where the class is predicted to be the class of the closest training sample (i.e. when k = 1) is called the nearest neighbor algorithm.
+The accuracy of the k-NN algorithm can be severely degraded by the presence of noisy or irrelevant features, or if the feature scales are not consistent with their importance. Much research effort has been put into selecting or scaling features to improve classification. A particularly popular[citation needed] approach is the use of evolutionary algorithms to optimize feature scaling.[9] Another popular approach is to scale features by the mutual information of the training data with the training classes.[citation needed]
+In binary (two class) classification problems, it is helpful to choose k to be an odd number as this avoids tied votes. One popular way of choosing the empirically optimal k in this setting is via bootstrap method.[10]
+
+The 1-nearest neighbor classifier[edit]
+The most intuitive nearest neighbour type classifier is the one nearest neighbour classifier that assigns a point x to the class of its closest neighbour in the feature space, that is 
+  
+    
+      
+        
+          C
+          
+            n
+          
+          
+            1
+            n
+            n
+          
+        
+        (
+        x
+        )
+        =
+        
+          Y
+          
+            (
+            1
+            )
+          
+        
+      
+    
+    {\displaystyle C_{n}^{1nn}(x)=Y_{(1)}}
+  
+.
+As the size of training data set approaches infinity, the one nearest neighbour classifier guarantees an error rate of no worse than twice the Bayes error rate (the minimum achievable error rate given the distribution of the data).
+
+The weighted nearest neighbour classifier[edit]
+The k-nearest neighbour classifier can be viewed as assigning the k nearest neighbours a weight 
+  
+    
+      
+        1
+        
+          /
+        
+        k
+      
+    
+    {\displaystyle 1/k}
+  
+ and all others 0 weight. This can be generalised to weighted nearest neighbour classifiers. That is, where the ith nearest neighbour is assigned a weight 
+  
+    
+      
+        
+          w
+          
+            n
+            i
+          
+        
+      
+    
+    {\displaystyle w_{ni}}
+  
+, with 
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          w
+          
+            n
+            i
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \sum _{i=1}^{n}w_{ni}=1}
+  
+. An analogous result on the strong consistency of weighted nearest neighbour classifiers also holds.[11]
+Let 
+  
+    
+      
+        
+          C
+          
+            n
+          
+          
+            w
+            n
+            n
+          
+        
+      
+    
+    {\displaystyle C_{n}^{wnn}}
+  
+ denote the weighted nearest classifier with weights 
+  
+    
+      
+        {
+        
+          w
+          
+            n
+            i
+          
+        
+        
+          }
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \{w_{ni}\}_{i=1}^{n}}
+  
+. Subject to regularity conditions[further explanation needed] on the class distributions the excess risk has the following asymptotic expansion[12]
+
+
+  
+    
+      
+        
+          
+            
+              R
+            
+          
+          
+            
+              R
+            
+          
+        
+        (
+        
+          C
+          
+            n
+          
+          
+            w
+            n
+            n
+          
+        
+        )
+        −
+        
+          
+            
+              R
+            
+          
+          
+            
+              R
+            
+          
+        
+        (
+        
+          C
+          
+            B
+            a
+            y
+            e
+            s
+          
+        
+        )
+        =
+        
+          (
+          
+            
+              B
+              
+                1
+              
+            
+            
+              s
+              
+                n
+              
+              
+                2
+              
+            
+            +
+            
+              B
+              
+                2
+              
+            
+            
+              t
+              
+                n
+              
+              
+                2
+              
+            
+          
+          )
+        
+        {
+        1
+        +
+        o
+        (
+        1
+        )
+        }
+        ,
+      
+    
+    {\displaystyle {\mathcal {R}}_{\mathcal {R}}(C_{n}^{wnn})-{\mathcal {R}}_{\mathcal {R}}(C^{Bayes})=\left(B_{1}s_{n}^{2}+B_{2}t_{n}^{2}\right)\{1+o(1)\},}
+  
+
+for constants 
+  
+    
+      
+        
+          B
+          
+            1
+          
+        
+      
+    
+    {\displaystyle B_{1}}
+  
+ and 
+  
+    
+      
+        
+          B
+          
+            2
+          
+        
+      
+    
+    {\displaystyle B_{2}}
+  
+ where 
+  
+    
+      
+        
+          s
+          
+            n
+          
+          
+            2
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          w
+          
+            n
+            i
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle s_{n}^{2}=\sum _{i=1}^{n}w_{ni}^{2}}
+  
+ and 
+  
+    
+      
+        
+          t
+          
+            n
+          
+        
+        =
+        
+          n
+          
+            −
+            2
+            
+              /
+            
+            d
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          w
+          
+            n
+            i
+          
+        
+        {
+        
+          i
+          
+            1
+            +
+            2
+            
+              /
+            
+            d
+          
+        
+        −
+        (
+        i
+        −
+        1
+        
+          )
+          
+            1
+            +
+            2
+            
+              /
+            
+            d
+          
+        
+        }
+      
+    
+    {\displaystyle t_{n}=n^{-2/d}\sum _{i=1}^{n}w_{ni}\{i^{1+2/d}-(i-1)^{1+2/d}\}}
+  
+.
+The optimal weighting scheme 
+  
+    
+      
+        {
+        
+          w
+          
+            n
+            i
+          
+          
+            ∗
+          
+        
+        
+          }
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \{w_{ni}^{*}\}_{i=1}^{n}}
+  
+, that balances the two terms in the display above, is given as follows: set 
+  
+    
+      
+        
+          k
+          
+            ∗
+          
+        
+        =
+        ⌊
+        B
+        
+          n
+          
+            
+              4
+              
+                d
+                +
+                4
+              
+            
+          
+        
+        ⌋
+      
+    
+    {\displaystyle k^{*}=\lfloor Bn^{\frac {4}{d+4}}\rfloor }
+  
+, 
+
+
+  
+    
+      
+        
+          w
+          
+            n
+            i
+          
+          
+            ∗
+          
+        
+        =
+        
+          
+            1
+            
+              k
+              
+                ∗
+              
+            
+          
+        
+        
+          [
+          
+            1
+            +
+            
+              
+                d
+                2
+              
+            
+            −
+            
+              
+                d
+                
+                  2
+                  
+                    
+                      
+                        k
+                        
+                          ∗
+                        
+                      
+                    
+                    
+                      2
+                      
+                        /
+                      
+                      d
+                    
+                  
+                
+              
+            
+            {
+            
+              i
+              
+                1
+                +
+                2
+                
+                  /
+                
+                d
+              
+            
+            −
+            (
+            i
+            −
+            1
+            
+              )
+              
+                1
+                +
+                2
+                
+                  /
+                
+                d
+              
+            
+            }
+          
+          ]
+        
+      
+    
+    {\displaystyle w_{ni}^{*}={\frac {1}{k^{*}}}\left[1+{\frac {d}{2}}-{\frac {d}{2{k^{*}}^{2/d}}}\{i^{1+2/d}-(i-1)^{1+2/d}\}\right]}
+  
+ for 
+  
+    
+      
+        i
+        =
+        1
+        ,
+        2
+        ,
+        …
+        ,
+        
+          k
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle i=1,2,\dots ,k^{*}}
+  
+ and
+
+  
+    
+      
+        
+          w
+          
+            n
+            i
+          
+          
+            ∗
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle w_{ni}^{*}=0}
+  
+ for 
+  
+    
+      
+        i
+        =
+        
+          k
+          
+            ∗
+          
+        
+        +
+        1
+        ,
+        …
+        ,
+        n
+      
+    
+    {\displaystyle i=k^{*}+1,\dots ,n}
+  
+.
+With optimal weights the dominant term in the asymptotic expansion of the excess risk is 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        
+          n
+          
+            −
+            
+              
+                4
+                
+                  d
+                  +
+                  4
+                
+              
+            
+          
+        
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(n^{-{\frac {4}{d+4}}})}
+  
+. Similar results are true when using a bagged nearest neighbour classifier.
+
+Properties[edit]
+k-NN is a special case of a variable-bandwidth, kernel density "balloon" estimator with a uniform kernel.[13]
+[14]
+The naive version of the algorithm is easy to implement by computing the distances from the test example to all stored examples, but it is computationally intensive for large training sets. Using an approximate nearest neighbor search algorithm makes k-NN computationally tractable even for large data sets. Many nearest neighbor search algorithms have been proposed over the years; these generally seek to reduce the number of distance evaluations actually performed.
+k-NN has some strong consistency results. As the amount of data approaches infinity, the two-class k-NN algorithm is guaranteed to yield an error rate no worse than twice the Bayes error rate (the minimum achievable error rate given the distribution of the data).[15] Various improvements to the k-NN speed are possible by using proximity graphs.[16]
+For multi-class k-NN classification, Cover and Hart (1967) prove an upper bound error rate of
+
+
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+         
+        ≤
+         
+        
+          R
+          
+            k
+            
+              N
+              N
+            
+          
+        
+         
+        ≤
+         
+        
+          R
+          
+            ∗
+          
+        
+        
+          (
+          
+            2
+            −
+            
+              
+                
+                  M
+                  
+                    R
+                    
+                      ∗
+                    
+                  
+                
+                
+                  M
+                  −
+                  1
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle R^{*}\ \leq \ R_{k\mathrm {NN} }\ \leq \ R^{*}\left(2-{\frac {MR^{*}}{M-1}}\right)}
+  
+
+where 
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle R^{*}}
+  
+is the Bayes error rate (which is the minimal error rate possible),  
+  
+    
+      
+        
+          R
+          
+            k
+            N
+            N
+          
+        
+      
+    
+    {\displaystyle R_{kNN}}
+  
+ is the k-NN error rate, and M is the number of classes in the problem.  For 
+  
+    
+      
+        M
+        =
+        2
+      
+    
+    {\displaystyle M=2}
+  
+ and as the Bayesian error rate 
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle R^{*}}
+  
+ approaches zero, this limit reduces to "not more than twice the Bayesian error rate".
+
+Error rates[edit]
+There are many results on the error rate of the k nearest neighbour classifiers.[17] The k-nearest neighbour classifier is strongly (that is for any joint distribution on 
+  
+    
+      
+        (
+        X
+        ,
+        Y
+        )
+      
+    
+    {\displaystyle (X,Y)}
+  
+) consistent provided 
+  
+    
+      
+        k
+        :=
+        
+          k
+          
+            n
+          
+        
+      
+    
+    {\displaystyle k:=k_{n}}
+  
+ diverges and 
+  
+    
+      
+        
+          k
+          
+            n
+          
+        
+        
+          /
+        
+        n
+      
+    
+    {\displaystyle k_{n}/n}
+  
+ converges to zero as 
+  
+    
+      
+        n
+        →
+        ∞
+      
+    
+    {\displaystyle n\to \infty }
+  
+.
+Let 
+  
+    
+      
+        
+          C
+          
+            n
+          
+          
+            k
+            n
+            n
+          
+        
+      
+    
+    {\displaystyle C_{n}^{knn}}
+  
+ denote the k nearest neighbour classifier based on a training set of size n. Under certain regularity conditions, the excess risk yields the following asymptotic expansion[12]
+
+
+  
+    
+      
+        
+          
+            
+              R
+            
+          
+          
+            
+              R
+            
+          
+        
+        (
+        
+          C
+          
+            n
+          
+          
+            k
+            n
+            n
+          
+        
+        )
+        −
+        
+          
+            
+              R
+            
+          
+          
+            
+              R
+            
+          
+        
+        (
+        
+          C
+          
+            B
+            a
+            y
+            e
+            s
+          
+        
+        )
+        =
+        
+          {
+          
+            
+              B
+              
+                1
+              
+            
+            
+              
+                1
+                k
+              
+            
+            +
+            
+              B
+              
+                2
+              
+            
+            
+              
+                (
+                
+                  
+                    k
+                    n
+                  
+                
+                )
+              
+              
+                4
+                
+                  /
+                
+                d
+              
+            
+          
+          }
+        
+        {
+        1
+        +
+        o
+        (
+        1
+        )
+        }
+        ,
+      
+    
+    {\displaystyle {\mathcal {R}}_{\mathcal {R}}(C_{n}^{knn})-{\mathcal {R}}_{\mathcal {R}}(C^{Bayes})=\left\{B_{1}{\frac {1}{k}}+B_{2}\left({\frac {k}{n}}\right)^{4/d}\right\}\{1+o(1)\},}
+  
+
+for some constants 
+  
+    
+      
+        
+          B
+          
+            1
+          
+        
+      
+    
+    {\displaystyle B_{1}}
+  
+ and 
+  
+    
+      
+        
+          B
+          
+            2
+          
+        
+      
+    
+    {\displaystyle B_{2}}
+  
+.
+The choice 
+  
+    
+      
+        
+          k
+          
+            ∗
+          
+        
+        =
+        ⌊
+        B
+        
+          n
+          
+            
+              4
+              
+                d
+                +
+                4
+              
+            
+          
+        
+        ⌋
+      
+    
+    {\displaystyle k^{*}=\lfloor Bn^{\frac {4}{d+4}}\rfloor }
+  
+ offers a trade off between the two terms in the above display, for which the 
+  
+    
+      
+        
+          k
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle k^{*}}
+  
+-nearest neighbour error converges to the Bayes error at the optimal (minimax) rate 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        
+          n
+          
+            −
+            
+              
+                4
+                
+                  d
+                  +
+                  4
+                
+              
+            
+          
+        
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(n^{-{\frac {4}{d+4}}})}
+  
+.
+
+Metric learning[edit]
+The K-nearest neighbor classification performance can often be significantly improved through (supervised) metric learning. Popular algorithms are neighbourhood components analysis and large margin nearest neighbor. Supervised metric learning algorithms use the label information to learn a new metric or pseudo-metric.
+
+Feature extraction[edit]
+When the input data to an algorithm is too large to be processed and it is suspected to be redundant (e.g. the same measurement in both feet and meters) then the input data will be transformed into a reduced representation set of features (also named features vector). Transforming the input data into the set of features is called feature extraction. If the features extracted are carefully chosen it is expected that the features set will extract the relevant information from the input data in order to perform the desired task using this reduced representation instead of the full size input. Feature extraction is performed on raw data prior to applying k-NN algorithm on the transformed data in feature space.
+An example of a typical computer vision computation pipeline for face recognition using k-NN including feature extraction and dimension reduction pre-processing steps (usually implemented with OpenCV):
+
+Haar face detection
+Mean-shift tracking analysis
+PCA or Fisher LDA projection into feature space, followed by k-NN classification
+Dimension reduction[edit]
+For high-dimensional data (e.g., with number of dimensions more than 10) dimension reduction is usually performed prior to applying the k-NN algorithm in order to avoid the effects of the curse of dimensionality.
+[18]
+The curse of dimensionality in the k-NN context basically means that Euclidean distance is unhelpful in high dimensions because all vectors are almost equidistant to the search query vector (imagine multiple points lying more or less on a circle with the query point at the center; the distance from the query to all data points in the search space is almost the same).
+Feature extraction and dimension reduction can be combined in one step using principal component analysis (PCA),  linear discriminant analysis (LDA), or canonical correlation analysis (CCA) techniques as a pre-processing step, followed by clustering by k-NN on feature vectors in reduced-dimension space. This process is also called low-dimensional embedding.[19]
+For very-high-dimensional datasets (e.g. when performing a similarity search on live video streams, DNA data or high-dimensional time series) running a fast approximate k-NN search using locality sensitive hashing, "random projections",[20] "sketches" [21] or other high-dimensional similarity search techniques from the VLDB toolbox might be the only feasible option.
+
+Decision boundary[edit]
+Nearest neighbor rules in effect implicitly compute the decision boundary. It is also possible to compute the decision boundary explicitly, and to do so efficiently, so that the computational complexity is a function of the boundary complexity.[22]
+
+Data reduction[edit]
+Data reduction is one of the most important problems for work with huge data sets. Usually, only some of the data points are needed for accurate classification. Those data are called the prototypes and can be found as follows:
+
+Select the class-outliers, that is, training data that are classified incorrectly by k-NN (for a given k)
+Separate the rest of the data into two sets: (i) the prototypes that are used for the classification decisions and (ii) the absorbed points that can be correctly classified by k-NN using prototypes. The absorbed points can then be removed from the training set.
+Selection of class-outliers[edit]
+A training example surrounded by examples of other classes is called a class outlier. Causes of class outliers include:
+
+random error
+insufficient training examples of this class (an isolated example appears instead of a cluster)
+missing important features (the classes are separated in other dimensions which we don't know)
+too many training examples of other classes (unbalanced classes) that create a "hostile" background for the given small class
+Class outliers with k-NN produce noise. They can be detected and separated for future analysis. Given two natural numbers, k>r>0, a training example is called a (k,r)NN class-outlier if its k nearest neighbors include more than r examples of other classes.
+
+Condensed Nearest Neighbor for data reduction[edit]
+Condensed nearest neighbor (CNN, the Hart algorithm) is an algorithm designed to reduce the data set for k-NN classification.[23] It selects the set of prototypes U from the training data, such that 1NN with U can classify the examples almost as accurately as 1NN does with the whole data set.
+
+  Calculation of the border ratio.
+  Three types of points: prototypes, class-outliers, and absorbed points.
+Given a training set X, CNN works iteratively:
+
+Scan all elements of X, looking for an element x whose nearest prototype from U has a different label than x.
+Remove x from X and add it to U
+Repeat the scan until no more prototypes are added to U.
+Use U instead of X for classification. The examples that are not prototypes are called "absorbed" points.
+It is efficient to scan the training examples in order of decreasing border ratio.[24] The border ratio of a training example x is defined as 
+
+a(x) = .mw-parser-output .sfrac{white-space:nowrap}.mw-parser-output .sfrac.tion,.mw-parser-output .sfrac .tion{display:inline-block;vertical-align:-0.5em;font-size:85%;text-align:center}.mw-parser-output .sfrac .num,.mw-parser-output .sfrac .den{display:block;line-height:1em;margin:0 0.1em}.mw-parser-output .sfrac .den{border-top:1px solid}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}||x'-y||/||x-y||
+where ||x-y|| is the distance to the closest example y having a different color than x, and ||x'-y|| is the distance from y to its closest example x'  with the same label as x.
+The border ratio is in the interval [0,1] because ||x'-y||never exceeds ||x-y||. This ordering gives preference to the borders of the classes for inclusion in the set of prototypes U. A point of a different label than x is called external to x. The calculation of the border ratio is illustrated by the figure on the right. The data points are labeled by colors: the initial point is x and its label is red. External points are blue and green. The closest to x external point is y. The closest to y red point is x' . The border ratio a(x) = ||x'-y|| / ||x-y||is the attribute of the initial point x.
+Below is an illustration of CNN in a series of figures. There are three classes (red, green and blue). Fig. 1: initially there are 60 points in each class. Fig. 2 shows the 1NN classification map: each pixel is classified by 1NN using all the data. Fig. 3 shows the 5NN classification map. White areas correspond to the unclassified regions, where 5NN voting is tied (for example, if there are two green, two red and one blue points among 5 nearest neighbors). Fig. 4 shows the reduced data set. The crosses are the class-outliers selected by the (3,2)NN rule (all the three nearest neighbors of these instances belong to other classes); the squares are the prototypes, and the empty circles are the absorbed points. The left bottom corner shows the numbers of the class-outliers, prototypes and absorbed points for all three classes. The number of prototypes varies from 15% to 20% for different classes in this example. Fig. 5 shows that the 1NN classification map with the prototypes is very similar to that with the initial data set. The figures were produced using the Mirkes applet.[24]
+
+
+	CNN model reduction for k-NN classifiers
+		
+			
+			
+Fig. 1. The dataset.
+
+			
+		
+		
+			
+			
+Fig. 2. The 1NN classification map.
+
+			
+		
+		
+			
+			
+Fig. 3. The 5NN classification map.
+
+			
+		
+		
+			
+			
+Fig. 4. The CNN reduced dataset.
+
+			
+		
+		
+			
+			
+Fig. 5. The 1NN classification map based on the CNN extracted prototypes.
+
+			
+		
+
+k-NN regression[edit]
+In k-NN regression, the k-NN algorithm[citation needed] is used for estimating continuous variables. One such algorithm uses a weighted average of the k nearest neighbors, weighted by the inverse of their distance. This algorithm works as follows:
+
+Compute the Euclidean or Mahalanobis distance from the query example to the labeled examples.
+Order the labeled examples by increasing distance.
+Find a heuristically optimal number k of nearest neighbors, based on RMSE. This is done using cross validation.
+Calculate an inverse distance weighted average with the k-nearest multivariate neighbors.
+k-NN outlier[edit]
+The distance to the kth nearest neighbor can also be seen as a local density estimate and thus is also a popular outlier score in anomaly detection. The larger the distance to the k-NN, the lower the local density, the more likely the query point is an outlier.[25] Although quite simple, this outlier model, along with another classic data mining method, local outlier factor, works quite well also in comparison to more recent and more complex approaches, according to a large scale experimental analysis.[26]
+
+Validation of results[edit]
+A confusion matrix or "matching matrix" is often used as a tool to validate the accuracy of k-NN classification. More robust statistical methods such as likelihood-ratio test can also be applied.[how?]
+
+See also[edit]
+.mw-parser-output .portalbox{float:right;border:solid #aaa 1px;padding:0}.mw-parser-output .portalbox.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portalbox.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portalbox>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portalbox>ul>li{display:table-row}.mw-parser-output .portalbox>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}
+
+Mathematics portal
+Nearest centroid classifier
+Closest pair of points problem
+
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Fix, Evelyn; Hodges, Joseph L. (1951). Discriminatory Analysis. Nonparametric Discrimination: Consistency Properties (PDF) (Report). USAF School of Aviation Medicine, Randolph Field, Texas.
+
+^ Altman, Naomi S. (1992). "An introduction to kernel and nearest-neighbor nonparametric regression" (PDF). The American Statistician. 46 (3): 175–185. doi:10.1080/00031305.1992.10475879. hdl:1813/31637.
+
+^ Piryonesi S. Madeh; El-Diraby Tamer E. (2020-06-01). "Role of Data Analytics in Infrastructure Asset Management: Overcoming Data Size and Quality Problems". Journal of Transportation Engineering, Part B: Pavements. 146 (2): 04020022. doi:10.1061/JPEODX.0000175.
+
+^ Hastie, Trevor. (2001). The elements of statistical learning : data mining, inference, and prediction : with 200 full-color illustrations. Tibshirani, Robert., Friedman, J. H. (Jerome H.). New York: Springer. ISBN 0-387-95284-5. OCLC 46809224.
+
+^ This scheme is a generalization of linear interpolation.
+
+^ Jaskowiak, Pablo A.; Campello, Ricardo J. G. B. "Comparing Correlation Coefficients as Dissimilarity Measures for Cancer Classification in Gene Expression Data". Brazilian Symposium on Bioinformatics (BSB 2011): 1–8. CiteSeerX 10.1.1.208.993.
+
+^ Coomans, Danny; Massart, Desire L. (1982). "Alternative k-nearest neighbour rules in supervised pattern recognition : Part 1. k-Nearest neighbour classification by using alternative voting rules". Analytica Chimica Acta. 136: 15–27. doi:10.1016/S0003-2670(01)95359-0.
+
+^ Everitt, Brian S.; Landau, Sabine; Leese, Morven; and Stahl, Daniel (2011) "Miscellaneous Clustering Methods", in Cluster Analysis, 5th Edition, John Wiley & Sons, Ltd., Chichester, UK
+
+^ Nigsch, Florian; Bender, Andreas; van Buuren, Bernd; Tissen, Jos; Nigsch, Eduard; Mitchell, John B. O. (2006). "Melting point prediction employing k-nearest neighbor algorithms and genetic parameter optimization". Journal of Chemical Information and Modeling. 46 (6): 2412–2422. doi:10.1021/ci060149f. PMID 17125183.
+
+^ Hall, Peter; Park, Byeong U.; Samworth, Richard J. (2008). "Choice of neighbor order in nearest-neighbor classification". Annals of Statistics. 36 (5): 2135–2152. arXiv:0810.5276. Bibcode:2008arXiv0810.5276H. doi:10.1214/07-AOS537. S2CID 14059866.
+
+^ Stone, Charles J. (1977). "Consistent nonparametric regression". Annals of Statistics. 5 (4): 595–620. doi:10.1214/aos/1176343886.
+
+^ a b Samworth, Richard J. (2012). "Optimal weighted nearest neighbour classifiers". Annals of Statistics. 40 (5): 2733–2763. arXiv:1101.5783. doi:10.1214/12-AOS1049. S2CID 88511688.
+
+^ Terrell, George R.; Scott, David W. (1992). "Variable kernel density estimation". Annals of Statistics. 20 (3): 1236–1265. doi:10.1214/aos/1176348768.
+
+^ Mills, Peter (2012-08-09). "Efficient statistical classification of satellite measurements". International Journal of Remote Sensing.
+
+^ Cover, Thomas M.; Hart, Peter E. (1967). "Nearest neighbor pattern classification" (PDF). IEEE Transactions on Information Theory. 13 (1): 21–27. CiteSeerX 10.1.1.68.2616. doi:10.1109/TIT.1967.1053964.
+
+^ Toussaint, Godfried T. (April 2005). "Geometric proximity graphs for improving nearest neighbor methods in instance-based learning and data mining". International Journal of Computational Geometry and Applications. 15 (2): 101–150. doi:10.1142/S0218195905001622.
+
+^ Devroye, Luc; Gyorfi, Laszlo; Lugosi, Gabor (1996). A probabilistic theory of pattern recognition. Springer. ISBN 978-0-3879-4618-4.
+
+^ Beyer, Kevin;  et al. "When is "nearest neighbor" meaningful?" (PDF). Database Theory—ICDT'99. 1999: 217–235.
+
+^ Shaw, Blake; Jebara, Tony (2009), "Structure preserving embedding" (PDF), Proceedings of the 26th Annual International Conference on Machine Learning (published June 2009), pp. 1–8, doi:10.1145/1553374.1553494, ISBN 9781605585161, S2CID 8522279
+
+^ Bingham, Ella; and Mannila, Heikki; "Random projection in dimensionality reduction: applications to image and text data", in Proceedings of the seventh ACM SIGKDD international conference on Knowledge discovery and data mining, ACM, 2001
+
+^ Ryan, Donna (editor); High Performance Discovery in Time Series, Berlin: Springer, 2004, ISBN 0-387-00857-8
+
+^ Bremner, David; Demaine, Erik; Erickson, Jeff; Iacono, John; Langerman, Stefan; Morin, Pat; Toussaint, Godfried T. (2005). "Output-sensitive algorithms for computing nearest-neighbor decision boundaries". Discrete and Computational Geometry. 33 (4): 593–604. doi:10.1007/s00454-004-1152-0.
+
+^ Hart, Peter E. (1968). "The Condensed Nearest Neighbor Rule". IEEE Transactions on Information Theory. 18: 515–516. doi:10.1109/TIT.1968.1054155.
+
+^ a b Mirkes, Evgeny M.; KNN and Potential Energy: applet, University of Leicester, 2011
+
+^ Ramaswamy, Sridhar; Rastogi, Rajeev; Shim, Kyuseok (2000). Efficient algorithms for mining outliers from large data sets. Proceedings of the 2000 ACM SIGMOD international conference on Management of data – SIGMOD '00. p. 427. doi:10.1145/342009.335437. ISBN 1-58113-217-4.
+
+^ Campos, Guilherme O.; Zimek, Arthur; Sander, Jörg; Campello, Ricardo J. G. B.; Micenková, Barbora; Schubert, Erich; Assent, Ira; Houle, Michael E. (2016). "On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study". Data Mining and Knowledge Discovery. 30 (4): 891–927. doi:10.1007/s10618-015-0444-8. ISSN 1384-5810. S2CID 1952214.
+
+
+Further reading[edit]
+Dasarathy, Belur V., ed. (1991). Nearest Neighbor (NN) Norms: NN Pattern Classification Techniques. ISBN 978-0-8186-8930-7.
+Shakhnarovich, Gregory; Darrell, Trevor; Indyk, Piotr, eds. (2005). Nearest-Neighbor Methods in Learning and Vision. MIT Press. ISBN 978-0-262-19547-8.
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=K-nearest_neighbors_algorithm&oldid=1057579158"
+		Categories: Classification algorithmsSearch algorithmsMachine learning algorithmsStatistical classificationNonparametric statisticsHidden categories: Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from March 2013Articles with unsourced statements from December 2008Wikipedia articles needing clarification from January 2019Articles with unsourced statements from September 2019Wikipedia articles needing clarification from July 2020
+	

@@ -1,0 +1,343 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		System that manages the behavior of other systems
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}For other uses, see Control system (disambiguation).
+  The centrifugal governor is an early proportional control mechanism.
+A control system manages, commands, directs, or regulates the behavior of other devices or systems using control loops. It can range from a single home heating controller using a thermostat controlling a domestic boiler to large industrial control systems which are used for controlling processes or machines.
+For continuously modulated control, a feedback controller is used to automatically control a process or operation.   The control system compares the value or status of the process variable (PV) being controlled with the desired value or setpoint (SP), and applies the difference as a control signal to bring the process variable output of the plant to the same value as the setpoint.
+For sequential and combinational logic, software logic, such as in a programmable logic controller, is used.
+
+Contents
+
+1 Open-loop and closed-loop control
+2 Feedback control systems
+3 Logic control
+4 On–off control
+5 Linear control
+
+5.1 Proportional control
+
+5.1.1 Furnace example
+
+
+5.2 PID control
+
+5.2.1 Derivative action
+5.2.2 Integral action
+5.2.3 Ramp up % per minute
+
+
+5.3 Other techniques
+
+
+6 Fuzzy logic
+7 Physical implementation
+8 See also
+9 References
+10 External links
+
+
+
+Open-loop and closed-loop control[edit]
+There are two common classes of control action: open loop and closed loop. In an open-loop control system, the control action from the controller is independent of the process variable. An example of this is a central heating boiler controlled only by a timer. The control action is the switching on or off of the boiler. The process variable is the building temperature. This controller operates the heating system for a constant time regardless of the temperature of the building.
+In a closed-loop control system, the control action from the controller is dependent on the desired and actual process variable. In the case of the boiler analogy, this would utilise a thermostat to monitor the building temperature, and feed back a signal to ensure the controller output maintains the building temperature close to that set on the thermostat. A closed loop controller has a feedback loop which ensures the controller exerts a control action to control a process variable at the same value as the setpoint. For this reason, closed-loop controllers are also called feedback controllers.[1]
+
+Feedback control systems[edit]
+  Example of a single industrial control loop; showing continuously modulated control of process flow.
+  A basic feedback loop
+In the case of linear feedback systems, a control loop including sensors, control algorithms, and actuators is arranged in an attempt to regulate a variable at a setpoint (SP).  An everyday example is the cruise control on a road vehicle; where external influences such as hills would cause speed changes, and the driver has the ability to alter the desired set speed. The PID algorithm in the controller restores the actual speed to the desired speed in the optimum way, with minimal delay or overshoot, by controlling the power output of the vehicle's engine.
+Control systems that include some sensing of the results they are trying to achieve are making use of feedback and can adapt to varying circumstances to some extent. Open-loop control systems do not make use of feedback, and run only in pre-arranged ways.
+
+Logic control[edit]
+Logic control systems for industrial and commercial machinery were historically implemented by interconnected electrical relays and cam timers using ladder logic. Today, most such systems are constructed with microcontrollers or more specialized programmable logic controllers (PLCs). The notation of ladder logic is still in use as a programming method for PLCs.[2]
+Logic controllers may respond to switches and sensors, and can cause the machinery to start and stop various operations through the use of actuators.  Logic controllers are used to sequence mechanical operations in many applications. Examples include elevators, washing machines and other systems with interrelated operations. An automatic sequential control system may trigger a series of mechanical actuators in the correct sequence to perform a task. For example, various electric and pneumatic transducers may fold and glue a cardboard box, fill it with product and then seal it in an automatic packaging machine.
+PLC software can be written in many different ways – ladder diagrams, SFC (sequential function charts) or statement lists.[3]
+
+On–off control[edit]
+Main article: Bang–bang control
+On–off control uses a feedback controller that switches abruptly between two states. A simple bi-metallic domestic thermostat can be described as an on-off controller. When the temperature in the room (PV) goes below the user setting (SP), the heater is switched on. Another example is a pressure switch on an air compressor. When the pressure (PV) drops below the setpoint (SP) the compressor is powered. Refrigerators and vacuum pumps contain similar mechanisms. Simple on–off control systems like these can be cheap and effective.
+
+Linear control[edit]
+Linear control systems use negative feedback to produce a control signal to maintain the controlled PV at the desired SP. There are several types of linear control systems with different capabilities.
+
+Proportional control[edit]
+Main article: Proportional control
+  Step responses for a second order system defined by the transfer function 
+  
+    
+      
+        H
+        (
+        s
+        )
+        =
+        
+          
+            
+              ω
+              
+                n
+              
+              
+                2
+              
+            
+            
+              
+                s
+                
+                  2
+                
+              
+              +
+              2
+              ζ
+              
+                ω
+                
+                  n
+                
+              
+              s
+              +
+              
+                ω
+                
+                  n
+                
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle H(s)={\frac {\omega _{n}^{2}}{s^{2}+2\zeta \omega _{n}s+\omega _{n}^{2}}}}
+  
+, where 
+  
+    
+      
+        ζ
+      
+    
+    {\displaystyle \zeta }
+  
+ is the damping ratio and 
+  
+    
+      
+        
+          ω
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \omega _{n}}
+  
+ is the undamped natural frequency.
+Proportional control is a type of linear feedback control system in which a correction is applied to the controlled variable which is proportional to the difference between the desired value (SP) and the measured value (PV).  Two classic mechanical examples are the toilet bowl float proportioning valve and the fly-ball governor.
+The proportional control system is more complex than an on–off control system, but simpler than a proportional-integral-derivative (PID) control system used, for instance, in an automobile cruise control. On–off control will work for systems that do not require high accuracy or responsiveness, but is not effective for rapid and timely corrections and responses. Proportional control overcomes this by modulating the manipulated variable (MV), such as a control valve, at a gain level which avoids instability, but applies correction as fast as practicable by applying the optimum quantity of proportional correction.
+A drawback of proportional control is that it cannot eliminate the residual SP–PV error, as it requires an error to generate a proportional output. A PI controller can be used to overcome this. The PI controller uses a proportional term (P) to remove the gross error, and an integral term (I) to eliminate the residual offset error by integrating the error over time.
+In some systems there are practical limits to the range of the MV. For example, a heater has a limit to how much heat it can produce and a valve can open only so far. Adjustments to the gain simultaneously alter the range of error values over which the MV is between these limits. The width of this range, in units of the error variable and therefore of the PV, is called the proportional band (PB).
+
+Furnace example[edit]
+When controlling the temperature of an industrial furnace, it is usually better to control the opening of the fuel valve in proportion to the current needs of the furnace.  This helps avoid thermal shocks and applies heat more effectively.
+At low gains, only a small corrective action is applied when errors are detected. The system may be safe and stable, but may be sluggish in response to changing conditions. Errors will remain uncorrected for relatively long periods of time and the system is overdamped. If the proportional gain is increased, such systems become more responsive and errors are dealt with more quickly. There is an optimal value for the gain setting when the overall system is said to be critically damped. Increases in loop gain beyond this point lead to oscillations in the PV and such a system is underdamped. Adjusting gain to achieve critically damped behavior is known as tuning the control system.
+In the underdamped case, the furnace heats quickly. Once the setpoint is reached, stored heat within the heater sub-system and in the walls of the furnace will keep the measured temperature rising beyond what is required. After rising above the setpoint, the temperature falls back and eventually heat is applied again. Any delay in reheating the heater sub-system allows the furnace temperature to fall further below setpoint and the cycle repeats. The temperature oscillations that an underdamped furnace control system produces are undesirable.
+In a critically damped system, as the temperature approaches the setpoint, the heat input begins to be reduced, the rate of heating of the furnace has time to slow and the system avoids overshoot. Overshoot is also avoided in an overdamped system but an overdamped system is unnecessarily slow to initially reach setpoint respond to external changes to the system, e.g. opening the furnace door.
+
+PID control[edit]
+  A block diagram of a PID controller
+  Effects of varying PID parameters (Kp,Ki,Kd) on the step response of a system.
+Main article: PID controller
+Pure proportional controllers must operate with residual error in the system. Though PI controllers eliminate this error they can still be sluggish or produce oscillations. The PID controller addresses these final shortcomings by introducing a derivative (D) action to retain stability while responsiveness is improved.
+
+Derivative action[edit]
+The derivative is concerned with the rate-of-change of the error with time: If the measured variable approaches the setpoint rapidly, then the actuator is backed off early to allow it to coast to the required level; conversely, if the measured value begins to move rapidly away from the setpoint, extra effort is applied—in proportion to that rapidity to help move it back.
+On control systems involving motion-control of a heavy item like a gun or camera on a moving vehicle, the derivative action of a well-tuned PID controller can allow it to reach and maintain a setpoint better than most skilled human operators. If derivative action is over-applied, it can, however, lead to oscillations.
+
+Integral action[edit]
+  Change of response of second-order system to a step input for varying Ki values.
+The integral term magnifies the effect of long-term steady-state errors, applying an ever-increasing effort until error is removed.  In the example of the furnace above working at various temperatures, if the heat being applied does not bring the furnace up to setpoint, for whatever reason, integral action increasingly moves the proportional band relative to the setpoint until the PV error is reduced to zero and the setpoint is achieved.
+
+Ramp up % per minute[edit]
+Some controllers include the option to limit the "ramp up % per minute". This option can be very helpful in stabilizing small boilers (3 MBTUH), especially during the summer, during light loads. A utility boiler "unit may be required to change load at a rate of as much as 5% per minute (IEA Coal Online - 2, 2007)".[4][failed verification]
+
+Other techniques[edit]
+It is possible to filter the PV or error signal. Doing so can help reduce instability or oscillations by reducing the response of the system to undesirable frequencies. Many systems have a resonant frequency. By filtering out that frequency, stronger overall feedback can be applied before oscillation occurs, making the system more responsive without shaking itself apart.
+Feedback systems can be combined. In cascade control, one control loop applies control algorithms to a measured variable against a setpoint but then provides a varying setpoint to another control loop rather than affecting process variables directly. If a system has several different measured variables to be controlled, separate control systems will be present for each of them.
+Control engineering in many applications produces control systems that are more complex than PID control. Examples of such fields applications fly-by-wire aircraft control systems, chemical plants, and oil refineries. Model predictive control systems are designed using specialized computer-aided-design software and empirical mathematical models of the system to be controlled.
+
+Fuzzy logic[edit]
+Main article: Fuzzy logic
+Fuzzy logic is an attempt to apply the easy design of logic controllers to the control of complex continuously varying systems. Basically, a measurement in a fuzzy logic system can be partly true.
+The rules of the system are written in natural language and translated into fuzzy logic. For example, the design for a furnace would start with: "If the temperature is too high, reduce the fuel to the furnace. If the temperature is too low, increase the fuel to the furnace."
+Measurements from the real world (such as the temperature of a furnace) are fuzzified and logic is calculated arithmetic, as opposed to Boolean logic, and the outputs are de-fuzzified to control equipment.
+When a robust fuzzy design is reduced into a single, quick calculation, it begins to resemble a conventional feedback loop solution and it might appear that the fuzzy design was unnecessary. However, the fuzzy logic paradigm may provide scalability for large control systems where conventional methods become unwieldy or costly to derive.
+Fuzzy electronics is an electronic technology that uses fuzzy logic instead of the two-value logic more commonly used in digital electronics.
+
+Physical implementation[edit]
+  A DCS control room where large screens display plant information. The operators can view and control any part of the process from their computer screens, whilst retaining a plant overview on the larger screens.
+  A control panel of a hydraulic heat press machine
+The range of control system implementation is from compact controllers often with dedicated software for a particular machine or device, to distributed control systems for industrial process control for a large physical plant.
+Logic systems and feedback controllers are usually implemented with programmable logic controllers.
+
+See also[edit]
+.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}
+Building automation
+Coefficient diagram method
+Control engineering
+Control theory
+Cybernetics
+Distributed control system
+Droop speed control
+Education and training of electrical and electronics engineers
+EPICS
+Good regulator
+Guidance, navigation, and control
+Hierarchical control system
+HVAC control system
+Industrial control system
+Motion control
+Networked control system
+Numerical control
+Perceptual control theory
+PID controller
+Process control
+Process optimization
+Programmable logic controller
+Sampled data system
+SCADA
+VisSim
+
+References[edit]
+This article needs additional citations for verification. Relevant discussion may be found on the talk page. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Control system" – news · newspapers · books · scholar · JSTOR  (December 2010) (Learn how and when to remove this template message)
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ "Feedback and control systems" - JJ Di Steffano, AR Stubberud, IJ Williams. Schaums outline series, McGraw-Hill 1967
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Kuphaldt, Tony R. "Chapter 6 LADDER LOGIC". Lessons In Electric Circuits -- Volume IV. Archived from the original on 12 September 2010. Retrieved 22 September 2010.
+
+^ Brady, Ian. "Programmable logic controllers - benefits and applications" (PDF). PLCs. Archived (PDF) from the original on 2 February 2014. Retrieved 5 December 2011.
+
+^ "Energy Efficient Design of Auxiliary Systems in Fossil-Fuel Power Plants" (PDF). ABB. p. 262. Archived (PDF) from the original on 2014-08-05. Retrieved 2014-04-07.
+
+
+External links[edit]
+
+
+
+Wikibooks has a book on the topic of: Control Systems
+
+SystemControl Create, simulate or HWIL control loops with Python. Includes Kalman filter, LQG control among others.
+Semiautonomous Flight Direction - Reference unmannedaircraft.org
+Control System Toolbox for design and analysis of control systems.
+Control Systems Manufacturer Design and Manufacture of control systems.
+Mathematica functions for the analysis, design, and simulation of control systems
+Python Control System (PyConSys) Create and simulate control loops with Python. AI for setting PID parameters.
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteElectronicsBranches
+Analog electronics
+Digital electronics
+Electronic instrumentation
+Electronics engineering
+Microelectronics
+Optoelectronics
+Power electronics
+Printed electronics
+Semiconductor
+Schematic capture
+Thermal management
+Advanced topics
+Atomtronics
+Bioelectronics
+Failure of electronic components
+Flexible electronics
+Low-power electronics
+Molecular electronics
+Nanoelectronics
+Organic electronics
+Photonics
+Piezotronics
+Quantum electronics
+Spintronics
+Electronic equipment
+Air conditioner
+Central heating
+Clothes dryer
+Computer/Notebook
+Camera
+Dishwasher
+Freezer
+Home robot
+Home cinema
+Home theater PC
+Information technologies
+Cooker
+Microwave oven
+Mobile phone
+Networking hardware
+Portable media player
+Radio
+Refrigerator
+Robotic vacuum cleaner
+Tablet
+Telephone
+Television
+Water heater
+Video game console
+Washing machine
+Applications
+Audio electronics
+Automotive electronics
+Avionics
+Control system
+Data acquisition
+e-book
+e-health
+Electronics industry
+Electronic warfare
+Embedded system
+Home appliance
+Home automation
+Integrated circuit
+Home appliance
+Consumer electronics
+Major appliance
+Small appliance
+Microwave technology
+Military electronics
+Multimedia
+Nuclear electronics
+Open hardware
+Radar and Radionavigation
+Radio electronics
+Terahertz technology
+Video hardware
+Wired and Wireless Communications
+
+Authority control General
+Integrated Authority File (Germany)
+National libraries
+United States
+Other
+Microsoft Academic
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Control_system&oldid=1057197701"
+		Categories: Control theoryControl engineeringSystems engineeringSystems theoryAutomationHidden categories: Articles with short descriptionShort description is different from WikidataAll articles with failed verificationArticles with failed verification from May 2020Articles needing additional references from December 2010All articles needing additional referencesArticles with GND identifiersArticles with LCCN identifiersArticles with MA identifiers
+	

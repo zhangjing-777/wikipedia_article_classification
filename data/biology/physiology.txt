@@ -1,0 +1,1120 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Ancient greek philosopher
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}For the crater, see Theophrastus (crater).
+
+
+.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}TheophrastusStatue of Theophrastus, Palermo Botanical GardenBornc. 371 BCEresosDiedc. 287 BC (aged 83 or 84)AthensEraAncient philosophyRegionWestern philosophySchoolPeripatetic schoolMain interestsEthics, grammar, history, logic, metaphysics, natural history, physics, botanyNotable ideasProsleptic and hypothetical syllogisms[1]Modus ponens and modus tollens[2]
+Influences
+Aristotle, Plato
+
+Influenced
+Strato of Lampsacus, Alexander of Aphrodisias, and the entire Peripatetic school
+
+
+Theophrastus (/θiːəˈfræstəs/; Greek: Θεόφραστος Theόphrastos; c. 371 – c. 287 BC[3]), a Greek native of Eresos in Lesbos,[4] was the successor to Aristotle in the Peripatetic school. His given name was Tyrtamus (Τύρταμος); his nickname Θεόφραστος (or 'godly phrased') was given by Aristotle, his teacher, for his 'divine style of expression'.
+He came to Athens at a young age and initially studied in Plato's school. After Plato's death, he attached himself to Aristotle who took to Theophrastus in his writings. When Aristotle fled Athens, Theophrastus took over as head of the Lyceum.[4] Theophrastus presided over the Peripatetic school for thirty-six years, during which time the school flourished greatly. He is often considered the father of botany for his works on plants.[5] After his death, the Athenians honoured him with a public funeral. His successor as head of the school was Strato of Lampsacus.
+The interests of Theophrastus were wide ranging, extending from biology and physics to ethics and metaphysics. His two surviving botanical works, Enquiry into Plants (Historia Plantarum) and On the Causes of Plants, were an important influence on Renaissance science. There are also surviving works On Moral Characters,  On Sense Perception, and On Stones, as well as fragments on Physics and Metaphysics. In philosophy, he studied grammar and language and continued Aristotle's work on logic. He also regarded space as the mere arrangement and position of bodies, time as an accident of motion, and motion as a necessary consequence of all activity.[citation needed] In ethics, he regarded happiness as depending on external influences as well as on virtue.
+
+Contents
+
+1 Life
+2 Writings
+
+2.1 On plants
+2.2 On moral characters
+2.3 On sensation
+2.4 Physics
+2.5 Metaphysics
+2.6 On stones
+
+
+3 Philosophy
+
+3.1 Logic
+3.2 Physics and metaphysics
+3.3 Ethics
+
+
+4 The "portrait" of Theophrastus
+5 In popular culture
+6 Works
+
+6.1 Modern editions
+
+6.1.1 Brill
+
+
+
+
+7 Notes
+8 Citations
+9 References
+10 Further reading
+11 External links
+
+
+
+Life[edit]
+Most of the biographical information about Theophrastus was provided by Diogenes Laërtius' Lives and Opinions of Eminent Philosophers, written more than four hundred years after Theophrastus' time.[6] He was a native of Eresos in Lesbos.[7] His given name was Tyrtamus (Τύρταμος), but he later became known by the nickname "Theophrastus", given to him, it is said, by Aristotle to indicate the grace of his conversation (from Ancient Greek Θεός 'god' and φράζειν 'to phrase', i.e. divine expression).[8]
+
+  Aristotle, Theophrastus, and Strato of Lampsacus. Part of a fresco in the portico of the University of Athens painted by Carl Rahl, c. 1888.
+After receiving instruction in philosophy on Lesbos from one Alcippus, he moved to Athens, where he may have studied under Plato.[a] He became friends with Aristotle, and when Plato died (348/7 BC) Theophrastus may have joined Aristotle in his self-imposed exile from Athens. When Aristotle moved to Mytilene on Lesbos in 345/4, it is very likely that he did so at the urging of Theophrastus.[9] It seems that it was on Lesbos that Aristotle and Theophrastus began their research into natural science, with Aristotle studying animals and Theophrastus studying plants.[10] Theophrastus probably accompanied Aristotle to Macedonia when Aristotle was appointed tutor to Alexander the Great in 343/2.[9] Around 335 BC, Theophrastus moved with Aristotle to Athens, where Aristotle began teaching in the Lyceum. When, after the death of Alexander, anti-Macedonian feeling forced Aristotle to leave Athens, Theophrastus remained behind as head (scholarch) of the Peripatetic school,[9] a position he continued to hold after Aristotle's death in 322/1.
+Aristotle in his will made him guardian of his children, including Nicomachus, with whom he was close.[b] Aristotle likewise bequeathed to him his library and the originals of his works,[c] and designated him as his successor at the Lyceum.[11] Eudemus of Rhodes also had some claims to this position, and Aristoxenus is said to have resented Aristotle's choice.[12]
+Theophrastus presided over the Peripatetic school for thirty-five years,[13] and died at the age of eighty-five according to Diogenes.[14][d] 
+He is said to have remarked, "We die just when we are beginning to live".[15]
+Under his guidance the school flourished greatly—there were at one period more than 2000 students, Diogenes affirms[16]—and at his death, according to the terms of his will preserved by Diogenes, he bequeathed to it his garden with house and colonnades as a permanent seat of instruction. The comic poet Menander was among his pupils.[16] His popularity was shown in the regard paid to him by Philip, Cassander, and Ptolemy, and by the complete failure of a charge of impiety brought against him.[17][18] He was honored with a public funeral, and "the whole population of Athens, honouring him greatly, followed him to the grave."[12][19] He was succeeded as head of the Lyceum by Strato of Lampsacus.
+
+Writings[edit]
+  Historia plantarum, 1549
+From the lists of Diogenes, giving 227 titles, it appears that the activity of Theophrastus extended over the whole field of contemporary knowledge. His writing probably differed little from Aristotle's treatment of the same themes, though supplementary in details. Like Aristotle, most of his writings are lost works.[12] Thus Theophrastus, like Aristotle, had composed a first and second Analytic (Ἀναλυτικῶν προτέρων and Ἀναλυτικῶν ὑστέρων).[20] He had also written books on Topics (Ἀνηγμένων τόπων, Τοπικῶν and Τὰ πρὸ τῶν τόπων);[21] on the Analysis of Syllogisms (Περὶ ἀναλύσεως συλλογισμῶν and Περὶ συλλογισμῶν λύσεως), on Sophisms (Σοφισμάτων) and on Affirmation and Denial (Περὶ καταφάσεως καὶ ἀποφάσεως)[22] as well as on the Natural Philosophy (Περὶ φύσεως, Περὶ φυσικῶν, Φυσικῶν and others), on Heaven (Περὶ οὐρανοῦ), and on Meteorological Phenomena (Τῆς μεταρσιολεσχίας and Μεταρσιολογικῶν).[23]
+
+  Frontispiece to the illustrated 1644 edition of the Enquiry into Plants (Historia Plantarum)
+In addition, Theophrastus wrote on the Warm and the Cold (Περὶ θερμοῦ καὶ ψυχροῦ),[24] on Water (Περὶ ὕδατος), Fire (Περὶ πυρóς),[25] the Sea (Περὶ θαλάττης),[25] on Coagulation and Melting (Περὶ πήξεων καὶ τήξεων), on various phenomena of organic and spiritual life,[25] and on the Soul (Περὶ ψυχῆς), on Experience (Περὶ ἐμπειρίας) and On Sense Perception (also known as On the Senses; Περὶ αἰσθήσεων).[26] Likewise, we find mention of monographs of Theophrastus on the early Greek philosophers Anaximenes, Anaxagoras, Empedocles, Archelaus,[27] Diogenes of Apollonia, Democritus,[28] which were made use of by Simplicius; and also on Xenocrates,[29] against the Academics,[30] and a sketch of the political doctrine of Plato.[28]
+He studied general history, as we know from Plutarch's lives of Lycurgus, Solon, Aristides, Pericles, Nicias, Alcibiades, Lysander, Agesilaus, and Demosthenes, which were probably borrowed from the work on Lives (Περὶ βίων).[20] But his main efforts were to continue the labours of Aristotle in natural history. This is testified to not only by a number of treatises on individual subjects of zoology, of which, besides the titles, only fragments remain, but also by his books On Stones, his Enquiry into Plants, and On the Causes of Plants (see below), which have come down to us entire. In politics, also, he seems to have trodden in the footsteps of Aristotle. Besides his books on the State (Πολιτικῶν and Πολιτικοῦ), we find quoted various treatises on Education (Περὶ παιδείας βασιλέως and Περὶ παιδείας),[31] on Royalty (Περὶ βασιλείας, Περὶ παιδείας βασιλέως and Πρὸς Κάσανδρον περὶ βασιλείας),[32] on the Best State (Περὶ τῆς ἀρίστης πολιτείας), on Political Morals (Πολιτικῶν ἐθῶν), and particularly his works on the Laws (Νόμων κατὰ στοιχεῖον, Νόμων ἐπιτομῆς and Περὶ νόμων), one of which, containing a recapitulation of the laws of various barbarian as well as Greek states, was intended to be a companion to Aristotle's outline of Politics, and must have been similar to it.[33] He also wrote on oratory and poetry.[34] Theophrastus, without doubt, departed further from Aristotle in his ethical writings,[35] as also in his metaphysical investigations of motion, the soul, and God.[36]
+Besides these writings, Theophrastus wrote several collections of problems, out of which some things at least have passed into the Problems that have come down to us under the name of Aristotle,[37] and commentaries,[38] partly dialogue,[39] to which probably belonged the Erotikos (Ἐρωτικός),[40] Megacles (Μεγακλῆς),[29] Callisthenes (Καλλισθένης),[41] and Megarikos (Μεγαρικός),[24] and letters,[42] partly books on mathematical sciences and their history.[43]
+Many of his surviving works exist only in fragmentary form. "The style of these works, as of the botanical books, suggests that, as in the case of Aristotle, what we possess consists of notes for lectures or notes taken of lectures," his translator Arthur F. Hort remarks.[6] "There is no literary charm; the sentences are mostly compressed and highly elliptical, to the point sometimes of obscurity".[6] The text of these fragments and extracts is often so corrupt that there is a certain plausibility to the well-known story that the works of Aristotle and Theophrastus were allowed to languish in the cellar of Neleus of Scepsis and his descendants.[44]
+
+On plants[edit]
+  Frankincense trees in Dhufar
+Main article: Historia Plantarum (Theophrastus)
+The most important of his books are two large botanical treatises, Enquiry into Plants (Περὶ φυτῶν ἱστορία, generally known as Historia Plantarum), and On the Causes of Plants (Greek: Περὶ αἰτιῶν φυτικῶν, Latin: De causis plantarum), which constitute the most important contribution to botanical science during antiquity and the Middle Ages,[12] the first systemization of the botanical world; on the strength of these works some, following Linnaeus, call him the "father of botany".[10]
+The Enquiry into Plants was originally ten books, of which nine survive. The work is arranged into a system whereby plants are classified according to their modes of generation, their localities, their sizes, and according to their practical uses such as foods, juices, herbs, etc.[45] The first book deals with the parts of plants; the second book with the reproduction of plants and the times and manner of sowing; the third, fourth, and fifth books are devoted to trees, their types, their locations, and their practical applications; the sixth book deals with shrubs and spiny plants; the seventh book deals with herbs; the eighth book deals with plants that produce edible seeds; and the ninth book deals with plants that produce useful juices, gums, resins, etc.[45]
+
+  Cinnamomum verum, from Köhler's Medicinal Plants, (1887)
+On the Causes of Plants was originally eight books, of which six survive. It concerns the growth of plants; the influences on their fecundity; the proper times they should be sown and reaped; the methods of preparing the soil, manuring it, and the use of tools; and of the smells, tastes, and properties of many types of plants.[45] The work deals mainly with the economical uses of plants rather than their medicinal uses, although the latter is sometimes mentioned.[45] A book on wines and a book on plant smells may have once been part of the complete work.[46]
+
+Although these works contain many absurd and fabulous statements, they include valuable observations concerning the functions and properties of plants.[45] Theophrastus detected the process of germination and realized the importance of climate and soil to plants. Much of the information on the Greek plants may have come from his own observations, as he is known to have travelled throughout Greece, and to have had a botanical garden of his own; but the works also profit from the reports on plants of Asia brought back from those who followed Alexander the Great: .mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}to the reports of Alexander's followers he owed his accounts of such plants as the cotton-plant, banyan, pepper, cinnamon, myrrh, and frankincense.[6]
+Theophrastus' Enquiry into Plants was first published in a Latin translation by Theodore Gaza, at Treviso, 1483;[e] in its original Greek it first appeared from the press of Aldus Manutius at Venice, 1495–98, from a third-rate manuscript, which, like the majority of the manuscripts that were sent to printers' workshops in the fifteenth and sixteenth century, has disappeared.[f] Christian Wimmer identified two manuscripts of first quality, the Codex Urbinas in the Vatican Library, which was not made known to J. G. Schneider, who made the first modern critical edition, 1818–21, and the excerpts in the Codex Parisiensis in the Bibliothèque nationale de France.
+
+The standard author abbreviation Theophr. is used to indicate this person as the author when citing a botanical name.[47]
+On moral characters[edit]
+His book Characters (Ἠθικοὶ χαρακτῆρες) contains thirty brief outlines of moral types. They are the first recorded attempt at systematic character writing. The book has been regarded by some as an independent work; others incline to the view that the sketches were written from time to time by Theophrastus, and collected and edited after his death; others, again, regard the Characters as part of a larger systematic work, but the style of the book is against this. Theophrastus has found many imitators in this kind of writing, notably Joseph Hall (1608), Sir Thomas Overbury (1614–16), Bishop Earle (1628), and Jean de La Bruyère (1688), who also translated the Characters.[12] George Eliot also took inspiration from Theophrastus' Characters, most notably in her book of caricatures, Impressions of Theophrastus Such. Writing the "character sketch" as a scholastic exercise also originated in Theophrastus's typology.[citation needed]
+
+On sensation[edit]
+A treatise On Sense Perception (Περὶ αἰσθήσεων) and its objects is important for a knowledge of the doctrines of the more ancient Greek philosophers regarding the subject. A paraphrase and commentary on this work was written by Priscian of Lydia in the sixth century.[45] With this type of work we may connect the fragments on Smells, on Fatigue, on Dizziness, on Sweat, on Swooning, on Palsy, and on Honey.[44]
+
+Physics[edit]
+Fragments of a History of Physics (Περὶ φυσικῶν ἱστοριῶν) are extant. To this class of work belong the still extant sections on Fire, on the Winds, and on the signs of Waters, Winds, and Storms.[48]
+Various smaller scientific fragments have been collected in the editions of Johann Gottlob Schneider (1818–21) and Friedrich Wimmer (1842—62) and in Hermann Usener's Analecta Theophrastea.[12]
+
+Metaphysics[edit]
+The Metaphysics (anachronistic Greek title: Θεοφράστου τῶν μετὰ τὰ φυσικά),[49] in nine chapters (also known as On First Principles), was considered a fragment of a larger work by Usener in his edition (Theophrastos, Metaphysica, Bonn, 1890), but according to Ross and Fobes in their edition (Theophrastus, Metaphysica, Oxford, 1929), the treatise is complete (p. X) and this opinion is now widely accepted. There is no reason for assigning this work to some other author because it is not noticed in Hermippus and Andronicus, especially as Nicolaus of Damascus had already mentioned it.[44]
+
+On stones[edit]
+  Cut emeralds
+In his treatise On Stones (Περὶ λίθων), which was to be used as a source for other lapidaries until at least the Renaissance,[50] Theophrastus classified rocks and gems based on their behavior when heated, further grouping minerals by common properties, such as amber and magnetite, which both have the power of attraction.[51][52][53] 
+Theophrastus describes different marbles; mentions coal, which he says is used for heating by metal-workers; describes the various metal ores; and knew that pumice stones had a volcanic origin. He also deals with precious stones, emeralds, amethysts, onyx, jasper, etc., and describes a variety of "sapphire" that was blue with veins of gold, and thus was presumably lapis lazuli.[51]
+He knew that pearls came from shellfish, that coral came from India, and speaks of the fossilized remains of organic life.[51] Theophrastus made the first known reference to the phenomenon, now known to be caused by pyroelectricity, that the mineral lyngurium (probably tourmaline) attracts straws and bits of wood when heated.[54] He also considers the practical uses of various stones, such as the minerals necessary for the manufacture of glass; for the production of various pigments of paint such as ochre; and for the manufacture of plaster.[51] 
+Many of the rarer minerals were found in mines, and he mentions the famous copper mines of Cyprus and the even more famous silver mines, presumably of Laurium near Athens, and upon which the wealth of the city was based, as well as referring to gold mines. The Laurium silver mines, which were the property of the state, were usually leased for a fixed sum and a percentage on the working. Towards the end of the fifth century, the output fell, partly owing to the Spartan occupation of Decelea. But the mines continued to be worked, though Strabo records that in his time the tailings were being worked over, and Pausanias speaks of the mines as a thing of the past. The ancient workings, consisting of shafts and galleries for excavating the ore, and washing tables for extracting the metal, may still be seen. Theophrastus wrote a separate work On Mining,[24] which like most of his writings is a lost work.
+Pliny the Elder makes clear references to his use of On Stones in his Naturalis Historia of 77 AD, while updating and making much new information available on minerals himself. Although Pliny's treatment of the subject is more extensive, Theophrastus is more systematic and his work is comparatively free from fable and magic,[55] although he did describe lyngurium, a gemstone supposedly formed of the solidified urine of the lynx (the best ones coming from wild males), which was included in many lapidaries until it gradually disappeared from view in the 17th century.[56]
+
+Philosophy[edit]
+  Theophrastus, depicted as a medieval scholar in the Nuremberg Chronicle
+The extent to which Theophrastus followed Aristotle's doctrines, or defined them more accurately, or conceived them in a different form, and what additional structures of thought he placed upon them, can only be partially determined because of the loss of so many of his writings.[44] Many of his opinions have to be reconstructed from the works of later writers such as Alexander of Aphrodisias and Simplicius.[citation needed]
+
+Logic[edit]
+Theophrastus seems to have carried out still further the grammatical foundation of logic and rhetoric, since in his book on the elements of speech, he distinguished the main parts of speech from the subordinate parts, and also direct expressions (κυρία λέξις kuria lexis) from metaphorical expressions, and dealt with the emotions (πάθη pathe) of speech.[57] He further distinguished a twofold reference of speech (σχίσις schisis) to things (πράγματα pragmata) and to the hearers, and referred poetry and rhetoric to the latter.[58]
+He wrote at length on the unity of judgment,[59] on the different kinds of negation,[60] and on the difference between unconditional and conditional necessity.[61] In his doctrine of syllogisms he brought forward the proof for the conversion of universal affirmative judgments, differed from Aristotle here and there in the laying down and arranging the modi of the syllogisms,[62] partly in the proof of them,[63] partly in the doctrine of mixture, i.e. of the influence of the modality of the premises upon the modality of the conclusion.[64] Then, in two separate works, he dealt with the reduction of arguments to the syllogistic form and on the resolution of them;[65] and further, with hypothetical conclusions.[66] For the doctrine of proof, Galen quotes the second Analytic of Theophrastus, in conjunction with that of Aristotle, as the best treatises on that doctrine.[67] In different monographs he seems to have tried to expand it into a general theory of science. To this, too, may have belonged the proposition quoted from his Topics, that the principles of opposites are themselves opposed, and cannot be deduced from one and the same higher genus.[68] For the rest, some minor deviations from the Aristotelian definitions are quoted from the Topica of Theophrastus.[69] Closely connected with this treatise was that upon ambiguous words or ideas,[70] which, without doubt, corresponded to book Ε of Aristotle's Metaphysics.[44]
+
+Physics and metaphysics[edit]
+Theophrastus introduced his Physics with the proof that all natural existence, being corporeal and composite, requires principles,[71] and first and foremost, motion, as the basis of all change.[72] Denying the substance of space, he seems to have regarded it, in opposition to Aristotle, as the mere arrangement and position (taxis and thesis) of bodies.[73] Time he called an accident of motion, without, it seems, viewing it, with Aristotle, as the numerical determinant of motion.[74] He attacked the doctrine of the four classical elements and challenged whether fire could be called a primary element when it appears to be compound, requiring, as it does, another material for its own nutriment.[75]
+
+  Aristotle
+He departed more widely from Aristotle in his doctrine of motion, since on the one hand he extended it over all categories, and did not limit it to those laid down by Aristotle.[76] He viewed motion, with Aristotle, as an activity, not carrying its own goal in itself (ateles), of that which only potentially exists,[77] but he opposed Aristotle's view that motion required a special explanation, and he regarded it as something proper both to nature in general and the celestial system in particular:
+
+Surely, then, if the life in animals does not need explanation or is to be explained only in this way, may it not be the case that in the heavens too, and in the heavenly bodies, movement does not need explanation or is to be explained in a special way?— Theophrastus, Metaphysics, 10a.16-29.[78]
+He recognised no activity without motion,[79] and so referred all activities of the soul to motion: the desires and emotions to corporeal motion, judgment (kriseis) and contemplation to spiritual motion.[80] The idea of a spirit entirely independent of organic activity, must therefore have appeared to him very doubtful; yet he appears to have contented himself with developing his doubts and difficulties on the point, without positively rejecting it.[81] Other Peripatetics, like Dicaearchus, Aristoxenus, and especially Strato, developed further this naturalism in Aristotelian doctrine.
+Theophrastus seems, generally speaking, where the investigation overstepped the limits of experience, to have preferred to develop the difficulties rather than solve them, as is especially apparent in his Metaphysics.[44] He was doubtful of Aristotle's teleology and recommended that such ideas be used with caution:
+
+With regard to the view that all things are for the sake of an end and nothing is in vain, the assignation of ends is in general not easy, as it is usually stated to be ... we must set certain limits to purposiveness and to the effort after the best, and not assert it to exist in all cases without qualification.— Theophrastus, Metaphysics, 10a.22–24, 11a.1–3.[82]
+He did not follow the incessant attempts by Aristotle to refer phenomena to their ultimate foundations, or his attempts to unfold the internal connections between the latter, and between them and phenomena.[44] In antiquity, it was a subject of complaint that Theophrastus had not expressed himself with precision and consistency respecting God, and had understood it at one time as Heaven, at another an (enlivening) breath (pneuma).[83]
+
+Ethics[edit]
+  The bust inscribed "Θεόφραστος Μελάντα Ἐρέσιος (Theophrastos Melanta Eresios)"
+Theophrastus did not allow a happiness resting merely upon virtue,[84] or, consequently, to hold fast by the unconditional value of morality. He subordinated moral requirements to the advantage at least of a friend,[85] and had allowed in prosperity the existence of an influence injurious to them. In later times, fault was found with his expression in the Callisthenes, "life is ruled by fortune, not wisdom" (vitam regit fortuna non sapientia).[86] That in the definition of pleasure, likewise, he did not coincide with Aristotle, seems to be indicated by the titles of two of his writings, one of which dealt with pleasure generally, the other with pleasure as Aristotle had defined it.[24] Although, like his teacher, he preferred contemplative (theoretical), to active (practical) life,[87] he preferred to set the latter free from the restraints of family life, etc. in a manner of which Aristotle would not have approved.[88]
+Theophrastus was opposed to eating meat on the grounds that it robbed animals of life and was therefore unjust. Non-human animals, he said, can reason, sense, and feel just as human beings do.[89]
+
+The "portrait" of Theophrastus[edit]
+The marble herm figure with the bearded head of philosopher type, bearing the explicit inscription, must be taken as purely conventional. Unidentified portrait heads did not find a ready market in post-Renaissance Rome.[g] This bust was formerly in the collection of marchese Pietro Massimi at Palazzo Massimi and belonged to marchese L. Massimi at the time the engraving was made. It is now in the Villa Albani, Rome (inv. 1034). The inscribed bust has often been illustrated in engravings[91] and photographs: a photograph of it forms the frontispiece to the Loeb Classical Library Theophrastus: Enquiry into Plants vol. I, 1916. André Thevet illustrated[92] in his iconographic compendium, Les vraies Pourtrats et vies des Hommes Illustres (Paris, 1584), an alleged portrait plagiarized from the bust, supporting his fraud with the invented tale that he had obtained it from the library of a Greek in Cyprus and that he had seen a confirming bust in the ruins of Antioch.[93]
+
+In popular culture[edit]
+A world is named Theophrastus in the 2014 Firefly graphic novel Serenity: Leaves on the Wind.[citation needed]
+Theodor Geisel used the name "Theophrastus" as the given name of his pen-name alter ego, Dr. Seuss.[94]
+A board game named Theophrastus was released in 2001. Players compete through a series of Alchemy experiments in order to become Theophrastus' apprentice.[95]
+
+Works[edit]
+ Metaphysics (or On First Principles).
+Translated by M. van Raalte, 1993, Brill.
+On First Principles. Translated by Dimitri Gutas, 2010, Brill.
+Enquiry into Plants: Books 1-5. Translated by A. F. Hort, 1916. Loeb Classical Library. .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}ISBN 0-674-99077-3 Vol 1 - Vol 2
+Enquiry into Plants: Books 6-9; Treatise on Odours; Concerning Weather Signs. Translated by A. F. Hort, 1926. Loeb Classical Library. ISBN 0-674-99088-9
+Recherches sur les plantes. Translated to French by Suzanne Amigues. Paris, Les Belles Lettres. 1988-2006. 5 tomes. Tome 1, Livres I-II. 1988. LVIII-146 p. Tome II, Livres III-IV. 1989. 306 p. Tome III, Livres V-VI. 1993. 212 p. Tome IV, Livres VII-VIII, 2003. 238 p. Tome V, Livres IX. 2006. LXX-400 p. First edition in French. Identifications are up-to-date, and carefully checked with botanists. Greek names with identifications are on Pl@ntUse.
+De Causis Plantarum. Translated by B. Einarson and G. Link, 1989-1990. Loeb Classical Library. 3 volumes: ISBN 0-674-99519-8, ISBN 0-674-99523-6, ISBN 0-674-99524-4.
+On Characters (in Greek)
+Translated by R. C. Jebb, 1870.
+Translated by J. M. Edmonds, 1929, with parallel text.
+Translated by J. Rusten, 2003. Loeb Classical Library. ISBN 0-674-99603-8
+On Sweat, On Dizziness and On Fatigue. Translated by W. Fortenbaugh, R. Sharples, M. Sollenberger. Brill 2002. ISBN 90-04-12890-5
+On Weather Signs.
+Translated by J. G. Wood, G. J. Symons, 1894.
+Edited by Sider David and Brunschön Carl Wolfram. Brill 2007.
+On Stones
+Modern editions[edit]
+Theophrastus' Characters: An Ancient Take on Bad Behavior by James Romm (author), Pamela Mensch (translator), and André Carrilho (illustrator), Callaway Arts & Entertainment, 2018.
+Brill[edit]
+The International Theophrastus Project started by Brill Publishers in 1992.
+
+Theophrastus of Eresus: Sources for His Life, Writings, Thought and Influence (two volumes), edited by William Fortenbaugh et al., Leiden: Brill, 1992.
+1. Life, Writings, Various Reports, Logic, Physics, Metaphysics, Theology, Mathematics [Texts 1–264].
+2. Psychology, Human Physiology, Living Creatures, Botany, Ethics, Religion, Politics, Rhetoric and Poetics, Music, Miscellanea [Texts 265–741].
+Theophrastus of Eresus: Sources for His Life, Writings, Thought and Influence — Commentary, Leiden: Brill, 1994ff. 9 volumes are planned; the published volumes are:
+2. Logic [Texts 68–136], by Pamela Huby (2007); with contributions on the Arabic material by Dimitri Gutas.
+3.1. Sources on Physics (Texts 137-223), by R. W. Sharples (1998).
+4. Psychology (Texts 265-327), by Pamela Huby (1999); with contributions on the Arabic material by Dimitri Gutas.
+5. Sources on Biology (Human Physiology, Living Creatures, Botany: Texts 328-435), by R. W. Sharples (1994).
+6.1. Sources on Ethics [Texts 436–579B], by William W. Fortenbaugh; with contributions on the Arabic material by Dimitri Gutas (2011).
+8. Sources on Rhetoric and Poetics (Texts 666-713), by William W. Fortenbaugh (2005); with contributions on the Arabic material by Dimitri Gutas.
+9.1. Sources On Music (Texts 714-726C), by Massimo Raffa (2018).
+9.2. Sources on Discoveries and Beginnings, Proverbs et al. (Texts 727-741), by William W. Fortenbaugh (2014).
+Notes[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ "Theophrastus is said to have studied first at Eresus under Alcippus, then at Athens under Plato. The latter report is problematic; but if true, it would explain an early association with Aristotle."(Encyclopedia of classical philosophy 1997, p. 552).
+
+^ "Aristippus in the fourth book of his treatise On Ancient Luxury asserts that he was enamored of Aristotle's son Nicomachus" (Laërtius 1925, § 38).
+
+^ "It may we be that we owe to Theophrastus the publication of some at least of his master's voluminous works" (Hort)[full citation needed].
+
+^ "He is made indeed to say in the probably spurious Preface to the Characters that he is writing in his ninety-ninth year; while St. Jerome's Chronicle asserts that he lived to the age of 107" (Hort)[full citation needed].
+
+^ Theodore Gaza, a refugee from Thessalonica, was working from a lost Greek manuscript that was different from any others (Hort)[full citation needed].
+
+^ It was carefully copied in a printing at Basel, 1541.[citation needed] 
+
+^ "Since 'unknown portraits' were not valued highly, identifying inscriptions were often added to classical portraits by antiquaries and collectors before modern scholarship condemned the practice", notes Eugene Dwyer.[90] 
+
+
+Citations[edit]
+
+
+^ "History of Logic: Theophrastus of Eresus" in Encyclopædia Britannica Online.
+
+^ "Ancient Logic: Forerunners of Modus Ponens and Modus Tollens". Stanford Encyclopedia of Philosophy.
+
+^ Dorandi 1999, pp. 52–53.
+
+^ a b Gavin Hardy and Laurence Totelin, Ancient Botany, Routledge, 2015, p. 8.
+
+^ Matthew Hall, Plants as Persons: A Philosophical Botany, p 28.
+
+^ a b c d Hort 1916, Book I–V
+
+^ Strabo, xiii.; Laërtius 1925, § 36, etc.
+
+^ Strabo, xiii.; Laërtius 1925, § 38
+
+^ a b c Encyclopedia of classical philosophy 1997, p. 552.
+
+^ a b Grene & Depew 2004, p. 11.
+
+^ Laërtius 1925, § 36; comp. Aulus Gellius, xiii. 5.
+
+^ a b c d e f Wheeler 1911.
+
+^ Laërtius 1925, § 36, 58.
+
+^ Laërtius 1925, § 40.
+
+^ Cicero, Tusculanae Quaestiones, iii. 28; Jerome, Letter to Nepotian; Laërtius 1925, § 41.
+
+^ a b Laërtius 1925, § 36, 37.
+
+^ Laërtius 1925, § 37; comp. Aelian, Varia Historia, iv. 19.
+
+^ Filonik 2013, pp. 73–74.
+
+^ Laërtius 1925, § 41.
+
+^ a b Laërtius 1925, § 42.
+
+^ Laërtius 1925, § 42, 45, 50.
+
+^ Laërtius 1925, § 42, 45.
+
+^ Laërtius 1925, § 46, 50, 43, 44.
+
+^ a b c d Laërtius 1925, § 44.
+
+^ a b c Laërtius 1925, § 45.
+
+^ Laërtius 1925, § 42, 46.
+
+^ Laërtius 1925, § 42, 43.
+
+^ a b Laërtius 1925, § 43.
+
+^ a b Laërtius 1925, § 47.
+
+^ Laërtius 1925, § 49.
+
+^ Laërtius 1925, § 42, 50.
+
+^ Laërtius 1925, § 42, 47, 45.
+
+^ Cicero, de Finibus, v. 4.
+
+^ Cicero, de Invent. i. 35.
+
+^ Laërtius 1925, § 42, 43, 44, 45, 47, 49, 50.
+
+^ Laërtius 1925, § 48.
+
+^ Laërtius 1925, § 45, 47, 48; comp. Pliny, H.N. xxviii. 6; Aristotle, Probl. xxxiii. 12.
+
+^ Laërtius 1925, § 48, 49; comp. § 43.
+
+^ Basil. Magn. Epist. 167.
+
+^ Laërtius 1925, § 43; Athenaeus, xii. 2, xiii. 2.
+
+^ Laërtius 1925, § 44; Cicero, Tusculanae Quaestiones, iii. 10; Alexander of Aphrodisius, de Anima, ii.
+
+^ Laërtius 1925, § 46, 50.
+
+^ Laërtius 1925, § 42, 46, 48, 50.
+
+^ a b c d e f g Smith 1870, "Theophrastus"
+
+^ a b c d e f Long 1842, pp. 332–224
+
+^ Gavin Hardy and Laurence Totelin, Ancient Botany, 2015, p. 10.
+
+^ IPNI.  Theophr.
+
+^ Probably out of the fourth book of the Meteorology ("ἐν τετάρτῃ περὶ μεταρσίων") of Theophrastus: see Plutarch, Quaest. Gr. vii.
+
+^ Dimitri Gutas (ed.), Theophrastus – On First Principles: known as His Metaphysics, Brill, 2010, p. 10.
+
+^ Walton 2001, pp. 359–364.
+
+^ a b c d Cuvier 1830, pp. 76–83.
+
+^ Richards & Caley 1956, p. 238.
+
+^ Caley 1956.
+
+^ Lang 2005
+
+^ Healy 1999, pp. 17–7.
+
+^ Walton 2001, abstract & throughout.
+
+^ Simplicius, in Categ. 8.
+
+^ Ammonius, de Interpr. 53; Schol. in Arist. 108, 27.
+
+^ Alexander of Aphrodisias, in Anal. Pr. f. 128, 124; Schol. in Arist. 184. 24. 183, b. 2; Boethius, de Interpr.
+
+^ Ammonius, in Arist. de Interpr. 128; Schol. in Arist. 121. 18.
+
+^ Alexander of Aphrodisias, in Anal. Pr. f. 12. 6; Schol. in Arist. 149. 44.
+
+^ Alexander of Aphrodisias, in Anal. Pr. 14, 72, 73, 82. 22, b, 35; Boethius, de Syll. categ. ii. 594. 5, f. 603, 615.
+
+^ Alexander of Aphrodisias, in Anal. Pr. 39, b
+
+^ Alexander of Aphrodisias, in Anal. Pr. 39, b. etc. 40, 42, 56, b. 82, 64, b. 51; John Phil. xxxii, b. etc.
+
+^ Alexander of Aphrodisias, in Anal. Pr. 115.
+
+^ Alexander of Aphrodisias, in Arist. Anal. Pr. 109, b. etc. 131, b.; John Phil. lx. etc. lxxv.; Boethius, de Syll. hypoth.
+
+^ Galen, de Hippocr. et Plat. Dogm. ii. 2.
+
+^ Simplicius, in Categ. f. 5; Schol. p. 89. 15; comp. Alexander of Aphrodisias, in Metaph. 342. 30.
+
+^ Alexander of Aphrodisias, in Top. 5, 68, 72, 25, 31.
+
+^ Alexander of Aphrodisias, in Top. 83, 189.
+
+^ Simplicius, in Phys. f. 1, 6.
+
+^ Simplicius, in Phys. f. 5, 6.
+
+^ Simplicius, in Phys. 149, b. 141.
+
+^ Simplicius, in Phys. f. 87, b; John Phil. 213. 4.
+
+^ Theophrastus, On Fire, 1.
+
+^ Simplicius, in Categ.; comp. Simplicius, in Phys. 94, 201, 202, 1.
+
+^ Simplicius, l. c. and f. 94, 1.
+
+^ Gould 1970, p. 24.
+
+^ Simplicius, in Categ.
+
+^ Simplicius, in Phys. 225.
+
+^ Themistius, in Arist. de An. 89, b. 91, b.
+
+^ Gould 1970b, p. 25.
+
+^ Clement of Alexandria, Protrept.; Cicero, de Natura Deorum, i. 13.
+
+^ Cicero, Academica, i. 10, Tusculanae Quaestiones, v. 9.
+
+^ Aulus Gellius, i. 3. § 23.
+
+^ Cicero, Tusculanae Quaestiones, iii. 10; comp. Alexander of Aphrodisias, de Anima, ii.
+
+^ Cicero, ad Atticus, ii. 16.
+
+^ Jerome, Adversus Jovinianum, i, 189.
+
+^ Taylor, Angus. Animals and Ethics. Broadview Press, p. 35.
+
+^ Dwyer 1993, p. 478 note 65...
+
+^ Dwyer 1993, p. [page needed] notes Statius pl. xiii; Galle pl. 143; Bellori pl. 38; Gronovius, vol. II p. 92; Visconti, 180–3 pl. xxi, 1–2.
+
+^ Thevet, ch. 31; Dwyer 1993, p. 476 notes that it had been illustrated by Orsini 1569 in "the first critical collection of ancient portraiture" (Dwyer 1993, p. 468).
+
+^ Noted by Dwyer 1993, p. 478, figs 15 and 16.
+
+^ "8 things you didn't know about Dr. Seuss". PBS NewsHour. July 22, 2015. Retrieved October 1, 2021.
+
+^ "Theophrastus".
+
+
+References[edit]
+Cuvier, Georges (1830). "Lecture Ninth - Theophrastus". Baron Cuvier's Lectures on the History of the Natural Sciences. 9. Edinburgh New Philosophical Journal. pp. 76–83.
+Dorandi, Tiziano (1999). "Chapter 2: Chronology".  In Algra, Keimpe;  et al. (eds.). The Cambridge History of Hellenistic Philosophy. Cambridge: Cambridge University Press. pp. 52–53. ISBN 9780521250283.
+Dwyer, Eugene (September 1993). "André Thevet and Fulvio Orsini: The Beginnings of the Modern Tradition of Classical Portrait Iconography". The Art Bulletin. 75 (3): 467–480. doi:10.2307/3045969. JSTOR 3045969.
+"Theophrastus". Encyclopedia of classical philosophy. Greenwood. 1997. p. 552.
+Filonik, Jakub (2013). "Athenian impiety trials: a reappraisal". Dike. 16: 73–74. doi:10.13130/1128-8221/4290. ISSN 1128-8221.
+Gould, Josiah B. (1970). The Philosophy of Chrysippus: Peasants, Provincials, and Folklore in the 1937 Paris World's Fair. Suny Press. p. 24. ISBN 978-0-87395-064-0.
+Gould, Josiah (1970b). The Philosophy of Chrysippus - Two Traditional Characterizations. Brill Archive. p. 25.
+Grene, Marjorie; Depew, David (2004). The philosophy of biology: an episodic history. Cambridge University Press. p. 11. ISBN 978-0-521-64380-1.
+Healy, John F. (1999). Pliny the Elder on Science and Technology. Oxford University Press. pp. 17–7.[full citation needed]
+ Laërtius, Diogenes (1925). "The Peripatetics: Theophrastus" . Lives of the Eminent Philosophers. 1:5. Translated by Hicks, Robert Drew (Two volume ed.). Loeb Classical Library. § 36–50.
+Lang, Sidney B. (August 2005), "Pyroelectricity: From Ancient Curiosity to Modern Imaging Tool", Physics Today, 58 (8): 31–36, Bibcode:2005PhT....58h..31L, doi:10.1063/1.2062916
+Long, George, ed. (1842). "Theophrastus". Penny cyclopaedia of the Society for the Diffusion of Useful Knowledge. 24. pp. 332–334.
+Orsini, Fulvio (1569). Imagines et elogia virorum illustrium. Rome.
+Walton, S. A. (October 2001). "Theophrastus on Lyngurium: medieval and early modern lore from the classical lapidary tradition". Annals of Science. 58 (4): 357–379. doi:10.1080/000337900110041371. PMID 11724065. S2CID 8649133.
+Attribution:
+
+ This article incorporates text from a publication now in the public domain: Wheeler, Emmanuel (1911). "Theophrastus".  In Chisholm, Hugh (ed.). Encyclopædia Britannica. 26 (11th ed.). Cambridge University Press. p. 787.
+ This article incorporates text from a publication now in the public domain: Smith, William, ed. (1870). "Theophrastus". Dictionary of Greek and Roman Biography and Mythology. 3.
+Further reading[edit]
+Baltussen, H. 2016. The Peripatetics: Aristotle's Heirs 322 BCE–200 CE. London: Routledge.
+Fortenbaugh, W. W., and D. Gutas, eds. 1992. Theophrastus: His Psychological, Doxographical and Scientific Writings. Rutgers University Studies in Classical Humanities 5. New Brunswick, NJ, and London: Transaction Books.
+Mejer, J. 1998. "A Life in Fragments: The Vita Theophrasti." In Theophrastus: Reappraising the Sources. Edited by J. van Ophuijsen and M. van Raalte, 1–28. Rutgers University Studies in Classical Humanities 8. New Brunswick, NJ, and London: Transaction Books.
+Pertsinidis, S. 2018. Theophrastus' Characters: A new introduction. London: Routledge.
+Van Raalte, M. 1993. Theophrastus' Metaphysics. Leiden, The Netherlands: E.J. Brill.
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Theophrastus.
+
+
+
+
+Wikiquote has quotations related to: Theophrastus
+
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Library resources about  Theophrastus 
+Online books
+Resources in your library
+Resources in other libraries
+
+By Theophrastus
+Online books
+Resources in your library
+Resources in other libraries
+
+Works by Theophrastus at Perseus Digital Library
+Theophrastus (1956) [315 BC]. Theophrastus On Stones: Introduction, Greek text, English translation, and Commentary (PDF). Translated by Richards, John F.; Caley, Earle Radcliffe. Columbus, Ohio: Ohio State University. p. 238. hdl:1811/32541.
+Theophrastus (January 1956). Theophrastus on stones. Translated by Caley, Earle Radcliffe. Ohio State University. ISBN 9780814200339.
+Theophrastus (1916). Theophrastus: Enquiry into Plants. 1. Translated by Hort, A. F. New York: Loeb Classical Library/G.P. Putnam's Sons. Book I–V.
+"Theophrastus". HighBeam Research. Retrieved October 1, 2016.
+Stratton, George Malcolm (1917). Theophrastus and the Greek physiological psychology before Aristotle.—Contains a translation of On the Senses by Theophrastus.
+Katerina Ierodiakonou. "Theophrastus".  In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy.
+"Peripatetic Logic: The Work of Eudemus of Rhodes and Theophrastus of Eresus".
+Project Theophrastus (in Greek)
+Online Galleries, University of Oklahoma Libraries
+Theophrastus, Father of Botany - PlantsPeoplePlanet
+Theophrastus of Eresus at the Edward Worth Library, Dublin
+Theophrastus, Enquiry into Plants, Hort's English translation of 1916, as html tagged with geolocated place references, at ToposText
+Works by Theophrastus at LibriVox (public domain audiobooks) 
+
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteAristotelianismOverview
+Aristotle
+Lyceum
+Peripatetic school
+Physics
+Biology
+Ethics
+Logic
+Theology (unmoved mover)
+Ideas and interests
+Active intellect
+Antiperistasis
+Arete
+Category of being
+Catharsis
+Classical unities
+Correspondence theory of truth
+Essence–accident
+Eudaimonia
+Four causes
+Future contingents
+Genus–differentia
+Hexis
+Hylomorphism
+Intromission theory of vision
+Ignoratio elenchi
+Lexis
+Magnanimity
+Mimesis
+Minima naturalia
+Moderate realism
+Aristotle's theory of universals (substantial form)
+Mythos
+Philosophy of nature (sublunary sphere)
+Philia
+Plenism
+Rational animal
+Phronesis
+Potentiality and actuality
+Sensus communis
+Substance theory (hypokeimenon, ousia)
+Syllogism
+Telos
+Temporal finitism
+To ti en einai/to ti esti
+Use value/exchange value
+Virtue ethics
+Corpus Aristotelicum
+Physics
+Organon
+Nicomachean Ethics
+Politics
+Metaphysics
+On the Soul
+Rhetoric
+Poetics
+Followers
+Alexander the Great
+Lyceum
+Aristoxenus
+Clearchus of Soli
+Dicaearchus
+Eudemus of Rhodes
+Theophrastus
+Strato of Lampsacus
+Lyco of Troas
+Aristo of Ceos
+Critolaus
+Diodorus of Tyre
+Erymneus
+Andronicus of Rhodes
+
+Islamic Golden Age
+Al-Kindi
+Al-Farabi
+Avicenna
+Averroes
+
+Jewish
+Maimonides
+
+Scholastics
+Peter Lombard
+Albertus Magnus
+Thomas Aquinas
+Duns Scotus
+Peter of Spain
+Jacopo Zabarella
+Pietro Pomponazzi
+Cesar Cremonini
+
+Modern
+Newman
+Trendelenburg
+Brentano
+Adler
+Foot
+MacIntyre
+Smith
+Hursthouse
+Nussbaum
+
+Related topics
+Platonism
+Commentaries on Aristotle
+Renaissance commentators
+Recovery of Aristotle
+Scholasticism
+Thomism
+Conimbricenses
+Pseudo-Aristotle
+Views on women
+Aristotle's wheel paradox
+Aristotle's razor
+Metabasis paradox
+
+ Category
+ Philosophy portal
+
+vtePeripatetic philosophersGreek era
+Aristotle
+Eudemus
+Theophrastus
+Aristoxenus
+Chamaeleon
+Phaenias
+Praxiphanes
+Dicaearchus
+Nicomachus
+Demetrius of Phalerum
+Strato of Lampsacus
+Clearchus
+Hieronymus of Rhodes
+Lyco of Troas
+Aristo of Ceos
+Satyrus
+Critolaus
+Diodorus of Tyre
+Roman era
+Cratippus
+Andronicus of Rhodes
+Boethus of Sidon
+Aristocles of Messene
+Aspasius
+Adrastus
+Alexander of Aphrodisias
+Themistius
+Olympiodorus the Elder
+
+vteAncient anaesthesiaPlants / animals
+Aconitum (aconite)
+Atropa belladonna (belladonna)
+Cannabis
+medical use
+Castoreum
+Coca
+Conium (hemlock)
+Datura innoxia (thorn-apple)
+Datura metel (devil's trumpet)
+Hyoscyamus niger (henbane)
+Lactucarium
+Mandragora officinarum (mandrake)
+Opium
+Saussurea (saw-wort)
+Willow
+People
+Abulcasis
+Avenzoar
+Avicenna
+Celsus
+Dioscorides
+Galen
+Hippocrates
+Rhazes
+Sabuncuoğlu
+Sushrutha
+Theophrastus
+Zhang
+Compounds
+Aconitine
+Atropine
+Cocaine
+Coniine
+Hyoscine
+Δ9-THC
+Hyoscyamine
+Morphine
+Salicylate
+
+vteNatural historyPioneeringnaturalistsClassicalantiquity
+Aristotle (History of Animals)
+Theophrastus (Historia Plantarum)
+Aelian (De Natura Animalium)
+Pliny the Elder (Natural History)
+Dioscorides (De Materia Medica)
+Renaissance
+Ulisse Aldrovandi
+Gaspard Bauhin (Pinax theatri botanici)
+Otto Brunfels
+Hieronymus Bock
+Andrea Cesalpino
+Valerius Cordus
+Leonhart Fuchs
+Conrad Gessner (Historia animalium)
+Frederik Ruysch
+William Turner (Avium Praecipuarum, New Herball)
+John Gerard (Herball, or Generall Historie of Plantes)
+Enlightenment
+Robert Hooke (Micrographia)
+Marcello Malpighi
+Antonie van Leeuwenhoek
+William Derham
+Hans Sloane
+Jan Swammerdam
+Carl Linnaeus (Systema Naturae)
+Georg Steller
+Joseph Banks
+Johan Christian Fabricius
+James Hutton
+John Ray (Historia Plantarum)
+Comte de Buffon (Histoire Naturelle)
+Bernard Germain de Lacépède
+Gilbert White (The Natural History of Selborne)
+Thomas Bewick (A History of British Birds)
+Jean-Baptiste Lamarck (Philosophie zoologique)
+19th century
+George Montagu (Ornithological Dictionary)
+Georges Cuvier (Le Règne Animal)
+William Smith
+Charles Darwin (On the Origin of Species)
+Alfred Russel Wallace (The Malay Archipelago)
+Henry Walter Bates (The Naturalist on the River Amazons)
+Alexander von Humboldt
+John James Audubon (The Birds of America)
+William Buckland
+Charles Lyell
+Mary Anning
+Jean-Henri Fabre
+Louis Agassiz
+Philip Henry Gosse
+Asa Gray
+William Jackson Hooker
+Joseph Dalton Hooker
+William Jardine (The Naturalist's Library)
+Ernst Haeckel (Kunstformen der Natur)
+Richard Lydekker (The Royal Natural History)
+20th century
+Abbott Thayer (Concealing-Coloration in the Animal Kingdom)
+Hugh B. Cott (Adaptive Coloration in Animals)
+Niko Tinbergen (The Study of Instinct)
+Konrad Lorenz (On Aggression)
+Karl von Frisch (The Dancing Bees)
+Ronald Lockley (Shearwaters)
+Topics
+Natural history museums (List)
+Parson-naturalists (List)
+Natural History Societies
+List of natural history dealers
+
+vteHistory of botanyFields and disciplines
+Agriculture
+Biogeography
+Bryology
+Cladistics
+Comparative anatomy
+Cytology
+Economic botany
+Ethnobotany
+Floristics
+Forestry
+Genetic engineering
+Horticulture
+Lichenology
+Molecular phylogenetics
+Mycology
+Natural history
+Numerical taxonomy
+Paleobotany
+Palynology
+Phycology
+Phytochemistry
+Phytogeography
+Plant anatomy
+Plant ecology
+Plant genetics
+Plant morphology
+Plant pathology
+Plant physiology
+Pteridology
+Institutions
+Jardin des Plantes
+Natural History Museum, London
+Orto botanico di Padova
+Orto botanico di Pisa
+Rothamsted Research
+Royal Botanic Gardens, Kew
+Publications
+Historia Plantarum and Causes of Plants of Theophrastus c. 300 BC
+De Plantis of Nicolaus of Damascus c. 1st-century BC
+De Materia Medica of Dioscorides c. 60 AD
+Naturalis Historia 77–79 AD
+De Vegetabilibus of Albertus Magnus c. 1256
+Herbarum Vivae Icones 1530
+Libellus De Re Herbaria Novus 1538
+Kreütterbuch of Hieronymus Bock 1539
+De plantis libri XVI of Caesalpino 1583
+Stirpium Historiae 1583
+Herball, or Generall Historie of Plantes 1597
+Prodromus Theatrici Botanici 1620
+Pinax theatri botanici 1623
+Anatome Plantarum 1675
+Anatomy of Plants 1682
+Historia Plantarum of John Ray 1686–1704
+De Sexu Plantarum Epistola 1694
+Éléments de botanique 1694
+Vegetable Staticks 1727
+Systema Naturae 1735
+Genera Plantarum 1737
+Philosophia Botanica 1751
+Species Plantarum 1753
+Systema Naturae, 10th ed. 1758–9
+Familles des Plantes 1763–4
+Experiments Upon Vegetables 1779
+Die Metamorphose der Pflantzen 1790
+Traité d'Anatomie et de Physiologie Végétale 1802
+Recherches Chimiques sur la Végétation 1804
+Beyträge zur Anatomie der Pflanzen 1812
+Prodromus Systematis Naturalis Regni Vegetabilis 1824–73
+Nepenthaceae
+Die Vegetabilische Zelle 1851
+Vergleichende Untersuchungen 1851
+On the Origin of Species 1859
+Experiments on Plant Hybridization 1865
+Die Vegetation der Erde 1872
+Plantesamfund 1895
+Pflanzengeographie auf Physiologischer Grundlage 1898
+Variation and Evolution in Plants 1950
+Ontogeny and Phylogeny 1977
+An Integrated System of Classification of Flowering Plants 1981
+Theories and concepts
+Alternation of generations
+Cell theory
+Center of diversity
+Phylogenetic nomenclature
+Spontaneous generation
+Taxonomy
+Ultrastructure
+Influential figures
+Theophrastus c. 371–287 BC
+Pliny the Elder 23–79 AD
+Pedanius Dioscorides c. 40–90 AD
+Otto Brunfels 1464–1534
+Hieronymus Bock 1498–1554
+Valerius Cordus 1515–1544
+William Turner 1515–1568
+Rembert Dodoens 1517–1585
+Andrea Cesalpino 1519–1603
+Cristóbal Acosta 1525-1594
+Gaspard Bauhin 1560–1624
+Joachim Jungius 1587–1657
+John Ray 1623–1705
+Nehemiah Grew 1628–1711
+Marcello Malpighi 1628–1694
+Joseph Pitton de Tournefort 1656–1708
+Rudolf Jakob Camerarius 1665–1721
+Stephen Hales 1677–1761
+Bernard de Jussieu 1699–1777
+Carolus Linnaeus 1707–1778
+Michel Adanson 1727–1806
+Jan Ingenhousz 1730–1799
+José Celestino Mutis 1732-1808
+Félix de Azara 1742-1821
+Joseph Banks 1743–1820
+Johann Wolfgang von Goethe 1749–1832
+Carl Ludwig Willdenow 1765–1812
+Nicolas-Théodore de Saussure 1767–1845
+Alexander von Humboldt 1769–1859
+Aimé Bonpland 1773–1858
+Thomas Nuttall 1786–1859
+Joakim Frederik Schouw 1789–1852
+Matthias Jakob Schleiden 1804–1881
+Alexander Braun 1805–1877
+George Engelmann 1809–1884
+Asa Gray 1810–1888
+August Grisebach 1814–1879
+Joseph Hooker 1817–1911
+Gregor Mendel 1822–1884
+Nathanael Pringsheim 1823–1894
+Wilhelm Hofmeister 1824–1877
+Julius von Sachs 1832–1897
+Eugenius Warming 1841–1924
+William Gilson Farlow 1844–1919
+Andreas Franz Wilhelm Schimper 1856–1901
+Nikolai Vavilov 1887–1943
+Barbara McClintock 1902–1992
+G. Ledyard Stebbins 1906–2000
+Eugene Odum 1913–2002
+Arthur Cronquist 1919–1992
+Related
+Botanical garden
+Herbal
+Plant taxonomy
+History of plant systematics
+Systems of plant taxonomy
+Herbalism
+History of agricultural science
+History of agriculture
+History of biochemistry
+History of biology
+History of biotechnology
+History of ecology
+History of evolutionary thought
+History of genetics
+History of geology
+History of medicine
+History of molecular biology
+History of molecular evolution
+History of paleontology
+History of phycology
+History of science
+Natural philosophy
+Philosophy of biology
+Timeline of biology and organic chemistry
+
+ Category
+
+vteHistory of biologyFields,disciplines
+Agricultural science
+Anatomy
+Biochemistry
+Biotechnology
+Botany
+Ecology
+Evolutionary thought
+Genetics
+Geology
+Immunology
+Medicine
+Model organisms
+Molecular biology
+Molecular evolution
+Paleontology
+Phycology
+Plant systematics
+RNA biology
+Zoology (since 1859)
+Zoology (through 1859)
+Institutions
+Cold Spring Harbor Laboratory
+Laboratory of Molecular Biology
+Marine Biological Laboratory
+Max Planck Society
+Pasteur Institute
+Rockefeller University
+Rothamsted Research
+Stazione Zoologica Anton Dohrn
+Woods Hole Oceanographic Institute
+Theories,concepts
+Germ theory of disease
+Central dogma of molecular biology
+Darwinism
+Great chain of being
+Hierarchy of life
+Lamarckism
+One gene–one enzyme hypothesis
+Protocell
+RNA world
+Sequence hypothesis
+Spontaneous generation
+HistoryClassicalantiquity
+Aristotle
+Aristotle's biology
+On Generation and Corruption
+History of Animals
+Theophrastus
+Historia Plantarum
+Dioscorides
+De materia medica
+Galen
+Renaissance,early modern
+Conrad Gessner
+Historia animalium
+Andreas Vesalius
+De humani corporis fabrica
+William Harvey
+De Motu Cordis
+Frederik Ruysch
+Jan Swammerdam
+Antonie van Leeuwenhoek
+Regnier de Graaf
+Marcello Malpighi
+Robert Hooke
+Micrographia
+Francesco Redi
+Evolution19thcentury
+Linnaeus
+Systema Naturae
+Buffon
+Histoire Naturelle
+Lamarck
+Philosophie Zoologique
+Humboldt
+Charles Lyell
+Principles of Geology
+Charles Darwin
+On the Origin of Species
+The Descent of Man
+Gregor Mendel
+Alfred Russel Wallace
+Henry Walter Bates
+Modernsynthesis
+William Bateson
+Theodosius Dobzhansky
+Genetics and the Origin of Species
+R. A. Fisher
+E. B. Ford
+J. B. S. Haldane
+Ernst Mayr
+Thomas Hunt Morgan
+George Gaylord Simpson
+Hugo de Vries
+Sewall Wright
+Recent
+Stephen Jay Gould
+W. D. Hamilton
+Lynn Margulis
+Aleksandr Oparin
+George C. Williams
+Carl Woese
+Microbiology
+Ferdinand Cohn
+Alexander Fleming
+Felix d'Herelle
+Robert Koch
+Louis Pasteur
+Martinus Beijerinck
+Lazzaro Spallanzani
+Sergei Winogradsky
+Develop. biol.,evo-devo
+Karl Ernst von Baer
+Gavin de Beer
+Sean B. Carroll
+Scott F. Gilbert
+Walter Gehring
+Ernst Haeckel
+François Jacob
+Edward B. Lewis
+Jacques Monod
+Christiane Nüsslein-Volhard
+Eric Wieschaus
+E. B. Wilson
+Genetics,molecularbiologyExperiments
+Griffith's (1928)
+Luria–Delbrück (1943)
+Avery–MacLeod–McCarty (1944)
+Miller–Urey (1952)
+Hershey–Chase (1952)
+Meselson–Stahl (1958)
+Crick, Brenner et al. (1961)
+Nirenberg–Matthaei (1961)
+Nirenberg–Leder (1964)
+People
+Barbara McClintock
+George Beadle
+Seymour Benzer
+Rosalind Franklin
+Photo 51
+James D. Watson and Francis Crick
+"Molecular structure of Nucleic Acids"
+Linus Pauling
+"Sickle Cell Anemia, a Molecular Disease"
+Fred Sanger
+Max Perutz
+John Kendrew
+Sydney Brenner
+Joshua Lederberg
+Walter Gilbert
+Kary Mullis
+Emmanuelle Charpentier
+Jennifer Doudna
+Ecology
+Rachel Carson
+Frederic Clements
+Charles Elton
+Henry Gleason
+Arthur Tansley
+Eugenius Warming
+Ethology
+Niko Tinbergen
+Karl von Frisch
+Konrad Lorenz
+Frans de Waal
+Jane Goodall
+Ivan Pavlov
+Related
+History of science
+Philosophy of biology
+Teleology
+Ethnobotany
+Eugenics
+History of the creation-evolution controversy
+Human Genome Project
+Humboldtian science
+Natural history
+Natural philosophy
+Natural theology
+Relationship between religion and science
+Timeline of biology and organic chemistry
+
+ Category
+
+Authority control General
+Integrated Authority File (Germany)
+ISNI
+1
+VIAF
+1
+2
+3
+4
+5
+6
+7
+WorldCat
+National libraries
+Norway
+Spain
+France (data)
+Catalonia
+Italy
+United States
+Latvia
+Japan
+Czech Republic
+Australia
+Greece
+Korea
+Croatia
+Netherlands
+Poland
+Sweden
+Vatican
+Scientific databases
+International Plant Names Index
+CiNii (Japan)
+Other
+Faceted Application of Subject Terminology
+RERO (Switzerland)
+1
+SUDOC (France)
+1
+Trove (Australia)
+1
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Theophrastus&oldid=1058767965"
+		Categories: 370s BC births280s BC deaths4th-century BC Greek people4th-century BC philosophers4th-century BC writers3rd-century BC Greek people3rd-century BC philosophers3rd-century BC writersAncient EresiansAncient Greek biologistsAncient Greek botanistsAncient Greek ethicistsAncient Greek logiciansAncient Greek metaphilosophersAncient Greek metaphysiciansAncient Greek philosophersAncient Greek philosophers of mindAncient Greek physicistsAncient Greek science writersCultural criticsAncient Greek epistemologistsMoral philosophersOntologistsPeripatetic philosophersPhilosophers of culturePhilosophers of educationPhilosophers of ethics and moralityAncient Greek philosophers of languagePhilosophers of logicPhilosophers of sciencePhilosophy writersPre-Linnaean botanistsSocial criticsSocial philosophersVirtue ethicistsHidden categories: All articles with incomplete citationsArticles with incomplete citations from March 2016All articles with unsourced statementsArticles with unsourced statements from March 2016Wikipedia articles needing page number citations from March 2016Articles with short descriptionShort description is different from WikidataUse mdy dates from October 2013Articles with hCardsArticles containing Ancient Greek (to 1453)-language textArticles with unsourced statements from September 2016Articles containing Latin-language textBotanists with author abbreviationsArticles with unsourced statements from February 2021Articles containing French-language textArticles with Greek-language sources (el)Wikipedia articles incorporating the template Lives of the Eminent PhilosophersWikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource referenceWikipedia articles incorporating text from the 1911 Encyclopædia BritannicaWikipedia articles incorporating a citation from the DGRBMWikipedia articles incorporating a citation from the DGRBM with a Wikisource referenceWikipedia articles incorporating text from the DGRBMCommons category link from WikidataArticles with LibriVox linksArticles with GND identifiersArticles with ISNI identifiersArticles with VIAF identifiersArticles with WORLDCATID identifiersArticles with BIBSYS identifiersArticles with BNE identifiersArticles with BNF identifiersArticles with CANTIC identifiersArticles with ICCU identifiersArticles with LCCN identifiersArticles with LNB identifiersArticles with NDL identifiersArticles with NKC identifiersArticles with NLA identifiersArticles with NLG identifiersArticles with NLK identifiersArticles with NSK identifiersArticles with NTA identifiersArticles with PLWABN identifiersArticles with SELIBR identifiersArticles with VcBA identifiersArticles with Botanist identifiersArticles with CINII identifiersArticles with FAST identifiersArticles with RERO identifiersArticles with SUDOC identifiersArticles with Trove identifiersAC with 27 elementsArticles with multiple identifiers
+	

@@ -1,0 +1,627 @@
+
+		From Wikipedia, the free encyclopedia
+		  (Redirected from Meter (music))
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Aspect of music
+
+
+  Musical and lyric metre
+In music, metre (Commonwealth spelling) or meter (American spelling; see spelling differences) refers to the regularly recurring patterns and accents such as bars and beats. Unlike rhythm, metric onsets are not necessarily sounded, but are nevertheless implied by the performer (or performers) and expected by the listener.[not verified in body]
+A variety of systems exist throughout the world for organising and playing metrical music, such as the Indian system of tala and similar systems in Arabic and African music.
+Western music inherited the concept of metre from poetry,[1][2] where it denotes: the number of lines in a verse; the number of syllables in each line; and the arrangement of those syllables as long or short, accented or unaccented.[1][2] The first coherent system of rhythmic notation in modern Western music was based on rhythmic modes derived from the basic types of metrical unit in the quantitative metre of classical ancient Greek and Latin poetry.[3]
+Later music for dances such as the pavane and galliard consisted of musical phrases to accompany a fixed sequence of basic steps with a defined tempo and time signature. The English word "measure", originally an exact or just amount of time, came to denote either a poetic rhythm, a bar of music, or else an entire melodic verse or dance[4] involving sequences of notes, words, or movements that may last four, eight or sixteen bars.[citation needed]
+Metre is related to and distinguished from pulse, rhythm (grouping), and beats:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}Meter is the measurement of the number of pulses between more or less regularly recurring accents. Therefore, in order for meter to exist, some of the pulses in a series must be accented—marked for consciousness—relative to others. When pulses are thus counted within a metric context, they are referred to as beats.[5]
+Contents
+
+1 Metric structure
+2 Frequently encountered types of metre
+
+2.1 Metres classified by the number of beats per measure
+
+2.1.1 Duple and quadruple metre
+2.1.2 Triple metre
+2.1.3 More than four beats
+
+
+2.2 Metres classified by the subdivisions of a beat
+
+2.2.1 Simple metre
+2.2.2 Compound metre
+
+
+
+
+3 Metre in song
+4 Metre in dance music
+5 Metre in classical music
+
+5.1 Changing metre
+
+
+6 Hypermetre
+7 Polymetre
+
+7.1 Examples
+
+
+8 See also
+9 References
+
+9.1 Sources
+
+
+10 Further reading
+
+
+
+Metric structure[edit]
+The term metre is not very precisely defined.[1] Stewart MacPherson preferred to speak of "time" and "rhythmic shape",[6] while Imogen Holst preferred "measured rhythm".[7] However, Justin London has written a book about musical metre, which "involves our initial perception as well as subsequent anticipation of a series of beats that we abstract from the rhythm surface of the music as it unfolds in time".[8] This "perception" and "abstraction" of rhythmic bar is the foundation of human instinctive musical participation, as when we divide a series of identical clock-ticks into "tick–tock–tick–tock".[1] "Rhythms of recurrence" arise from the interaction of two levels of motion, the faster providing the pulse and the slower organizing the beats into repetitive groups.[9] In his book The Rhythms of Tonal Music, Joel Lester notes that, "[o]nce a metric hierarchy has been established, we, as listeners, will maintain that organization as long as minimal evidence is present".[10]
+
+  Metric levels: beat level shown in middle with division levels above and multiple levels below.
+"Meter may be defined as a regular, recurring pattern of strong and weak beats. This recurring pattern of durations is identified at the beginning of a composition by a meter signature (time signature). ... Although meter is generally indicated by time signatures, it is important to realize that meter is not simply a matter of notation".[11] A definition of musical metre requires the possibility of identifying a repeating pattern of accented pulses – a "pulse-group" – which corresponds to the foot in poetry.[citation needed] Frequently a pulse-group can be identified by taking the accented beat as the first pulse in the group and counting the pulses until the next accent.[12][1]
+Frequently metres can be broken down into a pattern of duples and triples.[12][1] For example, the difference between a 34 meter and a 68 meter is that the former is made up of three units of a 28 pulse group, while the latter is made of two units of a 38 pulse group. In turn, metric bars may be organized into superior 'metric groups' – for example, a phrase or melody comprising 2 (bars) x 34.[13]
+The level of musical organisation implied by musical metre includes the most elementary levels of musical form.[6] Metrical rhythm, measured rhythm, and free rhythm are general classes of rhythm and may be distinguished in all aspects of temporality:[14]
+
+Metrical rhythm, by far the most common class in Western music, is where each time value is a multiple or fraction of a fixed unit (beat, see paragraph below), and normal accents reoccur regularly, providing systematic grouping (bars, divisive rhythm).
+Measured rhythm is where each time value is a multiple or fraction of a specified time unit but there are not regularly recurring accents (additive rhythm).
+Free rhythm is where there is neither.
+Some music, including chant, has freer rhythm, like the rhythm of prose compared to that of verse.[1] Some music, such as some graphically scored works since the 1950s and non-European music such as Honkyoku repertoire for shakuhachi, may be considered ametric.[15] The music term senza misura is Italian for "without metre", meaning to play without a beat, using time to bar how long it will take to play the bar.[16][page needed]
+Metric structure includes metre, tempo, and all rhythmic aspects that produce temporal regularity or structure, against which the foreground details or durational patterns of any piece of music are projected.[17] Metric levels may be distinguished: the beat level is the metric level at which pulses are heard as the basic time unit of the piece.[citation needed] Faster levels are division levels, and slower levels are multiple levels.[17] A rhythmic unit is a durational pattern which occupies a period of time equivalent to a pulse or pulses on an underlying metric level.[citation needed]
+
+Frequently encountered types of metre[edit]
+
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Metre" music – news · newspapers · books · scholar · JSTOR  (October 2020) (Learn how and when to remove this template message)
+Metres classified by the number of beats per measure[edit]
+
+
+Duple and quadruple metre[edit]
+
+In duple metre, each measure is divided into two beats, or a multiple thereof (quadruple metre).
+For example, in the time signature 24, each bar contains two (2) quarter-note (4) beats. In the time signature 68, each bar contains two dotted-quarter-note beats.
+
+
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Corresponding quadruple metres are 44, which has four quarter-note beats per measure, and 128, which has four dotted-quarter-note beats per bar.
+
+
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+
+
+Triple metre[edit]
+
+Triple metre is a metre in which each bar is divided into three beats, or a multiple thereof. For example, in the time signature 34, each bar contains three (3) quarter-note (4) beats, and with a time signature of 98, each bar contains three dotted-quarter beats.
+
+
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+More than four beats[edit]
+Metres with more than four beats are called quintuple metres (5), sextuple metres (6), septuple metres (7), etc.
+In classical music theory it is presumed that only divisions of two or three are perceptually valid, so in metres not divisible by 2 or 3, such as quintuple metre, say 54, is assumed to either be equivalent to a measure of 34 followed by a measure of 24, or the opposite: 24 then 34. Higher metres which are divisible by 2 or 3 are considered equivalent to groupings of tuple or triple metre measures, thus, 64, for example, is rarely used because it is considered equivalent to two measures of 34. See: hypermetre and additive rhythm and divisive rhythm.
+Higher metres are used more commonly in analysis, if not performance, of cross-rhythms, as lowest number possible which may be used to count a polyrhythm is the lowest common denominator (LCD) of the two or more metric divisions. For example, much African music is recorded in Western notation as being in 128, the LCD of 4 and 3.
+
+Metres classified by the subdivisions of a beat[edit]
+
+Simple metre and compound metre are distinguished by the way the beats are subdivided.
+
+Simple metre[edit]
+
+Simple metre (or simple time) is a metre in which each beat of the bar divides naturally into two (as opposed to three) equal parts. The top number in the time signature will be 2, 3, 4, 5, etc.
+For example, in the time signature 34, each bar contains three quarter-note beats, and each of those beats divides into two eighth notes, making it a simple metre. More specifically, it is a simple triple metre because there are three beats in each measure; simple duple (two beats) or simple quadruple (four) are also common metres.
+
+
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Compound metre[edit]
+
+Compound metre (or compound time), is a metre in which each beat of the bar divides naturally into three equal parts. That is, each beat contains a triple pulse.[18] The top number in the time signature will be 6, 9, 12, 15, 18, 24, etc.
+Compound metres are written with a time signature that shows the number of divisions of beats in each bar as opposed to the number of beats. For example, compound duple (two beats, each divided into three) is written as a time signature with a numerator of six, for example, 68. Contrast this with the time signature 34, which also assigns six eighth notes to each measure, but by convention connotes a simple triple time: 3 quarter-note beats.
+Examples of compound metre include 68 (compound duple metre), 98 (compound triple metre), and 128 (compound quadruple metre).
+
+
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Although 34 and 68 are not to be confused, they use bars of the same length, so it is easy to "slip" between them just by shifting the location of the accents. This interpretational switch has been exploited, for example, by Leonard Bernstein, in the song "America":
+
+  "I like to be in A-mer-i-ca" from West Side Story
+Compound metre divided into three parts could theoretically be transcribed into musically equivalent simple metre using triplets. Likewise, simple metre can be shown in compound through duples. In practice, however, this is rarely done because it disrupts conducting patterns when the tempo changes. When conducting in 68, conductors typically provide two beats per bar; however, all six beats may be performed when the tempo is very slow.
+Compound time is associated with "lilting" and dancelike qualities. Folk dances often use compound time. Many Baroque dances are often in compound time: some gigues, the courante, and sometimes the passepied and the siciliana.
+
+Metre in song[edit]
+
+
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}See also: Musical form § Levels of organization
+  The German children's song "Drei Chinesen mit dem Kontrabass" shows a common fourfold multiplication of rhythmic phrases into a complete verse and melody.
+The concept of metre in music derives in large part from the poetic metre of song and includes not only the basic rhythm of the foot, pulse-group or figure used but also the rhythmic or formal arrangement of such figures into musical phrases (lines, couplets) and of such phrases into melodies, passages or sections (stanzas, verses) to give what Holst (1963) calls "the time pattern of any song".[19]
+Traditional and popular songs may draw heavily upon a limited range of metres, leading to interchangeability of melodies. Early hymnals commonly did not include musical notation but simply texts that could be sung to any tune known by the singers that had a matching metre. For example, The Blind Boys of Alabama rendered the hymn "Amazing Grace" to the setting of The Animals' version of the folk song "The House of the Rising Sun". This is possible because the texts share a popular basic four-line (quatrain) verse-form called ballad metre or, in hymnals, common metre, the four lines having a syllable-count of 8–6–8–6 (Hymns Ancient and Modern Revised), the rhyme-scheme usually following suit: ABAB. There is generally a pause in the melody in a cadence at the end of the shorter lines so that the underlying musical metre is 8–8–8–8 beats, the cadences dividing this musically into two symmetrical "normal" phrases of four bars each.[20]
+In some regional music, for example Balkan music (like Bulgarian music, and the Macedonian 3+2+2+3+2 metre), a wealth of irregular or compound metres are used. Other terms for this are "additive metre"[21] and "imperfect time".[22][failed verification]
+
+Metre in dance music[edit]
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed.  (October 2020) (Learn how and when to remove this template message)
+  Typical figures of the waltz rhythm.[23]
+  
+
+
+
+Dance from Terpsichore (Michael Praetorius, 1612)
+
+"Volte" (0:22)
+
+Includes regular metre followed by an irregular metre
+Problems playing this file? See media help.
+
+Metre is often essential to any style of dance music, such as the waltz or tango, that has instantly recognizable patterns of beats built upon a characteristic tempo and bar. The Imperial Society of Teachers of Dancing defines the tango, for example, as to be danced in 24 time at approximately 66 beats per minute. The basic slow step forwards or backwards, lasting for one beat, is called a "slow", so that a full "right–left" step is equal to one 24 bar.[24]
+But step-figures such as turns, the corte and walk-ins also require "quick" steps of half the duration, each entire figure requiring 3–6 "slow" beats. Such figures may then be "amalgamated" to create a series of movements that may synchronise to an entire musical section or piece. This can be thought of as an equivalent of prosody (see also: prosody (music)).
+
+Metre in classical music[edit]
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed.  (October 2020) (Learn how and when to remove this template message)
+In music of the common practice period (about 1600–1900), there are four different families of time signature in common use:
+
+Simple duple: two or four beats to a bar, each divided by two, the top number being "2" or "4" (24, 28, 22 ... 44, 48, 42 ...). When there are four beats to a bar, it is alternatively referred to as "quadruple" time.
+Simple triple: three beats to a bar, each divided by two, the top number being "3" (34, 38, 32 ...)
+Compound duple: two beats to a bar, each divided by three, the top number being "6" (68, 616, 64 ...) Similarly compound quadruple, four beats to a bar, each divided by three, the top number being "12" (128, 1216, 124 ...)
+Compound triple: three beats to a bar, each divided by three, the top number being "9" (98, 916, 94)
+If the beat is divided into two the metre is simple, if divided into three it is compound. If each bar is divided into two it is duple and if into three it is triple. Some people also label quadruple, while some consider it as two duples. Any other division is considered additively, as a bar of five beats may be broken into duple+triple (12123) or triple+duple (12312) depending on accent. However, in some music, especially at faster tempos, it may be treated as one unit of five.
+
+Changing metre[edit]
+
+In 20th-century concert music, it became more common to switch metre—the end of Igor Stravinsky's The Rite of Spring (shown below) is an example. This practice is sometimes called mixed metres.
+
+.mw-parser-output .block-indent{padding-left:3em;padding-right:0;overflow:hidden}Audio playback is not supported in your browser. You can download the audio file.
+A metric modulation is a modulation from one metric unit or metre to another.
+The use of asymmetrical rhythms – sometimes called aksak rhythm (the Turkish word for "limping") – also became more common in the 20th century: such metres include quintuple as well as more complex additive metres along the lines of 2+2+3 time, where each bar has two 2-beat units and a 3-beat unit with a stress at the beginning of each unit. Similar metres are often used in Bulgarian folk dances and Indian classical music.
+
+Hypermetre[edit]
+
+
+  Hypermetre: four-beat measure, four-bar hypermeasure, and four-hyperbar verses. Hyperbeats in red.
+  Opening of the third movement of Beethoven's Waldstein sonata. The melodic lines in bars 1–4 and 5–8 are (almost) identical, and both form hypermetric spans. The two hyperbeats are the low Cs, in the first and fifth bars of the example.
+Hypermetre is large-scale metre (as opposed to smaller-scale metre). Hypermeasures consist of hyperbeats.[25] "Hypermeter is metre, with all its inherent characteristics, at the level where bars act as beats".[26] For example, the four-bar hypermeasures are the prototypical structure for country music, in and against which country songs work.[26] In some styles, two- and four-bar hypermetres are common.[citation needed]
+The term was coined, together with "hypermeasures", by Edward T. Cone (1968), who regarded it as applying to a relatively small scale, conceiving of a still larger kind of gestural "rhythm" imparting a sense of "an extended upbeat followed by its downbeat"[27] London (2012) contends that in terms of multiple and simultaneous levels of metrical "entrainment" (evenly spaced temporal events "that we internalize and come to expect", p. 9), there is no in-principle distinction between metre and hypermetre; instead, they are the same phenomenon occurring at different levels.[28]
+Lee (1985)[verification needed] and Middleton have described musical metre in terms of deep structure, using generative concepts to show how different metres (44, 34, etc.) generate many different surface rhythms.[citation needed] For example, the first phrase of The Beatles' "A Hard Day's Night", excluding the syncopation on "night", may be generated from its metre of 44:[29]
+
+
+
+44
+
+44
+
+44
+
+
+24
+
+24
+
+24
+
+24
+
+24
+
+24
+
+
+
+
+14
+
+14
+
+
+
+
+
+
+
+
+
+
+
+
+18
+
+18
+
+18
+
+18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It's
+
+been
+
+a
+
+hard
+
+day's
+
+night...
+
+
+
+The syncopation may then be added, moving "night" forward one eighth note, and the first phrase is generated.[citation needed]
+
+Polymetre[edit]
+
+
+See also: Polyrhythm
+With polymetre, the bar sizes differ, but the beat remains constant. Since the beat is the same, the various metres eventually agree. (Four bars of 74 = seven bars of 44). An example is the second moment, titled "Scherzo polimetrico", of Edmund Rubbra's Second String Quartet (1951), in which a constant triplet texture holds together overlapping bars of 98, 128, and 218, and barlines rarely coincide in all four instruments.[30]
+With polyrhythm, the number of beats varies within a fixed bar length. For example, in a 4:3 polyrhythm, one part plays 44 while the other plays 34, but the 34 beats are stretched so that three beats of 34 are played in the same time as four beats of 44.[citation needed] More generally, sometimes rhythms are combined in a way that is neither tactus nor bar preserving—the beat differs and the bar size also differs. See Polytempi.[citation needed]
+Research into the perception of polymetre shows that listeners often either extract a composite pattern that is fitted to a metric framework, or focus on one rhythmic stream while treating others as "noise". This is consistent with the Gestalt psychology tenet that "the figure–ground dichotomy is fundamental to all perception".[31][verification needed][32] In the music, the two metres will meet each other after a specific number of beats. For example, a 34 metre and 44 metre will meet after 12 beats.
+In "Toads of the Short Forest" (from the album Weasels Ripped My Flesh), composer Frank Zappa explains: "At this very moment on stage we have drummer A playing in 78, drummer B playing in 34, the bass playing in 34, the organ playing in 58, the tambourine playing in 34,[clarification needed] and the alto sax blowing his nose".[33] "Touch And Go", a hit single by The Cars, has polymetric verses, with the drums and bass playing in 54, while the guitar, synthesizer, and vocals are in 44 (the choruses are entirely in 44).[34] Magma uses extensively 78 on 24 (e.g. Mëkanïk Dëstruktïẁ Kömmandöh) and some other combinations. King Crimson's albums of the eighties have several songs that use polymetre of various combinations.[citation needed]
+Polymetres are a defining characteristic of the djent subgenre of metal, pioneered by Swedish band Meshuggah whose compositions often feature unconventionally timed rhythm figures cycling over a 44 base.[35]
+
+Examples[edit]
+
+Polymetres
+
+
+Play media  Beat-preserving polymetre 54 with 44
+
+Play media  Beat-preserving polymetre 54 with 34
+
+Play media  Measure-preserving polyrhythm 34 with 44
+
+
+Play media  Beat-preserving polymetre 24 with 38
+
+Play media  Beat-preserving polymetre 44 with 58
+
+Play media  Beat-preserving polymetre 44 with 78
+
+
+Play media  Measure-preserving polyrhythm 2:3
+
+Play media  Measure-preserving polyrhythm 4:3
+
+Play media  Measure-preserving polyrhythm 5:4
+
+
+Various metres
+
+
+Play media  68 at tempo of 90 bpm
+
+Play media  98 at tempo of 90 bpm
+
+Play media  128 at tempo of 90 bpm
+
+
+Play media  24 at a tempo of 60 bpm
+
+Play media  34 at a tempo of 60 bpm
+
+Play media  44 at a tempo of 60 bpm
+
+See also[edit]
+Metre (hymn)
+Metre (poetry)
+Hymn tune
+List of musical works in unusual time signatures
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ a b c d e f g Scholes 1977.
+
+^ a b Latham 2002b.
+
+^ Hoppin 1978, 221.
+
+^ Merriam-Webster 2015.
+
+^ Cooper & Meyer 1960, p. 3.
+
+^ a b MacPherson 1930, 3.
+
+^ Holst 1963, 17.
+
+^ London 2004, 4.
+
+^ Yeston 1976, 50–52.
+
+^ Lester 1986, 77.
+
+^ Benward and Saker 2003, 9.
+
+^ a b MacPherson 1930, 5.
+
+^ Cooper & Meyer 1960, p. [page needed].
+
+^ Cooper 1973, 30.
+
+^ Karpinski 2000, 19.
+
+^ Forney and Machlis 2007, ?.
+
+^ a b Wittlich 1975, ch. 3.
+
+^ Latham 2002a.
+
+^ Holst 1963, 18.
+
+^ MacPherson 1930, 14.
+
+^ London 2001, §I.8.
+
+^ Read 1964, 147.
+
+^ Scruton 1997.
+
+^ Anon. 1983, p. [page needed].
+
+^ Stein 2005, 329.
+
+^ a b Neal 2000, 115.
+
+^ Berry and Van Solkema 2013, §5(vi).
+
+^ London 2012, 25.
+
+^ Middleton 1990, 211.
+
+^ Rubbra 1953, 41.
+
+^ Boring 1942, 253.
+
+^ London 2004, 49–50.
+
+^ Mothers of Invention 1970.
+
+^ Cars 1981, 15.
+
+^ Pieslak 2007.
+
+
+Sources[edit]
+.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}
+.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Anon. (1983). Ballroom Dancing. Teach Yourself. Imperial Society of Teachers of Dancing. Hodder and Stoughton. ISBN 9780340225172.
+.mw-parser-output .citation{word-wrap:break-word}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}Benward, Bruce, and Marilyn Nadine Saker (2003). Music: In Theory and Practice, Vol. 1, seventh edition. Boston: McGraw-Hill. ISBN 0-07-294262-2.
+Berry, David Carson, and Sherman Van Solkema (2013). "Theory". The Grove Dictionary of American Music, second edition, edited by Charles Hiroshi Garrett. New York: Oxford University Press. ISBN 978-0-19-531428-1.
+Boring, Edwin G. (1942). Sensation and Perception in the History of Experimental Psychology. New York: Appleton-Century.
+Cars, The (1981). Panorama (songbook). New York: Warner Bros. Publications.
+Cone, Edward T. (1968). Musical Form and Musical Performance. New York: Norton. ISBN 978-0-39309767-2.
+Cooper, Grosvenor; Meyer, Leonard B. (1960). The Rhythmic Structure of Music. Chicago: University of Chicago Press. OCLC 1139523. ISBN 0-226-11521-6, 0-226-11522-4.
+Cooper, Paul (1973). Perspectives in Music Theory: An Historical-Analytical Approach. New York: Dodd, Mead. ISBN 0-396-06752-2.
+Forney, Kristine, and Joseph Machlis (2007). The Enjoyment of Music: An Introduction to Perceptive Listening, tenth edition. New York: W. W. Norton. ISBN 978-0-393-92885-3 (cloth); ISBN 978-0-393-17410-6 (text with DVD); ISBN 978-0-393-92888-4 (pbk.); ISBN 978-0-393-10757-9 (DVD)
+Holst, Imogen (1963). The ABC of Music: A Short Practical Guide to the Basic Essentials of Rudiments, Harmony, and Form'. Benjamin Britten (foreword). London & New York: Oxford University Press. ISBN 0-19-317103-1.
+Hoppin, Richard H. 1978. Medieval Music. New York: W. W. Norton. ISBN 0-393-09090-6.
+Karpinski, Gary S. (2000). Aural Skills Acquisition: The Development of Listening, Reading, and Performing Skills in College-Level Musicians. ISBN 0-19-511785-9.
+Krebs, Harald (2005). "Hypermeter and Hypermetric Irregularity in the Songs of Josephine Lang.".  In Deborah Stein (ed.). Engaging Music: Essays in Music Analysis. New York: Oxford University Press. ISBN 0-19-517010-5.
+Latham, Alison (2002a). "Compound Time [Compound Metre]". The Oxford Companion to Music. edited by Alison Latham. Oxford and New York: Oxford University Press. ISBN 0-19-866212-2.
+Latham, Alison (2002b). "Metre". The Oxford Companion to Music. edited by Alison Latham. Oxford and New York: Oxford University Press. ISBN 0-19-866212-2.
+Lee, C. S. (1985). "The Rhythmic Interpretation of Simple Musical Sequences: Towards a Perceptual Model".  In Peter Howell; Ian Cross; Robert West (eds.). Musical Structure and Cognition. London: Academic Press. ISBN 978-0-12357170-0.
+Lester, Joel (1986). The Rhythms of Tonal Music. Carbondale: Southern Illinois University Press. ISBN 0-8093-1282-4.
+London, Justin (2001). "Rhythm".  In Stanley Sadie; John Tyrrell (eds.). The New Grove Dictionary of Music and Musicians (2nd ed.). London: Macmillan.
+London, Justin (2004). Hearing in Time: Psychological Aspects of Musical Meter (first ed.). Oxford: Oxford University Press. ISBN 0-19-516081-9.
+London, Justin (2012). Hearing in Time: Psychological Aspects of Musical Meter (second ed.). Oxford: Oxford University Press. ISBN 978-0-19-974437-4.
+MacPherson, Stewart (1930). Form in Music. London: Joseph Williams Ltd.
+Merriam-Webster (2015). "Measure". Dictionary. New York.
+Middleton, Richard (1990). Studying Popular Music. Milton Keynes: Open University Press. ISBN 978-0-33515276-6.
+Mothers of Invention, The (1970), Weasels Ripped My Flesh (LP), Bizarre Records / Reprise Records, MS 2028 at Discogs (list of releases)
+Neal, Jocelyn (2000). "Songwriter's Signature, Artist's Imprint: The Metric Structure of a Country Song".  In Wolfe, Charles K.; Akenson, James E. (eds.). Country Music Annual 2000. Lexington, KY: University Press of Kentucky. ISBN 0-8131-0989-2.
+Pieslak, Jonathan (2007). "Re-casting Metal: Rhythm and Meter in the Music of Meshuggah". Music Theory Spectrum. 29 (2): 219–45. doi:10.1525/mts.2007.29.2.219.
+Read, Gardner (1964). Music Notation: A Manual of Modern Practice. Boston: Allyn and Bacon.
+Rubbra, Edmund (1953). "String Quartet No. 2 in E-flat, Op. 73: An Analytical Note by the Composer." The Music Review 14:36–44.
+Scholes, Percy (1977).  John Owen Ward (ed.). The Oxford Companion to Music. 6th corrected reprint of the 10th ed. (1970), revised and reset. London and New York: Oxford University Press. ISBN 0-19-311306-6., chapters "Metre" and "Rhythm"
+Scruton, Roger (1997). The Aesthetics of Music. Oxford: Clarendon Press. p. 25ex2.6. ISBN 0-19-816638-9.
+Wittlich, Gary E., ed. (1975). Aspects of Twentieth-century Music. Englewood Cliffs, New Jersey: Prentice-Hall. ISBN 0-13-049346-5.
+Yeston, Maury (1976). The Stratification of Musical Rhythm. New Haven: Yale University Press. ISBN 0-300-01884-3.
+
+Further reading[edit]
+Anon. (1999). "Polymeter." Baker's Student Encyclopedia of Music, 3 vols., ed. Laura Kuhn. New York: Schirmer-Thomson Gale; London: Simon & Schuster. ISBN 0-02-865315-7. Online version 2006: Archived 27 May 2011 at the Wayback Machine
+Anon. [2001]. "Polyrhythm". Grove Music Online. (Accessed 4 April 2009)
+Hindemith, Paul (1974). Elementary Training for Musicians, second edition (rev. 1949). Mainz, London, and New York: Schott. ISBN 0-901938-16-5.
+Honing, Henkjan (2002). "Structure and Interpretation of Rhythm and Timing." Tijdschrift voor Muziektheorie 7(3):227–232. (pdf)
+Larson, Steve (2006). "Rhythmic Displacement in the Music of Bill Evans". In Structure and Meaning in Tonal Music: Festschrift in Honor of Carl Schachter, edited by L. Poundie Burstein and David Gagné, 103–122. Harmonologia Series, no. 12. Hillsdale, New York: Pendragon Press. ISBN 1-57647-112-8.
+Waters, Keith (1996). "Blurring the Barline: Metric Displacement in the Piano Solos of Herbie Hancock". Annual Review of Jazz Studies 8:19–37.
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteRhythm and meter
+Additive and divisive
+Anacrusis
+Bar
+Beat
+Canter rhythm
+Colotomy
+Counting
+Count off
+Cross-beat
+Duration
+Note value
+Gatra
+Groove
+Half-time
+Harmonic rhythm
+Hemiola
+Homorhythm
+Iqa'
+Isorhythm
+Metric modulation
+Non-retrogradable rhythm
+Notes inégales
+Note value
+Polyrhythm
+Prolation and tempus
+Prosody
+Pulse
+Rhythmic mode
+Stop-time
+Swing
+Syncopation
+Tala
+Tempo
+Time point
+Time signature
+Tuplet
+
+vteMusical notationStaff
+8va
+15ma
+Abbreviation
+Bar / barline / measure
+Clef
+Da capo
+Dal segno
+Key signature
+Ledger line
+Mode
+Ossia
+Scale
+Rehearsal letter
+Repeat sign
+Tempo
+Time signature
+Transposition
+Transposing instrument
+Musical notes
+Accidental (flat
+natural
+sharp)
+Cue note
+Dotted note
+Grace note
+Note value (beam
+notehead
+stem)
+Pitch
+Rest
+Tacet
+Tuplet
+Tremolo
+Interval
+Helmholtz pitch notation
+Letter notation
+Scientific pitch notation
+Articulation
+Accent
+Sforzando
+Caesura
+Damping
+Dynamics
+Fermata
+Fingering
+Legato
+Marcato
+Ornament (appoggiatura
+glissando
+grace note
+mordent
+slide
+trill)
+Portato
+Slur
+Staccato
+Tenuto
+Tie
+Tonguing
+Sheet music
+History of music publishing
+Music engraving
+Popular-music publisher
+Sheet-music publisher
+Scorewriter
+Alternative
+Braille music
+Chord chart
+Figured bass
+Graphic notation
+Lead sheet
+Eye music
+Nashville Number System
+Numbered musical notation
+Klavarskribo
+Tablature ("Tab")
+Parsons
+Percussion notation
+Simplified
+Non-Westernand ancient
+Ancient Greek
+Chinese
+Gamelan
+Kunkunshi
+Neume
+Swaralipi
+Shakuhachi
+Znamenny
+Related
+Mensural notation
+Music stand
+Perfect pitch
+Sight-reading
+Sight singing
+Transcription
+
+ List of musical symbols
+ Category:Musical notation
+
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Metre_(music)&oldid=1057665040"
+		Categories: Rhythm and meterPatternsHidden categories: Pages using deprecated score attributesWikipedia articles needing page number citations from August 2021Articles with short descriptionShort description matches WikidataUse British English from July 2018All articles with unsourced statementsArticles with unsourced statements from June 2020Articles with unsourced statements from October 2020Wikipedia articles needing page number citations from December 2009Articles needing additional references from October 2020All articles needing additional referencesAll articles with failed verificationArticles with failed verification from August 2013Articles with hAudio microformatsAll pages needing factual verificationWikipedia articles needing factual verification from August 2013Wikipedia articles needing clarification from June 2015Webarchive template wayback linksUse dmy dates from September 2019Articles containing video clips
+	

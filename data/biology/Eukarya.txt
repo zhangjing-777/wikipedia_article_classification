@@ -1,0 +1,257 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}This article is about a biological classification. For a political entity, see Empire.
+Taxonomic rank
+  The hierarchy of biological classification's eight major taxonomic ranks. Life is divided into domains, which are subdivided into further groups. Intermediate minor rankings are not shown.
+
+In biological taxonomy, a domain (/dəˈmeɪn/ or /doʊˈmeɪn/) (Latin: regio[1]), also dominion,[2] superkingdom, realm, or empire,[3] is the highest taxonomic rank of organisms in the three-domain system of taxonomy devised by Carl Woese et al. in 1990.[1]
+According to this system, the tree of life consists of three domains: Archaea, Bacteria, and Eukarya.[1] The first two are all prokaryotic microorganisms, or mostly single-celled organisms whose cells have a distorted or non-membrane bound nucleus. All life that has a cell nucleus and eukaryotic membrane-bound organelles is included in Eukarya.
+Non-cellular life is not included in this system. Alternatives to the three-domain system include the earlier two-empire system (with the empires Prokaryota and Eukaryota), and the eocyte hypothesis (with two domains of Bacteria and Archaea, and Eukarya included within Archaea).
+
+Contents
+
+1 Terminology
+2 Characteristics of the three domains
+
+2.1 Archaea
+2.2 Bacteria
+2.3 Eukarya
+
+
+3 Exclusion of viruses and prions
+4 Alternative classifications
+5 See also
+6 References
+7 External links
+
+
+
+Terminology[edit]
+The term "domain" was proposed by Carl Woese, Otto Kandler and Mark Wheelis (1990) in a three-domain system. This term represents a synonym for the category of dominion (Lat. dominium), introduced by Moore in 1974.[2]
+
+Characteristics of the three domains[edit]
+  A speculatively rooted tree for RNA genes, showing major branches Bacteria, Archaea, and Eukaryota
+  The three-domains tree and the Eocyte hypothesis (Two domains tree), 2008.[4]
+  Phylogenetic tree showing the relationship between the eukaryotes and other forms of life, 2006[5] Eukaryotes are colored red, archaea green, and bacteria blue.
+Main article: Three-domain system
+Each of these three domains contains unique rRNA. This forms the basis of the three-domain system. While the presence of a nuclear membrane differentiates the Eukarya from the Archaea and Bacteria, both of which lack a nuclear membrane, distinct biochemical and RNA markers differentiate the Archaea and Bacteria from each other.[1]
+
+Archaea[edit]
+Further information: Archaea
+Archaea are  prokaryota cells, typically characterized by membrane lipids that are branched hydrocarbon chains attached to glycerol by ether linkages. The presence of these ether linkages in Archaea adds to their ability to withstand extreme temperatures and highly acidic conditions, but many archaea live in mild environments. Halophiles, organisms that thrive in highly salty environments, and hyperthermophiles, organisms that thrive in extremely hot environments, are examples of Archaea.[1]
+Archaea evolved many cell sizes, but all are relatively small. Their size ranges from 0.1 μm to 15 μm diameter and up to 200 μm long. They are about the size of bacteria, or similar in size to the mitochondria found in eukaryotic cells. Members of the genus Thermoplasma are the smallest of the Archaea.[1]
+
+Bacteria[edit]
+Further information: Bacteria
+Even though bacteria are prokaryotic cells just like Archaea, their membranes are made of phospholipid bilayers. Cyanobacteria and mycoplasmas are two examples of bacteria. They characteristically do not have ether linkages like Archaea, and they are grouped into a different category—and hence a different domain. There is a great deal of diversity in this domain. Confounded by that diversity and horizontal gene transfer, it is next to impossible to determine how many species of bacteria exist on the planet, or to organize them in a tree-structure, without cross-connections between branches.[1]
+
+Eukarya[edit]
+Further information: Eukaryote
+Members of the domain Eukarya—called eukaryotes—have membrane-bound organelles (including a nucleus containing genetic material) and are represented by five kingdoms: Plantae, Protozoa, Animalia, Chromista, and Fungi.[1]
+
+Exclusion of viruses and prions[edit]
+Main article: Non-cellular life
+Further information: Virus and Prion
+The three-domain system does not include any form of non-cellular life. Stefan Luketa proposed a five-domain system in 2012, adding Prionobiota (acellular and without nucleic acid) and Virusobiota (acellular but with nucleic acid) to the traditional three domains.[6]
+
+Alternative classifications[edit]
+
+
+Taxonomical root node
+
+Two superdomains (controversial)
+
+Two empires
+
+Three domains
+
+Five Dominiums[7]
+
+Five kingdoms
+
+Six kingdoms
+
+Eocyte hypothesis
+
+
+Biota / Vitae / Life
+
+Acytota / Aphanobionta - Non-cellular life
+
+
+
+
+
+Virusobiota (Viruses, Viroids)
+
+
+
+
+
+
+
+
+Prionobiota (Prions)
+
+
+Cytota  cellular life
+
+Prokaryota / Procarya  (Monera)
+
+Bacteria
+
+Bacteria
+
+Monera
+
+Eubacteria
+
+Bacteria
+
+
+Archaea
+
+Archaea
+
+Archaebacteria
+
+Archaea including eukaryotes
+
+
+Eukaryota / Eukarya
+
+Protista
+
+
+Fungi
+
+
+Plantae
+
+
+Animalia
+
+
+See also: Virus classification
+Alternative classifications of life include:
+
+The two-empire system or superdomain system, with top-level groupings of Prokaryota (or Monera) and Eukaryota.[8][9]
+The eocyte hypothesis, first proposed by James A. Lake et al. in 1984, which posits two domains (Bacteria and Archaea, with Eukaryota included in Archaea).[10][11][12]
+See also[edit]
+Biological dark matter
+Neomura, which is the two domains of life of Archaea and Eukaryota
+Phylogenetics
+Protein structure
+Realm (virology), an equivalent rank for non-cellular life
+Systematics
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ a b c d e f g h .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Woese C, Kandler O, Wheelis M (1990). "Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya". Proc Natl Acad Sci USA. 87 (12): 4576–9. Bibcode:1990PNAS...87.4576W. doi:10.1073/pnas.87.12.4576. PMC 54159. PMID 2112744.
+
+^ a b Moore R. T. (1974). "Proposal for the recognition of super ranks" (PDF). Taxon. 23 (4): 650–652. doi:10.2307/1218807. JSTOR 1218807.
+
+^ "The Scientific Taxonomy and Classification of all Creatures". Retrieved 19 October 2015.
+
+^ Cox, C. J.; Foster, P. G.; Hirt, R. P.; Harris, S. R.; Embley, T. M. (2008). "The archaebacterial origin of eukaryotes". Proc Natl Acad Sci USA. 105 (51): 20356–61. Bibcode:2008PNAS..10520356C. doi:10.1073/pnas.0810647105. PMC 2629343. PMID 19073919.
+
+^ Ciccarelli FD, Doerks T, von Mering C, Creevey CJ, Snel B, Bork P (2006). "Toward automatic reconstruction of a highly resolved tree of life" (PDF). Science. 311 (5765): 1283–7. Bibcode:2006Sci...311.1283C. CiteSeerX 10.1.1.381.9514. doi:10.1126/science.1123061. PMID 16513982. S2CID 1615592.
+
+^ Luketa S. (2012). "New views on the megaclassification of life" (PDF). Protistology. 7 (4): 218–237.
+
+^ Luketa, Stefan (2012). "New views on the megaclassification of life" (PDF). Protistology. 7 (4): 218–237.
+
+^ Mayr, Ernst (1998). "Two empires or three?". PNAS. 95 (17): 9720–9723. Bibcode:1998PNAS...95.9720M. doi:10.1073/pnas.95.17.9720. PMC 33883. PMID 9707542.
+
+^ Cavalier-Smith, T. (2004). "Only six kingdoms of life" (PDF). Proc. R. Soc. Lond. B. 271 (1545): 1251–1262. doi:10.1098/rspb.2004.2705. PMC 1691724. PMID 15306349. Retrieved 29 April 2010.
+
+^ Archibald, John M. (23 December 2008). "The eocyte hypothesis and the origin of eukaryotic cells". PNAS. 105 (51): 20049–20050. Bibcode:2008PNAS..10520049A. doi:10.1073/pnas.0811118106. PMC 2629348. PMID 19091952.
+
+^ Lake, James A.; Henderson, Eric; Oakes, Melanie; Clark, Michael W. (June 1984). "Eocytes: A new ribosome structure indicates a kingdom with a close relationship to eukaryotes". PNAS. 81 (12): 3786–3790. Bibcode:1984PNAS...81.3786L. doi:10.1073/pnas.81.12.3786. PMC 345305. PMID 6587394.
+
+^ Williams, Tom A.; Foster, Peter G.; Cox, Cymon J.; Embley, T. Martin (December 2013). "An archaeal origin of eukaryotes supports only two primary domains of life". Nature. 504 (7479): 231–236. Bibcode:2013Natur.504..231W. doi:10.1038/nature12779. PMID 24336283. S2CID 4461775.
+
+
+External links[edit]
+Learn Biology: Classification-Domains on YouTube
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteTaxonomic ranks
+
+
+
+
+Realm (vir.)
+Subrealm (vir.)
+Domain/Superkingdom
+Kingdom
+Subkingdom
+Infrakingdom/Branch
+
+
+Superphylum/Superdivision
+Phylum/Division
+Subphylum
+Infraphylum
+Microphylum
+
+
+Superclass
+Class
+Subclass
+Infraclass
+Subterclass
+Parvclass
+
+
+Legion
+Cohort
+
+
+Magnorder
+Superorder
+Order
+Suborder
+Infraorder
+Parvorder
+
+
+Section (zoo.)
+Superfamily
+Family
+Subfamily
+Infrafamily
+
+
+Supertribe
+Tribe
+Subtribe
+Infratribe
+
+
+Genus
+Subgenus
+Section (bot.)
+Series (bot.)
+
+
+Superspecies
+Species
+Subspecies
+Variety (bot.)
+Form (bot.)
+
+
+.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;justify-content:center;align-items:baseline}.mw-parser-output .portal-bar-bordered{padding:0 2em;background-color:#fdfdfd;border:1px solid #a2a9b1;clear:both;margin:1em auto 0}.mw-parser-output .portal-bar-unbordered{padding:0 1.7em;margin-left:0}.mw-parser-output .portal-bar-header{margin:0 1em 0 0.5em;padding:0.2em 0;flex:0 0 auto;min-height:24px;line-height:22px}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:baseline;flex:0 1 auto;padding:0.15em 0;column-gap:1em}.mw-parser-output .portal-bar-item{display:flex;align-items:baseline;margin:0.15em 0;min-height:24px;text-align:left}.mw-parser-output .portal-bar-logo{width:22px;line-height:22px;margin:0 0.2em;text-align:right}.mw-parser-output .portal-bar-link{margin:0 0.2em;text-align:left}@media screen and (max-width:768px){.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;flex-flow:column wrap}.mw-parser-output .portal-bar-header{text-align:center;flex:0;padding-left:0.5em;margin:0 auto}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:baseline;flex:0;margin:0 auto;column-gap:1em;border-top:1px solid #a2a9b1}}.mw-parser-output .navbox+link+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .navbox+style+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .portal-bar+.navbox-styles+.navbox{margin-top:-1px}Portals:BiologyEvolutionary biologyScience
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Domain_(biology)&oldid=1044220796"
+		Categories: Domains (biology)Hidden categories: Articles with short descriptionShort description matches WikidataUse dmy dates from April 2016
+	

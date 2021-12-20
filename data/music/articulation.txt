@@ -1,0 +1,176 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Linear succession of musical tones in the foreground of a work of music
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}This article is about melody in music. For other senses of this word, see Melody (disambiguation).
+"Melodic" redirects here. For other uses, see Melodic (disambiguation).
+"Foreground (music)" redirects here. For more specific musical uses, see Structural level.
+  A bar from J. S. Bach's Fugue No. 17 in A-flat, BWV 862, from The Well-Tempered Clavier (Part I), an example of counterpoint. The two voices (melodies) on each staff can be distinguished by the direction of the stems and beams.    Voice 1  Voice 2  Voice 3  Voice 4
+A melody (from Greek μελῳδία, melōidía, "singing, chanting"),[1] also tune, voice or line, is a linear succession of musical tones that the listener perceives as a single entity. In its most literal sense, a melody is a combination of pitch and rhythm, while more figuratively, the term can include other musical elements such as tonal color. It is the foreground to the background accompaniment. A line or part need not be a foreground melody.
+Melodies often consist of one or more musical phrases or motifs, and are usually repeated throughout a composition in various forms. Melodies may also be described by their melodic motion or the pitches or the intervals between pitches (predominantly conjunct or disjunct or with further restrictions), pitch range, tension and release, continuity and coherence, cadence, and shape.
+
+Contents
+
+1 Function and elements
+2 Examples
+3 See also
+4 References
+5 Further reading
+6 External links
+
+
+
+Function and elements[edit]
+Johann Philipp Kirnberger argued:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}The true goal of music—its proper enterprise—is melody. All the parts of harmony have as their ultimate purpose only beautiful melody. Therefore, the question of which is the more significant, melody or harmony, is futile. Beyond doubt, the means is subordinate to the end.— Johann Philipp Kirnberger (1771)[2]
+The Norwegian composer Marcus Paus has argued:
+
+Melody is to music what a scent is to the senses: it jogs our memory. It gives face to form, and identity and character to the process and proceedings. It is not only a musical subject, but a manifestation of the musically subjective. It carries and radiates personality with as much clarity and poignancy as harmony and rhythm combined. As such a powerful tool of communication, melody serves not only as protagonist in its own drama, but as messenger from the author to the audience.— Marcus Paus (2017)[3]
+Given the many and varied elements and styles of melody "many extant explanations [of melody] confine us to specific stylistic models, and they are too exclusive."[4] Paul Narveson claimed in 1984 that more than three-quarters of melodic topics had not been explored thoroughly.[5]
+The melodies existing in most European music written before the 20th century, and popular music throughout the 20th century, featured "fixed and easily discernible frequency patterns", recurring "events, often periodic, at all structural levels" and "recurrence of durations and patterns of durations".[4]
+Melodies in the 20th century "utilized a greater variety of pitch resources than ha[d] been the custom in any other historical period of Western music." While the diatonic scale was still used, the chromatic scale became "widely employed."[4] Composers also allotted a structural role to "the qualitative dimensions" that previously had been "almost exclusively reserved for pitch and rhythm". Kliewer states, "The essential elements of any melody are duration, pitch, and quality (timbre), texture, and loudness.[4] Though the same melody may be recognizable when played with a wide variety of timbres and dynamics, the latter may still be an "element of linear ordering."[4]
+
+Examples[edit]
+  "Pop Goes the Weasel" melody   
+  Melody from Anton Webern's Variations for orchestra, Op. 30 (pp. 23–24)[6]   
+Different musical styles use melody in different ways. For example:
+
+Jazz musicians use the term "lead" or "head" to refer to the main melody, which is used as a starting point for improvisation.
+Rock music, and other forms of popular music and folk music tend to pick one or two melodies (verse and chorus, sometimes with a third, contrasting melody known as a bridge or middle eight) and stick with them; much variety may occur in the phrasing and lyrics.
+Indian classical music relies heavily on melody and rhythm, and not so much on harmony, as the music contains no chord changes.
+Balinese gamelan music often uses complicated variations and alterations of a single melody played simultaneously, called heterophony.
+In western classical music, composers often introduce an initial melody, or theme, and then create variations. Classical music often has several melodic layers, called polyphony, such as those in a fugue, a type of counterpoint. Often, melodies are constructed from motifs or short melodic fragments, such as the opening of Beethoven's Fifth Symphony. Richard Wagner popularized the concept of a leitmotif: a motif or melody associated with a certain idea, person or place.
+While in both most popular music and classical music of the common practice period pitch and duration are of primary importance in melodies, the contemporary music of the 20th and 21st centuries pitch and duration have lessened in importance and quality has gained importance, often primary. Examples include musique concrète, klangfarbenmelodie, Elliott Carter's Eight Etudes and a Fantasy (which contains a movement with only one note), the third movement of Ruth Crawford-Seeger's String Quartet 1931 (later re-orchestrated as Andante for string orchestra), which creates the melody from an unchanging set of pitches through "dissonant dynamics" alone, and György Ligeti's Aventures, in which recurring phonetics create the linear form.
+See also[edit]
+Hocket
+Parsons code, a simple notation used to identify a piece of music through melodic motion—the motion of the pitch up and down.
+Sequence (music)
+Unified field
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ μελῳδία. Liddell, Henry George; Scott, Robert; A Greek–English Lexicon at the Perseus Project.
+
+^ Forte, Allen (1979). Tonal Harmony in Concept & Practice, p. 203. .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}ISBN 0-03-020756-8.
+
+^ Paus, Marcus (2017-11-06). "Why melody matters". Gramophone.
+
+^ a b c d e Kliewer, Vernon (1975). "Melody: Linear Aspects of Twentieth-Century Music", Aspects of Twentieth-Century Music, pp. 270–301. Wittlich, Gary (ed.). Englewood Cliffs, New Jersey: Prentice-Hall. ISBN 0-13-049346-5.
+
+^ Narveson, Paul (1984). Theory of Melody. ISBN 0-8191-3834-7.
+
+^ Marquis, G. Weston (1964). Twentieth Century Music Idioms, p. 2. Prentice-Hall, Inc., Inglewood Cliffs, New Jersey.
+
+
+Further reading[edit]
+Apel, Willi. Harvard Dictionary of Music, 2nd ed., pp. 517–19.
+Edwards, Arthur C. The Art of Melody, pp. xix–xxx.
+Holst, Imogen(1962/2008). Tune, Faber and Faber, London. ISBN 0-571-24198-0.
+Smits van Waesberghe, Joseph [nl] (1955). A Textbook of Melody: A course in functional melodic analysis, American Institute of Musicology.
+Szabolcsi, Bence (1965). A History of Melody, Barrie and Rockliff, London.
+Trippett, David (2013). Wagner's Melodies. Cambridge University Press.
+Trippett, David (2019). "Melody" in The Oxford Handbook to Critical Concepts in Music Theory. Oxford University Press.
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Melody.
+
+ The dictionary definition of melody at Wiktionary
+ Quotations related to Melody at Wikiquote
+Carry A Tune Week, list of tunes
+Creating and orchestrating a coherent and balanced melody
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteMelody
+Balungan
+Cadence
+Interval
+Melisma
+Melodic motion
+Motif
+Ornament
+Trill
+Pattern
+Phrasing
+Pitch
+Rhythm
+Sequence
+Steps and skips
+Timbre
+Type (figure)
+Ululation
+Voice
+Voice leading
+
+vteMusical form and development
+Arch form
+Argument
+Ausmultiplikation
+Bar form
+Binary form
+Bridge
+Call and response
+Cell
+Coda
+Conclusion
+Cycle
+Cyclic form
+Developing variation
+Development
+Drop
+Exposition
+Finale
+Formula composition
+Hook
+Introduction
+Leitmotif
+Lick
+Melody
+Motif
+Movement
+Ostinato
+Overture
+Period
+Phrase
+Pre-chorus
+Post-chorus
+Recapitulation
+Repetition
+Reprise
+Riff
+Rondo
+Rondò
+Section
+Sonata form
+Sonata rondo form
+Song structure
+Strophic form
+Ternary form
+Theme
+Thirty-two-bar form
+Through-composed
+Transition
+Variation
+Verse–chorus form
+
+Authority control General
+Integrated Authority File (Germany)
+National libraries
+France (data)
+United States
+Other
+Microsoft Academic
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Melody&oldid=1055902167"
+		Categories: MelodyMusical textureHarmonyPolyphonic formFormal sections in music analysisHidden categories: Articles containing Ancient Greek (to 1453)-language textArticles with short descriptionShort description matches WikidataCommons category link is on WikidataArticles with GND identifiersArticles with BNF identifiersArticles with LCCN identifiersArticles with MA identifiers
+	

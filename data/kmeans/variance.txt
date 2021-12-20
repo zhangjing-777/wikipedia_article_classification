@@ -1,0 +1,100 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		File
+File history
+File usage
+Global file usage
+MetadataSize of this preview: 800 × 96 pixels. Other resolutions: 320 × 38 pixels | 2,914 × 349 pixels.
+Original file ‎(2,914 × 349 pixels, file size: 25 KB, MIME type: image/png)
+
+This is a file from the Wikimedia Commons. Information from its description page there is shown below.Commons is a freely licensed media file repository. You can help.
+
+Summary
+
+DescriptionK-means convergence to a local minimum.png
+
+English:  A typical example of the k-means convergence to a local minimum. In this example, the result of k-means clustering contradicts the obvious cluster structure of data set. The small circles are data points, the four ray stars are centroids (means). The illustration was prepared  with the Java applet, E.M. Mirkes, K-means and K-medoids: applet. University of Leicester, 2011. This applet is published under CC Attribution 3.0 unported license.
+Date
+
+11 May 2012
+Source
+
+Own work
+Author
+
+Agor153
+
+
+This diagram image could be re-created using vector graphics as an SVG file. This has several advantages; see Commons:Media for cleanup for more information. If an SVG form of this image is available, please upload it and afterwards replace this template with {{vector version available|new image name}}.
+It is recommended to name the SVG file "K-means convergence to a local minimum.svg" – then the template Vector version available (or Vva) does not need the new image name parameter.
+Licensing
+
+I, the copyright holder of this work, hereby publish it under the following license:
+ 
+
+This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+
+
+
+
+You are free:
+to share – to copy, distribute and transmit the work
+to remix – to adapt the work
+Under the following conditions:
+attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.https://creativecommons.org/licenses/by-sa/3.0
+CC BY-SA 3.0 
+Creative Commons Attribution-Share Alike 3.0 
+truetrue
+
+CaptionsEnglishAdd a one-line explanation of what this file representsItems portrayed in this filedepictscreatorsome valueauthor name string: Agor153Wikimedia username: Agor153copyright statuscopyrightedcopyright licenseCreative Commons Attribution-ShareAlike 3.0 Unportedinception11 May 2012source of fileoriginal creation by uploader
+File history
+
+Click on a date/time to view the file as it appeared at that time.
+
+
+Date/TimeThumbnailDimensionsUserComment
+current07:51, 11 May 20122,914 × 349 (25 KB)Agor153
+
+
+
+File usage
+
+The following pages on the English Wikipedia use this file (pages on other projects are not listed):
+K-means clustering
+
+
+Global file usage
+The following other wikis use this file:
+
+Usage on hy.wikipedia.org
+	K-միջիններով կլաստերինգ
+
+Usage on ko.wikipedia.org
+	혼합 모델
+
+Usage on ru.wikipedia.org
+	Метод k-средних
+
+Usage on sr.wikipedia.org
+	Klasterizacija metodom K-srednjih vrednosti
+
+Usage on th.wikipedia.org
+	การแบ่งกลุ่มข้อมูลแบบเคมีน
+
+
+Metadata
+This file contains additional information, probably added from the digital camera or scanner used to create or digitize it.
+
+If the file has been modified from its original state, some details may not fully reflect the modified file.
+Horizontal resolution107.88 dpcVertical resolution107.88 dpc
+
+Retrieved from "https://en.wikipedia.org/wiki/File:K-means_convergence_to_a_local_minimum.png"
+		
+	

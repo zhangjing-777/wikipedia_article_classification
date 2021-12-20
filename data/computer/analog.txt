@@ -1,0 +1,73 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		In computing, a hang or freeze occurs when either a process or system ceases to respond to inputs. A typical example is when computer's graphical user interface (such as Microsoft Windows[a]) no longer responds to the user typing on the keyboard or moving the mouse. The term covers a wide range of behaviors in both clients and servers, and is not limited to graphical user interface issues.
+Hangs have varied causes and symptoms, including software or hardware defects, such as an infinite loop or long-running uninterruptible computation, resource exhaustion (thrashing), under-performing hardware (throttling), external events such as a slow computer network, misconfiguration, and compatibility problems. The fundamental reason is typically resource exhaustion: resources necessary for some part of the system to run are not available, due to being in use by other processes or simply insufficient. Often the cause is an interaction of multiple factors, making "hang" a loose umbrella term rather than a technical one.
+A hang may be temporary if caused by a condition that resolves itself, such as slow hardware, or it may be permanent and require manual intervention, as in the case of a hardware or software logic error. Many modern operating systems provide the user with a means to forcibly terminate a hung program without rebooting or logging out; some operating systems, such as those designed for mobile devices, may even do this automatically. In more severe hangs affecting the whole system, the only solution might be to reboot the machine, usually by power cycling with an off/on or reset button.
+A hang differs from a crash, in which the failure is immediate and unrelated to the responsiveness of inputs.[citation needed]
+
+Contents
+
+1 Multitasking
+2 Causes
+3 Solutions
+4 Notes
+5 See also
+6 References
+
+
+
+Multitasking[edit]
+In a multitasking operating system, it is possible for an individual process or thread to get stuck, such as blocking on a resource or getting into an infinite loop, though the effect on the overall system varies significantly. In a cooperative multitasking system, any thread that gets stuck without yielding will hang the system, as it will wedge itself as the running thread and prevent other threads from running.
+By contrast, modern operating systems primarily use pre-emptive multitasking, such as Windows 2000 and its successors, as well as Linux and Apple Inc.'s macOS.  In these cases, a single thread getting stuck will not necessarily hang the system, as the operating system will preempt it when its time slice expires, allowing another thread to run. If a thread does hang, the scheduler may switch to another group of interdependent tasks so that all processes will not hang.[1] However, a stuck thread will still consume resources: at least an entry in scheduling, and if it is running (for instance, stuck in an infinite loop), it will consume processor cycles and power when it is scheduled, slowing the system though it does not hang it.
+However, even with preemptive multitasking, a system can hang, and a misbehaved or malicious task can hang the system, primarily by monopolizing some other resource, such as IO or memory, even though processor time can't be monopolized. For example, a process that blocks the file system will often hang the system.
+
+Causes[edit]
+Hardware can cause a computer to hang, either because it is intermittent or because it is mismatched with other hardware in the computer[2] (this can occur when one makes an upgrade). Hardware can also become defective over time due to dirt or heat damage.
+A hang can also occur due to the fact that the programmer has incorrect termination conditions for a loop, or, in a co-operative multitasking operating system, forgetting to yield to other tasks. Said differently, many software-related hangs are caused by threads waiting for an event to occur which will never occur.[3] This is also known as an infinite loop.
+Another cause of hangs is a race condition in communication between processes. One process may send a signal to a second process then stop execution until it receives a response. If the second process is busy the signal will be forced to wait until the process can get to it. However, if the second process was busy sending a signal to the first process then both processes would wait forever for the other to respond to signals and never see the other’s signal (this event is known as a deadlock). If the processes are uninterruptible they will hang and have to be shut down. If at least one of the processes is a critical kernel process the whole system may hang and have to be restarted.
+A computer may seem to hang when in fact it is simply processing very slowly. This can be caused by too many programs running at once, not enough memory (RAM), or memory fragmentation, slow hardware access (especially to remote devices), slow system APIs, etc. It can also be caused by hidden programs which were installed surreptitiously, such as spyware.
+
+Solutions[edit]
+In many cases programs may appear to be hung, but are making slow progress, and waiting a few minutes will allow the task to complete.
+Modern operating systems provide a mechanism for terminating hung processes, for instance, with the Unix kill command, or through a graphical means such as the Task Manager's "end task" button in Windows.  On older systems, such as those running MS-DOS, early versions of Windows, or Classic Mac OS often needed to be completely restarted in the event of a hang.
+On embedded devices where human interaction is limited, a watchdog timer can reboot the computer in the event of a hang.
+
+Notes[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ Windows appends the text "(Not responding)" to the window title. Since Windows Vista, a transclucent white layer will cover the window content upon attempted user interaction, to make it clear that the program is not responsive.
+
+
+See also[edit]
+Abort (computing)
+Anomaly in software
+Blue screen of death
+Crash (computing)
+Deadlock
+Livelock
+Infinite loop
+Uninterruptible sleep
+References[edit]
+
+
+^ .mw-parser-output .citation{word-wrap:break-word}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}US 6052707, D'Souza, David, "Preemptive multi-tasking with cooperative groups of tasks", published 1996-06-21, issued 2000-04-18 
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"How to Troubleshoot Computer Hangs During Hardware Detection". Microsoft Support. 2007-01-27. Archived from the original on 2016-03-14. Retrieved 2018-04-13.
+
+^ Calvin Hsia (2006-11-15). "Here's an infinite loop that will hang your machine". Microsoft Blogs. Retrieved 2018-04-13.
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Hang_(computing)&oldid=1003684889"
+		Categories: Computer errorsSoftware anomaliesComputing terminologyHidden categories: Wikipedia indefinitely move-protected pagesAll articles with unsourced statementsArticles with unsourced statements from October 2009
+	

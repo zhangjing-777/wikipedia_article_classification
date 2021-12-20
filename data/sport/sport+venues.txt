@@ -1,0 +1,436 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Form of journalism that reports on sporting topics and competitions
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+      This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Sports journalism" – news · newspapers · books · scholar · JSTOR  (December 2019) (Learn how and when to remove this template message)
+This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed.  (December 2019) (Learn how and when to remove this template message)
+    
+ (Learn how and when to remove this template message)
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Journalism
+News
+Writing style
+Ethics
+code of ethics
+Objectivity
+News values
+Attribution
+Defamation
+Sensationalism
+Editorial independence
+Journalism school
+Index of journalism articles
+
+Areas
+Arts
+Business
+Data
+Entertainment
+Environment
+Fashion
+Medicine
+Music
+Politics
+Science
+Sports
+Technology
+Trade
+Traffic
+Weather
+World
+
+Genres
+Advocacy
+Analytic
+Blogging
+Broadcast
+Churnalism
+Citizen
+Civic
+Collaborative
+Comics-based
+Community
+Data
+Database
+Digital/Online
+Explanatory
+Fact-checking
+Gonzo
+Immersion
+Interpretive
+Investigative
+Muckraking
+Multimedia
+Narrative
+New Journalism
+Non-profit
+Opinion
+Peace
+Photojournalism
+Press release
+Scientific
+Sensor
+Underground
+Video
+Visual
+Watchdog
+
+Social impact
+Fake news
+Fourth Estate
+Fifth Estate
+Freedom of the press
+Infotainment
+Media bias
+Public relations
+Press service
+Propaganda model
+Yellow journalism
+
+News media
+Newspapers
+Magazines
+TV and radio
+Internet
+News agencies
+Alternative media
+
+Roles
+Journalists (reporters)
+Columnist
+Blogger
+Editor
+Copy editor
+Meteorologist
+News presenter
+Photographer
+Pundit / commentator
+
+ Journalism portal
+Category: Journalism.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+Sports journalism is a form of writing that reports on matters pertaining to sporting topics and competitions. Sports journalism started in the early 1800s when it was targeted to the social elite and transitioned into an integral part of the news business with newspapers having dedicated sports sections.[1] The increased popularity of sports amongst the middle and lower class led to the more coverage of sports content in publications. The appetite for sports resulted in sports-only media such as Sports Illustrated and ESPN. There are many different forms of sports journalism, ranging from play-by-play and game recaps to analysis and investigative journalism on important developments in the sport. Technology and the internet age has massively changed the sports journalism space as it is struggling with the same problems that the broader category of print journalism is struggling with, mainly not being able to cover costs due to falling subscriptions. New forms of internet blogging and tweeting in the current millennium have pushed the boundaries of sports journalism.
+
+Contents
+
+1 Early history
+2 20th century
+3 Digital age
+4 Socio-political significance
+5 Future of sports journalism
+6 In Europe
+7 Sports stars in the press box
+8 Investigative journalism and sport
+9 Sports books
+10 Organizations
+11 Fanzines and blogs
+12 Smartphones
+13 Female reporting
+14 See also
+15 References
+16 Further reading
+17 External links
+
+
+
+Early history[edit]
+Modern sports journalism finds its roots as content started to appear in newspapers in the early 1800s.[1] At the start, the sports sporadically covered horse racing and boxing. The focus of the coverage would be less on the event itself and more on the greater social context. Horse races between the North and South and boxing bouts between US and England garnered much interest from the social elite. In the early nineteenth century, popular British sportswriter Pierce Egan coined the term "the Sweet Science" as an epithet for prizefighting — or more fully "the Sweet Science of Bruising" as a description of England's bare-knuckle fight scene.[2] During the 1820s and 1830s, the primary demographic target for newspapers was the social elite as newspaper was too expensive for the common man.[1] Approaching the 20th century, several important changes occurred that lead to the increased saturation of sports journalism in the mainstream. The first was the advent of the penny press which allowed for cheaper and more tabloid style of newspaper production. Newspapers also began using advertising to pay for their production costs instead of relying on circulation.
+
+20th century[edit]
+The 1920s has been called the "Golden Age of American Sports.[3] Baseball became the national pastime, college football became popular, and radio and newspaper coverage increased.[3] The New York Herald was the first newspapers to publishing consistent sports coverage.[1] The New York World in 1883 was the first newspaper to have a full times sports department. The following period from 1880 to 1920 saw a massive increase in sports coverage in publications. A study showed that in 1880 only 0.4 percent of space in the newspaper was dedicated to sports. By the 1920s, that proportion had risen to 20 percent.[4] During this time, newspapers focused mainly on play by play coverage and game recaps of the sport events. Local publications started hiring beat reporters who were tasked with following all developments pertaining to the team. This included traveling with the team and interviewing the players. Teams also started constructing dedicated sections called press box in the stadiums for the press to sit and record notes on the game.
+As technology introduced new developments like the radio, television and the internet, the focus of sports coverage shifted from the play by play to statistical analysis of the game and background pieces on the players. This was also coupled with a massive increase in sports amongst the general public. The increased popularity of football, basketball and hockey meant more content to publish and more interested readers to publish to.[4] This led to the creation of journals like Sports Illustrated, first published in 1954, was one of the first publications to solely focus on sports. Sports Illustrated was the brainchild of Henry Lucre who felt that the established publishers at the time were not taking advantage of the public's massive appetite for sports.[5] With weekly issues, Sports Illustrated was able to produce more classic journalistic pieces as the writers had more time to research and conduct longer interview sit downs with players and coaches.[5]
+
+Digital age[edit]
+Since the start of the new millennium, circulation and advertising numbers of print newspapers having been falling rapidly. This has led to widespread cost cutting and layoffs across the industry. There are 29 percent fewer journalist in the workforce now when compared to the number of journalist in 1980. These developments have significantly affected sports journalism as established publications like Sports Illustrated and ESPN have had to cut content, increase prices and reduce the number of publications which leads to more people unsubscribing from the content.[6] The fall in print sports journalism can be tied to the rise of internet and digital sports journalism. Digital sports journalism serves as both a complement and a competitor of newspaper sports journalism. Digital sports journalism began in the mid 1990s with ESPN creating the first website in 1995.[7] At first digital sports journalism covered broad topics in scope, but as time went on and the internet became more widespread, bloggers and location and team specific websites started taking over the market.[1] A majority of these smaller websites did not charge a subscription fee as it was funded on advertising. This lower cost to the consumer as well as increased access to variety of very specific content led to the shift away from print and towards digital. However, the growth seen in the digital space which has increased advertising revenue has not balanced out the losses from print journalism.[8] The importance of click count has gone up as these sites are being funded by online advertisers. This has led to many shorter journalistic pieces offering controversial opinions in order to generate the most clicks.[1] Sportswriters regularly face more deadline pressure than other reporters because sporting events tend to occur late in the day and closer to the deadlines many organizations must observe. Yet they are expected to use the same tools as news journalists, and to uphold the same professional and ethical standards. They must take care not to show bias for any team. Twitter and other social media platforms became sports information providers. Twitter became a platform for sports in 2009 during the NBA playoffs. By the end of April, tweeting by television sports analysts, announcers, and journalists was the new trend in sports.[9]
+
+Socio-political significance[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}Further information on social and political effects of sports journalism: Mediatization (media)
+Sports stories occasionally transcend the games themselves and take on socio-political significance: Jackie Robinson breaking the color barrier in baseball is an example of this. Modern controversies regarding the hyper-compensation of top athletes, the use of anabolic steroids and other, banned performance-enhancing drugs, and the cost to local and national governments to build sports venues and related infrastructure, especially for Olympic Games, also demonstrates how sports can intrude on to the news pages.
+Recently, the issue of Colin Kaepernick's protest of injustice shown to people of color by the police by kneeling during the performance of the national anthem before his football games has created diverse and varied coverage. His actions have taken his discussion from the sports field and into the national scope as major political pundits and even the Presidents commenting on the ethics of his actions.[10] Kaepernick cites that his position as a quarterback in the National Football League gives him a unique opportunity to carry out his message.[10] Kaepernick's actions have inspired a wave of athletes using their position to take on social issues ranging from abortion to college athletes getting monetary compensation. Sports journalism plays a significant role in how these views are conveyed to the public. The author creates a story from the raw quotes provided by the athlete and this is published to thousands of viewers. Inherent in the publication will be the biases of the author and this will be passed on to the reader (cite). As sports moves more and more into the political discussion space, sports journalist will have increasingly more power over the public sentiment of the hottest issues at the moment.[6][1]
+
+Future of sports journalism[edit]
+There has been a major shift within sports in the last decade as more sports teams are switching to using analytics. A large reason for this shift is due to many articles being published about the increased benefit of using analytics to make strategic decisions in a game.[11][1] As there is data collected about every instance in every sport, sports data analysis has increased. Sports publications are now hiring people with extensive background in statistics and mathematics in order to publish articles detailing the analysis these teams are conducting. New metrics have been created to study the quality of player performance.[12] The metrics have also been used to compile rankings of players and teams. Blog sites like FiveThirtyEight began to sprout as full-time sport analytic sites that took available data and constructed analytic heavy articles pertaining to sports. ESPN has implemented a segment in their shows called ‘Sports Science’ where stars of every sport come in to test how advanced analytics affect field performance.[13] There has been much pushback by many over the use of analytics in sports. Many established coaches are quick to bash analytics as narrow and ignorant of the big picture.[13][1]
+
+In Europe[edit]
+The tradition of sports reporting attracting some of the finest writers in journalism can be traced to the coverage of sport in Victorian England, where several modern sports – such as association football, cricket, athletics and rugby – were first organized and codified into something resembling what we would recognize today.
+Andrew Warwick has suggested that The Boat Race provided the first mass spectator event for journalistic coverage.[14] The Race, an annual rowing event between the University of Cambridge and University of Oxford, has been held annually from 1856.
+Cricket, possibly because of its esteemed place in society, has regularly attracted the most elegant of writers. The Manchester Guardian, in the first half of the 20th century, employed Neville Cardus as its cricket correspondent as well as its music critic. Cardus was later knighted for his services to journalism. One of his successors, John Arlott, who became a worldwide favorite because of his radio commentaries on the BBC, was also known for his poetry.
+The first London Olympic Games in 1908 attracted such widespread public interest that many newspapers assigned their very best-known writers to the event. The Daily Mail even had Sir Arthur Conan Doyle at the White City Stadium to cover the finish of the Marathon.
+Such was the drama of that race, in which Dorando Pietri collapsed within sight of the finishing line when leading, that Conan Doyle led a public subscription campaign to see the gallant Italian, having been denied the gold medal through his disqualification, awarded a special silver cup, which was presented by Queen Alexandra. And the public imagination was so well caught by the event that annual races in Boston, Massachusetts, and London, and at future Olympics, were henceforward staged over exactly the same, 26-mile, 385-yard distance used for the 1908 Olympic Marathon, and the official length of the event worldwide to this day.
+The London race, called the Polytechnic Marathon and originally staged over the 1908 Olympic route from outside the royal residence at Windsor Castle to White City, was first sponsored by the Sporting Life, which in those Edwardian times was a daily newspaper which sought to cover all sporting events, rather than just a betting paper for horse racing and greyhounds that it became in the years after the Second World War.
+The rise of the radio made sports journalism more focused on the live coverage of the sporting events. The first sports reporter in Great Britain, and one of the first sports reporters in the World, was an English writer Edgar Wallace, who made a report on The Derby on June 6, 1923 for the British Broadcasting Company.
+In France, L'Auto, the predecessor of L'Equipe, had already played an equally influential part in the sporting fabric of society when it announced in 1903 that it would stage an annual bicycle race around the country. The Tour de France was born, and sports journalism's role in its foundation is still reflected today in the leading rider wearing a yellow jersey - the color of the paper on which L'Auto was published (in Italy, the Giro d'Italia established a similar tradition, with the leading rider wearing a jersey the same pink color as the sponsoring newspaper, La Gazzetta).
+
+Sports stars in the press box[edit]
+After the Second World War, the sports sections of British national daily and Sunday newspapers continued to expand, to the point where many papers now have separate standalone sports sections; some Sunday tabloids even have sections, additional to the sports pages, devoted solely to the previous day's football reports. In some respects, this has replaced the earlier practice of many regional newspapers which - until overtaken by the pace of modern electronic media - would produce special results editions rushed out on Saturday evenings.
+Some newspapers, such as The Sunday Times, with 1924 Olympic 100 meters champion Harold Abrahams, or the London Evening News using former England cricket captain Sir Leonard Hutton, began to adopt the policy of hiring former sports stars to pen columns, which were often ghost written. Some such ghosted columns, however, did little to further the reputation of sports journalism, which is increasingly becoming the subject of academic scrutiny of its standards.
+Many "ghosted" columns were often run by independent sports agencies, based in Fleet Street or in the provinces, who had signed up the sports star to a contract and then syndicated their material among various titles. These agencies included Pardons, or the Cricket Reporting Agency, which routinely provided the editors of the Wisden cricket almanac, and Hayters.
+Sportswriting in Britain has attracted some of the finest journalistic talents. The Daily Mirror's Peter Wilson, Hugh McIlvanney, first at The Observer and lately at the Sunday Times, Ian Wooldridge of the Daily Mail and soccer writer Brian Glanville, best known at the Sunday Times, and columnist Patrick Collins, of the Mail on Sunday, five times the winner of the Sports Writer of the Year Award.
+Many became household names in the late 20th century through their trenchant reporting of events, spurring popularity:[citation needed] the Massacre at the Munich Olympics in 1972; Muhammad Ali's fight career, including his 1974 title bout against George Foreman; the Heysel Stadium disaster; and the career highs and lows of the likes of Tiger Woods, George Best, David Beckham, Lester Piggott and other high-profile stars.
+McIlvanney and Wooldridge, who died in March 2007, aged 75, both enjoyed careers that saw them frequently work in television. During his career, Wooldridge became so famous that, like the sports stars he reported upon, he hired the services of IMG, the agency founded by the American businessman, Mark McCormack, to manage his affairs. Glanville wrote several books, including novels, as well as scripting the memorable official film to the 1966 World Cup staged in England.
+
+Investigative journalism and sport[edit]
+Since the 1990s, the growing importance of sport, its impact as a global business and the huge amounts of money involved in the staging of events such as the Olympic Games and football World Cups, has also attracted the attention of investigative journalists. The sensitive nature of the relationships between sports journalists and the subjects of their reporting, as well as declining budgets experienced by most Fleet Street newspapers, has meant that such long-term projects have often emanated from television documentary makers.
+Tom Bower, with his 2003 sports book of the year Broken Dreams, which analyzed British football, followed in the tradition established a decade earlier by Andrew Jennings and Vyv Simson with their controversial investigation of corruption within the International Olympic Committee. Jennings and Simson's The Lords of the Rings in many ways predicted the scandals that were to emerge around the staging of the 2002 Winter Olympics in Salt Lake City; Jennings would follow-up with two further books on the Olympics and one on FIFA, the world football body.
+Likewise, award-winning writers Duncan Mackay, of The Guardian, and Steven Downes unravelled many scandals involving doping, fixed races and bribery in international athletics in their 1996 book, Running Scared, which offered an account of the threats by a senior track official that led to the suicide of their sports journalist colleague, Cliff Temple.
+But the writing of such exposes - referred to as "spitting in the soup" by Paul Kimmage, the former Tour de France professional cyclist, now an award-winning writer for the Sunday Times – often requires the view of an outsider who is not compromised by the need of day-to-day dealings with sportsmen and officials, as required by "beat" correspondents.
+The stakes can be high when upsetting sport's powers: in 2007, England's FA opted to switch its multimillion-pound contract for UK coverage rights of the FA Cup and England international matches from the BBC to rival broadcasters ITV. One of the reasons cited was that the BBC had been too critical of the performances of the England football team.[citation needed]
+
+Sports books[edit]
+Increasingly, sports journalists have turned to long-form writing, producing popular books on a range of sporting topics, including biographies, history and investigations. Dan Topolski was the first recipient of the William Hill Sports Book of the Year award in 1989, which has continued to reward authors for their excellence in sports literature.
+
+Organizations[edit]
+Most countries have their own national association of sports journalists. Many sports also have their own clubs and associations for specified journalists. These organizations attempt to maintain the standard of press provision at sports venues, to oversee fair accreditation procedures and to celebrate high standards of sports journalism.
+The International Sports Press Association, AIPS, was founded in 1924 during the Olympic Games in Paris, at the headquarters of the Sporting Club de France, by Frantz Reichel, the press chief of the Paris Games, and the Belgian Victor Boin. AIPS operates through a system of continental sub-associations and national associations, and liaises closely with some of the world's biggest sports federations, including the International Olympic Committee, football's world governing body FIFA, and the IAAF, the international track and field body. The first statutes of AIPS mentioned these objectives:
+
+to enhance the cooperation between its member associations in defending sport and the professional interest of their members.
+to strengthen the friendship, solidarity and common interests between sports journalists of all countries.
+to assure the best possible working conditions for the members.
+For horse racing the Horserace Writers and Photographers’ Association was founded in 1927, was revived in 1967, and represents the interests of racing journalists in every branch of the media.
+
+  Press room at the Philips Stadion, home of PSV Eindhoven, prior to a press conference
+In Britain, the Sports Journalists' Association was founded in 1948. It stages two awards events, an annual Sports Awards ceremony which recognizes outstanding performances by British sportsmen and women during the previous year, and the British Sports Journalism Awards, the industry's "Oscars", sponsored by UK Sport and presented each March. Founded as the Sports Writers' Association, following a merger with the Professional Sports Photographers' Association in 2002, the organization changed its title to the more inclusive SJA. Its president is the veteran broadcaster and columnist Sir Michael Parkinson. The SJA represents the British sports media on the British Olympic Association's press advisory committee and acts as a consultant to organizers of major events who need guidance on media requirements as well as seeking to represent its members' interests in a range of activities. In March 2008, Martin Samuel, then the chief football correspondent of The Times, was named British Sportswriter of the Year, the first time any journalist had won the award three years in succession. At the same awards, Jeff Stelling, of Sky Sports, was named Sports Broadcaster of the Year for the third time, a prize determined by a ballot of SJA members. Stelling won the vote again the following year, when the Sunday Times's Paul Kimmage won the interviewer of the year prize for a fifth time.
+In the United States, the Indianapolis-based National Sports Journalism Center monitors trends and strategy within the sports media industry. The center is also home to the Associated Press Sports Editors.
+In more recent years,[when?] sports journalism has turned its attention to online news and press release media and provided services to Associated Press and other major news syndication services.
+
+Fanzines and blogs[edit]
+Through the 1970s and 1980s, a rise in "citizen journalism" in Europe was witnessed in the rapid growth in popularity of soccer "fanzines" - cheaply printed magazines written by fans for fans that bypassed often stilted official club match programs and traditional media. Many continue today and thrive.
+Some authors, such as Jim Munro, have been adopted by their clubs. Once an editor of the West Ham United fanzine Fortune's Always Dreaming, Munro was hired by the club to write for its matchday magazine and is now sports editor of The Sun Online. Other titles, such as the irreverent monthly soccer magazine When Saturday Comes, have effectively gone mainstream.
+The advent of the Internet has seen much of this fan-generated energy directed into sports blogs. Ranging from team-centric blogs to those that cover the sports media itself, Bleacher Report, Deadspin.com, ProFootballTalk.com, BaseballEssential.com, Tireball Sports, AOL Fanhouse, Masshole Sports, the blogs in the Yardbarker Network, and others have garnered massive followings.
+There are now platforms that act as 'Blog hosts', which allow both amateur and professional sports writers to host their content without the need for a custom website.
+These include Medium, and Muckrack, which are free platforms to use, which in turn do not pay the contributors. This can lead to a lack of quality as there is no editorial element, however their reach is large.
+There are also editorially managed sites that do pay their contributors in a similar fashion to traditional publishers. I.e. a price per word or per article. Examples of these are Athlon Sports and The Sporting Blog.
+Other sports blogs such as Fansided and SB Nation suggest a combination of traffic and results based incentives with regards to recompense for contributions.
+More recently, investment vehicles like Rocket Sports Internet have emerged that provide capital for sports journalists and news creators to run their own businesses and leverage the increasing number of ways that creators can more easily generate revenue streams outside of the conventional organisational structures. Early successes include BenchWarmers, Empire of the Kop and caughtoffside.
+
+Smartphones[edit]
+  Facebook is a key social media app on smartphones that contributes to the rise of sports journalism and media.
+The rise of smartphones have recently taken off and altered the way sports media has been presented. Smartphones have had a big influence on how the public perceives sports entertainment and content. Sports media is often accessible on various applications on the smartphone. These apps include ESPN, Bleacher Report, Global Sports Media, House of Highlights, and YouTube. The rise of mobile streaming has led to approximately 65% of sports followers streaming sports on a mobile device.[15] Smartphones also allow for 24 hour access to sports news via social media apps such as Instagram, Twitter, or Facebook. They are a very fast and convenient way to access sports news on the go no matter where you are. The applications on smartphones that contain information about sports news and events are generally free. Fans ability to access sports on their smartphones allows them to personally engage (i.e. fantasy sports) and/or absorb sports information.[16] Smartphones have truly increased the spread of sports news, typically in the form of videos, highlights, scores, and articles. Applications on smartphones, especially Twitter and ESPN, tend to be the platforms where sports breaking news first emerge. Overall, smartphones provide readily available sports news that can be accessed during the course of a sports fan's everyday life.  
+
+Female reporting[edit]
+Women have not always been in the sports reporting field. Women such as Jane Chastain and Leslie Visser are considered pioneers in women's sportscasting. Chastain was the first woman to work for a large network (CBS) and the first woman to do play-by-play in the '60s.[17]
+Leslie Visser was a sportswriter for The Boston Globe before she joined CBS in 1984 as a part-time reporter. She is the only sportscaster in history, male or female, to have worked on the Final Four, NBA Finals, World Series, Monday Night Football, the Super Bowl, the Olympics, and the US Open broadcasts. She has been voted the No. 1 Female Sportscaster of all time.[18]
+There has been an ongoing debate as to whether or not female reporters should be allowed in the locker rooms after games. If they are denied access, this gives male reporters a competitive advantage in the field, as they can interview players in the locker room after games. If locker room access is denied to all reporters - male and female - because of this controversy, male journalists would likely resent female reporters for having their access taken away.
+It wasn't until 1978 that female sports journalists were allowed to enter locker rooms for interviews. Sports Illustrated reporter, Melissa Ludtke, sued the New York Yankees for not allowing her to interview players in the locker room during the 1977 World Series. A federal judge ruled that this ban was in violation of the Equal Protection Clause in the 14th Amendment.[19]
+Some female reporters include Adeline Daley (whom some consider the "Jackie Robinson of female sportswriters"[20]), Anita Martini, Tracy Dodds, Mary Garber, Lesley Visser, Marjorie Herrera Lewis, and Sally Jenkins.
+
+See also[edit]
+Baseball Writers' Association of America (US)
+Broadcasting of sports events
+Cricket Writers' Club
+Football Writers Association of America (US; college)
+Football Writers' Association (England)
+Ice Hockey Journalists UK
+Journalism
+List of American journalism awards#Sports journalism
+List of sports journalism awards
+List of Sports Writers
+National Collegiate Baseball Writers Association (US)
+National Sports Journalism Center (US)
+National Sportscasters and Sportswriters Association (US)
+Pro Basketball Writers Association (US)
+Pro Football Writers Association (US)
+Professional Hockey Writers' Association (US)
+Scottish Football Writers' Association
+Sports commentator
+United States Basketball Writers Association (US; college)
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ a b c d e f g h i .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Motiz, Brian (December 2014). Rooting for the story: Institutional sports journalism in the digital age (Thesis). Syracuse University.
+
+^ The Bittersweet Science: Fifteen Writers in the Gym, in the Corner, and at Ringside. University of Chicago Press. 2017. p. 3.
+
+^ a b Summer, Jim (January 1, 2004). "Sports in the 1920s:The Golden age of Sports". ncpedia.org. NCpedia (State Library of North Carolina). Retrieved September 2, 2021.
+
+^ a b Schlesinger, Arthur (1933). "The rise of the city". History of America Life. OCLC 476454.
+
+^ a b "Sports Illustrated, The Magazine That Popularized Sports". historylessons.net. Retrieved 2019-11-11.
+
+^ a b McNay, John (2008). "Breaking the Copper Collar: Press Freedom, Professionalization and the History of Montana Journalism". American Journalism. 25: 99–123. doi:10.1080/08821127.2008.10678094.
+
+^ Miller, James (2011). Those Guys Have all the Fun. Goodreads.
+
+^ Ashraf, Syed Irfan (September 2013). "Doing the Censors' Work for Them". British Journalism Review. 24 (3): 12–15. doi:10.1177/0956474813504871c. ISSN 0956-4748.
+
+^ Wasserstein, Felipe (2017-04-12). "Sports Journalism in the Age of Social Media". The Circular. Retrieved 2021-02-26.
+
+^ a b Cruz, Christopher M. (2017-03-22). "Kaepernick and Media Coverage". Medium. Retrieved 2019-11-13.
+
+^ Schultz, Brian (September 2007). "Sports journalists who blog cling to traditional values". Newspaper Research Journal. 28 (4): 62–76. doi:10.1177/073953290702800406 – via SAGE.
+
+^ "Global Club Soccer Rankings". FiveThirtyEight. 2017-08-22. Retrieved 2019-11-13.
+
+^ a b "The Future of Sports Journalism in a Technologically Driven World". www.sporttechie.com. Retrieved 2019-11-13.
+
+^ Warwick, Andrew (2003). Masters of Theory: Cambridge and the Rise of Mathematical Physics. University of Chicago Press. p. 213. ISBN 0-226-87374-9.
+
+^ McCaskill, Steve. "Sports Fans More Likely To Consume Smartphone Content But Pay-TV Still Popular". Forbes. Retrieved 2021-10-09.
+
+^ "Smart Phones Have Significant Impact on Sports Fans' Behavior". UF College of Journalism and Communications. Retrieved 2021-10-09.
+
+^ "Article - Women in Sportscasting: A Brief History, by Lou Schwartz". American Sportscasters Association. Retrieved 2020-04-14.
+
+^ Mead, Doug. "Twelve Women Who Pioneered the Era of Female Sports Broadcasters". Bleacher Report. Retrieved 2020-04-14.
+
+^ "Working in Sports Journalism as a Woman". www.workinsports.com. Retrieved 2020-04-14.
+
+^ Kipen, David (2004-07-27). "Fact: The Golden State is the epicenter of baseball, a mother lode of sun-ripened talent". San Francisco Chronicle. Retrieved 2014-05-20.
+
+
+Further reading[edit]
+Steen, R., Sports Journalism: A Multimedia Primer, Routledge, 2007, ISBN 978-0-415-39424-6
+Wilstein, Steve, AP Sports Writing Handbook, McGraw-Hill, 2001, ISBN 978-0-07-137218-3, ISBN 0-07-137218-0
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Sports journalism.
+
+Course Module Overview on Sports Journalism at the Open School of Journalism
+List of Sports magazines
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteSport
+History
+Biomechanics
+Communication
+Clubs
+Doping
+Economics
+Equipment
+Individual
+Industry
+Injury
+Medicine
+Nutrition
+Pedagogy
+Periodization
+Philosophy
+Psychology
+Rating system
+Regulation
+Science
+Sociology
+Team
+Women
+
+Africa
+Australia
+Asia
+Europe
+North America
+Oceania
+South America
+
+ Sports portal
+ Category
+ Outline
+
+vteJournalismRoles
+Journalist
+Editor
+Columnist
+Copy editor
+Meteorologist
+News presenter
+Photographer
+Political commentator
+Blogger
+Profession
+News writing style
+Ethics
+code of ethics
+Objectivity
+Values
+Attribution
+Defamation
+Editorial independence
+Journalism school
+Areas
+Arts
+Business
+Data-driven
+Entertainment
+Environment
+Fashion
+Global
+Medicine
+Politics
+Science
+Sports
+Technical
+Trade
+Traffic
+Video games
+Weather
+World
+Genres
+Access
+Advocacy
+Analytic
+Blogging
+Broadcast
+Churnalism
+Citizen
+Civic
+Collaborative
+Community
+Crowdfunded
+Data
+Database
+Embedded
+Gonzo
+Immersion
+Interpretive
+Investigative
+Explanatory
+Literary
+Multimedia
+Muckraking
+Narrative
+New Journalism
+Non-profit journalism
+Online
+Opinion
+Peace
+Photojournalism
+Press release
+Scientific
+Video
+Visual
+Watchdog
+Social impact
+Fake news
+Fourth Estate
+Freedom of the press
+Hostile media effect
+Infotainment
+Media bias
+Public relations
+Yellow journalism
+News media
+Newspapers
+Magazines
+TV and radio
+Internet
+News agencies
+Alternative media
+List of journalism articles
+Authority control General
+Integrated Authority File (Germany)
+National libraries
+Spain
+United States
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Sports_journalism&oldid=1060396626"
+		Categories: Sports journalismSports journalistsNewsHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from December 2019All articles needing additional referencesArticles that may contain original research from December 2019All articles that may contain original researchArticles with multiple maintenance issuesAll articles with unsourced statementsArticles with unsourced statements from May 2015All articles with vague or ambiguous timeVague or ambiguous time from May 2015Commons category link from WikidataArticles with GND identifiersArticles with BNE identifiersArticles with LCCN identifiers
+	

@@ -1,0 +1,249 @@
+
+		From Wikipedia, the free encyclopedia
+		  (Redirected from VLSI)
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Process of creating an integrated circuit by combining thousands of transistors into a single chip
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}"VLSI" redirects here. For the former company, see VLSI Technology.
+Not to be confused with Very High Speed Integrated Circuit.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Very Large Scale Integration" – news · newspapers · books · scholar · JSTOR  (September 2010) (Learn how and when to remove this template message)
+Very large-scale integration (VLSI) is the process of creating an integrated circuit (IC) by combining millions of MOS transistors onto a single chip. VLSI began in the 1970s when MOS integrated circuit chips were widely adopted, enabling complex semiconductor and telecommunication technologies to be developed. The microprocessor and memory chips are VLSI devices. Before the introduction of VLSI technology, most ICs had a limited set of functions they could perform. An electronic circuit might consist of a CPU, ROM, RAM and other glue logic. VLSI enables IC designers to add all of these into one chip.
+
+  A VLSI integrated-circuit die
+Contents
+
+1 History
+
+1.1 Background
+1.2 VLSI
+
+
+2 Structured design
+3 Difficulties
+4 See also
+5 References
+6 Further reading
+7 External links
+
+
+
+History[edit]
+Background[edit]
+The history of the transistor dates to the 1920s when several inventors attempted devices that were intended to control current in solid-state diodes and convert them into triodes.  Success came after World War II, when the use of silicon and germanium crystals as radar detectors led to improvements in fabrication and theory.  Scientists who had worked on radar returned to solid-state device development.  With the invention of the first transistor at Bell Labs in 1947, the field of electronics shifted from vacuum tubes to solid-state devices.
+With the small transistor at their hands, electrical engineers of the 1950s saw the possibilities of constructing far more advanced circuits.  However, as the complexity of circuits grew, problems arose.[1] One problem was the size of the circuit. A complex circuit like a computer was dependent on speed.  If the components were large, the wires interconnecting them must be long.  The electric signals took time to go through the circuit, thus slowing the computer.[1]
+The invention of the integrated circuit by Jack Kilby and Robert Noyce solved this problem by making all the components and the chip out of the same block (monolith) of semiconductor material.  The circuits could be made smaller, and the manufacturing process could be automated.  This led to the idea of integrating all components on a single-crystal silicon wafer, which led to small-scale integration (SSI) in the early 1960s, and then medium-scale integration (MSI) in the late 1960s.
+
+VLSI[edit]
+Further information: MOS integrated circuit
+General Microelectronics introduced the first commercial MOS integrated circuit in 1964.[2] In the early 1970s, MOS integrated circuit technology allowed the integration of more than 10,000 transistors in a single chip.[3] This paved the way for VLSI in the 1970s and 1980s, with tens of thousands of MOS transistors on a single chip (later hundreds of thousands, then millions, and now billions).
+The first semiconductor chips held two transistors each. Subsequent advances added more transistors, and as a consequence, more individual functions or systems were integrated over time. The first integrated circuits held only a few devices, perhaps as many as ten diodes, transistors, resistors and capacitors, making it possible to fabricate one or more logic gates on a single device. Now known retrospectively as small-scale integration (SSI), improvements in technique led to devices with hundreds of logic gates, known as medium-scale integration (MSI). Further improvements led to large-scale integration (LSI), i.e. systems with at least a thousand logic gates. Current technology has moved far past this mark and today's microprocessors have many millions of gates and billions of individual transistors.
+At one time, there was an effort to name and calibrate various levels of large-scale integration above VLSI. Terms like ultra-large-scale integration (ULSI) were used. But the huge number of gates and transistors available on common devices has rendered such fine distinctions moot. Terms suggesting greater than VLSI levels of integration are no longer in widespread use.
+In 2008, billion-transistor processors became commercially available. This became more commonplace as semiconductor fabrication advanced from the then-current generation of 65 nm processes. Current designs, unlike the earliest devices, use extensive design automation and automated logic synthesis to lay out the transistors, enabling higher levels of complexity in the resulting logic functionality. Certain high-performance logic blocks like the SRAM (static random-access memory) cell, are still designed by hand to ensure the highest efficiency.[citation needed]
+
+Structured design[edit]
+Structured VLSI design is a modular methodology originated by Carver Mead and Lynn Conway for saving microchip area by minimizing the interconnect fabrics area. This is obtained by repetitive arrangement of rectangular macro blocks which can be interconnected using wiring by abutment. An example is partitioning the layout of an adder into a row of equal bit slices cells. In complex designs this structuring may be achieved by hierarchical nesting.[4]
+Structured VLSI design had been popular in the early 1980s, but lost its popularity later[citation needed] because of the advent of placement and routing tools wasting a lot of area by routing, which is tolerated because of the progress of Moore's Law. When introducing the hardware description language KARL in the mid' 1970s, Reiner Hartenstein coined the term "structured VLSI design" (originally as "structured LSI design"), echoing Edsger Dijkstra's structured programming approach by procedure nesting to avoid chaotic spaghetti-structured programs.
+
+Difficulties[edit]
+As microprocessors become more complex due to technology scaling, microprocessor designers have encountered several challenges which force them to think beyond the design plane, and look ahead to post-silicon:
+
+Process variation – As photolithography techniques get closer to the fundamental laws of optics, achieving high accuracy in doping concentrations and etched wires is becoming more difficult and prone to errors due to variation. Designers now must simulate across multiple fabrication process corners before a chip is certified ready for production, or use system-level techniques for dealing with effects of variation.
+Stricter design rules – Due to lithography and etch issues with scaling, design rule checking for layout has become increasingly stringent. Designers must keep in mind an ever increasing list of rules when laying out custom circuits. The overhead for custom design is now reaching a tipping point, with many design houses opting to switch to electronic design automation (EDA) tools to automate their design process.
+Timing/design closure – As clock frequencies tend to scale up, designers are finding it more difficult to distribute and maintain low clock skew between these high frequency clocks across the entire chip. This has led to a rising interest in multicore and multiprocessor architectures, since an overall speedup can be obtained even with lower clock frequency by using the computational power of all the cores.
+First-pass success – As die sizes shrink (due to scaling), and wafer sizes go up (due to lower manufacturing costs), the number of dies per wafer increases, and the complexity of making suitable photomasks goes up rapidly.  A mask set for a modern technology can cost several million dollars. This non-recurring expense deters the old iterative philosophy involving several "spin-cycles" to find errors in silicon, and encourages first-pass silicon success. Several design philosophies have been developed to aid this new design flow, including design for manufacturing (DFM), design for test (DFT), and Design for X.
+Electromigration
+See also[edit]
+Application-specific integrated circuit
+Caltech Cosmic Cube
+List of semiconductor fabrication plants
+Mead and Conway revolution
+Neuromorphic engineering
+Polysilicon
+System on a chip (SoC)
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ a b .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"The History of the Integrated Circuit". Nobelprize.org. Retrieved 21 Apr 2012.
+
+^ "1964: First Commercial MOS IC Introduced". Computer History Museum.
+
+^ Hittinger, William C. (1973). "Metal-Oxide-Semiconductor Technology". Scientific American. 229 (2): 48–59. Bibcode:1973SciAm.229b..48H. doi:10.1038/scientificamerican0873-48. ISSN 0036-8733. JSTOR 24923169.
+
+^ Jain, B. K. (August 2009). Digital Electronics - A Modern Approach by B K Jain. ISBN 9788182202153. Retrieved 2 May 2017.
+
+
+Further reading[edit]
+Baker, R. Jacob (2010). CMOS: Circuit Design, Layout, and Simulation, Third Edition. Wiley-IEEE. pp. 1174. ISBN 978-0-470-88132-3. http://CMOSedu.com/
+Weste, Neil H. E. & Harris, David M. (2010). CMOS VLSI Design: A Circuits and Systems Perspective, Fourth Edition. Boston: Pearson/Addison-Wesley. p. 840. ISBN 978-0-321-54774-3. http://CMOSVLSI.com/
+Chen, Wai-Kai (ed) (2006). The VLSI Handbook, Second Edition (Electrical Engineering Handbook). Boca Raton: CRC. ISBN 0-8493-4199-X.CS1 maint: extra text: authors list (link)
+Mead, Carver A. and Conway, Lynn (1980). Introduction to VLSI systems. Boston: Addison-Wesley. ISBN 0-201-04358-0.CS1 maint: multiple names: authors list (link)
+External links[edit]
+Lectures on Design and Implementation of VLSI Systems at Brown University
+Design of VLSI Systems
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteComputer scienceNote: This template roughly follows the 2012 ACM Computing Classification System.Hardware
+Printed circuit board
+Peripheral
+Integrated circuit
+Very Large Scale Integration
+Systems on Chip (SoCs)
+Energy consumption (Green computing)
+Electronic design automation
+Hardware acceleration
+Computer systems organization
+Computer architecture
+Embedded system
+Real-time computing
+Dependability
+Networks
+Network architecture
+Network protocol
+Network components
+Network scheduler
+Network performance evaluation
+Network service
+Software organization
+Interpreter
+Middleware
+Virtual machine
+Operating system
+Software quality
+Software notations and tools
+Programming paradigm
+Programming language
+Compiler
+Domain-specific language
+Modeling language
+Software framework
+Integrated development environment
+Software configuration management
+Software library
+Software repository
+Software development
+Control variable
+Software development process
+Requirements analysis
+Software design
+Software construction
+Software deployment
+Software maintenance
+Programming team
+Open-source model
+Theory of computation
+Model of computation
+Formal language
+Automata theory
+Computability theory
+Computational complexity theory
+Logic
+Semantics
+Algorithms
+Algorithm design
+Analysis of algorithms
+Algorithmic efficiency
+Randomized algorithm
+Computational geometry
+Mathematics of computing
+Discrete mathematics
+Probability
+Statistics
+Mathematical software
+Information theory
+Mathematical analysis
+Numerical analysis
+Theoretical computer science
+Information systems
+Database management system
+Information storage systems
+Enterprise information system
+Social information systems
+Geographic information system
+Decision support system
+Process control system
+Multimedia information system
+Data mining
+Digital library
+Computing platform
+Digital marketing
+World Wide Web
+Information retrieval
+Security
+Cryptography
+Formal methods
+Security services
+Intrusion detection system
+Hardware security
+Network security
+Information security
+Application security
+Human–computer interaction
+Interaction design
+Social computing
+Ubiquitous computing
+Visualization
+Accessibility
+Concurrency
+Concurrent computing
+Parallel computing
+Distributed computing
+Multithreading
+Multiprocessing
+Artificial intelligence
+Natural language processing
+Knowledge representation and reasoning
+Computer vision
+Automated planning and scheduling
+Search methodology
+Control method
+Philosophy of artificial intelligence
+Distributed artificial intelligence
+Machine learning
+Supervised learning
+Unsupervised learning
+Reinforcement learning
+Multi-task learning
+Cross-validation
+Graphics
+Animation
+Rendering
+Image manipulation
+Graphics processing unit
+Mixed reality
+Virtual reality
+Image compression
+Solid modeling
+Applied computing
+E-commerce
+Enterprise software
+Computational mathematics
+Computational physics
+Computational chemistry
+Computational biology
+Computational social science
+Computational engineering
+Computational healthcare
+Digital art
+Electronic publishing
+Cyberwarfare
+Electronic voting
+Video games
+Word processing
+Operations research
+Educational technology
+Document management
+
+ Category
+ Outline
+WikiProject
+ Commons
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Very_Large_Scale_Integration&oldid=1038382230"
+		Categories: Telecommunications engineeringIntegrated circuitsMOSFETsHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from September 2010All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from August 2020Articles with unsourced statements from November 2019CS1 maint: extra text: authors listCS1 maint: multiple names: authors list
+	

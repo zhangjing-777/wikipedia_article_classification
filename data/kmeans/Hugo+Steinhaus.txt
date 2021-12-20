@@ -1,0 +1,206 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Polish mathematician (1887–1972)
+.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}Hugo SteinhausHugo Steinhaus (1968)BornWładysław Hugo Dionizy Steinhaus(1887-01-14)January 14, 1887Jasło, Austria-Hungary (now Poland)DiedFebruary 25, 1972(1972-02-25) (aged 85)Wrocław, PolandNationalityPolishAlma materLemberg UniversityGöttingen UniversityKnown forBanach–Steinhaus theorem, many others, see section below.Scientific careerFieldsMathematician and mathematics populariserInstitutionsJan Kazimierz UniversityUniversity of WrocławUniversity of Notre DameUniversity of SussexDoctoral advisorDavid HilbertDoctoral studentsStefan BanachZ. W. (Bill) BirnbaumMark KacWładysław OrliczAleksander RajchmanJuliusz SchauderStanisław Trybula
+
+Władysław Hugo Dionizy Steinhaus /ˈhjuːɡoʊ ˈstaɪnˌhaʊs/ (January 14, 1887 – February 25, 1972) was a Jewish-Polish mathematician and educator. Steinhaus obtained his PhD under David Hilbert at Göttingen University in 1911 and later became a professor at the Jan Kazimierz University in Lwów (now Lviv, Ukraine), where he helped establish what later became known as the Lwów School of Mathematics. He is credited with "discovering" mathematician Stefan Banach, with whom he gave a notable contribution to functional analysis through the Banach–Steinhaus theorem. After World War II Steinhaus played an important part in the establishment of the mathematics department at Wrocław University and in the revival of Polish mathematics from the destruction of the war.
+Author of around 170 scientific articles and books, Steinhaus has left his legacy and contribution in many branches of mathematics, such as functional analysis, geometry, mathematical logic, and trigonometry. Notably he is regarded as one of the early founders of game theory and probability theory which led to later development of more comprehensive approaches by other scholars.
+
+Contents
+
+1 Early life and studies
+2 Academic career
+
+2.1 Interwar Poland
+2.2 World War II
+2.3 After World War II
+
+
+3 Mathematical contributions
+4 Legacy
+5 Chief works
+6 Family
+7 Grave
+8 See also
+9 Notes
+10 References
+
+10.1 Further reading
+
+
+11 External links
+
+
+
+Early life and studies[edit]
+Steinhaus was born on January 14, 1887 in Jasło,[1] Austria-Hungary to a family with Jewish roots. His father, Bogusław, was a local industrialist, owner of a brick factory and a merchant. His mother was Ewelina, née Lipschitz. Hugo's uncle, Ignacy Steinhaus, was a lawyer and an activist in the Koło Polskie (Polish Circle), and a deputy to the Galician Diet, the regional assembly of the Kingdom of Galicia and Lodomeria.[2]
+Hugo finished his studies at the gymnasium in Jasło in 1905. His family wanted him to become an engineer but he was drawn to abstract mathematics and began to study the works of famous contemporary mathematicians on his own. In the same year he began studying philosophy and mathematics at the University of Lemberg.[2] In 1906 he transferred to Göttingen University.[1] At that University he received his Ph.D. in 1911, having written his doctoral dissertation under the supervision of David Hilbert. The title of his thesis was Neue Anwendungen des Dirichlet'schen Prinzips ("New applications to Dirichlet's principle").[3]
+At the start of World War I Steinhaus returned to Poland and served in Józef Piłsudski's Polish Legion, after which he lived in Kraków.[4]
+He was an atheist.[5]
+
+Academic career[edit]
+Interwar Poland[edit]
+During the 1916-1917 period and before Poland had regained its full independence, which occurred in 1918, Steinhaus worked in Kraków for the Ministry of the Interior in the ephemeral puppet state of Kingdom of Poland.[6]
+In 1917 he started to work at the University of Lemberg (later Jan Kazimierz University in Poland) and acquired his habilitation qualification in 1920.[6] In 1921 he became a profesor nadzwyczajny (associate professor) and in 1925 profesor zwyczajny (full professor) at the same university.[6] During this time he taught a course on the then cutting edge theory of Lebesgue integration, one of the first such courses offered outside France.[3]
+While in Lwów, Steinhaus co-founded the Lwów School of Mathematics[7] and was active in the circle of mathematicians associated with the Scottish cafe, although, according to Stanislaw Ulam, for the circle's gatherings, Steinhaus would have generally preferred a more upscale tea shop down the street.[4]
+
+World War II[edit]
+  The Scottish Book from the Lwów School of Mathematics, which Steinhaus contributed to and probably saved during World War II.
+In September 1939 after Nazi Germany and the Soviet Union both invaded and occupied Poland, as a fulfillment of the Molotov–Ribbentrop Pact they had signed earlier, Lwów initially came under Soviet occupation. Steinhaus considered escaping to Hungary but ultimately decided to remain in Lwów. The Soviets reorganized the university to give it a more Ukrainian character, but they did appoint Stefan Banach (Steinhaus's student) as the dean of the mathematics department and Steinhaus resumed teaching there. The faculty of the department at the school were also strengthened by several Polish refugees from German-occupied Poland. According to Steinhaus, during the experience of this period, he "acquired an insurmountable physical disgust in regard to all sorts of Soviet administrators, politicians and commissars"[A]
+During the interwar period and the time of the Soviet occupation, Steinhaus contributed ten problems to the famous Scottish Book, including the last one, recorded shortly before Lwów was captured by the Nazis in 1941, during Operation Barbarossa.[4]
+Steinhaus, because of his Jewish background, spent the Nazi occupation in hiding, first among friends in Lwów, then in the small towns of Osiczyna, near Zamość and Berdechów, near Kraków.[7][8] The Polish anti-Nazi resistance provided him with false documents of a forest ranger who had died sometime earlier, by the name of Grzegorz Krochmalny. Under this name he taught clandestine classes (higher education was forbidden for Poles under the German occupation). Worried about the possibility of imminent death if captured by Germans, Steinhaus, without access to any scholarly material, reconstructed from memory and recorded all the mathematics he knew, in addition to writing other voluminous memoirs, of which only a little part has been published.[8]
+Also while in hiding, and cut off from reliable news on the course of the war, Steinhaus devised a statistical means of estimating for himself the German casualties at the front based on sporadic obituaries published in the local press. The method relied on the relative frequency with which the obituaries stated that the soldier who died was someone's son, someone's "second son", someone's "third son" and so on.[8]
+According to his student and biographer, Mark Kac, Steinhaus told him that the happiest day of his life were the twenty four hours between the time that the Germans left occupied Poland and the Soviets had not yet arrived ("They had left, and they had not yet come").[8]
+
+After World War II[edit]
+  Commemorative plaque, Wrocław, Poland
+In the last days of World War II Steinhaus, still in hiding, heard a rumor that University of Lwów was to be transferred to the city of Breslau (Wrocław), which Poland was to acquire as a result of the Potsdam agreement (Lwów became part of Soviet Ukraine). Although initially he had doubts, he turned down offers for faculty positions in Łódź and Lublin and made his way to the city where he began teaching at University of Wrocław.[7] While there, he revived the idea behind the Scottish Book from Lwów, where prominent and aspiring mathematicians would write down problems of interest along with prizes to be awarded for their solution, by starting the New Scottish Book. It was also most likely Steinhaus who preserved the original Scottish Book from Lwów throughout the war and subsequently sent it to Stanisław Ulam, who translated it into English.[4]
+With Steinhaus' help, Wrocław University became renowned for mathematics, much as the University of Lwów had been.[8]
+Later, in the 1960s, Steinhaus served as a visiting professor at the University of Notre Dame (1961–62)[4] and the University of Sussex (1966).[9]
+
+Mathematical contributions[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}See also: Banach–Steinhaus theorem
+Steinhaus authored over 170 works.[4] Unlike his student, Stefan Banach, who tended to specialize narrowly in the field of functional analysis, Steinhaus made contributions to a wide range of mathematical sub-disciplines, including geometry, probability theory, functional analysis, theory of trigonometric and Fourier series as well as mathematical logic.[3][4] He also wrote in the area of applied mathematics and enthusiastically collaborated with engineers, geologists, economists, physicians, biologists and, in Kac's words, "even lawyers".[8]
+Probably his most notable contribution to functional analysis was the 1927 proof of the Banach–Steinhaus theorem, given along with Stefan Banach, which is now one of the fundamental tools in this branch of mathematics.
+His interest in games led him to propose an early formal definition of a strategy, anticipating John von Neumann's more complete treatment of a few years later. Consequently, he is considered an early founder of modern game theory.[6] As a result of his work on infinite games Steinhaus, together with another of his students, Jan Mycielski, proposed the axiom of determinacy.[8]
+Steinhaus was also an early contributor to, and co-founder of, probability theory, which at the time was in its infancy and not even considered an actual part of mathematics.[8] He provided the first axiomatic measure-theoretic description of coin-tossing, which was to influence the full axiomatization of probability by the Russian mathematician Andrey Kolmogorov a decade later.[8] Steinhaus was also the first to offer precise definitions of what it means for two events to be "independent", as well as for what it means for a random variable to be "uniformly distributed".[4]
+While in hiding during World War II, Steinhaus worked on the fair cake-cutting problem: how to divide a heterogeneous resource among several people with different preferences such that every person believes he received a proportional share. Steinhaus' work has initiated the modern research of the fair cake-cutting problem.[B]
+Steinhaus was also the first person to conjecture the ham-sandwich theorem,[8][10] and one of the first to propose the method of k-means clustering.[11]
+
+Legacy[edit]
+  Honorary doctorate bestowed on Steinhaus by Poznań University
+Steinhaus is said to have "discovered" the Polish mathematician Stefan Banach in 1916, after he overheard someone utter the words "Lebesgue integral" while in a Kraków park (Steinhaus referred to Banach as his "greatest mathematical discovery").[12] Together with Banach and the other participant of the park discussion, Otto Nikodym, Steinhaus started the Mathematical Society of Kraków, which later evolved into the Polish Mathematical Society.[4] He was a member of PAU (the Polish Academy of Learning) and PAN (the Polish Academy of Sciences), PTM (the Polish Mathematical Society), the Wrocławskie Towarzystwo Naukowe (Wrocław Scientific Society) as well as many international scientific societies and science academies.[6]
+Steinhaus also published one of the first articles in Fundamenta Mathematicae, in 1921.[13] He also co-founded Studia Mathematica along with Stefan Banach (1929),[7] and  Zastosowania matematyki (Applications of Mathematics, 1953), Colloquium Mathematicum, and Monografie Matematyczne (Mathematical Monographs).[1]
+He received honorary doctorate degrees from Warsaw University (1958), Wrocław Medical Academy (1961), Poznań University (1963) and Wrocław University (1965).[14]
+Steinhaus had full command of several foreign languages and was known for his aphorisms, to the point that a booklet of his most famous ones in Polish, French and Latin has been published posthumously.[8]
+In 2002, the Polish Academy of Sciences and Wrocław University sponsored "2002, The Year of Hugo Steinhaus", to celebrate his contributions to Polish and world science.[15]
+Notable mathematician Mark Kac, Steinhaus's student, wrote:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}"He was one of the architects of the school of mathematics which flowered miraculously in Poland between the two wars and it was he who, perhaps more than any other individual, helped to raise Polish mathematics from the ashes to which it had been reduced by the second World War to the position of new strength and respect which it now occupies. He was a man of great culture and in the best sense of the word a product of Western civilization."[3]
+Chief works[edit]
+Czym jest, a czym nie jest matematyka (What Mathematics Is, and What It Is Not, 1923).[14]
+Sur le principe de la condensation de la singularités (with Banach, 1927)[3]
+Theorie der Orthogonalreihen (with Stefan Kaczmarz, 1935).[3][16]
+Kalejdoskop matematyczny (Mathematical Snapshots, 1939).[3][14]
+Taksonomia wrocławska (A Wroclaw Taxonomy; with others, 1951).
+Sur la liaison et la division des points d'un ensemble fini (On uniting and separating the points of a finite set, with others, 1951).[17] One of multiple rediscoveries of Borůvka's algorithm.
+Sto zadań (One Hundred Problems In Elementary Mathematics, 1964).[4][18]
+Orzeł czy reszka (Heads or Tails, 1961).[19]
+Słownik racjonalny (A Rational Dictionary, 1980).[20]
+Family[edit]
+His daughter Lidya Steinhaus was married to Jan Kott.
+
+Grave[edit]
+Steinhaus[21] is buried in Cmentarz Świętej Rodziny in Sępolno, Wrocław, Poland.
+On November 1, 2017, a controversy arose as the University of Wrocław took no action to pay for his grave to keep it until 2022 in face of its expiration because it supposedly "had no money". Mayor Rafał Dutkiewicz was also widely criticized for doing nothing. Random people organized a charity and paid for the grave to remain.[22]
+
+See also[edit]
+Freiling's axiom of symmetry
+One-seventh area triangle
+Johnson–Trotter algorithm
+Steinhaus conjecture
+Steinhaus polygon notation
+Steinhaus theorem
+Steinhaus longimeter
+Last diminisher
+Notes[edit]
+
+^ Nabrałem nieprzyzwyciężonej fizycznej wprost odrazy do wszelkich urzędników, polityków i komisarzy sowieckich (Duda, g. 23).
+^ The solution to the two person version of the problem is the classic children's rule divide and choose. Steinhaus was the first to generalize the problem definition to three or more people, by inviting the proportional division criterion.
+
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ a b c .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Foreword to "One hundred problems in elementary mathematics". Courier Dover Publications. 1974. p. 4. ISBN 978-0-486-23875-3.
+
+^ a b Official webpage of the town of Jasło (2010). "Steinhaus Hugo Dyonizy". Mieszkaniec: Steinhaus Hugo Dyonizy. Jasło. Moje miasto, nasz wspólny dom. Archived from the original on 1 October 2011. Retrieved 16 August 2011.
+
+^ a b c d e f g Kac, Mark (1974). "Hugo Steinhaus--A Reminiscence and a Tribute" (PDF). The American Mathematical Monthly. Mathematical Association of America. 81 (6): 572–581. doi:10.2307/2319205. JSTOR 2319205. Archived from the original (PDF) on 2011-09-27.
+
+^ a b c d e f g h i j John O'Connor; Edmund F. Robertson (February 2000). "Hugo Dyonizy Steinhaus". The MacTutor History of Mathematics archive. School of Mathematics and Statistics, University of St Andrews, Scotland. Retrieved 16 August 2011.
+
+^ Steven G. Krantz (2002). Mathematical Apocrypha: Stories and Anecdotes of Mathematicians and the Mathematical. Mathematical Association of America. p. 202. ISBN 9780883855393. ...Steinhaus answered that, "God is always present." It should be noted that Steinhaus was an outspoken atheist.
+
+^ a b c d e Monika Śliwa (May 4, 2010). "Hugo Steinhaus". University of Wrocław. Archived from the original on October 5, 2011.
+
+^ a b c d Duda, Roman (2005). "Początki Matematyki w Powojennym Wrocławiu" (PDF). Przegląd Uniwesytetcki. Polskie Towarzystwo Matematyczne. Oddział Wrocławski (September).
+
+^ a b c d e f g h i j k Kac, Mark (1987). Enigmas of chance: an autobiography. University of California Press. pp. 49–53. ISBN 978-0-520-05986-3.
+
+^ Chełminiak, Wiesław (2002). "Wrocław Europy". Wprost. Retrieved 20 August 2011.
+
+^ Beyer, W. A.; Zardecki, Andrew (2004). "The early history of the ham sandwich theorem". American Mathematical Monthly. 111 (1): 58–61. doi:10.2307/4145019. JSTOR 4145019. ProQuest 203746537.
+
+^ Lindsten, Frederik; Ohlsson, Frederik; Lennard, Ljung (2011). "Just Relax and Come Clustering. A Convexification of k-means Clustering". Technical Report from Automatic Control at Linköpings Universitet. Linköping University: 1.
+
+^ Feferman, Anita Burdman; Feferman, Solomon (2004). Alfred Tarski: life and logic. Cambridge University Press. p. 29. ISBN 978-0-521-80240-6.
+
+^ Kuratowski, Kazimierz; Borsuk, Karol (1978). "One Hundred Volumes of Fundamenta Mathematicae" (PDF). Fundamenta Mathematicae. Polish Academy of Science. 100: 3.
+
+^ a b c "Prof. Hugo Steinhaus". Wrocław University of Technology.
+
+^ Aleksander Weron (January 4, 2002). "2002-Rok Hugona Steinhausa (2002 - Year of Hugo Steinhaus)". Politechnika Wrocławska. Retrieved 26 August 2011.
+
+^ Stefan Kaczmarz; Hugo Steinhaus (1951). Theorie der Orthogonalreihen. Chelsea Pub. Co. Retrieved 2 September 2011.
+
+^ Steinhaus;  et al. (1951). "Sur la liaison et la division des points d'un ensemble fini" (PDF). Polish Virtual Library of Science - Mathematical Collection.
+
+^ Steinhaus, Hugo (1974). One hundred problems in elementary mathematics. Courier Dover Publications. ISBN 978-0-486-23875-3.
+
+^ Steinhaus, Hugo (1961), Orzeł czy reszka (in Polish), I, Warszawa : Państwowe Wydaw, OCLC 68678009
+
+^ Steinhaus, Hugo (1980), Słownik racjonalny (in Polish), I, Zakład Narodowy im. Ossolińskich, OCLC 7272718
+
+^ "Hugo Dyonizy Steinhaus". K. Szajowski. Otter Creek Holdings, LLC. May 2010. Retrieved 28 May 2018.
+
+^ [1]
+
+
+Further reading[edit]
+Kazimierz Kuratowski, A Half Century of Polish Mathematics:  Remembrances and Reflections, Oxford, Pergamon Press, 1980, ISBN 978-0-08-023046-7, pp. 173–79 et passim.
+Hugo Steinhaus, Mathematical Snapshots, second edition, Oxford, 1951, blurb.
+External links[edit]
+Hugo Steinhaus at the Mathematics Genealogy Project
+Hugo Steinhaus in MathSciNet
+Hugo Steinhaus in Zentralblatt MATH
+
+
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}Authority control General
+Integrated Authority File (Germany)
+ISNI
+1
+VIAF
+1
+WorldCat
+National libraries
+France (data)
+United States
+Japan
+Czech Republic
+Israel
+Netherlands
+Poland
+Scientific databases
+Mathematics Genealogy Project
+Other
+Faceted Application of Subject Terminology
+Social Networks and Archival Context
+SUDOC (France)
+1
+Trove (Australia)
+1
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Hugo_Steinhaus&oldid=1033868579"
+		Categories: 1887 births1972 deaths20th-century Polish mathematiciansJews from Galicia (Eastern Europe)Members of the Lwów Scientific SocietyMembers of the Polish Academy of LearningMembers of the Polish Academy of SciencesPeople from JasłoJewish atheistsPolish atheistsPolish legionnaires (World War I)Probability theoristsUniversity of Notre Dame facultyRecipients of the State Award Badge (Poland)Fair division researchersHidden categories: CS1 Polish-language sources (pl)Articles with short descriptionShort description matches WikidataArticles with hCardsPages using infobox scientist with unknown parametersGood articlesArticles with GND identifiersArticles with ISNI identifiersArticles with VIAF identifiersArticles with WORLDCATID identifiersArticles with BNF identifiersArticles with LCCN identifiersArticles with NDL identifiersArticles with NKC identifiersArticles with NLI identifiersArticles with NTA identifiersArticles with PLWABN identifiersArticles with MGP identifiersArticles with FAST identifiersArticles with SNAC-ID identifiersArticles with SUDOC identifiersArticles with Trove identifiers
+	

@@ -1,0 +1,1254 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Representation of the Arabic language with the Latin script
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Arabic alphabet
+Arabic script
+History
+Transliteration
+Diacritics
+Hamza
+Numerals
+Numeration
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+The romanization of Arabic refers to the standard norms for rendering written and spoken Arabic in the Latin script in one of various systematic ways. Romanized Arabic is used for a number of different purposes, among them transcription of names and titles, cataloging Arabic language works, language education when used instead of or alongside the Arabic script, and representation of the language in scientific publications by linguists. These formal systems, which often make use of diacritics and non-standard Latin characters and are used in academic settings or for the benefit of non-speakers, contrast with informal means of written communication used by speakers such as the Latin-based Arabic chat alphabet.
+Different systems and strategies have been developed to address the inherent problems of rendering various Arabic varieties in the Latin script. Examples of such problems are the symbols for Arabic phonemes that do not exist in English or other European languages; the means of representing the Arabic definite article, which is always spelled the same way in written Arabic but has numerous pronunciations in the spoken language depending on context; and the representation of short vowels (usually i u or e o, accounting for variations such as Muslim/Moslem or Mohammed/Muhammad/Mohamed).
+
+Contents
+
+1 Method
+2 Romanization standards and systems
+
+2.1 Mixed digraphic and diacritical
+2.2 Fully diacritical
+2.3 ASCII-based
+2.4 Comparison table
+
+
+3 Romanization issues
+
+3.1 Vowels
+3.2 Transliteration vs. transcription
+
+
+4 Examples
+5 Arabic alphabet and nationalism
+
+5.1 Lebanon
+5.2 Egypt
+
+
+6 See also
+7 References
+8 External links
+
+
+
+Method[edit]
+Romanization is often termed "transliteration", but this is not technically correct.[citation needed] Transliteration is the direct representation of foreign letters using Latin symbols, while most systems for romanizing Arabic are actually transcription systems, which represent the sound of the language, since short vowels and geminate consonants, for example, does not usually appear in Arabic writing. As an example, the above rendering munāẓaratu l-ḥurūfi l-ʻarabīyah of the Arabic: مناظرة الحروف العربية‎ is a transcription, indicating the pronunciation; an example transliteration would be mnaẓrḧ alḥrwf alʻrbyḧ.
+
+Romanization standards and systems[edit]
+Principal standards and systems are:
+
+Mixed digraphic and diacritical[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}Further information: Digraph (orthography) and Diacritic
+BGN/PCGN romanization (1956).[1]
+UNGEGN (1972). United Nations Group of Experts on Geographical Names,  or "Variant A of the Amended Beirut System". Adopted from BGN/PCGN.[2][3]
+IGN System 1973 or "Variant B of the Amended Beirut System", that conforms to the French orthography and is preferred to the Variant A in French-speaking countries as in Maghreb and Lebanon.[2][4]
+ADEGN romanization (2007) is different from UNGEGN in two ways: (1) ظ is d͟h instead of z̧; (2) the cedilla is replaced by a sub-macron (_) in all the characters with the cedilla.[2]
+ALA-LC (first published 1991), from the American Library Association and the Library of Congress.[5] This romanization is close to the romanization of the Deutsche Morgenländische Gesellschaft and Hans Wehr, which is used internationally in scientific publications by Arabists.
+IJMES, used by International Journal of Middle East Studies, very similar to ALA-LC.[6]
+EI, Encyclopaedia of Islam (1st ed., 1913–1938; 2nd ed., 1960–2005).[7]
+Fully diacritical[edit]
+DMG (Deutsche Morgenländische Gesellschaft, 1935), adopted by the International Convention of Orientalist Scholars in Rome.[8]
+DIN 31635 (1982), developed by the German Institute for Standardization (Deutsches Institut für Normung).
+Hans Wehr transliteration (1961, 1994), a modification to DIN 31635.
+EALL, Encyclopedia of Arabic Language and Linguistics (edited by Kees Versteegh, Brill, 2006–2009).[9]
+Spanish romanization, identical to DMG/DIN with the exception of three letters: ǧ > ŷ, ḫ > j, ġ > g.[10]
+ISO 233 (1984), letter-to-letter; vowels are transliterated only if they are shown with diacritics, otherwise they are omitted.
+ISO 233-2 (1993), simplified transliteration; vowels are always shown.[verification needed]
+BS 4280 (1968), developed by the British Standards Institution.[11]
+ASCII-based[edit]
+ArabTeX (since 1992) has been modelled closely after the transliteration standards ISO/R 233 and DIN 31635.[12]
+Buckwalter Transliteration (1990s), developed at ALPNET by Tim Buckwalter; does not require diacritics.[13][14]
+Arabic chat alphabet:[9] an ad hoc solution for conveniently entering Arabic using a Latin keyboard.
+Comparison table[edit]
+
+
+Letter
+
+Unicode
+
+Name
+
+IPA
+
+BGN/PCGN
+
+UNGEGN
+
+ALA-LC
+
+EI
+
+Wehr 1
+
+EALL
+
+BS
+
+DIN
+
+ISO
+
+ArabTeX
+
+Arabizi 2[15][16][17]
+
+
+ء ‎3
+
+0621
+
+hamzah
+
+ʔ
+
+ʼ 4
+
+ʾ
+
+ʼ 4
+
+ʾ
+
+ʼ 4
+
+ʾ
+
+ˈ, ˌ
+
+'
+
+2
+
+
+ا
+
+0627
+
+alif
+
+aː
+
+ā
+
+ʾ
+
+A
+
+a/e/é
+
+
+ب
+
+0628
+
+bāʼ
+
+b
+
+b
+
+
+ت
+
+062A
+
+tāʼ
+
+t
+
+t
+
+
+ث
+
+062B
+
+thāʼ
+
+θ
+
+th (t͟h)5
+
+ṯ
+
+_t
+
+s/th/t
+
+
+ج
+
+062C
+
+jīm
+
+d͡ʒ~ɡ~ʒ
+
+j
+
+dj (d͟j)5
+
+j 6
+
+ǧ
+
+^g
+
+j/g/dj
+
+
+ح
+
+062D
+
+ḥāʼ
+
+ħ
+
+ḩ 7
+
+ḥ
+
+.h
+
+7/h
+
+
+خ
+
+062E
+
+khāʼ
+
+x
+
+kh (k͟h)5
+
+ḵ 6
+
+x
+
+ẖ
+
+ḫ
+
+ẖ
+
+_h
+
+kh/7'/5
+
+
+د
+
+062F
+
+dāl
+
+d
+
+d
+
+
+ذ
+
+0630
+
+dhāl
+
+ð
+
+dh (d͟h)5
+
+ḏ
+
+_d
+
+z/dh/th/d
+
+
+ر
+
+0631
+
+rāʼ
+
+r
+
+r
+
+
+ز
+
+0632
+
+zayn/zāy
+
+z
+
+z
+
+
+س
+
+0633
+
+sīn
+
+s
+
+s
+
+
+ش
+
+0634
+
+shīn
+
+ʃ
+
+sh (s͟h)5
+
+š
+
+^s
+
+sh/ch/$
+
+
+ص
+
+0635
+
+ṣād
+
+sˤ
+
+ş 7
+
+ṣ
+
+.s
+
+s/9
+
+
+ض
+
+0636
+
+ḍād
+
+dˤ
+
+ḑ 7
+
+ḍ
+
+.d
+
+d/9'/D
+
+
+ط
+
+0637
+
+ṭāʼ
+
+tˤ
+
+ţ 7
+
+ṭ
+
+.t
+
+t/6/T
+
+
+ظ
+
+0638
+
+ẓāʼ
+
+ðˤ~zˤ
+
+z̧ 7
+
+ẓ
+
+ḏ̣/ẓ11
+
+ẓ
+
+.z
+
+z/dh/6'/th
+
+
+ع
+
+0639
+
+ʻayn
+
+ʕ
+
+ʻ 4
+
+ʿ
+
+ʽ 4
+
+ʿ
+
+`
+
+3
+
+
+غ
+
+063A
+
+ghayn
+
+ɣ
+
+gh (g͟h)5
+
+ḡ 6
+
+ġ
+
+ḡ
+
+ġ
+
+.g
+
+gh/3'/8
+
+
+ف ‎8
+
+0641
+
+fāʼ
+
+f
+
+f
+
+
+ق ‎8
+
+0642
+
+qāf
+
+q
+
+q
+
+2/g/q/8/9
+
+
+ك
+
+0643
+
+kāf
+
+k
+
+k
+
+
+ل
+
+0644
+
+lām
+
+l
+
+l
+
+
+م
+
+0645
+
+mīm
+
+m
+
+m
+
+
+ن
+
+0646
+
+nūn
+
+n
+
+n
+
+
+ه
+
+0647
+
+hāʼ
+
+h
+
+h
+
+
+و
+
+0648
+
+wāw
+
+w, uː
+
+w; ū
+
+w; U
+
+w/ou/oo/u/o
+
+
+ي ‎9
+
+064A
+
+yāʼ
+
+j, iː
+
+y; ī
+
+y; I
+
+y/i/ee/ei/ai
+
+
+آ
+
+0622
+
+alif maddah
+
+ʔaː
+
+ā, ʼā
+
+ʾā
+
+ʾâ
+
+'A
+
+2a/aa
+
+
+ة
+
+0629
+
+tāʼ marbūṭah
+
+a, at
+
+h; t
+
+—; t
+
+h; t
+
+ẗ
+
+T
+
+a/e(h); et/at
+
+
+ال
+
+06270644
+
+alif lām
+
+(var.)
+
+al- 10
+
+ʾal
+
+al-
+
+el/al
+
+
+ى ‎9
+
+0649
+
+alif maqṣūrah
+
+aː
+
+á
+
+ā
+
+ỳ
+
+_A
+
+a
+
+
+Vocalization
+
+
+ـَ
+
+064E
+
+fatḥah
+
+a
+
+a
+
+a/e/é
+
+
+ـِ
+
+0650
+
+kasrah
+
+i
+
+i
+
+i/e/é
+
+
+ـُ
+
+064F
+
+ḍammah
+
+u
+
+u
+
+ou/o/u
+
+
+ـَا
+
+064E0627
+
+fatḥah alif
+
+aː
+
+ā
+
+a’
+
+A/aa
+
+a
+
+
+ـِي
+
+0650064A
+
+kasrah yāʼ
+
+iː
+
+ī
+
+iy
+
+I/iy
+
+i/ee
+
+
+ـُو
+
+064F0648
+
+ḍammah wāw
+
+uː
+
+ū
+
+uw
+
+U/uw
+
+ou/oo/u
+
+
+ـَي
+
+064E064A
+
+fatḥah yāʼ
+
+aj
+
+ay
+
+ay/ai/ey/ei
+
+
+ـَو
+
+064E0648
+
+fatḥah wāw
+
+aw
+
+aw
+
+aw/aou
+
+
+ـً
+
+064B
+
+fatḥatān
+
+an
+
+an
+
+an
+
+á
+
+aN
+
+an
+
+
+ـٍ
+
+064D
+
+kasratān
+
+in
+
+in
+
+in
+
+í
+
+iN
+
+in/en
+
+
+ـٌ
+
+064C
+
+ḍammatān
+
+un
+
+un
+
+un
+
+ú
+
+uN
+
+oun/on/oon/un
+
+.mw-parser-output .citation{word-wrap:break-word}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}^1  Hans Wehr transliteration does not capitalize the first letter at the beginning of sentences nor in proper names.
+^2  The chat table is only a demonstration and is based on the spoken varieties which vary considerably from Literary Arabic on which the IPA table and the rest of the transliterations are based.
+^3  Review hamzah for its various forms.
+^4  Neither standard defines which code point to use for hamzah and ʻayn. Appropriate Unicode points would be modifier letter apostrophe ⟨ʼ⟩ and modifier letter turned comma ⟨ʻ⟩ (for the UNGEGN and BGN/PCGN) or modifier letter reversed comma ⟨ʽ⟩ (for the Wehr and Survey of Egypt System (SES)), all of which Unicode defines as letters. Often right and left single quotation marks ⟨’⟩, ⟨‘⟩ are used instead, but Unicode defines those as punctuation marks, and they can cause compatibility issues. The glottal stop (hamzah) in these romanizations isn't written word-initially.
+^5  In Encyclopaedia of Islam digraphs are underlined, that is t͟h, d͟j, k͟h, d͟h, s͟h, g͟h. In BGN/PCGN on the contrary the sequences ـتـهـ, ـكـهـ, ـدهـ, ـسهـ may be romanized with middle dot as t·h, k·h, d·h, s·h respectively; the letter g is not used by itself in BGN/PCGN, so no confusion between gh and g+h is possible.
+^6  In the original German edition of his dictionary (1952) Wehr used ǧ, ḫ, ġ for j, ḵ, ḡ respectively (that is all the letters used are equal to DMG/DIN 31635). The variant presented in the table is from the English translation of the dictionary (1961).
+^7  BGN/PCGN allows use of underdots instead of cedilla.
+^8 Fāʼ and qāf are traditionally written in Northwestern Africa as ڢ and ڧـ ـڧـ ـٯ, respectively, while the latter's dot is only added initially or medially.
+^9  In Egypt, Sudan, and sometimes in other regions, the standard form for final-yāʼ is only ى (without dots) in handwriting and print, for both final /-iː/ and final /-aː/. ى for the latter pronunciation, is called ألف لينة alif layyinah [ˈʔælef læjˈjenæ], 'flexible alif'.
+^10  The sun and moon letters and hamzat waṣl pronunciation rules apply, although it is acceptable to ignore them. The UN system and ALA-LC prefer lowercase a and hyphens: al-Baṣrah, ar-Riyāḍ; BGN/PCGN prefers uppercase A and no hyphens: Al Baṣrah, Ar Riyāḍ.[2]
+^11  The EALL suggests ẓ "in proper names" (volume 4, page 517).
+Romanization issues[edit]
+Any romanization system has to make a number of decisions which are dependent on its intended field of application.
+
+Vowels[edit]
+One basic problem is that written Arabic is normally unvocalized; i.e., many of the vowels are not written out, and must be supplied by a reader familiar with the language. Hence unvocalized Arabic writing does not give a reader unfamiliar with the language sufficient information for accurate pronunciation.  As a result, a pure transliteration, e.g., rendering قطر as qṭr, is meaningless to an untrained reader.  For this reason, transcriptions are generally used that add vowels, e.g. qaṭar. However, unvocalized systems match exactly to written Arabic, unlike vocalized systems such as Arabic chat, which some claim detracts from one's ability to spell.[18]
+
+Transliteration vs. transcription[edit]
+Most uses of romanization call for transcription rather than transliteration: Instead of transliterating each written letter, they try to reproduce the sound of the words according to the orthography rules of the target language: Qaṭar.  This applies equally to scientific and popular applications.  A pure transliteration would need to omit vowels (e.g. qṭr), making the result difficult to interpret except for a subset of trained readers fluent in Arabic.  Even if vowels are added, a transliteration system would still need to distinguish between multiple ways of spelling the same sound in the Arabic script, e.g. alif ا vs. alif maqṣūrah ى for the sound /aː/ ā, and the six different ways (ء إ أ آ ؤ ئ) of writing the glottal stop (hamza, usually transcribed ʼ ).  This sort of detail is needlessly confusing, except in a very few situations (e.g., typesetting text in the Arabic script).
+Most issues related to the romanization of Arabic are about transliterating vs. transcribing; others, about what should be romanized:
+
+Some transliterations ignore assimilation of the definite article al- before the "sun letters", and may be easily misread by non-Arabic speakers.  For instance, "the light" النور an-nūr would be more literally transliterated along the lines of alnūr. In the transcription an-nūr, a hyphen is added and the unpronounced /l/ removed for the convenience of the uninformed non-Arabic speaker, who would otherwise pronounce an /l/, perhaps not understanding that /n/ in nūr is geminated. Alternatively, if the shaddah is not transliterated (since it is strictly not a letter), a strictly literal transliteration would be alnūr, which presents similar problems for the uninformed non-Arabic speaker.
+A transliteration should render the "closed tāʼ" (tāʼ marbūṭah, ة) faithfully. Many transcriptions render the sound /a/ as a or ah and t when it denotes /at/.
+ISO 233 has a unique symbol, ẗ.
+"Restricted alif" (alif maqṣūrah, ى) should be transliterated with an acute accent, á, differentiating it from regular alif ا, but it is transcribed in many schemes like alif, ā, because it stands for /aː/.
+Nunation: what is true elsewhere is also true for nunation: transliteration renders what is seen, transcription what is heard, when in the Arabic script, it is written with diacritics, not by letters, or omitted.
+A transcription may reflect the language as spoken, typically rendering names, for example, by the people of Baghdad (Baghdad Arabic), or the official standard (Literary Arabic) as spoken by a preacher in the mosque or a TV newsreader. A transcription is free to add phonological (such as vowels) or morphological (such as word boundaries) information. Transcriptions will also vary depending on the writing conventions of the target language; compare English Omar Khayyam with German Omar Chajjam, both for عمر خيام /ʕumar xajjaːm/, [ˈʕomɑr xæjˈjæːm] (unvocalized ʿmr ḫyām, vocalized ʻUmar Khayyām).
+A transliteration is ideally fully reversible: a machine should be able to transliterate it back into Arabic. A transliteration can be considered as flawed for any one of the following reasons:
+
+A "loose" transliteration is ambiguous, rendering several Arabic phonemes with an identical transliteration, or such that digraphs for a single phoneme (such as dh gh kh sh th rather than ḏ ġ ḫ š ṯ) may be confused with two adjacent consonants—but this problem is resolved in the ALA-LC romanization system, where the prime symbol ʹ is used to separate two consonants when they do not form a digraph;[19] for example: أَكْرَمَتْها akramatʹhā ('she honored her'), in which the t and h are two distinct consonantal sounds.
+Symbols representing phonemes may be considered too similar (e.g., ʻ and ' or ʿ and ʾ  for ع ʻayn and hamzah);
+ASCII transliterations using capital letters to disambiguate phonemes are easy to type, but may be considered unaesthetic.
+A fully accurate transcription may not be necessary for native Arabic speakers, as they would be able to pronounce names and sentences correctly anyway, but it can be very useful for those not fully familiar with spoken Arabic and who are familiar with the Roman alphabet.  An accurate transliteration serves as a valuable stepping stone for learning, pronouncing correctly, and distinguishing phonemes.  It is a useful tool for anyone who is familiar with the sounds of Arabic but not fully conversant in the language.
+One criticism is that a fully accurate system would require special learning that most do not have to actually pronounce names correctly, and that with a lack of a universal romanization system they will not be pronounced correctly by non-native speakers anyway.  The precision will be lost if special characters are not replicated and if a reader is not familiar with Arabic pronunciation.
+
+Examples[edit]
+Examples in Literary Arabic:
+
+
+
+
+Arabic
+
+أمجد كان له قصر
+إلى المملكة المغربية
+
+
+Arabic with diacritics(normally omitted)
+
+أَمْجَدُ كَانَ لَهُ قَصْر
+إِلَى الْمَمْلَكَةِ الْمَغْرِبِيَّة
+
+
+IPA
+
+/ʔamdʒadu kaːna lahu qasˤr/
+/ʔila‿l.mamlakati‿l.maɣribij.ja/
+
+
+ALA-LC
+
+Amjad kāna lahu qaṣr
+Ilá al-mamlakah al-Maghribīyah
+
+
+Hans Wehr
+
+amjad kāna lahū qaṣr
+ilā l-mamlaka al-maḡribīya
+
+
+DIN 31635
+
+ʾAmǧad kāna lahu qaṣr
+ʾIlā l-mamlakah al-Maġribiyyah
+
+
+UNGEGN
+
+Amjad kāna lahu qaşr
+Ilá al-mamlakah al-maghribiyyah
+
+
+ISO 233
+
+ʾˈamǧad kāna lahu qaṣr
+ʾˈilaỳ ʾˈalmamlakaẗ ʾˈalmaġribiȳaẗ
+
+
+ArabTeX
+
+am^gad kAna lahu qa.sr
+il_A almamlakaT alma.gribiyyaT
+
+
+English
+
+Amjad had a palace
+To the Moroccan Kingdom
+
+Arabic alphabet and nationalism[edit]
+There have been many instances of national movements to convert Arabic script into Latin script or to romanize the language.
+
+Lebanon[edit]
+  LEBNAAN in proposed Said Akl alphabet (issue #686)
+A Beirut newspaper, La Syrie, pushed for the change from Arabic script to Latin script in 1922. The major head of this movement was Louis Massignon, a French Orientalist, who brought his concern before the Arabic Language Academy in Damascus in 1928. Massignon's attempt at romanization failed as the Academy and the population viewed the proposal as an attempt from the Western world to take over their country. Sa'id Afghani, a member of the Academy, asserted that the movement to romanize the script was a Zionist plan to dominate Lebanon.[20][21]
+
+Egypt[edit]
+After the period of colonialism in Egypt, Egyptians were looking for a way to reclaim and reemphasize Egyptian culture. As a result, some Egyptians pushed for an Egyptianization of the Arabic language in which the formal Arabic and the colloquial Arabic would be combined into one language and the Latin alphabet would be used.[20][21]  There was also the idea of finding a way to use hieroglyphics instead of the Latin alphabet.[20][21] A scholar, Salama Musa, agreed with the idea of applying a Latin alphabet to Egyptian Arabic, as he believed that would allow Egypt to have a closer relationship with the West. He also believed that Latin script was key to the success of Egypt as it would allow for more advances in science and technology. This change in script, he believed, would solve the problems inherent with Arabic, such as a lack of written vowels and difficulties writing foreign words.[20][21][22] Ahmad Lutfi As Sayid and Muhammad Azmi, two Egyptian intellectuals, agreed with Musa and supported the push for romanization.[20][21] The idea that romanization was necessary for modernization and growth in Egypt continued with Abd Al Aziz Fahmi in 1944. He was the chairman for the Writing and Grammar Committee for the Arabic Language Academy of Cairo.[20][21] He believed and desired to implement romanization in a way that allowed words and spellings to remain somewhat familiar to the Egyptian people. However, this effort failed as the Egyptian people felt a strong cultural tie to the Arabic alphabet, particularly the older generation.[20][21]
+
+See also[edit]
+Arabic Chat Alphabet
+Arabic diacritics
+Arabic grammar
+Arabic names
+Glottal stop (letter)
+Maltese alphabet
+Ottoman Turkish alphabet – a Perso-Arabic-based alphabet, which was replaced by the Latin-based Turkish alphabet in 1928
+Romanization of Hebrew
+Romanization of Persian
+Standard Arabic Technical Transliteration System (SATTS)
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"Romanization system for Arabic. BGN/PCGN 1956 System" (PDF).
+
+^ a b c d "Arabic" (PDF). UNGEGN.
+
+^ Technical reference manual for the standardization of geographical names (PDF). UNGEGN. 2007. p. 12 [22].
+
+^ "Systèmes français de romanisation" (PDF). UNGEGN. 2009.
+
+^ "Arabic romanization table" (PDF). The Library of Congress.
+
+^ "IJMES Translation & Transliteration Guide". International Journal of Middle East Studies.
+
+^ "Encyclopaedia of Islam Romanization vs ALA Romanization for Arabic". University of Washington Libraries.
+
+^ Brockelmann, Carl; Ronkel, Philippus Samuel van (1935). Die Transliteration der arabischen Schrift... (PDF). Leipzig.
+
+^ a b Reichmuth, Philipp (2009). "Transcription".  In Versteegh, Kees (ed.). Encyclopedia of Arabic Language and Linguistics. 4. Brill. pp. 515–20.
+
+^ Millar, M. Angélica; Salgado, Rosa; Zedán, Marcela (2005). Gramatica de la lengua arabe para hispanohablantes. Santiago de Chile: Editorial Universitaria. pp. 53–54. ISBN 978-956-11-1799-0.
+
+^ "Standards, Training, Testing, Assessment and Certification". BSI Group. Archived from the original on October 7, 2008. Retrieved 2014-05-18.
+
+^ ArabTex User Manual Section 4.1 : ASCII Transliteration Encoding.
+
+^ "Buckwalter Arabic Transliteration". QAMUS LLC.
+
+^ "Arabic Morphological Analyzer/The Buckwalter Transliteration". Xerox. Retrieved 2017-04-30.
+
+^ Writing Arabizi: Orthographic Variation in Romanized Lebanese Arabic on Twitter, Sullivan, Natalie, 2017, The University of Texas at Austin, http://hdl.handle.net/2152/72420
+
+^ Bjørnsson, Jan Arild (November 2010). "Egyptian Romanized Arabic: A Study of Selected Features from Communication Among Egyptian Youth on Facebook" (PDF). University of Oslo. Retrieved 31 March 2019.
+
+^ Dua'a Abu Elhija (2014) A new writing system? Developing orthographies for writing Arabic dialects in electronic media, Writing Systems Research, 6:2, 190-214, DOI: 10.1080/17586801.2013.868334
+
+^ "Arabizi sparks concern among educators". GulfNews.com. 2013-05-09. Retrieved 2014-05-18.
+
+^ "Arabic" (PDF). ALA-LC Romanization Tables. Library of Congress. p. 9. Retrieved 2013-06-14. 21. The prime (ʹ) is used: (a) To separate two letters representing two distinct consonantal sounds, when the combination might otherwise be read as a digraph.
+
+^ a b c d e f g Shrivtiel, Shraybom (1998). The Question of Romanisation of the Script and The Emergence of Nationalism in the Middle East. Mediterranean Language Review. pp. 179–196.
+
+^ a b c d e f g History of Arabic Writing
+
+^ Shrivtiel, p. 188
+
+
+External links[edit]
+Comparative table of DIN 31635, ISO 233, ISO/R 233, UN, ALA-LC, and Encyclopædia of Islam (not normative)
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteArabic languageOverviews
+Language
+Alphabet
+History
+Romanization
+Numerology
+Influence on other languages
+Alphabet
+Nabataean alphabet
+Perso-Arabic alphabet
+Ancient North Arabian
+Ancient South Arabian script
+Zabūr script
+Arabic numerals
+Eastern numerals
+Arabic Braille
+Algerian
+Diacritics
+i‘jām
+Tashkil
+Harakat
+Tanwin
+Shaddah
+Hamza
+Tāʾ marbūṭah
+Letters
+ʾAlif
+Bāʾ
+Tāʾ
+Tāʾ marbūṭah
+Ṯāʾ
+Ǧīm
+Ḥāʾ
+Ḫāʾ
+Dāl
+Ḏāl
+Rāʾ
+Zāy
+Sīn
+Šīn
+Ṣād
+Ḍād
+Ṭāʾ
+Ẓāʾ
+ʿAyn
+Ġayn
+Fāʾ
+Qāf
+Kāf
+Lām
+Mīm
+Nūn
+Hāʾ
+Tāʾ marbūṭah
+Wāw
+Yāʾ
+Hamza
+VarietiesPre-Islamic
+Proto-Arabic
+Old Arabic
+Literary
+Classical
+Modern Standard
+ModernPeninsularCentral-Eastern
+Bahrani
+Gulf
+Bahraini
+Kuwaiti
+Najdi
+Omani
+Shihhi
+Western
+Hejazi
+Sedentary
+Bedouin
+Southern
+Bareqi
+Yemeni
+Hadhrami
+Sanʽani
+Taʽizzi-Adeni
+Tihami
+Judeo-Yemeni
+Dhofari
+Northwestern
+Bedawi
+Nilo-EgyptianNorthern
+Egyptian
+Saʽidi
+Central
+Chadian
+Sudanese
+MesopotamianNorthern
+North Mesopotamian
+Judeo-Iraqi
+Anatolian
+Cypriot
+Central
+Baghdadi
+Baghdad Koiné
+Southern
+South Mesopotamian
+Khuzestani
+LevantineNorthern
+North Levantine
+Aleppine
+Damascene
+Lebanese
+Cilician
+Southern
+South Levantine
+Jordanian
+Palestinian
+MaghrebiPre-Hilalian
+Urban
+North-Eastern Tunisian
+Eastern Village
+Sahel
+Sfaxian
+Lesser Kabylia
+Western Village
+Traras-Msirda
+Mountain
+Judeo-Maghrebi Arabic
+Judeo-Moroccan
+Judeo-Tripolitanian
+Judeo-Tunisian
+Andalusi
+Sicilian
+Maltese
+Hilalian
+Sulaym
+Libyan koiné
+Eastern Hilal
+Tunisian koiné
+Central Hilal
+Algerian koiné
+Algerian Saharan
+Eastern Algerian
+Maqil
+Western Moroccan
+Eastern Moroccan
+Western Algerian
+Hassānīya
+Moroccan koiné
+Peripheries
+Central Asian
+Bakhtiari
+Bukhara
+Kashkadarya
+Khorasani
+Shirvani
+Judeo-Arabic
+Judeo-Iraqi
+Baghdadi
+Judeo-Moroccan
+Kjal
+Wqal
+Judeo-Tripolitanian
+Judeo-Tunisian
+Tunisene
+Judeo-Yemeni
+Adeni
+Beda
+Habban
+Sanʽani
+Creoles and pidgins
+Bimbashi
+Juba
+Maridi
+Nubi
+Turku
+Academic
+Literature
+Names
+Linguistics
+Phonology
+Sun and moon letters
+Tajwid
+Imāla
+ʾIʿrāb (case)
+Grammar
+Triliteral root
+Mater lectionis
+IPA
+Quranic Arabic Corpus
+CalligraphyScript
+Diwani
+Jawi script
+Kufic
+Rasm
+Mashq
+Hijazi script
+Muhaqqaq
+Thuluth
+Naskh (script)
+Ruqʿah script
+Taʿlīq script
+Nastaʿlīq script
+Shahmukhī script
+Sini (script)
+Technical
+Arabic keyboard
+Arabic script in Unicode
+ISO/IEC 8859-6
+Windows-1256
+MS-DOS codepages
+708
+709
+710
+711
+720
+864
+MacArabic encoding
+Italics indicate extinct languagesLanguages between parentheses are varieties of the language on their left.
+ Category
+vteRomanizationBy publisher (for several languages)
+ALA–LC
+BGN/PCGN
+GOST
+ISO
+Yale
+By language or writing system
+Amharic
+Arabic
+Armenian
+Bengali
+Berber
+Burmese
+Chinese
+in Taiwan
+in Singapore
+Cyrillic
+informal
+Belarusian
+Bulgarian
+Kazakh
+Kyrgyz
+Macedonian
+Russian
+Serbian
+Ukrainian
+Uzbek
+Georgian
+Greek
+Hebrew
+Inuktitut
+Japanese
+Khmer
+Korean
+Lao
+Malayalam
+Maldivian
+Persian
+Syriac
+Tibetan
+Telugu
+Thai
+Urdu
+Uyghur
+Vietnamese
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Romanization_of_Arabic&oldid=1059093968"
+		Categories: Arabic orthographyRomanization of ArabicHidden categories: Articles with short descriptionShort description matches WikidataAll articles with unsourced statementsArticles with unsourced statements from July 2014Articles containing Arabic-language textArticles containing German-language textAll pages needing factual verificationWikipedia articles needing factual verification from October 2015
+	

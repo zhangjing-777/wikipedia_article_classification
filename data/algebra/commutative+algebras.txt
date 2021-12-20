@@ -1,0 +1,2052 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Algebraic structure with (a + b)(c + d) = ac + ad + bc + bd and (a)(bc) = (ab)(c)
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}This article is about a particular kind of algebra over a commutative ring. For other uses of the term "algebra", see Algebra (disambiguation).
+
+
+
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Algebraic structure → Ring theoryRing theory
+Basic conceptsRings
+• Subrings
+• Ideal
+• Quotient ring
+• Fractional ideal
+• Total ring of fractions
+• Product ring
+• Free product of associative algebras
+• Tensor product of algebras
+Ring homomorphisms
+
+• Kernel
+• Inner automorphism
+• Frobenius endomorphism
+Algebraic structures
+
+• Module
+• Associative algebra
+• Graded ring
+• Involutive ring
+• Category of rings
+• Initial ring 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+
+• Terminal ring 
+  
+    
+      
+        0
+        =
+        
+          
+            Z
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle 0=\mathbb {Z} _{1}}
+  
+
+Related structures
+
+• Field
+• Finite field
+• Non-associative ring
+• Lie ring
+• Jordan ring
+• Semiring
+• Semifield
+
+Commutative algebraCommutative rings
+• Integral domain
+• Integrally closed domain
+• GCD domain
+• Unique factorization domain
+• Principal ideal domain
+• Euclidean domain
+• Field
+• Finite field
+• Composition ring
+• Polynomial ring
+• Formal power series ring
+Algebraic number theory
+
+• Algebraic number field
+• Ring of integers
+• Algebraic independence
+• Transcendental number theory
+• Transcendence degree
+p-adic number theory and decimals
+
+• Direct limit/Inverse limit
+• Zero ring 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{1}}
+  
+
+• Integers modulo pn 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        
+          p
+          
+            n
+          
+        
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} /p^{n}\mathbb {Z} }
+  
+
+• Prüfer p-ring 
+  
+    
+      
+        
+          Z
+        
+        (
+        
+          p
+          
+            ∞
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbb {Z} (p^{\infty })}
+  
+
+• Base-p circle ring 
+  
+    
+      
+        
+          T
+        
+      
+    
+    {\displaystyle \mathbb {T} }
+  
+
+• Base-p integers 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+
+• p-adic rationals 
+  
+    
+      
+        
+          Z
+        
+        [
+        1
+        
+          /
+        
+        p
+        ]
+      
+    
+    {\displaystyle \mathbb {Z} [1/p]}
+  
+
+• Base-p real numbers 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  
+
+• p-adic integers 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{p}}
+  
+
+• p-adic numbers 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} _{p}}
+  
+
+• p-adic solenoid 
+  
+    
+      
+        
+          
+            T
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {T} _{p}}
+  
+
+Algebraic geometry
+
+• Affine variety
+
+Noncommutative algebraNoncommutative rings
+• Division ring
+• Semiprimitive ring
+• Simple ring
+• Commutator
+Noncommutative algebraic geometry
+Free algebra
+Clifford algebra
+
+• Geometric algebra
+Operator algebra
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+In mathematics, an associative algebra A is an algebraic structure with compatible operations of addition, multiplication (assumed to be associative), and a scalar multiplication by elements in some field. The addition and multiplication operations together give A the structure of a ring; the addition and scalar multiplication operations together give A the structure of a vector space over K. In this article we will also use the term K-algebra to mean an associative algebra over the field K. A standard first example of a K-algebra is a ring of square matrices over a field K, with the usual matrix multiplication.
+A commutative algebra is an associative algebra that has a commutative multiplication, or, equivalently, an associative algebra that is also a commutative ring.
+In this article associative algebras are assumed to have a multiplicative identity, denoted 1; they are sometimes called unital associative algebras for clarification. In some areas of mathematics this assumption is not made, and we will call such structures non-unital associative algebras. We will also assume that all rings are unital, and all ring homomorphisms are unital.
+Many authors consider the more general concept of an associative algebra over a commutative ring R, instead of a field: An R-algebra is an R-module with an associative R-bilinear binary operation, which also contains a multiplicative identity. For examples of this concept, if S is any ring with center C, then S is an associative C-algebra.
+
+Algebraic structures
+Group-like
+Group
+Semigroup / Monoid
+Rack and quandle
+Quasigroup and loop
+
+Abelian group
+Magma
+Lie group
+
+Group theory
+
+Ring-like
+Ring
+Rng
+Semiring
+Near-ring
+Commutative ring
+Integral domain
+Field
+Division ring
+Lie ring
+
+Ring theory
+
+Lattice-like
+Lattice
+Semilattice
+Complemented lattice
+Total order
+Heyting algebra
+Boolean algebra
+
+Map of lattices
+Lattice theory
+
+Module-like
+Module
+Group with operators
+Vector space
+
+Linear algebra
+
+Algebra-like
+Algebra
+
+Associative
+Non-associative
+Composition algebra
+Lie algebra
+Graded
+Bialgebra
+Hopf algebra
+
+vte
+Contents
+
+1 Definition
+
+1.1 As a monoid object in the category of modules
+1.2 From ring homomorphisms
+
+
+2 Algebra homomorphisms
+3 Examples
+
+3.1 Algebra
+3.2 Representation theory
+3.3 Analysis
+3.4 Geometry and combinatorics
+
+
+4 Constructions
+5 Separable algebra
+6 Finite-dimensional algebra
+
+6.1 Commutative case
+6.2 Noncommutative case
+
+
+7 Lattices and orders
+8 Related concepts
+
+8.1 Coalgebras
+
+
+9 Representations
+
+9.1 Motivation for a Hopf algebra
+9.2 Motivation for a Lie algebra
+
+
+10 Non-unital algebras
+11 See also
+12 Notes
+13 References
+
+
+
+Definition[edit]
+Let R be a commutative ring (so R could be a field). An associative R-algebra (or more simply, an R-algebra) is a ring 
+that is also an R-module in such a way that the two additions (the ring addition and the module addition) are the same operation, and scalar multiplication satisfies
+
+
+  
+    
+      
+        r
+        ⋅
+        (
+        x
+        y
+        )
+        =
+        (
+        r
+        ⋅
+        x
+        )
+        y
+        =
+        x
+        (
+        r
+        ⋅
+        y
+        )
+      
+    
+    {\displaystyle r\cdot (xy)=(r\cdot x)y=x(r\cdot y)}
+  
+
+for all r in R and x, y in the algebra. (This definition implies that the algebra is unital, since rings are supposed to have a multiplicative identity.)
+Equivalently, an associative algebra A is a ring together with a ring homomorphism from R to the center of A. If f is such a homomorphism, the scalar multiplication is 
+  
+    
+      
+        (
+        r
+        ,
+        x
+        )
+        ↦
+        f
+        (
+        r
+        )
+        x
+      
+    
+    {\displaystyle (r,x)\mapsto f(r)x}
+  
+ (here the multiplication is the ring multiplication); if the scalar multiplication is given, the ring homomorphism is given by 
+  
+    
+      
+        r
+        ↦
+        r
+        ⋅
+        
+          1
+          
+            R
+          
+        
+      
+    
+    {\displaystyle r\mapsto r\cdot 1_{R}}
+  
+ (See also § From ring homomorphisms below).
+Every ring is an associative 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+-algebra, where 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+ denotes the ring of the integers.
+A .mw-parser-output .vanchor>:target~.vanchor-text{background-color:#b1d2ff}commutative algebra is an associative algebra that is also a commutative ring.
+
+As a monoid object in the category of modules[edit]
+The definition is equivalent to saying that a unital associative R-algebra is a monoid object in R-Mod (the monoidal category of R-modules). By definition, a ring is a monoid object in the category of abelian groups; thus, the notion of an associative algebra is obtained by replacing the category of abelian groups with the category of modules.
+Pushing this idea further, some authors have introduced a "generalized ring" as a monoid object in some other category that behaves like the category of modules. Indeed, this reinterpretation allows one to avoid making an explicit reference to elements of an algebra A. For example, the associativity can be expressed as follows. By the universal property of a tensor product of modules, the multiplication (the R-bilinear map) corresponds to a unique R-linear map
+
+
+  
+    
+      
+        m
+        :
+        A
+        
+          ⊗
+          
+            R
+          
+        
+        A
+        →
+        A
+      
+    
+    {\displaystyle m:A\otimes _{R}A\to A}
+  
+.
+The associativity then refers to the identity:
+
+
+  
+    
+      
+        m
+        ∘
+        (
+        
+          id
+        
+        ⊗
+        m
+        )
+        =
+        m
+        ∘
+        (
+        m
+        ⊗
+        id
+        )
+        .
+      
+    
+    {\displaystyle m\circ ({\operatorname {id} }\otimes m)=m\circ (m\otimes \operatorname {id} ).}
+  
+
+From ring homomorphisms[edit]
+An associative algebra amounts to a ring homomorphism whose image lies in the center. Indeed, starting with a ring A and a ring homomorphism 
+  
+    
+      
+        η
+        :
+        R
+        →
+        A
+      
+    
+    {\displaystyle \eta \colon R\to A}
+  
+ whose image lies in the center of A, we can make A an R-algebra by defining
+
+
+  
+    
+      
+        r
+        ⋅
+        x
+        =
+        η
+        (
+        r
+        )
+        x
+      
+    
+    {\displaystyle r\cdot x=\eta (r)x}
+  
+
+for all r ∈ R and x ∈ A. If A is an R-algebra, taking x = 1, the same formula in turn defines a ring homomorphism 
+  
+    
+      
+        η
+        :
+        R
+        →
+        A
+      
+    
+    {\displaystyle \eta \colon R\to A}
+  
+ whose image lies in the center.
+If a ring is commutative then it equals its center, so that a commutative R-algebra can be defined simply as a commutative ring A together with a commutative ring homomorphism 
+  
+    
+      
+        η
+        :
+        R
+        →
+        A
+      
+    
+    {\displaystyle \eta \colon R\to A}
+  
+.
+The ring homomorphism η appearing in the above is often called a structure map. In the commutative case, one can consider the category whose objects are ring homomorphisms R → A; i.e., commutative R-algebras and whose morphisms are ring homomorphisms A → A' that are under R; i.e., R → A → A' is R → A' (i.e., the coslice category of the category of commutative rings under R.)  The prime spectrum functor Spec then determines an anti-equivalence of this category to the category of affine schemes over Spec R.
+How to weaken the commutativity assumption is a subject matter of noncommutative algebraic geometry and, more recently, of derived algebraic geometry. See also: generic matrix ring.
+
+Algebra homomorphisms[edit]
+Main article: algebra homomorphism
+A homomorphism between two R-algebras is an R-linear ring homomorphism. Explicitly, 
+  
+    
+      
+        φ
+        :
+        
+          A
+          
+            1
+          
+        
+        →
+        
+          A
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \varphi :A_{1}\to A_{2}}
+  
+ is an associative algebra homomorphism if
+
+
+  
+    
+      
+        
+          
+            
+              
+                φ
+                (
+                r
+                ⋅
+                x
+                )
+              
+              
+                
+                =
+                r
+                ⋅
+                φ
+                (
+                x
+                )
+              
+            
+            
+              
+                φ
+                (
+                x
+                +
+                y
+                )
+              
+              
+                
+                =
+                φ
+                (
+                x
+                )
+                +
+                φ
+                (
+                y
+                )
+              
+            
+            
+              
+                φ
+                (
+                x
+                y
+                )
+              
+              
+                
+                =
+                φ
+                (
+                x
+                )
+                φ
+                (
+                y
+                )
+              
+            
+            
+              
+                φ
+                (
+                1
+                )
+              
+              
+                
+                =
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\varphi (r\cdot x)&=r\cdot \varphi (x)\\\varphi (x+y)&=\varphi (x)+\varphi (y)\\\varphi (xy)&=\varphi (x)\varphi (y)\\\varphi (1)&=1\end{aligned}}}
+  
+
+The class of all R-algebras together with algebra homomorphisms between them form a category, sometimes denoted R-Alg.
+The subcategory of commutative R-algebras can be characterized as the coslice category R/CRing where CRing is the category of commutative rings.
+
+Examples[edit]
+The most basic example is a ring itself; it is an algebra over its center or any subring lying in the center. In particular, any commutative ring is an algebra over any of its subrings. Other examples abound both from algebra and other fields of mathematics.
+
+Algebra[edit]
+Any ring A can be considered as a Z-algebra. The unique ring homomorphism from Z to A is determined by the fact that it must send 1 to the identity in A. Therefore, rings and Z-algebras are equivalent concepts, in the same way that abelian groups and Z-modules are equivalent.
+Any ring of characteristic n is a (Z/nZ)-algebra in the same way.
+Given an R-module M, the endomorphism ring of M, denoted EndR(M) is an R-algebra by defining (r·φ)(x) = r·φ(x).
+Any ring of matrices with coefficients in a commutative ring R forms an R-algebra under matrix addition and multiplication. This coincides with the previous example when M is a finitely-generated, free R-module.
+In particular, the square n-by-n matrices with entries from the field K form an associative algebra over K.
+The complex numbers form a 2-dimensional commutative algebra over the real numbers.
+The quaternions form a 4-dimensional associative algebra over the reals (but not an algebra over the complex numbers, since the complex numbers are not in the center of the quaternions).
+The polynomials with real coefficients form a commutative algebra over the reals.
+Every polynomial ring R[x1, ..., xn] is a commutative R-algebra. In fact, this is the free commutative R-algebra on the set {x1, ..., xn}.
+The free R-algebra on a set E is an algebra of "polynomials" with coefficients in R and noncommuting indeterminates taken from the set E.
+The tensor algebra of an R-module is naturally an associative R-algebra. The same is true for quotients such as the exterior and symmetric algebras. Categorically speaking, the functor that maps an R-module to its tensor algebra is left adjoint to the functor that sends an R-algebra to its underlying R-module (forgetting the multiplicative structure).
+The following ring is used in the theory of λ-rings. Given a commutative ring A, let 
+  
+    
+      
+        G
+        (
+        A
+        )
+        =
+        1
+        +
+        t
+        A
+        [
+        
+        [
+        t
+        ]
+        
+        ]
+        ,
+      
+    
+    {\displaystyle G(A)=1+tA[\![t]\!],}
+  
+ the set of formal power series with constant term 1. It is an abelian group with the group operation that is the multiplication of power series. It is then a ring with the multiplication, denoted by 
+  
+    
+      
+        ∘
+      
+    
+    {\displaystyle \circ }
+  
+, such that 
+  
+    
+      
+        (
+        1
+        +
+        a
+        t
+        )
+        ∘
+        (
+        1
+        +
+        b
+        t
+        )
+        =
+        1
+        +
+        a
+        b
+        t
+        ,
+      
+    
+    {\displaystyle (1+at)\circ (1+bt)=1+abt,}
+  
+ determined by this condition and the ring axioms. The additive identity is 1 and the multiplicative identity is 
+  
+    
+      
+        1
+        +
+        t
+      
+    
+    {\displaystyle 1+t}
+  
+. Then 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ has a canonical structure of a 
+  
+    
+      
+        G
+        (
+        A
+        )
+      
+    
+    {\displaystyle G(A)}
+  
+-algebra given by the ring homomorphism 
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  G
+                  (
+                  A
+                  )
+                  →
+                  A
+                
+              
+              
+                
+                  1
+                  +
+                  
+                    ∑
+                    
+                      i
+                      >
+                      0
+                    
+                  
+                  
+                    a
+                    
+                      i
+                    
+                  
+                  
+                    t
+                    
+                      i
+                    
+                  
+                  ↦
+                  
+                    a
+                    
+                      1
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}G(A)\to A\\1+\sum _{i>0}a_{i}t^{i}\mapsto a_{1}\end{cases}}}
+  
+ On the other hand, if A is a λ-ring, then there is a ring homomorphism 
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  A
+                  →
+                  G
+                  (
+                  A
+                  )
+                
+              
+              
+                
+                  a
+                  ↦
+                  1
+                  +
+                  
+                    ∑
+                    
+                      i
+                      >
+                      0
+                    
+                  
+                  
+                    λ
+                    
+                      i
+                    
+                  
+                  (
+                  a
+                  )
+                  
+                    t
+                    
+                      i
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}A\to G(A)\\a\mapsto 1+\sum _{i>0}\lambda ^{i}(a)t^{i}\end{cases}}}
+  
+ giving 
+  
+    
+      
+        G
+        (
+        A
+        )
+      
+    
+    {\displaystyle G(A)}
+  
+ a structure of an A-algebra.
+Representation theory[edit]
+The universal enveloping algebra of a Lie algebra is an associative algebra that can be used to study the given Lie algebra.
+If G is a group and R is a commutative ring, the set of all functions from G to R with finite support form an R-algebra with the convolution as multiplication. It is called the group algebra of G. The construction is the starting point for the application to the study of (discrete) groups.
+If G is an algebraic group (e.g., semisimple complex Lie group), then the coordinate ring of G is the Hopf algebra A corresponding to G. Many structures of G translate to those of A.
+A quiver algebra (or a path algebra) of a directed graph is the free associative algebra over a field generated by the paths in the graph.
+Analysis[edit]
+Given any Banach space X, the continuous linear operators A : X → X form an associative algebra (using composition of operators as multiplication); this is a Banach algebra.
+Given any topological space X, the continuous real- or complex-valued functions on X form a real or complex associative algebra; here the functions are added and multiplied pointwise.
+The set of semimartingales defined on the filtered probability space (Ω, F, (Ft)t ≥ 0, P) forms a ring under stochastic integration.
+The Weyl algebra
+An Azumaya algebra
+Geometry and combinatorics[edit]
+The Clifford algebras, which are useful in geometry and physics.
+Incidence algebras of locally finite partially ordered sets are associative algebras considered in combinatorics.
+Constructions[edit]
+Subalgebras
+A subalgebra of an R-algebra A is a subset of A which is both a subring and a submodule of A. That is, it must be closed under addition, ring multiplication, scalar multiplication, and it must contain the identity element of A.
+Quotient algebras
+Let A be an R-algebra. Any ring-theoretic ideal I in A is automatically an R-module since r · x = (r1A)x. This gives the quotient ring A / I the structure of an R-module and, in fact, an R-algebra. It follows that any ring homomorphic image of A is also an R-algebra.
+Direct products
+The direct product of a family of R-algebras is the ring-theoretic direct product. This becomes an R-algebra with the obvious scalar multiplication.
+Free products
+One can form a free product of R-algebras in a manner similar to the free product of groups. The free product is the coproduct in the category of R-algebras.
+Tensor products
+The tensor product of two R-algebras is also an R-algebra in a natural way. See tensor product of algebras for more details. Given a commutative ring R and any ring A the tensor product R ⊗Z A can be given the structure of an R-algebra by defining r · (s ⊗ a) = (rs ⊗ a). The functor which sends A to R ⊗Z A is left adjoint to the functor which sends an R-algebra to its underlying ring (forgetting the module structure). See also: Change of rings.
+Separable algebra[edit]
+Main article: Separable algebra
+Let A be an algebra over a commutative ring R. Then the algebra A is a right[1] module over 
+  
+    
+      
+        
+          A
+          
+            e
+          
+        
+        :=
+        
+          A
+          
+            o
+            p
+          
+        
+        
+          ⊗
+          
+            R
+          
+        
+        A
+      
+    
+    {\displaystyle A^{e}:=A^{op}\otimes _{R}A}
+  
+ with the action 
+  
+    
+      
+        x
+        ⋅
+        (
+        a
+        ⊗
+        b
+        )
+        =
+        a
+        x
+        b
+      
+    
+    {\displaystyle x\cdot (a\otimes b)=axb}
+  
+. Then, by definition, A is said to separable if the multiplication map 
+  
+    
+      
+        A
+        
+          ⊗
+          
+            R
+          
+        
+        A
+        →
+        A
+        ,
+        
+        x
+        ⊗
+        y
+        ↦
+        x
+        y
+      
+    
+    {\displaystyle A\otimes _{R}A\to A,\,x\otimes y\mapsto xy}
+  
+ splits as an 
+  
+    
+      
+        
+          A
+          
+            e
+          
+        
+      
+    
+    {\displaystyle A^{e}}
+  
+-linear map,[2] where 
+  
+    
+      
+        A
+        ⊗
+        A
+      
+    
+    {\displaystyle A\otimes A}
+  
+ is an 
+  
+    
+      
+        
+          A
+          
+            e
+          
+        
+      
+    
+    {\displaystyle A^{e}}
+  
+-module by 
+  
+    
+      
+        (
+        x
+        ⊗
+        y
+        )
+        ⋅
+        (
+        a
+        ⊗
+        b
+        )
+        =
+        a
+        x
+        ⊗
+        y
+        b
+      
+    
+    {\displaystyle (x\otimes y)\cdot (a\otimes b)=ax\otimes yb}
+  
+. Equivalently,[3]
+
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ is separable if it is a projective module over 
+  
+    
+      
+        
+          A
+          
+            e
+          
+        
+      
+    
+    {\displaystyle A^{e}}
+  
+; thus, the 
+  
+    
+      
+        
+          A
+          
+            e
+          
+        
+      
+    
+    {\displaystyle A^{e}}
+  
+-projective dimension of A, sometimes called the bidimension of A, measures the failure of separability.
+
+Finite-dimensional algebra[edit]
+See also: Central simple algebra
+Let A be a finite-dimensional algebra over a field k. Then A is an Artinian ring.
+
+Commutative case[edit]
+As A is Artinian, if it is commutative, then it is a finite product of Artinian local rings whose residue fields are algebras over the base field k. Now, a reduced Artinian local ring is a field and thus the following are equivalent[4]
+
+
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ is separable.
+
+  
+    
+      
+        A
+        ⊗
+        
+          
+            k
+            ¯
+          
+        
+      
+    
+    {\displaystyle A\otimes {\overline {k}}}
+  
+ is reduced, where 
+  
+    
+      
+        
+          
+            k
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {k}}}
+  
+ is some algebraic closure of k.
+
+  
+    
+      
+        A
+        ⊗
+        
+          
+            k
+            ¯
+          
+        
+        =
+        
+          
+            
+              k
+              ¯
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle A\otimes {\overline {k}}={\overline {k}}^{n}}
+  
+ for some n.
+
+  
+    
+      
+        
+          dim
+          
+            k
+          
+        
+        ⁡
+        A
+      
+    
+    {\displaystyle \dim _{k}A}
+  
+ is the number of 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+-algebra homomorphisms 
+  
+    
+      
+        A
+        →
+        
+          
+            k
+            ¯
+          
+        
+      
+    
+    {\displaystyle A\to {\overline {k}}}
+  
+.
+Noncommutative case[edit]
+Since a simple Artinian ring is a (full) matrix ring over a division ring, if A is a simple algebra, then A is a (full) matrix algebra over a division algebra D over k; i.e., 
+  
+    
+      
+        A
+        =
+        
+          M
+          
+            n
+          
+        
+        (
+        D
+        )
+      
+    
+    {\displaystyle A=M_{n}(D)}
+  
+. More generally, if A is a semisimple algebra, then it is a finite product of matrix algebras (over various division k-algebras), the fact known as the Artin–Wedderburn theorem.
+The fact that A is Artinian simplifies the notion of a Jacobson radical; for an Artinian ring, the Jacobson radical of A is the intersection of all (two-sided) maximal ideals (in contrast, in general, a Jacobson radical is the intersection of all left maximal ideals or the intersection of all right maximal ideals.)
+The Wedderburn principal theorem states:[5] for a finite-dimensional algebra A with a nilpotent ideal I, if the projective dimension of 
+  
+    
+      
+        A
+        
+          /
+        
+        I
+      
+    
+    {\displaystyle A/I}
+  
+ as an 
+  
+    
+      
+        (
+        A
+        
+          /
+        
+        I
+        
+          )
+          
+            e
+          
+        
+      
+    
+    {\displaystyle (A/I)^{e}}
+  
+-module is at most one, then the natural surjection 
+  
+    
+      
+        p
+        :
+        A
+        →
+        A
+        
+          /
+        
+        I
+      
+    
+    {\displaystyle p:A\to A/I}
+  
+ splits; i.e., 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ contains a subalgebra 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ such that 
+  
+    
+      
+        p
+        
+          
+            |
+          
+          
+            B
+          
+        
+        :
+        B
+        
+          
+            →
+            ∼
+          
+        
+        A
+        
+          /
+        
+        I
+      
+    
+    {\displaystyle p|_{B}:B{\overset {\sim }{\to }}A/I}
+  
+ is an isomorphism. Taking I to be the Jacobson radical, the theorem says in particular that the Jacobson radical is complemented by a semisimple algebra. The theorem is an analog of Levi's theorem for Lie algebras.
+
+Lattices and orders[edit]
+Main articles: Lattice (order) and Order (ring theory)
+Let R be a Noetherian integral domain with field of fractions K (for example, they can be 
+  
+    
+      
+        
+          Z
+        
+        ,
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Z} ,\mathbb {Q} }
+  
+). A lattice L in a finite-dimensional K-vector space V is a finitely generated R-submodule of V that spans V; in other words, 
+  
+    
+      
+        L
+        
+          ⊗
+          
+            R
+          
+        
+        K
+        =
+        V
+      
+    
+    {\displaystyle L\otimes _{R}K=V}
+  
+.
+Let 
+  
+    
+      
+        
+          A
+          
+            K
+          
+        
+      
+    
+    {\displaystyle A_{K}}
+  
+ be a finite-dimensional K-algebra. An order in 
+  
+    
+      
+        
+          A
+          
+            K
+          
+        
+      
+    
+    {\displaystyle A_{K}}
+  
+ is an R-subalgebra that is a lattice. In general, there are a lot fewer orders than lattices; e.g., 
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        
+          Z
+        
+      
+    
+    {\displaystyle {1 \over 2}\mathbb {Z} }
+  
+ is a lattice in 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  
+ but not an order (since it is not an algebra).[6]
+A maximal order is an order that is maximal among all the orders.
+
+Related concepts[edit]
+Coalgebras[edit]
+Main article: Coalgebra
+An associative algebra over K is given by a K-vector space A endowed with a bilinear map A × A → A having two inputs (multiplicator and multiplicand) and one output (product), as well as a morphism K → A identifying the scalar multiples of the multiplicative identity. If the bilinear map A × A → A is reinterpreted as a linear map (i. e., morphism in the category of K-vector spaces) A ⊗ A → A (by the universal property of the tensor product), then we can view an associative algebra over K as a K-vector space A endowed with two morphisms (one of the form A ⊗ A → A and one of the form K → A) satisfying certain conditions that boil down to the algebra axioms. These two morphisms can be dualized using categorial duality by reversing all arrows in the commutative diagrams that describe the algebra axioms; this defines the structure of a coalgebra.
+There is also an abstract notion of F-coalgebra, where F is a functor. This is vaguely related to the notion of coalgebra discussed above.
+
+Representations[edit]
+Main article: Algebra representation
+A representation of an algebra A is an algebra homomorphism ρ : A → End(V) from A to the endomorphism algebra of some vector space (or module) V. The property of ρ being an algebra homomorphism means that ρ preserves the multiplicative operation (that is, ρ(xy) = ρ(x)ρ(y) for all x and y in A), and that ρ sends the unit of A to the unit of End(V) (that is, to the identity endomorphism of V).
+If A and B are two algebras, and ρ : A → End(V) and τ : B → End(W) are two representations, then there is a (canonical) representation A 
+  
+    
+      
+        ⊗
+      
+    
+    {\displaystyle \otimes }
+  
+ B → End(V 
+  
+    
+      
+        ⊗
+      
+    
+    {\displaystyle \otimes }
+  
+ W) of the tensor product algebra A 
+  
+    
+      
+        ⊗
+      
+    
+    {\displaystyle \otimes }
+  
+ B on the vector space V 
+  
+    
+      
+        ⊗
+      
+    
+    {\displaystyle \otimes }
+  
+ W. However, there is no natural way of defining a tensor product of two representations of a single associative algebra in such a way that the result is still a representation of that same algebra (not of its tensor product with itself), without somehow imposing additional conditions. Here, by tensor product of representations,  the usual meaning is intended: the result should be a linear representation of the same algebra on the product vector space. Imposing such additional structure typically leads to the idea of a Hopf algebra or a Lie algebra, as demonstrated below.
+
+Motivation for a Hopf algebra[edit]
+Consider, for example, two representations 
+  
+    
+      
+        σ
+        :
+        A
+        →
+        
+          E
+          n
+          d
+        
+        (
+        V
+        )
+      
+    
+    {\displaystyle \sigma :A\rightarrow \mathrm {End} (V)}
+  
+ and 
+  
+    
+      
+        τ
+        :
+        A
+        →
+        
+          E
+          n
+          d
+        
+        (
+        W
+        )
+      
+    
+    {\displaystyle \tau :A\rightarrow \mathrm {End} (W)}
+  
+.  One might try to form a tensor product representation 
+  
+    
+      
+        ρ
+        :
+        x
+        ↦
+        σ
+        (
+        x
+        )
+        ⊗
+        τ
+        (
+        x
+        )
+      
+    
+    {\displaystyle \rho :x\mapsto \sigma (x)\otimes \tau (x)}
+  
+ according to how it acts on the product vector space, so that
+
+
+  
+    
+      
+        ρ
+        (
+        x
+        )
+        (
+        v
+        ⊗
+        w
+        )
+        =
+        (
+        σ
+        (
+        x
+        )
+        (
+        v
+        )
+        )
+        ⊗
+        (
+        τ
+        (
+        x
+        )
+        (
+        w
+        )
+        )
+        .
+      
+    
+    {\displaystyle \rho (x)(v\otimes w)=(\sigma (x)(v))\otimes (\tau (x)(w)).}
+  
+
+However, such a map would not be linear, since one would have
+
+
+  
+    
+      
+        ρ
+        (
+        k
+        x
+        )
+        =
+        σ
+        (
+        k
+        x
+        )
+        ⊗
+        τ
+        (
+        k
+        x
+        )
+        =
+        k
+        σ
+        (
+        x
+        )
+        ⊗
+        k
+        τ
+        (
+        x
+        )
+        =
+        
+          k
+          
+            2
+          
+        
+        (
+        σ
+        (
+        x
+        )
+        ⊗
+        τ
+        (
+        x
+        )
+        )
+        =
+        
+          k
+          
+            2
+          
+        
+        ρ
+        (
+        x
+        )
+      
+    
+    {\displaystyle \rho (kx)=\sigma (kx)\otimes \tau (kx)=k\sigma (x)\otimes k\tau (x)=k^{2}(\sigma (x)\otimes \tau (x))=k^{2}\rho (x)}
+  
+
+for k ∈ K. One can rescue this attempt and restore linearity by imposing additional structure, by defining an algebra homomorphism Δ: A → A ⊗ A, and defining the tensor product representation as
+
+
+  
+    
+      
+        ρ
+        =
+        (
+        σ
+        ⊗
+        τ
+        )
+        ∘
+        Δ
+        .
+      
+    
+    {\displaystyle \rho =(\sigma \otimes \tau )\circ \Delta .}
+  
+
+Such a homomorphism Δ is called a comultiplication if it satisfies certain axioms.  The resulting structure is called a bialgebra.  To be consistent with the definitions of the associative algebra, the coalgebra must be co-associative, and, if the algebra is unital, then the co-algebra must be co-unital as well. A Hopf algebra is a bialgebra with an additional piece of structure (the so-called antipode), which allows not only to define the tensor product of two representations, but also the Hom module of two representations (again, similarly to how it is done in the representation theory of groups).
+
+Motivation for a Lie algebra[edit]
+See also: Lie algebra representation
+One can try to be more clever in defining a tensor product. Consider, for example,
+
+
+  
+    
+      
+        x
+        ↦
+        ρ
+        (
+        x
+        )
+        =
+        σ
+        (
+        x
+        )
+        ⊗
+        
+          
+            
+              Id
+            
+          
+          
+            W
+          
+        
+        +
+        
+          
+            
+              Id
+            
+          
+          
+            V
+          
+        
+        ⊗
+        τ
+        (
+        x
+        )
+      
+    
+    {\displaystyle x\mapsto \rho (x)=\sigma (x)\otimes {\mbox{Id}}_{W}+{\mbox{Id}}_{V}\otimes \tau (x)}
+  
+
+so that the action on the tensor product space is given by
+
+
+  
+    
+      
+        ρ
+        (
+        x
+        )
+        (
+        v
+        ⊗
+        w
+        )
+        =
+        (
+        σ
+        (
+        x
+        )
+        v
+        )
+        ⊗
+        w
+        +
+        v
+        ⊗
+        (
+        τ
+        (
+        x
+        )
+        w
+        )
+      
+    
+    {\displaystyle \rho (x)(v\otimes w)=(\sigma (x)v)\otimes w+v\otimes (\tau (x)w)}
+  
+.
+This map is clearly linear in x, and so it does not have the problem of the earlier definition.  However, it fails to preserve multiplication:
+
+
+  
+    
+      
+        ρ
+        (
+        x
+        y
+        )
+        =
+        σ
+        (
+        x
+        )
+        σ
+        (
+        y
+        )
+        ⊗
+        
+          
+            
+              Id
+            
+          
+          
+            W
+          
+        
+        +
+        
+          
+            
+              Id
+            
+          
+          
+            V
+          
+        
+        ⊗
+        τ
+        (
+        x
+        )
+        τ
+        (
+        y
+        )
+      
+    
+    {\displaystyle \rho (xy)=\sigma (x)\sigma (y)\otimes {\mbox{Id}}_{W}+{\mbox{Id}}_{V}\otimes \tau (x)\tau (y)}
+  
+.
+But, in general, this does not equal
+
+
+  
+    
+      
+        ρ
+        (
+        x
+        )
+        ρ
+        (
+        y
+        )
+        =
+        σ
+        (
+        x
+        )
+        σ
+        (
+        y
+        )
+        ⊗
+        
+          
+            
+              Id
+            
+          
+          
+            W
+          
+        
+        +
+        σ
+        (
+        x
+        )
+        ⊗
+        τ
+        (
+        y
+        )
+        +
+        σ
+        (
+        y
+        )
+        ⊗
+        τ
+        (
+        x
+        )
+        +
+        
+          
+            
+              Id
+            
+          
+          
+            V
+          
+        
+        ⊗
+        τ
+        (
+        x
+        )
+        τ
+        (
+        y
+        )
+      
+    
+    {\displaystyle \rho (x)\rho (y)=\sigma (x)\sigma (y)\otimes {\mbox{Id}}_{W}+\sigma (x)\otimes \tau (y)+\sigma (y)\otimes \tau (x)+{\mbox{Id}}_{V}\otimes \tau (x)\tau (y)}
+  
+.
+This shows that this definition of a tensor product is too naive; the obvious fix is to define it such that it is antisymmetric, so that the middle two terms cancel. This leads to the concept of a Lie algebra.
+
+Non-unital algebras[edit]
+Some authors use the term "associative algebra" to refer to structures which do not necessarily have a multiplicative identity, and hence consider homomorphisms which are not necessarily unital.
+One example of a non-unital associative algebra is given by the set of all functions f: R → R whose limit as x nears infinity is zero.
+Another example is the vector space of continuous periodic functions, together with the convolution product.
+
+See also[edit]
+Abstract algebra
+Algebraic structure
+Algebra over a field
+Sheaf of algebras, a sort of an algebra over a ringed space
+Notes[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ Editorial note: as it turns, 
+  
+    
+      
+        
+          A
+          
+            e
+          
+        
+      
+    
+    {\displaystyle A^{e}}
+  
+ is a full matrix ring in interesting cases and it is more conventional to let matrices act from the right.
+
+^ Cohn 2003, § 4.7.
+
+^ To see the equivalence, note a section of 
+  
+    
+      
+        A
+        
+          ⊗
+          
+            R
+          
+        
+        A
+        →
+        A
+      
+    
+    {\displaystyle A\otimes _{R}A\to A}
+  
+ can be used to construct a section of a surjection.
+
+^ Waterhouse 1979, § 6.2.
+
+^ Cohn 2003, Theorem 4.7.5.
+
+^ Artin 1999, Ch. IV, § 1.
+
+
+References[edit]
+.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Artin, Michael (1999). "Noncommutative Rings" (PDF).
+Bourbaki, N. (1989). Algebra I. Springer. ISBN 3-540-64243-9.
+Cohn, P.M. (2003). Further Algebra and Applications (2nd ed.). Springer. ISBN 1852336676. Zbl 1006.00001.
+Nathan Jacobson, Structure of Rings
+James Byrnie Shaw (1907) A Synopsis of Linear Associative Algebra, link from Cornell University Historical Math Monographs.
+Ross Street (1998) Quantum Groups: an entrée to modern algebra, an overview of index-free notation.
+Waterhouse, William (1979), Introduction to affine group schemes, Graduate Texts in Mathematics, 66, Berlin, New York: Springer-Verlag, doi:10.1007/978-1-4612-6217-6, ISBN 978-0-387-90421-4, MR 0547117
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}Authority control General
+Integrated Authority File (Germany)
+National libraries
+United States
+Other
+Microsoft Academic
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Associative_algebra&oldid=1060072857"
+		Categories: AlgebrasAlgebraic geometryHidden categories: Articles with short descriptionShort description is different from WikidataUse mdy dates from September 2021Use American English from February 2019All Wikipedia articles written in American EnglishArticles with GND identifiersArticles with LCCN identifiersArticles with MA identifiers
+	

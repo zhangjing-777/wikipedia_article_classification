@@ -1,0 +1,206 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Way in which tempo, melody, and harmony are combined in a musical composition
+
+
+  Introduction to Sousa's "Washington Post March", mm. 1–7 features octave doubling[1] and a homorhythmic texture.
+In music, texture is how the tempo, melodic, and harmonic materials are combined in a musical composition, determining the overall quality of the sound in a piece. The texture is often described in regard to the density, or thickness, and range, or width, between lowest and highest pitches, in relative terms as well as more specifically distinguished according to the number of voices, or parts, and the relationship between these voices (see Common types below). For example, a thick texture contains many 'layers' of instruments. One of these layers could be a string section or another brass. The thickness also is changed by the amount and the richness of the instruments playing the piece. The thickness varies from light to thick. A piece's texture may be changed by the number and character of parts playing at once, the timbre of the instruments or voices playing these parts and the harmony, tempo, and rhythms used.[2]. The types categorized by number and relationship of parts are analyzed and determined through the labeling of primary textural elements: primary melody (PM), secondary melody (SM), parallel supporting melody (PSM), static support (SS), harmonic support (HS), rhythmic support (RS), and harmonic and rhythmic support (HRS).[3][incomplete short citation]
+
+Contents
+
+1 Common types
+2 Additional types
+3 See also
+4 References
+5 Further reading
+6 External links
+
+
+
+Common types[edit]
+In musical terms, particularly in the fields of music history and music analysis, some common terms for different types of texture are:
+
+
+
+
+Type
+
+Description
+
+Visual
+
+Audio
+
+
+Monophonic
+
+Monophonic texture includes a single melodic line with no accompaniment.[4] PSMs often double or parallel the PM they support.[5]
+
+  "Pop Goes the Weasel" melody[6]
+
+
+
+
+
+"Pop Goes the Weasel" (0:12)
+
+
+Problems playing this file? See media help.
+
+
+
+Biphonic
+
+Two distinct lines, the lower sustaining a drone (constant pitch) while the other line creates a more elaborate melody above it. Pedal tones or ostinati would be an example of a SS.[5] It is generally considered to be a type of polyphony.
+
+  Pedal tone in Bach's Prelude No. 6 in D minor, BWV 851, from The Well-Tempered Clavier, Book I, mm. 1–2. All pedal tone notes are consonant except for the last three of the first measure.[7]
+
+
+
+
+
+Pedal tone Bach (0:04)
+
+
+
+
+
+Polyphonic or Counterpoint or Contrapuntal
+
+Multiple melodic voices which are to a considerable extent independent from or in imitation with one another. Characteristic texture of the Renaissance music, also prevalent during the Baroque period.[8] Polyphonic textures may contain several PMs.[5]
+
+  Bar from Bach's Fugue No. 17 in A-flat major, BWV 862, from The Well-Tempered Clavier (Book I), example of contrapuntal polyphony
+
+
+
+
+
+Fugue No. 21 in B-flat major (BWV 866) (1:36)
+
+Performed on a Flemish harpsichord by Martha Goldstein
+
+
+
+Homophonic
+
+The most common texture in Western music: melody and accompaniment. Multiple voices of which one, the melody, stands out prominently and the others form a background of harmonic accompaniment. If all the parts have much the same rhythm, the homophonic texture can also be described as homorhythmic. Characteristic texture of the Classical period and continued to predominate in Romantic music while in the 20th century, "popular music is nearly all homophonic," and, "much of jazz is also" though, "the simultaneous improvisations of some jazz musicians creates a true polyphony".[4] Homophonic textures usually contain only one PM.[5] HS and RS are often combined, thus labeled HRS.[5]
+
+  Homophony in Tallis' "If Ye Love Me", composed in 1549. The voices move together using the same rhythm, and the relationship between them creates chords: the excerpt begins and ends with an F major triad.
+
+
+
+
+
+Tallis' "If Ye Love Me" (0:18)
+
+
+
+
+
+Homorhythmic
+
+Multiple voices with similar rhythmic material in all parts. Also known as "chordal". May be considered a condition of homophony or distinguished from it.
+
+see above
+
+
+
+
+Heterophonic
+
+Two or more voices simultaneously performing variations of the same melody.
+
+
+
+
+
+
+
+
+Silence
+
+No sound at all or the absence of intended sound
+
+
+
+
+
+
+
+Many classical pieces feature different kinds of texture within a short space of time. An example is the Scherzo from Schubert’s piano sonata in B major, D575. The first four bars are monophonic, with both hands performing the same melody an octave apart:  Schubert Sonata in B scherzo bars 1–4  Schubert Piano Sonata in B major scherzo bars 1–4
+Bars 5–10 are homophonic, with all voices coinciding rhythmically:  Schubert Sonata in B scherzo bars 5–10  Schubert Piano Sonata in B scherzo bars 5–10
+Bars 11–20 are polyphonic. There are three parts, the top two moving in parallel (interval of a tenth). The lowest part imitates the rhythm of the upper two at the distance of three beats. The passage climaxes abruptly with a bar’s silence:   Schubert Sonata in B scherzo bars 11–20  Schubert Piano Sonata in B major Scherzo bars 11–20
+After the silence, the polyphonic texture expands from three to four independent parts moving simultaneously in bars 21–24. The upper two parts are imitative, the lowest part consists of a repeated note (pedal point) and the remaining part weaves an independent melodic line:   Schubert Sonata in B scherzo bars 21–24  Schubert Piano Sonata in B majore Scherzo bars 21–24
+The final four bars revert to homophony, bringing the section to a close;   Schubert Sonata in B scherzo bars 25–28  Schubert Sonata in B major Scherzo bars 25–28 A complete performance can be heard by following this link: Listen
+Additional types[edit]
+Although in music instruction certain styles or repertoires of music are often identified with one of these descriptions this is basically added music[clarification needed] (for example, Gregorian chant is described as monophonic, Bach Chorales are described as homophonic and fugues as polyphonic), many composers use more than one type of texture in the same piece of music.
+A simultaneity is more than one complete musical texture occurring at the same time, rather than in succession.
+A more recent type of texture first used by György Ligeti is micropolyphony. Other textures include polythematic, polyrhythmic, onomatopoeic, compound, and mixed or composite textures.[9]
+
+See also[edit]
+Style brisé
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ Benward & Saker 2003, p. 133.
+
+^ Benward & Saker 2003,[page needed].
+
+^ Isaac & Russell 2003, p. 136. sfn error: no target: CITEREFIsaac_&_Russell2003 (help)
+
+^ a b Benward & Saker 2003, p. 136.
+
+^ a b c d e Benward & Saker 2003, p. 137.
+
+^ Kliewer 1975, pp. 270–301.
+
+^ Benward & Saker 2003, p. 99.
+
+^ Benward & Saker 2003, p. [page needed].
+
+^ Corozine 2002, p. 34.
+
+
+Sources
+
+.mw-parser-output .citation{word-wrap:break-word}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}Benward, Bruce, and Marilyn Nadine Saker (2003). Music: In Theory and Practice, seventh edition, vol. 1. Boston: McGraw-Hill. .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}ISBN 978-0-07-294262-0.
+Corozine, Vince (2002). Arranging Music for the Real World: Classical and Commercial Aspects. Pacific, Missouri: Mel Bay. ISBN 0-7866-4961-5. OCLC 50470629.
+Kliewer, Vernon (1975). "Melody: Linear Aspects of Twentieth-Century Music". In Aspects of Twentieth-Century Music, edited by Gary Wittlich, pp. 270–301. Englewood Cliffs, New Jersey: Prentice-Hall. ISBN 0-13-049346-5.
+Further reading[edit]
+Anon.: "Monophony", Grove Music Online, edited by Deane L. Root (subscription required).
+Copland, Aaron. (1957). What to Listen for in Music, revised edition. New York: McGraw-Hill
+Demuth, Norman. 1964. Musical Forms and Textures: A Reference Guide, second edition. London: Barrie and Rockliff.
+Frobenius, Wolf, Peter Cooke, Caroline Bithell, and Izaly Zemtsovsky: "Polyphony", Grove Music Online. edited by Deane Root (subscription required).
+Hanning, Barbara Russano, Concise History of Western Music, based on Donald Jay Grout and Claude V. Palisca's A History of Western Music, fifth edition. Published by W. W. Norton, New York. ISBN 0-393-97168-6.
+Hyer, Brian: "Homophony", Grove Music Online, edited by Deane Root (subscription required).
+Keys, Ivor. 1961. The Texture of Music: From Purcell to Brahms. London: D. Dobson.
+Kokoras, Panayiotis (2005). Towards a Holophonic Musical Texture. In Proceedings of the ICMC2005 – International Computer Music Conference,[page needed]. Barcelona: International Computer Music Conference.
+White, John David. 1995. Theories of Musical Texture in Western History. Perspectives in Music Criticism and Theory 1; Garland Reference Library of the Humanities 1678. New York: Garland Publishers.
+External links[edit]
+A Guide to Musical Texture with multimedia
+Add Texture: A web app with examples of different sonic textures
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteMusical textures
+Monophony
+Homorhythm and Homophony
+Heterophony
+Polyphony and Counterpoint
+Micropolyphony
+
+.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;justify-content:center;align-items:baseline}.mw-parser-output .portal-bar-bordered{padding:0 2em;background-color:#fdfdfd;border:1px solid #a2a9b1;clear:both;margin:1em auto 0}.mw-parser-output .portal-bar-unbordered{padding:0 1.7em;margin-left:0}.mw-parser-output .portal-bar-header{margin:0 1em 0 0.5em;padding:0.2em 0;flex:0 0 auto;min-height:24px;line-height:22px}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:baseline;flex:0 1 auto;padding:0.15em 0;column-gap:1em}.mw-parser-output .portal-bar-item{display:flex;align-items:baseline;margin:0.15em 0;min-height:24px;text-align:left}.mw-parser-output .portal-bar-logo{width:22px;line-height:22px;margin:0 0.2em;text-align:right}.mw-parser-output .portal-bar-link{margin:0 0.2em;text-align:left}@media screen and (max-width:768px){.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;flex-flow:column wrap}.mw-parser-output .portal-bar-header{text-align:center;flex:0;padding-left:0.5em;margin:0 auto}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:baseline;flex:0;margin:0 auto;column-gap:1em;border-top:1px solid #a2a9b1}}.mw-parser-output .navbox+link+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .navbox+style+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .portal-bar+.navbox-styles+.navbox{margin-top:-1px}Portal:Music
+Authority control 
+Integrated Authority File (Germany)
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Texture_(music)&oldid=1059578932"
+		Categories: Musical textureHidden categories: Wikipedia articles needing page number citations from August 2015Harv and Sfn no-target errorsWikipedia articles needing page number citations from May 2021Articles with short descriptionShort description matches WikidataUse dmy dates from April 2021All articles with incomplete citationsArticles with incomplete citations from May 2021Articles with hAudio microformatsWikipedia articles needing clarification from September 2017Pages containing links to subscription-only contentArticles with GND identifiers
+	

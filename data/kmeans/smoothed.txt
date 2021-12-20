@@ -1,0 +1,141 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		File
+File history
+File usage
+Global file usageSize of this PNG preview of this SVG file: 197 × 170 pixels. Other resolutions: 278 × 240 pixels | 556 × 480 pixels | 890 × 768 pixels | 1,187 × 1,024 pixels | 2,373 × 2,048 pixels.
+Original file ‎(SVG file, nominally 197 × 170 pixels, file size: 8 KB)
+
+This is a file from the Wikimedia Commons. Information from its description page there is shown below.Commons is a freely licensed media file repository. You can help.
+
+Summary
+
+DescriptionK Means Example Step 2.svg
+
+This image is part of a series of images showing an example of the operation of the k-means algorithm.  This is the second step in which data points are associated with the nearest centroid.
+Date
+
+26 July 2007
+Source
+
+Own work
+Author
+
+Weston.pace
+
+Licensing
+
+I, Weston.pace, the copyright holder of this work, hereby publishes it under the following licenses:
+
+Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled GNU Free Documentation License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue
+ 
+This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+
+
+Attribution: I, Weston.pace
+
+You are free:
+to share – to copy, distribute and transmit the work
+to remix – to adapt the work
+Under the following conditions:
+attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.This licensing tag was added to this file as part of the GFDL licensing update.http://creativecommons.org/licenses/by-sa/3.0/CC-BY-SA-3.0Creative Commons Attribution-Share Alike 3.0truetrue
+ 
+
+This file is licensed under the Creative Commons Attribution-Share Alike 2.5 Generic, 2.0 Generic and 1.0 Generic license.
+
+
+Attribution: I, Weston.pace
+
+You are free:
+to share – to copy, distribute and transmit the work
+to remix – to adapt the work
+Under the following conditions:
+attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.https://creativecommons.org/licenses/by-sa/2.5
+CC BY-SA 2.5 
+Creative Commons Attribution-Share Alike 2.5 
+truetrue
+
+You may select the license of your choice.
+CaptionsEnglishAdd a one-line explanation of what this file representsItems portrayed in this filedepictscreatorsome valueauthor name string: Weston.paceURL: https://commons.wikimedia.org/wiki/user:Weston.paceWikimedia username: Weston.pacecopyright statuscopyrightedcopyright licenseCreative Commons Attribution-ShareAlike 3.0 UnportedCreative Commons Attribution-ShareAlike 2.5 GenericGNU Free Documentation License, version 1.2 or laterCreative Commons Attribution-ShareAlike 2.0 GenericCreative Commons Attribution-ShareAlike 1.0 Genericsource of fileoriginal creation by uploaderinception26 July 2007
+File history
+
+Click on a date/time to view the file as it appeared at that time.
+
+
+Date/TimeThumbnailDimensionsUserComment
+current19:15, 26 July 2007197 × 170 (8 KB)Weston.pace~commonswiki{{Information |Description=This image is part of a series of images showing an example of the operation of the k-means algorithm.  This is the second step in which data points are associated with the nearest centroid. |Source=self-made |Date=July 26, 2007
+
+
+
+File usage
+
+The following pages on the English Wikipedia use this file (pages on other projects are not listed):
+K-means clustering
+
+
+Global file usage
+The following other wikis use this file:
+
+Usage on ar.wikipedia.org
+	خوارزمية تصنيفية
+
+Usage on cs.wikipedia.org
+	K-means
+
+Usage on cy.wikipedia.org
+	Clystyru k-cymedr
+
+Usage on de.wikipedia.org
+	Fuzzy-c-Means-Algorithmus
+	K-Means-Algorithmus
+
+Usage on es.wikipedia.org
+	Segmentación (procesamiento de imágenes)
+	K-medias
+
+Usage on fa.wikipedia.org
+	خوشه‌بندی کی-میانگین
+
+Usage on he.wikipedia.org
+	אלגוריתם k-מרכזים
+
+Usage on hy.wikipedia.org
+	K-միջիններով կլաստերինգ
+
+Usage on id.wikipedia.org
+	Pengklasteran k rata-rata
+
+Usage on ko.wikipedia.org
+	K-평균 알고리즘
+
+Usage on ru.wikipedia.org
+	Метод k-средних
+
+Usage on sr.wikipedia.org
+	Klasterizacija metodom K-srednjih vrednosti
+
+Usage on th.wikipedia.org
+	การแบ่งกลุ่มข้อมูลแบบเคมีน
+
+Usage on uk.wikipedia.org
+	Кластеризація методом к–середніх
+
+Usage on ur.wikipedia.org
+	ک-اوسط خوشہ چینی
+
+Usage on www.wikidata.org
+	Q310401
+
+
+
+Retrieved from "https://en.wikipedia.org/wiki/File:K_Means_Example_Step_2.svg"
+		
+	

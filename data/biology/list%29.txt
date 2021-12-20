@@ -1,0 +1,496 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Scientific discipline devoted to the study of protists
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Protistology" – news · newspapers · books · scholar · JSTOR  (February 2013) (Learn how and when to remove this template message)
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Part of a series onBiologyScience of life
+
+Index
+Outline
+Glossary
+
+
+History (timeline)
+
+Key components
+Cell theory
+Ecosystem
+Evolution
+ Phylogeny
+
+Properties of life
+
+Adaptation
+ Energy processing
+Growth
+Order
+Regulation
+Reproduction
+Response to environment
+
+ Domains and Kingdoms of life
+
+Archaea
+Bacteria
+Eukarya (Animals, Fungi, Plants, Protists)
+
+Branches
+Anatomy
+Biotechnology
+Botany
+Cell biology
+Ecology
+Evolutionary biology
+Genetics
+Marine biology
+Microbiology
+Molecular biology
+Mycology
+Neuroscience
+Paleontology
+Phycology
+Physiology
+Protistology
+Virology
+Zoology
+
+Research
+Biologist (list)
+List of biology awards
+List of journals
+List of research methods
+List of unsolved problems
+
+Applications
+Agricultural science
+Biomedical sciences
+Health technology
+ Pharming
+
+ Biology portal
+ Category.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+Protistology is a scientific discipline devoted to the study of protists, a highly diverse group of eukaryotic organisms. All eukaryotes apart from animals, plants and fungi are considered protists.[1] Its field of study therefore overlaps with the more traditional disciplines of phycology, mycology, and protozoology, just as protists embrace mostly unicellular organisms described as algae, some organisms regarded previously as primitive fungi, and protozoa ("animal" motile protists lacking chloroplasts).[1]
+They are a paraphyletic group with very diverse morphologies and lifestyles. Their sizes range from unicellular picoeukaryotes only a few micrometres in diameter to multicellular marine algae several metres long.[1] 
+
+Contents
+
+1 History
+2 Journals and societies
+3 Notable protistologists (sorted by alphabetical order of surnames)
+4 References
+5 External links
+
+
+
+History[edit]
+The term "protozoology" has become dated as understanding of the evolutionary relationships of the eukaryotes has improved, and is frequently replaced by the term "protistology". For example, the Society of Protozoologists, founded in 1947, was renamed International Society of Protistologists in 2005. However, the older term is retained in some cases (e.g., the Polish journal Acta Protozoologica).[2]
+
+Journals and societies[edit]
+Dedicated academic journals include:[3]
+
+Archiv für Protistenkunde, 1902-1998, Germany (renamed Protist, 1998-);[4]
+Archives de la Societe Russe de Protistologie, 1922-1928, Russia;
+Journal of Protozoology, 1954-1993, USA (renamed Journal of Eukaryotic Microbiology, 1993-);[5]
+Acta Protozoologica, 1963-, Poland;[6]
+Protistologica, 1968-1987, France (renamed European Journal of Protistology, 1987-);[7]
+Japanese Journal of Protozoology, 1968-2017, Japan (renamed Journal of Protistology, 2018-);[8]
+Protistology, 1999-, Russia.[9]
+Other less specialized journals, important to protistology before the appearance of the more specialized:
+
+Comptes rendus de l'Académie des sciences, 1666-, France;
+Quarterly Journal of Microscopical Science, 1853-1966, UK (renamed Journal of Cell Science, 1966-);
+Archiv für mikroskopische Anatomie, 1865-1923, Germany;
+Transactions of the Microscopical Society, 1841-1869, UK (renamed Journal of Microscopy, 1869-);
+Transactions of the American Microscopical Society, 1880-1994, USA (renamed Invertebrate Biology, 1995-);
+Memórias do Instituto Oswaldo Cruz, 1909-, Brazil.
+Some societies:
+
+Society of Protozoloogists, 1947-2005, USA (renamed International Society of Protistologists, 2005-), with many affiliates;[10]
+International Society for Evolutionary Protistology, 1975, USA.[11]
+Protistology UK (previously British Society for Protist Biology)[12]
+International Society of Protistologists (previously the Society of Protozoologists)[13]
+Notable protistologists (sorted by alphabetical order of surnames)[edit]
+The field of protistology was idealized by Haeckel, but its widespread recognition is more recent. In fact, many of the researchers cited below considered themselves as protozoologists, phycologists, mycologists, microbiologists, microscopists, parasitologists, limnologists, biologists, naturalists, zoologists, botanists, etc., but made significant contributions to the field.
+
+.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}
+Carl Agardh
+William Archer
+Anton de Bary
+Karl Bělař
+Harold C. Bold
+Alexander Braun
+Otto Bütschli
+Thomas Cavalier-Smith
+Marius Chadefaud [ru]
+Carlos Chagas
+Édouard Chatton
+Tyge Ahrengot Christensen
+Lev Tsenkovsky (Cienkowski)
+Herbert Copeland
+Pierre Dangeard
+Yves Delage
+Karl Moriz Diesing
+Clifford Dobell
+Franz Theodor Doflein
+Valentin Dogiel
+Félix Dujardin
+C.G. Ehrenberg
+Hanuš Ettl [de]
+Fauré-Fremiet
+Wilhelm Foissner [de]
+Bohuslav Fott [es]
+Felix Eugen Fritsch
+Wendy Gibson
+Édouard de Fromentel
+Pierre-Paul Grassé
+Battista Grassi
+Karl Gottlieb Grell
+August Gruber [de]
+Ernst Haeckel
+Max Hartmann
+Edgard Hérouard
+Richard Hertwig
+Bronislaw M. Honigberg
+Gottfried Huber-Pestalozzi [de]
+Alfred Kahl
+Patrick John Keeling
+Georg Klebs
+C. A. Kofoid
+Jiří Komárek [cs]
+Friedrich Traugott Kützing
+Ray Lankester
+Gordon Frank Leedale [fr]
+Louis-Urbain-Eugène Léger [fr]
+Ernst Lemmermann
+Rudolf Leuckart
+Gustav Lindau
+Alfred R. Loeblich Jr
+André Lwoff
+Lynn Margulis
+Émile Maupas
+Michael Melkonian
+Konstantin Mereschkowski
+Walter Migula
+Edward Alfred Minchin
+Øjvind Moestrup
+O.F. Müller
+Carl Nägeli
+Hermann Neubert [de]
+Alcide d'Orbigny
+Lindsay Shepherd Olive [de]
+Adolf Pascher
+David J. Patterson
+Eugène Penard
+Maximilian Perty
+Franz Poche [fr]
+Ernst Pringsheim Jr.
+Andrew Pritchard
+S. von Prowazek
+Gottlob Ludwig Rabenhorst
+Eduard Reichenow
+Muriel Robertson
+Julius von Sachs
+William Saville-Kent
+Asa Arthur Schaeffer [de]
+Fritz Schaudinn
+Joseph Schröter
+Max Schultze
+F. E. Schulze
+Vladimir Shevyakov (Schewiakoff)
+C. von Siebold
+P.C. Silva
+Heinrich Leonhards Skuja
+Borís Skvortsov (Skvortzov) [es]
+Gilbert Morgan Smith
+Frederick Kroeber Sparrow
+Friedrich von Stein
+Helen Tappan
+Alexandar Walkanow (Valkanov) [de]
+C. M. Wenyon
+George Stephen West
+Robert Whittaker
+Heinrich Georg Winter
+Otto Zacharias
+Friedrich Wilhelm Zopf
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ a b c .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Geisen, Stefan; Mitchell, Edward A D; Adl, Sina; authors, and 10 further (2018). "Soil protists: a fertile frontier in soil biology research". FEMS Microbiology Reviews. 42: 293–323. doi:10.1093/femsre/fuy006. Retrieved 25 December 2020.
+
+^ "Home". International Society of Protistologists. Retrieved 2021-06-28.
+
+^ Wolf M., Hausmann K. (2001). "Protozoology from the perspective of science theory: history and concept of a biological discipline" (PDF). Linzer Biol. Beitr. 33: 461–488.
+
+^ "Protist". Elsevier. Retrieved 12 January 2013.
+
+^ "Journal of Eukaryotic Microbiology". Journal of Eukaryotic Microbiology. doi:10.1111/(ISSN)1550-7408. Retrieved 18 June 2013.
+
+^ "Acta Protozoologica (International Journal of Protozoology)". Jagiellonian University Press. Archived from the original on 4 May 2016. Retrieved 12 January 2013.
+
+^ "European Journal of Protistology". Elsevier. Retrieved 12 January 2013.
+
+^ "Journal of Protistology". J-STAGE. Retrieved 21 February 2017.
+
+^ "Protistology, an international journal". Retrieved 12 January 2013.
+
+^ "New President's Address". protozoa.uga.edu. Retrieved 2015-05-01.
+
+^ Taylor, F. J. R. 'M. (2003). "The collapse of the two-kingdom system, the rise of protistology and the founding of the International Society for Evolutionary Protistology (ISEP)". International Journal of Systematic and Evolutionary Microbiology. 53 (6): 1707–1714. doi:10.1099/ijs.0.02587-0. PMID 14657097.
+
+^ "Welcome to Protistology UK!". Protistology UK. Retrieved 25 December 2020.
+
+^ "International Society of Protistologists". International Society of Protistologists. Retrieved 25 December 2020.
+
+
+External links[edit]
+ Media related to Protistology at Wikimedia Commons
+Portal to protistology by the International Society of Protistologists
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteMicrobiology: Protistology: ProtistsFormerclassifications
+Protozoa
+Mastigophora/Flagellates
+Sarcodina/Amoeboids
+Testate
+Heliozoa
+Infusoria/Ciliates
+Sporozoa
+Algae
+Cryptogams
+Thallophytes
+Fungus-like organisms
+Slime molds
+Ambiregnal protists
+MorphologyArchaeplastida.mw-parser-output .nobold{font-weight:normal}Chloroplastida
+"green algae": Phycoplast
+Phragmoplast
+Flagellar apparatus
+Glaucophytes:
+Cyanelles
+Phycobilisomes
+Red algae:
+Pit connection
+Phycobilisomes
+HacrobiaCryptophyta:
+Mastigonemes
+Periplast
+Haptophyte:
+Coccolith
+Haptonema
+StramenopilesGeneral:
+Mastigonemes
+Diatoms:
+Frustule
+Brown algae:
+Lamina
+Pneumatocyst
+AlveolataGeneral:
+ Alveoli
+Trichocyst
+Dinoflagellates:
+Dinokaryon
+Dinocyst
+Theca
+Ciliates:
+Cilium
+Cirrus
+Macronucleus
+Micronucleus
+Apicomplexans:
+Rhoptry
+Apicoplast
+Microneme
+RhizariaPhytomyxea
+Cruciform division
+ExcavateKinetoplastids:
+Kinetoplast
+Glycosome
+Euglenoidea:
+Periplast/pellicle
+AmoebozoaDictyostelids:
+Macrocyst
+Sorocarp
+OpisthokontaChoanoflagellates:
+Collar of microvilli
+GeneralLevels oforganization
+Unicellular
+Monadoid
+Amoeboid
+Coccoid
+Colonial s.s.
+Colonial flagellated
+Tetrasporal/capsal/palmelloid
+Sarcinoid
+Coenobial
+Filamentous/trichal/hyphal
+Parenchymatous
+Pseudoparenchymatous/plektenchymatic
+Membranous/thalloid/foliaceous
+Multinucleated
+Syncytial
+Coenocytic
+Siphonous
+Siphonocladous
+Multicellular s.s./tissular/histonal
+Cell surfacestructures
+Simple cell membrane
+Mucilage
+Scale
+Frustule
+Cell wall
+Lorica
+Skeleton
+Test
+Theca
+Periplast/pellicle
+Locomotion
+Flagellum
+Cilium
+Pseudopodia
+Gliding motility
+Mitochondria
+Hydrogenosome
+Mitosome
+Nucleus
+Nucleomorph
+Multinucleate cells
+Plasmodium
+Dikaryon
+Heterokaryon
+Mitosis in protists
+Open
+Closed
+Orthomitosis
+Pleuromitosis
+Meiosis in protists
+Gametic
+Zygotic
+Sporic
+Other
+Cyst
+Cytostome
+Fimbriae
+Extrusome
+Contractile vacuole
+Eyespot apparatus
+Pyrenoid
+Axostyle
+Mastigont system
+Ecology andphysiology
+Microbial ecology
+Microbial biogeography
+Baas-Becking hypothesis
+Development/Reproduction
+Life cycles
+Fertilization
+Nutrition: Autotrophy
+Phototrophy
+Heterotrophy
+Phagotrophy
+Osmotrophy
+Saprotrophy
+Parasitism
+Biotrophy
+Necrotrophy
+Mixotrophy
+Auxotrophy
+
+vteBranches of biology
+Abiogenesis
+Aerobiology
+Agrostology
+Anatomy
+Astrobiology
+Bacteriology
+Biochemistry
+Biogeography
+Biogeology
+Biohistory
+Bioinformatics
+Biological engineering
+Biomechanics
+Biophysics
+Biostatistics
+Biotechnology
+Botany
+Cell biology
+Cellular microbiology
+Chemical biology
+Chronobiology
+Cognitive biology
+Computational biology
+Conservation biology
+Cryobiology
+Cytogenetics
+Dendrology
+Developmental biology
+Ecological genetics
+Ecology
+Embryology
+Epidemiology
+Epigenetics
+Evolutionary biology
+Freshwater biology
+Genetics
+Genomics
+Geobiology
+Gerontology
+Herpetology
+Histology
+Human biology
+Ichthyology
+Immunology
+Lipidology
+Mammalogy
+Marine biology
+Mathematical biology
+Microbiology
+Molecular biology
+Mycology
+Neontology
+Neuroscience
+Nutrition
+Ornithology
+Osteology
+Paleontology
+Parasitology
+Pathology
+Pharmacology
+Photobiology
+Phycology
+Phylogenetics
+Physiology
+Pomology
+Primatology
+Proteomics
+Protistology
+Quantum biology
+Reproductive biology
+Sociobiology
+Structural biology
+Synthetic biology
+Systematics
+Systems biology
+Taxonomy
+Teratology
+Toxicology
+Virology
+Virophysics
+Xenobiology
+Zoology
+See also
+History of biology
+Nobel Prize in Physiology or Medicine
+Timeline of biology and organic chemistry
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Protistology&oldid=1040412650"
+		Categories: ProtistaProtistologistsBranches of biologyHidden categories: Articles with short descriptionShort description matches WikidataArticles needing additional references from February 2013All articles needing additional referencesCommons category link from Wikidata
+	

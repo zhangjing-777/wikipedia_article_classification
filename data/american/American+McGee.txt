@@ -1,0 +1,271 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		American video game designer (born 1972)
+
+
+.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}American McGeeAmerican McGee in 2004BornAmerican James McGee (1972-12-13) December 13, 1972 (age 49)Dallas, Texas, U.S.OccupationVideo Game DesignerKnown forDoom IIThe Ultimate DoomQuakeQuake IIAmerican McGee's AliceBad Day L.A.Alice: Madness ReturnsWebsiteamericanmcgee.com
+American James McGee (born December 13, 1972)[1] is an American video game designer. He is best known as the designer of American McGee's Alice, its sequel Alice: Madness Returns, and his works on various video games from id Software.
+
+Contents
+
+1 Early life
+2 Career
+
+2.1 id Software
+2.2 Electronic Arts
+2.3 The Mauretania Import Export Company
+2.4 Spicy Horse
+2.5 Independent
+
+
+3 Personal life
+4 Games
+
+4.1 Released
+4.2 Upcoming
+
+
+5 References
+6 External links
+
+
+
+Early life[edit]
+American James McGee was born on December 13, 1972, in Dallas, Texas[1] to an eccentric mother who was a house painter. His only interaction with his biological father was on his 13th birthday, a meeting which turned violent as McGee's father drunkenly assaulted him that night.[2] McGee was highly creative and was gifted in mathematics and science, taking an early interest in computer programming. He was eventually accepted to a magnet school for computer science.
+In explaining where his name came from, McGee has said that his mother was a hippie and was inspired by a woman she knew in college that named her child "America":
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}Yes, my mother named me that. She claims a woman she knew in college, who named her daughter "America", inspired the name. She also tells me that she was thinking of naming me 'Obnard'. She was and always has been a very eccentric and creative person.— American McGee[3]
+McGee had a number of stepfathers when growing up until his mother finally settled into a relationship with a transgender woman. When McGee was sixteen, he came home from school and found his house empty and abandoned; the only things left were his bed, his books, his clothes and his Commodore 64 computer. His mother had sold the house to pay for two plane tickets and the fee for her girlfriend's sex reassignment surgery, leaving him on his own. He packed up his computer, dropped out of high school and took a variety of odd jobs, finally settling on a Volkswagen repair shop.[4]
+
+Career[edit]
+id Software[edit]
+At 21, McGee, an automobile and gaming enthusiast, moved to an apartment complex where he met and befriended John Carmack. Carmack offered McGee a tech support job at id Software, where he was quickly promoted to level designer and music manager.[2] McGee, along with Kevin Cloud and Tim Willits, were part of id Software's "second generation" of developers, working on games such as The Ultimate Doom, Doom II, Quake and Quake II.
+
+  McGee at id Software (October 6, 1995)
+In 1998, McGee was fired from id Software.[5] Later, McGee would say that the day he got fired was very meaningful to him:[6]
+
+Probably the most meaningful day for me though [working at id Software] ... was the day I was fired. I felt a mixture of terror and freedom that was so significant and powerful—it combined together all the good and bad of the years I'd spent working with Carmack, Romero and the others... and kicked me out into the world to fend for myself. The opportunity to work at id during those early years was so unbelievable—and the path it set me on in letting me go has been even more fantastic. I'm sitting here in Shanghai, China still drawing on many of the lessons and experiences from all those years past... it's been an incredible journey which all started with id [Software].— American McGee, "American McGee on Quake", interview with quaddicted.com (May/June 2011)
+According to former id staff Sandy Petersen, Tim Willits was the one responsible for McGee's firing (although he did not mention Willits by name; referring to him only by "Snake" and "X"). Allegedly, during the development of Quake II, Willits deliberately gave bad level design advice to McGee and when he presented his work to Carmack, it angered him and McGee was fired soon after.[7][8] McGee has stated to this day, he still has no idea why he was fired but acknowledged the fact that it was due to "internal politics and my own failings".[9]
+
+Electronic Arts[edit]
+McGee soon joined Electronic Arts and worked as creative director on American McGee's Alice (with Rogue Entertainment), which garnered favorable reviews.[10] Discussions began soon after the game's release about making a film adaptation of the game; initially Wes Craven was attached to direct the film,[11] and later actress Sarah Michelle Gellar bought the film rights, but the film has remained languished in development hell.
+After finishing Alice, McGee left EA "in frustration" when the company fired his creative partner R. J. Berg and shut down Rogue Entertainment.[12] In 2002, McGee founded the short-lived Carbon6, which two years later became known as Mauretania Import Export Company.[13]
+
+The Mauretania Import Export Company[edit]
+McGee directed the 2002 music video for the song "Same Ol' Road" by the band dredg, from their album El Cielo.[14] Partnering with Enlight Software and its founder Trevor Chan, McGee released the games Scrapland in 2004 and Bad Day L.A. in 2006.
+
+Spicy Horse[edit]
+  McGee in 2006
+The planned American McGee's Oz, which was to be produced in conjunction with Ronin Games, was canceled over financial difficulties at Atari. American McGee's Grimm, developed by his Shanghai-based game development studio Spicy Horse for the online service GameTap, was released in 23 weekly episodic segments, starting in 2007.
+At the 2009 D.I.C.E. Summit, Electronic Arts CEO John Riccitiello announced that a sequel to American McGee's Alice was in development for PC, PlayStation 3 and Xbox 360 by McGee's Spicy Horse studio.[15][16] In July 2010, at the EA Showcase in San Francisco, Spicy Horse and EA announced that sequel's title, Alice: Madness Returns, released less than one year after its announcement, on June 14, 2011.
+More recently, McGee's Spicy Horse expanded to include another brand, Spicy Pony, to produce digital mobile media games for the iPhone platform. Their first title, DexIQ, was released in early December 2009, and its follow-up, Crooked House, was released in March 2010 (both had iPad versions released in June 2010). On December 17, 2010, McGee's old company The Mauretania Import Export Company was dissolved and all intellectual property was transferred to Spicy Horse.[17]
+In 2012, McGee was focusing on free-to-play games for mobile devices with BigHead Bash, Akaneiro, and Crazy Fairies.[18] In 2013, he opened a Kickstarter for a new game, American McGee's OZombie; however, due to slow/lackluster funding the project was canceled. Another Kickstarter for a project called Alice: Otherlands, a planned series of short films leading to a theatrical film, was announced a few days later. This reached its goal on August 4, 2013, and was officially confirmed.[19]
+
+Independent[edit]
+In July 2016, McGee announced the closure of Spicy Horse.[20] Inspired by Jacques Cousteau, he is now pursuing the "life at sea": travelling, making games and doing vlogs across South East Asia on a sailboat. He created a Patreon account to seek support for this endeavor.[21] In February 2017, McGee started his annual Pirate Jam, which is a pirate-themed Game Jam sailing around Thailand.[22]
+American McGee is currently working on the third Alice game, Alice: Asylum, with a targeted release date in 2021. McGee is designing the game with the help of the fans in a concept he calls Crowd Design, named after crowdfunding.[23] Pre-production is being financially supported via Patreon.
+
+Personal life[edit]
+McGee has stated his mission is "to create a unified production method for story telling across the interactive and film industries" and of himself, he says, "I want to be the next Walt Disney, only a little more wicked."[24]
+In 2005, McGee left the United States and resided for a time in Hong Kong before moving to Shanghai, where he lived as of 2009.[25] Once in China, he created Spicy Horse, at one point the largest independent Western game development house in the nation,[26] and helped found Blade (formerly Vykarian), a game outsourcing company. They produced American McGee's Grimm for GameTap (now owned by Metaboli) and worked on the sequel to his original Alice game, Alice: Madness Returns.
+He also mentions that his inspiration for the macabre tone of Alice comes from his disturbing, dysfunctional childhood.
+McGee continues to live in Shanghai with his wife, Yeni Zhang. The couple co-founded Mysterious, Inc., a company that markets art, apparel, and accessories based on McGee's works.[27] The couple have one child, Lucky Jack McGee (张吉克).[28]
+One of McGee's favorite books is Stephen King's On Writing: A Memoir of the Craft.[29]
+
+Games[edit]
+Released[edit]
+This section of a biography of a living person does not include any references or sources. Please help by adding reliable sources. Contentious material about living people that is unsourced or poorly sourced must be removed immediately.Find sources: "American McGee" – news · newspapers · books · scholar · JSTOR  (March 2013) (Learn how and when to remove this template message)
+1993 – Doom, Level Designer (Sega)
+1994 – Wolfenstein 3D, Tester (Atari Corporation)
+1994 – Doom II: Hell on Earth, Level Designer (id Software)
+1995 – The Ultimate Doom, Level Designer (GT Interactive Software)
+1995 – Doom, Tester (WMS Industries)
+1996 – Quake, Level Designer, Sound Designer, Tools Programmer (id Software)
+1996 – H!Zone, Co-Producer (WizardWorks)
+1996 – Hexen: Beyond Heretic, Co-Producer (GT Interactive Software)
+1996 – Final Doom, Level Designer (id Software and Atari, Inc.)
+1997 – Quake Mission Pack 1: Scourge of Armagon, Level Designer (id Software)
+1997 – Quake Mission Pack 2: Dissolution of Eternity, Level Designer (id Software)
+1997 – Quake II, Level Designer, Sound Designer, Tools Programmer (Activision)
+1997 – Doom 64, Level Designer (Midway Games)
+1998 – Dominion: Storm Over Gift 3, Sound Designer (Eidos Interactive)
+2000 – Timeline, Co-Designer, Co-Writer (Eidos Interactive)
+2000 – American McGee's Alice, Creative Director, Co-Writer, Designer (Electronic Arts)
+2004 – American McGee Presents: Scrapland, Producer (Enlight Software)
+2006 – American McGee Presents: Bad Day L.A., Creative Director, Writer, Co-Designer (Enlight Software)
+2008 – American McGee's Grimm, Project Leader, Creative Director, Co-Writer, Co-Designer (Turner Broadcasting System)
+2009 – DexIQ, Project Leader, Creative Director (Spicy Horse)
+2011 – Alice: Madness Returns, Creative Director, Co-Writer, Designer (Spicy Horse) (Electronic Arts)
+2012 – BigHead Bash (Spicy Horse)
+2012 – Crazy Fairies (Spicy Horse)
+2012 – Akaneiro: Demon Hunters (Spicy Horse)
+2013 – OZombie (Spicy Horse) [Cancelled]
+2013 – The Gate (Spicy Horse) (Mobage)
+2015 – Chains of Darkness (Spicy Pony)
+2018 – Out of the Woods Board game (Mysterious Inc.)
+Upcoming[edit]
+Alice: Asylum
+Oz: Adventures[30]
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ a b Birth record for American James McGee - Dallas, Texas, Birth Index, 1903–1997 - Ancestry.com (subscription required)
+
+^ a b .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"The Great American (McGee) Game". wired.com. December 25, 2000. Retrieved July 13, 2019.
+
+^ "American McGee's Personal Website and Weblog". americanmcgee.com. Archived from the original on April 3, 2005. Retrieved February 20, 2009.
+
+^ Kushner, David (2003). Masters of Doom: How Two Guys Created An Empire And Transformed Pop Culture. Great Britain: Judy Piatkus Ltd. ISBN 0-7499-2489-6.
+
+^ "John Carmack Archive - .plan 1998". scribd.com.
+
+^ "American McGee on Quake". Quaddicted. Retrieved July 13, 2019.
+
+^ Bored With Nelly. "The Person That Destroyed Id Software From Within". YouTube. Archived from the original on December 12, 2021. Retrieved July 16, 2021.
+
+^ Petersen, Sandy. "Why Is Quake Like That?". YouTube. Archived from the original on December 12, 2021. Retrieved July 16, 2021.
+
+^ McGee, American. "American McGee, 1995". Twitter. Retrieved July 18, 2021.
+
+^ Tang, Stephanie. "Despite a Nail-Biting Funding Finale, Alice: Otherlands Is a Go!". GameSkinny. Retrieved July 13, 2019.
+
+^ Linder, Brian (December 7, 2000). "Wes Craven to Dark Wonderland". Retrieved July 13, 2019.
+
+^ McGee, American (2011). The Art of Alice: Madness Returns. Milwaukee, OR: Dark Horse Comics. p. 6. ISBN 978-1-59582-697-8.
+
+^ "American McGee Meets Enlight". IGN. March 4, 2004. Retrieved July 13, 2019.
+
+^ "RES ALERT December 5, 2002". res.com. Archived from the original on July 15, 2007. Retrieved February 20, 2009.
+
+^ Crecente, Brian (February 19, 2006). "The Return of American McGee's Alice Set For PC, Consoles". Kotaku. Retrieved July 13, 2019.
+
+^ "EA and Spicy Horse Return to Wonderland for All-New Alice Title". ea.com. February 19, 2009. Retrieved July 13, 2019.
+
+^ "TMIEC Website Announcement". tmiec.com. December 15, 2010. Retrieved February 18, 2012.
+
+^ Gera, Emily. "How American McGee left 'Alice' for a world of free-to-play, toy stores and life without EA". Polygon. Retrieved July 13, 2019.
+
+^ "Alice: Otherlands".
+
+^ Kuchera, Ben (September 5, 2017). "American McGee is still talking about a third Alice game". Polygon. Retrieved July 13, 2019.
+
+^ McGee, American. "American McGee is creating games and videos while sailing". Patreon. Retrieved July 13, 2019.
+
+^ "Pirate Jam • 2017". www.pirate-jam.com. Retrieved November 20, 2019.
+
+^ FAQ: What is Crowd Design?, archived from the original on December 12, 2021, retrieved November 20, 2019
+
+^ "ScrewAttack sits down with American McGee". screwattack.com. March 1, 2013. Archived from the original on March 5, 2016.
+
+^ "An American (McGee) In Shanghai". Kotaku. January 7, 2009. Retrieved July 13, 2019.
+
+^ "Spicy Horse, History". giantbomb.com. October 12, 2014.
+
+^ "About". mysterious.americanmcgee.com. n.d. Retrieved September 5, 2020.
+
+^ American McGee [@americanmcgee] (September 2, 2020). "Born in Shanghai on September 2nd, 2019, Lucky Jack McGee (张吉克) is the first child of Mysterious founders Zhang Yan and American McGee. According to the Chinese Zodiac, 2019 was the year of the Earth Pig, with a pig… instagram.com/p/CEpz9LHjKeY/" (Tweet) – via Twitter.
+
+^ "American McGee talks modders' remixed Quake maps". Red Bull.
+
+^ Oloman, Jordan (February 25, 2021). "American McGee Reveals Oz: Adventures, a Hybrid TV And Video Game Project". IGN. Retrieved March 12, 2021.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to American McGee.
+
+Official website
+American McGee's entry at MobyGames
+American McGee at IMDb
+American McGee Reddit Questionnaire (January 21, 2013)
+American McGee's Patreon page
+Pirate Jam website
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteid Software (games)Main franchises
+Commander Keen
+Doom
+Quake
+Wolfenstein
+Other games
+Shadow Knights
+Hovertank 3D
+Dangerous Dave
+Rescue Rover
+Tiles of the Dragon
+Catacomb 3-D
+Orcs & Elves
+Rage
+Rage 2
+Games published
+Heretic
+Hexen: Beyond Heretic
+Hexen II
+PeopleCurrent
+Kevin Cloud
+Marty Stratton
+Robert Duffy
+Former
+John Carmack
+John Romero
+Adrian Carmack
+Tom Hall
+Mark Rein
+Sandy Petersen
+Dave Taylor
+American McGee
+Tim Willits
+Mike Wilson
+Michael Abrash
+Jennell Jaquays
+Paul Steed
+Graeme Devine
+Todd Hollenshead
+Timothee Besset
+Katherine Anna Kang
+Matthew Costello
+Publishers
+Softdisk
+Apogee Software
+FormGen
+GT Interactive
+Activision
+ZeniMax Media
+Technology
+Adaptive tile refresh
+id Tech
+Doom engine
+Quake engine
+Quake II engine
+id Tech 3
+id Tech 4
+id Tech 5
+id Tech 6
+id Tech 7
+Related
+QuakeCon
+Masters of Doom
+
+Authority control General
+Integrated Authority File (Germany)
+VIAF
+1
+WorldCat
+National libraries
+France (data)
+United States
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=American_McGee&oldid=1059957218"
+		Categories: American atheistsAmerican video game designersId Software peopleLiving people1972 birthsAmerican expatriates in ChinaHidden categories: Pages containing links to subscription-only contentArticles with short descriptionShort description is different from WikidataUse mdy dates from March 2021Articles with hCardsBLP articles lacking sources from March 2013All BLP articles lacking sourcesCommons category link is on WikidataArticles with GND identifiersArticles with VIAF identifiersArticles with WORLDCATID identifiersArticles with BNF identifiersArticles with LCCN identifiers
+	

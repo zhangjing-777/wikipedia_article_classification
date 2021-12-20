@@ -1,0 +1,1791 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Algebraic structure with addition, multiplication and division
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}This article is about an algebraic structure. For vector valued functions, see Vector field. For other uses, see Field (disambiguation).
+
+
+  The regular heptagon cannot be constructed using only a straightedge and compass construction; this can be proven using the field of constructible numbers.
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Algebraic structures
+Group-like
+Group
+Semigroup / Monoid
+Rack and quandle
+Quasigroup and loop
+
+Abelian group
+Magma
+Lie group
+
+Group theory
+
+Ring-like
+Ring
+Rng
+Semiring
+Near-ring
+Commutative ring
+Integral domain
+Field
+Division ring
+Lie ring
+
+Ring theory
+
+Lattice-like
+Lattice
+Semilattice
+Complemented lattice
+Total order
+Heyting algebra
+Boolean algebra
+
+Map of lattices
+Lattice theory
+
+Module-like
+Module
+Group with operators
+Vector space
+
+Linear algebra
+
+Algebra-like
+Algebra
+
+Associative
+Non-associative
+Composition algebra
+Lie algebra
+Graded
+Bialgebra
+Hopf algebra
+
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+In mathematics, a field is a set on which addition, subtraction, multiplication, and division are defined and behave as the corresponding operations on rational and real numbers do. A field is thus a fundamental algebraic structure which is widely used in algebra, number theory, and many other areas of mathematics.
+The best known fields are the field of rational numbers, the field of real numbers and the field of complex numbers. Many other fields, such as fields of rational functions, algebraic function fields, algebraic number fields, and p-adic fields are commonly used and studied in mathematics, particularly in number theory and algebraic geometry. Most cryptographic protocols rely on finite fields, i.e., fields with finitely many elements.
+The relation of two fields is expressed by the notion of a field extension. Galois theory, initiated by Évariste Galois in the 1830s, is devoted to understanding the symmetries of field extensions. Among other results, this theory shows that angle trisection and squaring the circle cannot be done with a compass and straightedge. Moreover, it shows that quintic equations are, in general, algebraically unsolvable.
+Fields serve as foundational notions in several mathematical domains. This includes different branches of mathematical analysis, which are based on fields with additional structure. Basic theorems in analysis hinge on the structural properties of the field of real numbers. Most importantly for algebraic purposes, any field may be used as the scalars for a vector space, which is the standard general context for linear algebra. Number fields, the siblings of the field of rational numbers, are studied in depth in number theory. Function fields can help describe properties of geometric objects.
+
+Contents
+
+1 Definition
+
+1.1 Classic definition
+1.2 Alternative definition
+
+
+2 Examples
+
+2.1 Rational numbers
+2.2 Real and complex numbers
+2.3 Constructible numbers
+2.4 A field with four elements
+
+
+3 Elementary notions
+
+3.1 Consequences of the definition
+3.2 The additive and the multiplicative group of a field
+3.3 Characteristic
+3.4 Subfields and prime fields
+
+
+4 Finite fields
+5 History
+6 Constructing fields
+
+6.1 Constructing fields from rings
+
+6.1.1 Field of fractions
+6.1.2 Residue fields
+
+
+6.2 Constructing fields within a bigger field
+6.3 Field extensions
+
+6.3.1 Algebraic extensions
+6.3.2 Transcendence bases
+
+
+6.4 Closure operations
+
+
+7 Fields with additional structure
+
+7.1 Ordered fields
+7.2 Topological fields
+
+7.2.1 Local fields
+
+
+7.3 Differential fields
+
+
+8 Galois theory
+9 Invariants of fields
+
+9.1 Model theory of fields
+9.2 The absolute Galois group
+9.3 K-theory
+
+
+10 Applications
+
+10.1 Linear algebra and commutative algebra
+10.2 Finite fields: cryptography and coding theory
+10.3 Geometry: field of functions
+10.4 Number theory: global fields
+
+
+11 Related notions
+
+11.1 Division rings
+
+
+12 Notes
+13 References
+
+
+
+Definition[edit]
+Informally, a field is a set, along with two operations defined on that set: an addition operation written as a + b, and a multiplication operation written as a ⋅ b, both of which behave similarly as they behave for rational numbers and real numbers, including the existence of an additive inverse −a for all elements a, and of a multiplicative inverse b−1 for every nonzero element b. This allows one to also consider the so-called inverse operations of subtraction, a − b, and division, a / b, by defining:
+
+a − b = a + (−b),
+a / b = a ⋅ b−1.
+Classic definition[edit]
+Formally, a field is a set F together with two binary operations on F called addition and multiplication.[1] A binary operation on F is a mapping F × F → F, that is, a correspondence that associates with each ordered pair of elements of F a uniquely determined element of F.[2][3] The result of the addition of a and b is called the sum of a and b, and is denoted a + b. Similarly, the result of the multiplication of a and b is called the product of a and b, and is denoted ab or a ⋅ b. These operations are required to satisfy the following properties, referred to as field axioms (in these axioms, a, b, and c are arbitrary elements of the field F):
+
+Associativity of addition and multiplication: a + (b + c) = (a + b) + c, and a ⋅ (b ⋅ c) = (a ⋅ b) ⋅ c.
+Commutativity of addition and multiplication: a + b = b + a, and a ⋅ b = b ⋅ a.
+Additive and multiplicative identity: there exist two different elements 0 and 1 in F such that a + 0 = a and a ⋅ 1 = a.
+Additive inverses: for every a in F, there exists an element in F, denoted −a, called the additive inverse of a, such that a + (−a) = 0.
+Multiplicative inverses: for every a ≠ 0 in F, there exists an element in F, denoted by a−1 or 1/a, called the multiplicative inverse of a, such that a ⋅ a−1 = 1.
+Distributivity of multiplication over addition: a ⋅ (b + c) = (a ⋅ b) + (a ⋅ c).
+This may be summarized by saying: a field has two operations, called addition and multiplication; it is an abelian group under addition with 0 as the additive identity; the nonzero elements are an abelian group under multiplication with 1 as the multiplicative identity; and multiplication distributes over addition.
+Even more summarized: a field is a commutative ring where 
+  
+    
+      
+        0
+        ≠
+        1
+      
+    
+    {\displaystyle 0\neq 1}
+  
+ and all nonzero elements are invertible.
+
+Alternative definition[edit]
+Fields can also be defined in different, but equivalent ways. One can alternatively define a field by four binary operations (addition, subtraction, multiplication, and division) and their required properties. Division by zero is, by definition, excluded.[4] In order to avoid existential quantifiers, fields can be defined by two binary operations (addition and multiplication), two unary operations (yielding the additive and multiplicative inverses respectively), and two nullary operations (the constants 0 and 1). These operations are then subject to the conditions above. Avoiding existential quantifiers is important in constructive mathematics and computing.[5] One may equivalently define a field by the same two binary operations, one unary operation (the multiplicative inverse), and two constants 1 and −1, since 0 = 1 + (−1) and −a = (−1)a.[nb 1]
+
+Examples[edit]
+Rational numbers[edit]
+Main article: Rational number
+Rational numbers have been widely used a long time before the elaboration of the concept of field.
+They are numbers that can be written as fractions
+a/b, where a and b are integers, and b ≠ 0. The additive inverse of such a fraction is −a/b, and the multiplicative inverse (provided that a ≠ 0) is b/a, which can be seen as follows:
+
+
+  
+    
+      
+        
+          
+            b
+            a
+          
+        
+        ⋅
+        
+          
+            a
+            b
+          
+        
+        =
+        
+          
+            
+              b
+              a
+            
+            
+              a
+              b
+            
+          
+        
+        =
+        1.
+      
+    
+    {\displaystyle {\frac {b}{a}}\cdot {\frac {a}{b}}={\frac {ba}{ab}}=1.}
+  
+
+The abstractly required field axioms reduce to standard properties of rational numbers. For example, the law of distributivity can be proven as follows:[6]
+
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                  
+                    a
+                    b
+                  
+                
+                ⋅
+                
+                  (
+                  
+                    
+                      
+                        c
+                        d
+                      
+                    
+                    +
+                    
+                      
+                        e
+                        f
+                      
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+                =
+                
+
+                
+              
+              
+                
+                  
+                    a
+                    b
+                  
+                
+                ⋅
+                
+                  (
+                  
+                    
+                      
+                        c
+                        d
+                      
+                    
+                    ⋅
+                    
+                      
+                        f
+                        f
+                      
+                    
+                    +
+                    
+                      
+                        e
+                        f
+                      
+                    
+                    ⋅
+                    
+                      
+                        d
+                        d
+                      
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+                =
+                
+
+                
+              
+              
+                
+                  
+                    a
+                    b
+                  
+                
+                ⋅
+                
+                  (
+                  
+                    
+                      
+                        
+                          c
+                          f
+                        
+                        
+                          d
+                          f
+                        
+                      
+                    
+                    +
+                    
+                      
+                        
+                          e
+                          d
+                        
+                        
+                          f
+                          d
+                        
+                      
+                    
+                  
+                  )
+                
+                =
+                
+                  
+                    a
+                    b
+                  
+                
+                ⋅
+                
+                  
+                    
+                      c
+                      f
+                      +
+                      e
+                      d
+                    
+                    
+                      d
+                      f
+                    
+                  
+                
+              
+            
+            
+              
+                =
+                
+
+                
+              
+              
+                
+                  
+                    
+                      a
+                      (
+                      c
+                      f
+                      +
+                      e
+                      d
+                      )
+                    
+                    
+                      b
+                      d
+                      f
+                    
+                  
+                
+                =
+                
+                  
+                    
+                      a
+                      c
+                      f
+                    
+                    
+                      b
+                      d
+                      f
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      a
+                      e
+                      d
+                    
+                    
+                      b
+                      d
+                      f
+                    
+                  
+                
+                =
+                
+                  
+                    
+                      a
+                      c
+                    
+                    
+                      b
+                      d
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      a
+                      e
+                    
+                    
+                      b
+                      f
+                    
+                  
+                
+              
+            
+            
+              
+                =
+                
+
+                
+              
+              
+                
+                  
+                    a
+                    b
+                  
+                
+                ⋅
+                
+                  
+                    c
+                    d
+                  
+                
+                +
+                
+                  
+                    a
+                    b
+                  
+                
+                ⋅
+                
+                  
+                    e
+                    f
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&{\frac {a}{b}}\cdot \left({\frac {c}{d}}+{\frac {e}{f}}\right)\\[6pt]={}&{\frac {a}{b}}\cdot \left({\frac {c}{d}}\cdot {\frac {f}{f}}+{\frac {e}{f}}\cdot {\frac {d}{d}}\right)\\[6pt]={}&{\frac {a}{b}}\cdot \left({\frac {cf}{df}}+{\frac {ed}{fd}}\right)={\frac {a}{b}}\cdot {\frac {cf+ed}{df}}\\[6pt]={}&{\frac {a(cf+ed)}{bdf}}={\frac {acf}{bdf}}+{\frac {aed}{bdf}}={\frac {ac}{bd}}+{\frac {ae}{bf}}\\[6pt]={}&{\frac {a}{b}}\cdot {\frac {c}{d}}+{\frac {a}{b}}\cdot {\frac {e}{f}}.\end{aligned}}}
+  
+
+Real and complex numbers[edit]
+  The multiplication of complex numbers can be visualized geometrically by rotations and scalings.
+Main articles: Real number and Complex number
+The real numbers R, with the usual operations of addition and multiplication, also form a field. The complex numbers C consist of expressions
+
+a + bi, with a, b real,
+where i is the imaginary unit, i.e., a (non-real) number satisfying i2 = −1.
+Addition and multiplication of real numbers are defined in such a way that expressions of this type satisfy all field axioms and thus hold for C. For example, the distributive law enforces
+
+(a + bi)(c + di) = ac + bci + adi + bdi2 = ac−bd + (bc + ad)i.
+It is immediate that this is again an expression of the above type, and so the complex numbers form a field. Complex numbers can be geometrically represented as points in the plane, with Cartesian coordinates given by the real numbers of their describing expression, or as the arrows from the origin to these points, specified by their length and an angle enclosed with some distinct direction. Addition then corresponds to combining the arrows to the intuitive parallelogram (adding the Cartesian coordinates), and the multiplication is – less intuitively – combining rotating and scaling of the arrows (adding the angles and multiplying the lengths). The fields of real and complex numbers are used throughout mathematics, physics, engineering, statistics, and many other scientific disciplines.
+
+Constructible numbers[edit]
+  The geometric mean theorem asserts that h2 = pq. Choosing q = 1 allows construction of the square root of a given constructible number p.
+Main article: Constructible numbers
+In antiquity, several geometric problems concerned the (in)feasibility of constructing certain numbers with compass and straightedge. For example, it was unknown to the Greeks that it is, in general, impossible to trisect a given angle in this way. These problems can be settled using the field of constructible numbers.[7] Real constructible numbers are, by definition, lengths of line segments that can be constructed from the points 0 and 1 in finitely many steps using only compass and straightedge. These numbers, endowed with the field operations of real numbers, restricted to the constructible numbers, form a field, which properly includes the field Q of rational numbers. The illustration shows the construction of square roots of constructible numbers, not necessarily contained within Q. Using the labeling in the illustration, construct the segments AB, BD, and a semicircle over AD (center at the midpoint C), which intersects the perpendicular line through B in a point F, at a distance of exactly 
+  
+    
+      
+        h
+        =
+        
+          
+            p
+          
+        
+      
+    
+    {\displaystyle h={\sqrt {p}}}
+  
+ from B when BD has length one.
+Not all real numbers are constructible. It can be shown that 
+  
+    
+      
+        
+          
+            2
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{3}]{2}}}
+  
+ is not a constructible number, which implies that it is impossible to construct with compass and straightedge the length of the side of a cube with volume 2, another problem posed by the ancient Greeks.
+
+A field with four elements[edit]
+
+
+
+
+Addition
+
+Multiplication
+
+
+
+
+
+
++
+O
+I
+A
+B
+
+
+O
+
+ O
+
+ I
+
+A
+
+B
+
+
+I
+
+ I
+
+ O
+
+B
+
+A
+
+
+A
+
+A
+
+B
+
+O
+
+I
+
+
+B
+
+B
+
+A
+
+I
+
+O
+
+
+
+
+
+
+
+⋅
+O
+I
+A
+B
+
+
+O
+
+ O
+
+ O
+
+O
+
+O
+
+
+I
+
+ O
+
+ I
+
+A
+
+B
+
+
+A
+
+O
+
+A
+
+B
+
+I
+
+
+B
+
+O
+
+B
+
+I
+
+A
+
+
+In addition to familiar number systems such as the rationals, there are other, less immediate examples of fields. The following example is a field consisting of four elements called O, I, A, and B. The notation is chosen such that O plays the role of the additive identity element (denoted 0 in the axioms above), and I is the multiplicative identity (denoted 1 in the axioms above). The field axioms can be verified by using some more field theory, or by direct computation. For example,
+
+A ⋅ (B + A) = A ⋅ I = A, which equals A ⋅ B + A ⋅ A = I + B = A, as required by the distributivity.
+This field is called a finite field with four elements, and is denoted F4 or GF(4).[8] The subset consisting of O and I (highlighted in red in the tables at the right) is also a field, known as the binary field F2 or GF(2). In the context of computer science and Boolean algebra, O and I are often denoted respectively by false and true, the addition is then denoted XOR (exclusive or), and the multiplication is denoted AND. In other words, the structure of the binary field is the basic structure that allows computing with bits.
+
+Elementary notions[edit]
+In this section, F denotes an arbitrary field and a and b are arbitrary elements of F.
+
+Consequences of the definition[edit]
+One has a ⋅ 0 = 0 and −a = (−1) ⋅ a. In particular, one may deduce the additive inverse of every element as soon as one knows −1.[9]
+If ab = 0 then a or b must be 0, since, if a ≠ 0, then
+b = (a−1a)b = a−1(ab)  = a−1 ⋅ 0 = 0. This means that every field is an integral domain.
+In addition, the following properties are true for any elements a and b:
+
+−0 = 0
+1−1 = 1
+(−(−a)) = a
+(−a) ⋅ b = a ⋅ (−b) = −(a ⋅ b)
+(a−1)−1 = a if a ≠ 0
+The additive and the multiplicative group of a field[edit]
+The axioms of a field F imply that it is an abelian group under addition. This group is called the additive group of the field, and is sometimes denoted by (F, +) when denoting it simply as F could be confusing.
+Similarly, the nonzero elements of F form an abelian group under multiplication, called the multiplicative group, and denoted by (F \ {0}, ⋅) or just F \ {0}  or F*.
+A field may thus be defined as set F equipped with two operations denoted as an addition and a multiplication such that F is an abelian group under addition, F \ {0}  is an abelian group under multiplication (where 0 is the identity element of the addition), and multiplication is distributive over addition.[nb 2] Some elementary statements about fields can therefore be obtained by applying general facts of groups. For example, the additive and multiplicative inverses −a and a−1 are uniquely determined by a.
+The requirement 1 ≠ 0 follows, because 1 is the identity element of a group that does not contain 0.[10] Thus, the trivial ring, consisting of a single element, is not a field.
+Every finite subgroup of the multiplicative group of a field is cyclic (see Root of unity § Cyclic groups).
+
+Characteristic[edit]
+In addition to the multiplication of two elements of F, it is possible to define the product n ⋅ a of an arbitrary element a of F by a positive integer n to be the n-fold sum
+
+a + a + ⋯ + a (which is an element of F.)
+If there is no positive integer such that
+
+n ⋅ 1 = 0,
+then F is said to have characteristic 0.[11] For example, the field of rational numbers Q has characteristic 0 since no positive integer n is zero. Otherwise, if there is a positive integer n satisfying this equation, the smallest such positive integer can be shown to be a prime number. It is usually denoted by p and the field is said to have characteristic p then.
+For example, the field F4 has characteristic 2 since (in the notation of the above addition table) I + I = O.
+If F has characteristic p, then p ⋅ a = 0 for all a in F. This implies that
+
+(a + b)p = ap + bp,
+since all other binomial coefficients appearing in the binomial formula are divisible by p. Here, ap := a ⋅ a ⋅ ⋯ ⋅ a (p factors) is the p-th power, i.e., the p-fold product of the element a. Therefore, the Frobenius map
+
+Fr: F → F, x ⟼ xp
+is compatible with the addition in F (and also with the multiplication), and is therefore a field homomorphism.[12] The existence of this homomorphism makes fields in characteristic p quite different from fields of characteristic 0.
+
+Subfields and prime fields[edit]
+A subfield E of a field F is a subset of F that is a field with respect to the field operations of F. Equivalently E is a subset of F that contains 1, and is closed under addition, multiplication, additive inverse and multiplicative inverse of a nonzero element. This means that 1 ∊ E, that for all a, b ∊ E both a + b and a ⋅ b are in E, and that for all a ≠ 0 in E, both −a and 1/a are in E.
+Field homomorphisms are maps f: E → F between two fields such that f(e1 + e2) = f(e1) + f(e2), f(e1e2) = f(e1)f(e2), and f(1E) = 1F, where e1 and e2 are arbitrary elements of E. All field homomorphisms are injective.[13] If f is also surjective, it is called an isomorphism (or the fields E and F are called isomorphic).
+A field is called a prime field if it has no proper (i.e., strictly smaller) subfields. Any field F contains a prime field. If the characteristic of F is p (a prime number), the prime field is isomorphic to the finite field Fp introduced below. Otherwise the prime field is isomorphic to Q.[14]
+
+Finite fields[edit]
+Main article: Finite field
+Finite fields (also called Galois fields) are fields with finitely many elements, whose number is also referred to as the order of the field. The above introductory example F4 is a field with four elements. Its subfield F2 is the smallest field, because by definition a field has at least two distinct elements 1 ≠ 0.
+
+  In modular arithmetic modulo 12, 9 + 4 = 1 since 9 + 4 = 13 in Z, which divided by 12 leaves remainder 1. However, Z/12Z is not a field because 12 is not a prime number.
+The simplest finite fields, with prime order, are most directly accessible using modular arithmetic. For a fixed positive integer n, arithmetic "modulo n" means to work with the numbers
+
+Z/nZ = {0, 1, ..., n − 1}.
+The addition and multiplication on this set are done by performing the operation in question in the set Z of integers, dividing by n and taking the remainder as result. This construction yields a field precisely if n is a prime number. For example, taking the prime n = 2 results in the above-mentioned field F2. For n = 4 and more generally, for any composite number (i.e., any number n which can be expressed as a product n = r⋅s of two strictly smaller natural numbers), Z/nZ is not a field: the product of two non-zero elements is zero since r⋅s = 0 in Z/nZ, which, as was explained above, prevents Z/nZ from being a field. The field Z/pZ with p elements (p being prime) constructed in this way is usually denoted by Fp.
+Every finite field F has q = pn elements, where p is prime and n ≥ 1. This statement holds since F may be viewed as a vector space over its prime field. The dimension of this vector space is necessarily finite, say n, which implies the asserted statement.[15]
+A field with q = pn elements can be constructed as the splitting field of the polynomial
+
+f(x) = xq − x.
+Such a splitting field is an extension of Fp in which the polynomial f has q zeros. This means f has as many zeros as possible since the degree of f is q. For q = 22 = 4, it can be checked case by case using the above multiplication table that all four elements of F4 satisfy the equation x4 = x, so they are zeros of f. By contrast, in F2, f has only two zeros (namely 0 and 1), so f does not split into linear factors in this smaller field. Elaborating further on basic field-theoretic notions, it can be shown that two finite fields with the same order are isomorphic.[16] It is thus customary to speak of the finite field with q elements, denoted by Fq or GF(q).
+
+History[edit]
+Historically, three algebraic disciplines led to the concept of a field: the question of solving polynomial equations, algebraic number theory, and algebraic geometry.[17] A first step towards the notion of a field was made in 1770 by Joseph-Louis Lagrange, who observed that permuting the zeros x1, x2, x3 of a cubic polynomial in the expression
+
+(x1 + ωx2 + ω2x3)3
+(with ω being a third root of unity) only yields two values. This way, Lagrange conceptually explained the classical solution method of Scipione del Ferro and François Viète, which proceeds by reducing a cubic equation for an unknown x to a quadratic equation for x3.[18] Together with a similar observation for equations of degree 4, Lagrange thus linked what eventually became the concept of fields and the concept of groups.[19] Vandermonde, also in 1770, and to a fuller extent, Carl Friedrich Gauss, in his Disquisitiones Arithmeticae (1801), studied the equation
+
+xp = 1
+for a prime p and, again using modern language, the resulting cyclic Galois group. Gauss deduced that a regular p-gon can be constructed if p = 22k + 1. Building on Lagrange's work, Paolo Ruffini claimed (1799) that quintic equations (polynomial equations of degree 5) cannot be solved algebraically; however, his arguments were flawed. These gaps were filled by Niels Henrik Abel in 1824.[20] Évariste Galois, in 1832, devised necessary and sufficient criteria for a polynomial equation to be algebraically solvable, thus establishing in effect what is known as Galois theory today. Both Abel and Galois worked with what is today called an algebraic number field, but conceived neither an explicit notion of a field, nor of a group.
+In 1871 Richard Dedekind introduced, for a set of real or complex numbers that is closed under the four arithmetic operations, the German word Körper, which means "body" or "corpus" (to suggest an organically closed entity). The English term "field" was introduced by Moore (1893).[21]
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}By a field we will mean every infinite system of real or complex numbers so closed in itself and perfect that addition, subtraction, multiplication, and division of any two of these numbers again yields a number of the system.— Richard Dedekind, 1871[22]
+In 1881 Leopold Kronecker defined what he called a domain of rationality, which is a field of rational fractions in modern terms. Kronecker's notion did not cover the field of all algebraic numbers (which is a field in Dedekind's sense), but on the other hand was more abstract than Dedekind's in that it made no specific assumption on the nature of the elements of a field. Kronecker interpreted a field such as Q(π) abstractly as the rational function field Q(X). Prior to this, examples of transcendental numbers were known since Joseph Liouville's work in 1844, until Charles Hermite (1873) and Ferdinand von Lindemann (1882) proved the transcendence of e and π, respectively.[23]
+The first clear definition of an abstract field is due to Weber (1893).[24] In particular, Heinrich Martin Weber's notion included the field Fp. Giuseppe Veronese (1891) studied the field of formal power series, which led Hensel (1904) to introduce the field of p-adic numbers. Steinitz (1910) synthesized the knowledge of abstract field theory accumulated so far. He axiomatically studied the properties of fields and defined many important field-theoretic concepts. The majority of the theorems mentioned in the sections Galois theory, Constructing fields and Elementary notions can be found in Steinitz's work. Artin & Schreier (1927) linked the notion of orderings in a field, and thus the area of analysis, to purely algebraic properties.[25] Emil Artin redeveloped Galois theory from 1928 through 1942, eliminating the dependency on the primitive element theorem.
+
+Constructing fields[edit]
+Constructing fields from rings[edit]
+A commutative ring is a set, equipped with an addition and multiplication operation, satisfying all the axioms of a field, except for the existence of multiplicative inverses a−1.[26] For example, the integers Z form a commutative ring, but not a field: the reciprocal of an integer n is not itself an integer, unless n = ±1.
+In the hierarchy of algebraic structures fields can be characterized as the commutative rings R in which every nonzero element is a unit (which means every element is invertible). Similarly, fields are the commutative rings with precisely two distinct ideals, (0) and R. Fields are also precisely the commutative rings in which (0) is the only prime ideal.
+Given a commutative ring R, there are two ways to construct a field related to R, i.e., two ways of modifying R such that all nonzero elements become invertible: forming the field of fractions, and forming residue fields. The field of fractions of Z is Q, the rationals, while the residue fields of Z are the finite fields Fp.
+
+Field of fractions[edit]
+Given an integral domain R, its field of fractions Q(R) is built with the fractions of two elements of R exactly as Q is constructed from the integers. More precisely, the elements of Q(R) are the fractions a/b where a and b are in R, and b ≠ 0. Two fractions a/b and c/d are equal if and only if ad = bc. The operation on the fractions work exactly as for rational numbers. For example,
+
+
+  
+    
+      
+        
+          
+            a
+            b
+          
+        
+        +
+        
+          
+            c
+            d
+          
+        
+        =
+        
+          
+            
+              a
+              d
+              +
+              b
+              c
+            
+            
+              b
+              d
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {a}{b}}+{\frac {c}{d}}={\frac {ad+bc}{bd}}.}
+  
+
+It is straightforward to show that, if the ring is an integral domain, the set of the fractions form a field.[27]
+The field F(x) of the rational fractions over a field (or an integral domain) F is the field of fractions of the polynomial ring F[x]. The field F((x)) of Laurent series
+
+
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            k
+          
+          
+            ∞
+          
+        
+        
+          a
+          
+            i
+          
+        
+        
+          x
+          
+            i
+          
+        
+         
+        (
+        k
+        ∈
+        
+          Z
+        
+        ,
+        
+          a
+          
+            i
+          
+        
+        ∈
+        F
+        )
+      
+    
+    {\displaystyle \sum _{i=k}^{\infty }a_{i}x^{i}\ (k\in \mathbb {Z} ,a_{i}\in F)}
+  
+
+over a field F is the field of fractions of the ring F[[x]] of formal power series (in which k ≥ 0). Since any Laurent series is a fraction of a power series divided by a power of x (as opposed to an arbitrary power series), the representation of fractions is less important in this situation, though.
+
+Residue fields[edit]
+In addition to the field of fractions, which embeds R injectively into a field, a field can be obtained from a commutative ring R by means of a surjective map onto a field F. Any field obtained in this way is a quotient R / m, where m is a maximal ideal of R. If R has only one maximal ideal m, this field is called the residue field of R.[28]
+The ideal generated by a single polynomial f in the polynomial ring R = E[X] (over a field E) is maximal if and only if f is irreducible in E, i.e., if f cannot be expressed as the product of two polynomials in E[X] of smaller degree. This yields a field
+
+F = E[X] / (f(X)).
+This field F contains an element x (namely the residue class of X) which satisfies the equation
+
+f(x) = 0.
+For example, C is obtained from R by adjoining the imaginary unit symbol i, which satisfies f(i) = 0, where f(X) = X2 + 1. Moreover, f is irreducible over R, which implies that the map that sends a polynomial f(X) ∊ R[X] to f(i) yields an isomorphism
+
+
+  
+    
+      
+        
+          R
+        
+        [
+        X
+        ]
+        
+          /
+        
+        
+          (
+          
+            
+              X
+              
+                2
+              
+            
+            +
+            1
+          
+          )
+        
+         
+        
+          
+            
+              
+                ⟶
+              
+              
+                ≅
+              
+            
+          
+        
+         
+        
+          C
+        
+        .
+      
+    
+    {\displaystyle \mathbf {R} [X]/\left(X^{2}+1\right)\ {\stackrel {\cong }{\longrightarrow }}\ \mathbf {C} .}
+  
+
+Constructing fields within a bigger field[edit]
+Fields can be constructed inside a given bigger container field. Suppose given a field E, and a field F containing E as a subfield. For any element x of F, there is a smallest subfield of F containing E and x, called the subfield of F generated by x and denoted E(x).[29] The passage from E to E(x) is referred to by adjoining an element to E. More generally, for a subset S ⊂ F, there is a minimal subfield of F containing E and S, denoted by E(S).
+The compositum of two subfields E and E'  of some field F is the smallest subfield of F containing both E and E'. The compositum can be used to construct the biggest subfield of F satisfying a certain property, for example the biggest subfield of F, which is, in the language introduced below, algebraic over E.[nb 3]
+
+Field extensions[edit]
+Further information: Glossary of field theory
+The notion of a subfield E ⊂ F can also be regarded from the opposite point of view, by referring to F being a field extension (or just extension) of E, denoted by
+
+F / E,
+and read "F over E".
+A basic datum of a field extension is its degree [F : E], i.e., the dimension of F as an E-vector space. It satisfies the formula[30]
+
+[G : E] = [G : F] [F : E].
+Extensions whose degree is finite are referred to as finite extensions. The extensions C / R and F4 / F2 are of degree 2, whereas R / Q is an infinite extension.
+
+Algebraic extensions[edit]
+A pivotal notion in the study of field extensions F / E are algebraic elements. An element 
+  
+    
+      
+        x
+        ∈
+        F
+      
+    
+    {\displaystyle x\in F}
+  
+ is algebraic over E if it is a root of a polynomial with coefficients in E, that is, if it satisfies a polynomial equation
+
+enxn + en−1xn−1 + ⋯ + e1x + e0 = 0,
+with en, ..., e0 in E, and en ≠ 0.
+For example, the imaginary unit i in C is algebraic over R, and even over Q, since it satisfies the equation
+
+i2 + 1 = 0.
+A field extension in which every element of F is algebraic over E is called an algebraic extension. Any finite extension is necessarily algebraic, as can be deduced from the above multiplicativity formula.[31]
+The subfield E(x) generated by an element x, as above, is an algebraic extension of E if and only if x is an algebraic element. That is to say, if x is algebraic, all other elements of E(x) are necessarily algebraic as well. Moreover, the degree of the extension E(x) / E, i.e., the dimension of E(x) as an E-vector space, equals the minimal degree n such that there is a polynomial equation involving x, as above. If this degree is n, then the elements of E(x) have the form
+
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          a
+          
+            k
+          
+        
+        
+          x
+          
+            k
+          
+        
+        ,
+         
+         
+        
+          a
+          
+            k
+          
+        
+        ∈
+        E
+        .
+      
+    
+    {\displaystyle \sum _{k=0}^{n-1}a_{k}x^{k},\ \ a_{k}\in E.}
+  
+
+For example, the field Q(i) of Gaussian rationals is the subfield of C consisting of all numbers of the form a + bi where both a and b are rational numbers: summands of the form i2 (and similarly for higher exponents) don't have to be considered here, since a + bi + ci2 can be simplified to a − c + bi.
+
+Transcendence bases[edit]
+The above-mentioned field of rational fractions E(X), where X is an indeterminate, is not an algebraic extension of E since there is no polynomial equation with coefficients in E whose zero is X. Elements, such as X, which are not algebraic are called transcendental. Informally speaking, the indeterminate X and its powers do not interact with elements of E. A similar construction can be carried out with a set of indeterminates, instead of just one.
+Once again, the field extension E(x) / E discussed above is a key example: if x is not algebraic (i.e., x is not a root of a polynomial with coefficients in E), then E(x) is isomorphic to E(X). This isomorphism is obtained by substituting x to X in rational fractions.
+A subset S of a field F is a transcendence basis if it is algebraically independent (don't satisfy any polynomial relations) over E and if F is an algebraic extension of E(S). Any field extension F / E has a transcendence basis.[32] Thus, field extensions can be split into ones of the form E(S) / E (purely transcendental extensions) and algebraic extensions.
+
+Closure operations[edit]
+A field is algebraically closed if it does not have any strictly bigger algebraic extensions or, equivalently, if any polynomial equation
+
+fnxn + fn−1xn−1 + ⋯ + f1x + f0 = 0, with coefficients fn, ..., f0 ∈ F, n > 0,
+has a solution x ∊ F.[33] By the fundamental theorem of algebra, C is algebraically closed, i.e., any polynomial equation with complex coefficients has a complex solution. The rational and the real numbers are not algebraically closed since the equation
+
+x2 + 1 = 0
+does not have any rational or real solution. A field containing F is called an algebraic closure of F if it is algebraic over F (roughly speaking, not too big compared to F) and is algebraically closed (big enough to contain solutions of all polynomial equations).
+By the above, C is an algebraic closure of R. The situation that the algebraic closure is a finite extension of the field F is quite special: by the Artin-Schreier theorem, the degree of this extension is necessarily 2, and F is elementarily equivalent to R. Such fields are also known as real closed fields.
+Any field F has an algebraic closure, which is moreover unique up to (non-unique) isomorphism. It is commonly referred to as the algebraic closure and denoted F. For example, the algebraic closure Q of Q is called the field of algebraic numbers. The field F is usually rather implicit since its construction requires the ultrafilter lemma, a set-theoretic axiom that is weaker than the axiom of choice.[34] In this regard, the algebraic closure of Fq, is exceptionally simple. It is the union of the finite fields containing Fq (the ones of order qn). For any algebraically closed field F of characteristic 0, the algebraic closure of the field F((t)) of Laurent series is the field of Puiseux series, obtained by adjoining roots of t.[35]
+
+Fields with additional structure[edit]
+Since fields are ubiquitous in mathematics and beyond, several refinements of the concept have been adapted to the needs of particular mathematical areas.
+
+Ordered fields[edit]
+Main article: Ordered field
+A field F is called an ordered field if any two elements can be compared, so that x + y ≥ 0 and xy ≥ 0 whenever x ≥ 0 and y ≥ 0. For example, the real numbers form an ordered field, with the usual ordering ≥. The Artin-Schreier theorem states that a field can be ordered if and only if it is a formally real field, which means that any quadratic equation
+
+
+  
+    
+      
+        
+          x
+          
+            1
+          
+          
+            2
+          
+        
+        +
+        
+          x
+          
+            2
+          
+          
+            2
+          
+        
+        +
+        ⋯
+        +
+        
+          x
+          
+            n
+          
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x_{1}^{2}+x_{2}^{2}+\dots +x_{n}^{2}=0}
+  
+
+only has the solution x1 = x2 = ⋯ = xn = 0.[36] The set of all possible orders on a fixed field F is isomorphic to the set of ring homomorphisms from the Witt ring W(F) of quadratic forms over F, to Z.[37]
+An Archimedean field is an ordered field such that for each element there exists a finite expression
+
+1 + 1 + ⋯ + 1
+whose value is greater than that element, that is, there are no infinite elements. Equivalently, the field contains no infinitesimals (elements smaller than all rational numbers); or, yet equivalent, the field is isomorphic to a subfield of R.
+
+  Each bounded real set has a least upper bound.
+An ordered field is Dedekind-complete if all upper bounds, lower bounds (see Dedekind cut) and limits, which should exist, do exist. More formally, each bounded subset of F is required to have a least upper bound. Any complete field is necessarily Archimedean,[38] since in any non-Archimedean field there is neither a greatest infinitesimal nor a least positive rational, whence the sequence 1/2, 1/3, 1/4, ..., every element of which is greater than every infinitesimal, has no limit.
+Since every proper subfield of the reals also contains such gaps, R is the unique complete ordered field, up to isomorphism.[39] Several foundational results in calculus follow directly from this characterization of the reals.
+The hyperreals R* form an ordered field that is not Archimedean. It is an extension of the reals obtained by including infinite and infinitesimal numbers. These are larger, respectively smaller than any real number. The hyperreals form the foundational basis of non-standard analysis.
+
+Topological fields[edit]
+Another refinement of the notion of a field is a topological field, in which the set F is a topological space, such that all operations of the field (addition, multiplication, the maps a ↦ −a and a ↦ a−1) are continuous maps with respect to the topology of the space.[40]
+The topology of all the fields discussed below is induced from a metric, i.e., a function
+
+d : F × F → R,
+that measures a distance between any two elements of F.
+The completion of F is another field in which, informally speaking, the "gaps" in the original field F are filled, if there are any. For example, any irrational number x, such as x = √2, is a "gap" in the rationals Q in the sense that it is a real number that can be approximated arbitrarily closely by rational numbers p/q, in the sense that distance of x and p/q given by the absolute value | x − p/q | is as small as desired.
+The following table lists some examples of this construction. The fourth column shows an example of a zero sequence, i.e., a sequence whose limit (for n → ∞) is zero.
+
+
+
+Field
+Metric
+Completion
+zero sequence
+
+
+Q
+| x − y | (usual absolute value)
+R
+1/n
+
+
+Q
+
+obtained using the p-adic valuation, for a prime number p
+
+Qp (p-adic numbers)
+
+pn
+
+
+F(t) (F any field)
+
+obtained using the t-adic valuation
+
+F((t))
+
+tn
+
+The field Qp is used in number theory and p-adic analysis. The algebraic closure Qp carries a unique norm extending the one on Qp, but is not complete. The completion of this algebraic closure, however, is algebraically closed. Because of its rough analogy to the complex numbers, it is sometimes called the field of complex p-adic numbers and is denoted by Cp.[41]
+
+Local fields[edit]
+The following topological fields are called local fields:[42][nb 4]
+
+finite extensions of Qp (local fields of characteristic zero)
+finite extensions of Fp((t)), the field of Laurent series over Fp (local fields of characteristic p).
+These two types of local fields share some fundamental similarities. In this relation, the elements p ∈ Qp and t ∈ Fp((t)) (referred to as uniformizer) correspond to each other. The first manifestation of this is at an elementary level: the elements of both fields can be expressed as power series in the uniformizer, with coefficients in Fp. (However, since the addition in Qp is done using carrying, which is not the case in Fp((t)), these fields are not isomorphic.) The following facts show that this superficial similarity goes much deeper:
+
+Any first order statement that is true for almost all Qp is also true for almost all Fp((t)). An application of this is the Ax-Kochen theorem describing zeros of homogeneous polynomials in Qp.
+Tamely ramified extensions of both fields are in bijection to one another.
+Adjoining arbitrary p-power roots of p (in Qp), respectively of t (in Fp((t))), yields (infinite) extensions of these fields known as perfectoid fields. Strikingly, the Galois groups of these two fields are isomorphic, which is the first glimpse of a remarkable parallel between these two fields:[43] 
+  
+    
+      
+        Gal
+        ⁡
+        
+          (
+          
+            
+              
+                Q
+              
+              
+                p
+              
+            
+            
+              (
+              
+                p
+                
+                  1
+                  
+                    /
+                  
+                  
+                    p
+                    
+                      ∞
+                    
+                  
+                
+              
+              )
+            
+          
+          )
+        
+        ≅
+        Gal
+        ⁡
+        
+          (
+          
+            
+              
+                F
+              
+              
+                p
+              
+            
+            (
+            (
+            t
+            )
+            )
+            
+              (
+              
+                t
+                
+                  1
+                  
+                    /
+                  
+                  
+                    p
+                    
+                      ∞
+                    
+                  
+                
+              
+              )
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \operatorname {Gal} \left(\mathbf {Q} _{p}\left(p^{1/p^{\infty }}\right)\right)\cong \operatorname {Gal} \left(\mathbf {F} _{p}((t))\left(t^{1/p^{\infty }}\right)\right).}
+  
+
+Differential fields[edit]
+Differential fields are fields equipped with a derivation, i.e., allow to take derivatives of elements in the field.[44] For example, the field R(X), together with the standard derivative of polynomials forms a differential field. These fields are central to differential Galois theory, a variant of Galois theory dealing with linear differential equations.
+
+Galois theory[edit]
+Main article: Galois theory
+Galois theory studies algebraic extensions of a field by studying the symmetry in the arithmetic operations of addition and multiplication. An important notion in this area is that of finite Galois extensions F / E, which are, by definition, those that are separable and normal. The primitive element theorem shows that finite separable extensions are necessarily simple, i.e., of the form
+
+F = E[X] / f(X),
+where f is an irreducible polynomial (as above).[45] For such an extension, being normal and separable means that all zeros of f are contained in F and that f has only simple zeros. The latter condition is always satisfied if E has characteristic 0.
+For a finite Galois extension, the Galois group Gal(F/E) is the group of field automorphisms of F that are trivial on E (i.e., the bijections σ : F → F that preserve addition and multiplication and that send elements of E to themselves). The importance of this group stems from the fundamental theorem of Galois theory, which constructs an explicit one-to-one correspondence between the set of subgroups of Gal(F/E) and the set of intermediate extensions of the extension F/E.[46] By means of this correspondence, group-theoretic properties translate into facts about fields. For example, if the Galois group of a Galois extension as above is not solvable (cannot be built from abelian groups), then the zeros of f cannot be expressed in terms of addition, multiplication, and radicals, i.e., expressions involving 
+  
+    
+      
+        
+          
+             
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{\ }}}
+  
+. For example, the symmetric groups Sn is not solvable for n ≥ 5. Consequently, as can be shown, the zeros of the following polynomials are not expressible by sums, products, and radicals. For the latter polynomial, this fact is known as the Abel–Ruffini theorem:
+
+f(X) = X5 − 4X + 2 (and E = Q),[47]
+f(X) = Xn + an−1Xn−1 + ⋯ + a0 (where f is regarded as a polynomial in E(a0, ..., an−1), for some indeterminates ai, E is any field, and n ≥ 5).
+The tensor product of fields is not usually a field. For example, a finite extension F / E of degree n is a Galois extension if and only if there is an isomorphism of F-algebras
+
+F ⊗E F ≅ Fn.
+This fact is the beginning of Grothendieck's Galois theory, a far-reaching extension of Galois theory applicable to algebro-geometric objects.[48]
+
+Invariants of fields[edit]
+Basic invariants of a field F include the characteristic and the transcendence degree of F over its prime field. The latter is defined as the maximal number of elements in F that are algebraically independent over the prime field. Two algebraically closed fields E and F are isomorphic precisely if these two data agree.[49] This implies that any two uncountable algebraically closed fields of the same cardinality and the same characteristic are isomorphic. For example, Qp, Cp and C are isomorphic (but not isomorphic as topological fields).
+
+Model theory of fields[edit]
+In model theory, a branch of mathematical logic, two fields E and F are called elementarily equivalent if every mathematical statement that is true for E is also true for F and conversely. The mathematical statements in question are required to be first-order sentences (involving 0, 1, the addition and multiplication). A typical example, for n > 0, n an integer, is
+
+φ(E) = "any polynomial of degree n in E has a zero in E"
+The set of such formulas for all n expresses that  E is algebraically closed.
+The Lefschetz principle states that C is elementarily equivalent to any algebraically closed field F of characteristic zero. Moreover, any fixed statement φ holds in C if and only if it holds in any algebraically closed field of sufficiently high characteristic.[50]
+If U is an ultrafilter on a set I, and Fi is a field for every i in I, the ultraproduct of the Fi with respect to U is a field.[51] It is denoted by
+
+ulimi→∞ Fi,
+since it behaves in several ways as a limit of the fields Fi: Łoś's theorem states that any first order statement that holds for all but finitely many Fi, also holds for the ultraproduct. Applied to the above sentence φ, this shows that there is an isomorphism[nb 5]
+
+
+  
+    
+      
+        
+          ulim
+          
+            p
+            →
+            ∞
+          
+        
+        ⁡
+        
+          
+            
+              
+                F
+              
+              ¯
+            
+          
+          
+            p
+          
+        
+        ≅
+        
+          C
+        
+        .
+      
+    
+    {\displaystyle \operatorname {ulim} _{p\to \infty }{\overline {\mathbf {F} }}_{p}\cong \mathbf {C} .}
+  
+
+The Ax–Kochen theorem mentioned above also follows from this and an isomorphism of the ultraproducts (in both cases over all primes p)
+
+ulimp Qp ≅ ulimp Fp((t)).
+In addition, model theory also studies the logical properties of various other types of fields, such as real closed fields or exponential fields (which are equipped with an exponential function exp : F → Fx).[52]
+
+The absolute Galois group[edit]
+For fields that are not algebraically closed (or not separably closed), the absolute Galois group Gal(F) is fundamentally important: extending the case of finite Galois extensions outlined above, this group governs all finite separable extensions of F. By elementary means, the group Gal(Fq) can be shown to be the Prüfer group, the profinite completion of Z. This statement subsumes the fact that the only algebraic extensions of Gal(Fq) are the fields Gal(Fqn) for n > 0, and that the Galois groups of these finite extensions are given by
+
+Gal(Fqn / Fq) = Z/nZ.
+A description in terms of generators and relations is also known for the Galois groups of p-adic number fields (finite extensions of Qp).[53]
+Representations of Galois groups and of related groups such as the Weil group are fundamental in many branches of arithmetic, such as the Langlands program. The cohomological study of such representations is done using Galois cohomology.[54] For example, the Brauer group, which is classically defined as the group of central simple F-algebras, can be reinterpreted as a Galois cohomology group, namely
+
+Br(F) = H2(F, Gm).
+K-theory[edit]
+Milnor K-theory is defined as
+
+
+  
+    
+      
+        
+          K
+          
+            n
+          
+          
+            M
+          
+        
+        (
+        F
+        )
+        =
+        
+          F
+          
+            ×
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          F
+          
+            ×
+          
+        
+        
+          /
+        
+        
+          ⟨
+          
+            x
+            ⊗
+            (
+            1
+            −
+            x
+            )
+            ∣
+            x
+            ∈
+            F
+            ∖
+            {
+            0
+            ,
+            1
+            }
+          
+          ⟩
+        
+        .
+      
+    
+    {\displaystyle K_{n}^{M}(F)=F^{\times }\otimes \cdots \otimes F^{\times }/\left\langle x\otimes (1-x)\mid x\in F\setminus \{0,1\}\right\rangle .}
+  
+
+The norm residue isomorphism theorem, proved around 2000 by Vladimir Voevodsky, relates this to Galois cohomology by means of an isomorphism
+
+
+  
+    
+      
+        
+          K
+          
+            n
+          
+          
+            M
+          
+        
+        (
+        F
+        )
+        
+          /
+        
+        p
+        =
+        
+          H
+          
+            n
+          
+        
+        (
+        F
+        ,
+        
+          μ
+          
+            l
+          
+          
+            ⊗
+            n
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle K_{n}^{M}(F)/p=H^{n}(F,\mu _{l}^{\otimes n}).}
+  
+
+Algebraic K-theory is related to the group of invertible matrices with coefficients the given field. For example, the process of taking the determinant of an invertible matrix leads to an isomorphism K1(F) = F×. Matsumoto's theorem shows that K2(F) agrees with K2M(F). In higher degrees, K-theory diverges from Milnor K-theory and remains hard to compute in general.
+
+Applications[edit]
+Linear algebra and commutative algebra[edit]
+If a ≠ 0, then the equation
+
+ax = b
+has a unique solution x in a field F, namely 
+  
+    
+      
+        x
+        =
+        
+          a
+          
+            −
+            1
+          
+        
+        b
+        .
+      
+    
+    {\displaystyle x=a^{-1}b.}
+  
+ This immediate consequence of the definition of a field is fundamental in linear algebra. For example, it is an essential ingredient of Gaussian elimination and of the proof that any vector space has a basis.[55]
+The theory of modules (the analogue of vector spaces over rings instead of fields) is much more complicated, because the above equation may have several or no solutions. In particular systems of linear equations over a ring are much more difficult to solve than in the case of fields, even in the specially simple case of the ring 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+ of the integers.
+
+Finite fields: cryptography and coding theory[edit]
+  The sum of three points P, Q, and R on an elliptic curve E (red) is zero if there is a line (blue) passing through these points.
+A widely applied cryptographic routine uses the fact that discrete exponentiation, i.e., computing
+
+an = a ⋅ a ⋅ ⋯ ⋅ a (n factors, for an integer n ≥ 1)
+in a (large) finite field Fq can be performed much more efficiently than the discrete logarithm, which is the inverse operation, i.e., determining the solution n to an equation
+
+an = b.
+In elliptic curve cryptography, the multiplication in a finite field is replaced by the operation of adding points on an elliptic curve, i.e., the solutions of an equation of the form
+
+y2 = x3 + ax + b.
+Finite fields are also used in coding theory and combinatorics.
+
+Geometry: field of functions[edit]
+  A compact Riemann surface of genus two (two handles). The genus can be read off the field of meromorphic functions on the surface.
+Functions on a suitable topological space X into a field k can be added and multiplied pointwise, e.g., the product of two functions is defined by the product of their values within the domain:
+
+(f ⋅ g)(x) = f(x) ⋅ g(x).
+This makes these functions a k-commutative algebra.
+For having a field of functions, one must consider algebras of functions that are integral domains. In this case the ratios of two functions, i.e., expressions of the form
+
+
+  
+    
+      
+        
+          
+            
+              f
+              (
+              x
+              )
+            
+            
+              g
+              (
+              x
+              )
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {f(x)}{g(x)}},}
+  
+
+form a field, called field of functions.
+This occurs in two main cases. When X is a complex manifold X. In this case, one considers the algebra of holomorphic functions, i.e., complex differentiable functions. Their ratios form the field of meromorphic functions on X.
+The function field of an algebraic variety X (a geometric object defined as the common zeros of polynomial equations) consists of ratios of regular functions, i.e., ratios of polynomial functions on the variety. The function field of the n-dimensional space over a field k is k(x1, ..., xn), i.e., the field consisting of ratios of polynomials in n indeterminates. The function field of X is the same as the one of any open dense subvariety. In other words, the function field is insensitive to replacing X by a (slightly) smaller subvariety.
+The function field is invariant under isomorphism and birational equivalence of varieties. It is therefore an important tool for the study of abstract algebraic varieties and for the classification of algebraic varieties. For example, the dimension, which equals the transcendence degree of k(X), is invariant under birational equivalence.[56] For curves (i.e., the dimension is one), the function field k(X) is very close to X: if X is smooth and proper (the analogue of being compact), X can be reconstructed, up to isomorphism, from its field of functions.[nb 6] In higher dimension the function field remembers less, but still decisive information about X. The study of function fields and their geometric meaning in higher dimensions is referred to as birational geometry. The minimal model program attempts to identify the simplest (in a certain precise sense) algebraic varieties with a prescribed function field.
+
+Number theory: global fields[edit]
+Global fields are in the limelight in algebraic number theory and arithmetic geometry.
+They are, by definition, number fields (finite extensions of Q) or function fields over Fq (finite extensions of Fq(t)). As for local fields, these two types of fields share several similar features, even though they are of characteristic 0 and positive characteristic, respectively. This function field analogy can help to shape mathematical expectations, often first by understanding questions about function fields, and later treating the number field case. The latter is often more difficult. For example, the Riemann hypothesis concerning the zeros of the Riemann zeta function (open as of 2017) can be regarded as being parallel to the Weil conjectures (proven in 1974 by Pierre Deligne).
+
+  The fifth roots of unity form a regular pentagon.
+Cyclotomic fields are among the most intensely studied number fields. They are of the form Q(ζn), where ζn is a primitive n-th root of unity, i.e., a complex number satisfying ζn = 1 and ζm ≠ 1 for all m < n.[57] For n being a regular prime, Kummer used cyclotomic fields to prove Fermat's Last Theorem, which asserts the non-existence of rational nonzero solutions to the equation
+
+xn + yn = zn.
+Local fields are completions of global fields. Ostrowski's theorem asserts that the only completions of Q, a global field, are the local fields Qp and R. Studying arithmetic questions in global fields may sometimes be done by looking at the corresponding questions locally. This technique is called the local-global principle. For example, the Hasse–Minkowski theorem reduces the problem of finding rational solutions of quadratic equations to solving these equations in R and Qp, whose solutions can easily be described.[58]
+Unlike for local fields, the Galois groups of global fields are not known. Inverse Galois theory studies the (unsolved) problem whether any finite group is the Galois group Gal(F/Q) for some number field F.[59] Class field theory describes the abelian extensions, i.e., ones with abelian Galois group, or equivalently the abelianized Galois groups of global fields. A classical statement, the Kronecker–Weber theorem, describes the maximal abelian Qab extension of Q: it is the field
+
+Q(ζn, n ≥ 2)
+obtained by adjoining all primitive n-th roots of unity. Kronecker's Jugendtraum asks for a similarly explicit description of Fab of general number fields F. For imaginary quadratic fields, 
+  
+    
+      
+        F
+        =
+        
+          Q
+        
+        (
+        
+          
+            −
+            d
+          
+        
+        )
+      
+    
+    {\displaystyle F=\mathbf {Q} ({\sqrt {-d}})}
+  
+, d > 0, the theory of complex multiplication describes Fab using elliptic curves. For general number fields, no such explicit description is known.
+
+Related notions[edit]
+In addition to the additional structure that fields may enjoy, fields admit various other related notions. Since in any field 0 ≠ 1, any field has at least two elements. Nonetheless, there is a concept of field with one element, which is suggested to be a limit of the finite fields Fp, as p tends to 1.[60] In addition to division rings, there are various other weaker algebraic structures related to fields such as quasifields, near-fields and semifields.
+There are also proper classes with field structure, which are sometimes called Fields, with a capital F. The surreal numbers form a Field containing the reals, and would be a field except for the fact that they are a proper class, not a set. The nimbers, a concept from game theory, form such a Field as well.[61]
+
+Division rings[edit]
+  The hairy ball theorem states that a ball cannot be combed. More formally, there is no continuous tangent vector field on the sphere S2, which is everywhere non-zero.
+Dropping one or several axioms in the definition of a field leads to other algebraic structures. As was mentioned above, commutative rings satisfy all axioms of fields, except for multiplicative inverses. Dropping instead the condition that multiplication is commutative leads to the concept of a division ring or skew field.[nb 7] The only division rings that are finite-dimensional R-vector spaces are R itself, C (which is a field), the quaternions H (in which multiplication is non-commutative), and the octonions O (in which multiplication is neither commutative nor associative). This fact was proved using methods of algebraic topology in 1958 by Michel Kervaire, Raoul Bott, and John Milnor.[62] The non-existence of an odd-dimensional division algebra is more classical. It can be deduced from the hairy ball theorem illustrated at the right.[citation needed]
+
+Notes[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ The a priori twofold use of the symbol "−" for denoting one part of a constant and for the additive inverses is justified by this latter condition.
+
+^ Equivalently, a field is an algebraic structure ⟨F, +, ⋅, −, −1, 0, 1⟩ of type ⟨2, 2, 1, 1, 0, 0⟩, such that 0−1 is not defined, ⟨F, +, −, 0⟩ and
+⟨F ∖ {0}, ⋅, −1⟩ are abelian groups, and ⋅ is distributive over +. Wallace (1998, Th. 2)
+
+^ Further examples include the maximal unramified extension or the maximal abelian extension within F.
+
+^ Some authors also consider the fields R and C to be local fields. On the other hand, these two fields, also called Archimedean local fields, share little similarity with the local fields considered here, to a point that Cassels (1986, p. vi) calls them "completely anomalous".
+
+^ Both C and ulimp Fp are algebraically closed by Łoś's theorem. For the same reason, they both have characteristic zero. Finally, they are both uncountable, so that they are isomorphic.
+
+^ More precisely, there is an equivalence of categories between smooth proper algebraic curves over an algebraically closed field F and finite field extensions of F(T).
+
+^ Historically, division rings were sometimes referred to as fields, while fields were called commutative fields.
+
+
+
+
+^ Beachy & Blair (2006, Definition 4.1.1, p. 181)
+
+^ Fraleigh (1976, p. 10)
+
+^ McCoy (1968, p. 16)
+
+^ Clark (1984, Chapter 3).
+
+^ Mines, Richman & Ruitenburg (1988, §II.2). See also Heyting field.
+
+^ Beachy & Blair (2006, p. 120, Ch. 3)
+
+^ Artin (1991, Chapter 13.4)
+
+^ Lidl & Niederreiter (2008, Example 1.62)
+
+^ Beachy & Blair (2006, p. 120, Ch. 3)
+
+^ Sharpe (1987, Theorem 1.3.2)
+
+^ Adamson (2007, §I.2, p. 10)
+
+^ Escofier (2012, 14.4.2)
+
+^ Adamson (2007, section I.3)
+
+^ Adamson (2007, p. 12)
+
+^ Lidl & Niederreiter (2008, Lemma 2.1, Theorem 2.2)
+
+^ Lidl & Niederreiter (2008, Theorem 1.2.5)
+
+^ Kleiner (2007, p. 63)
+
+^ Kiernan (1971, p. 50)
+
+^ Bourbaki (1994, pp. 75–76)
+
+^ Corry (2004, p.24)
+
+^ Earliest Known Uses of Some of the Words of Mathematics (F)
+
+^ Dirichlet (1871, p. 42), translation by Kleiner (2007, p. 66)
+
+^ Bourbaki (1994, p. 81)
+
+^ Corry (2004, p. 33). See also Fricke & Weber (1924).
+
+^ Bourbaki (1994, p. 92)
+
+^ Lang (2002, §II.1)
+
+^ Artin (1991, Section 10.6)
+
+^ Eisenbud (1995, p. 60)
+
+^ Jacobson (2009, p. 213)
+
+^ Artin (1991, Theorem 13.3.4)
+
+^ Artin (1991, Corollary 13.3.6)
+
+^ Bourbaki (1988, Chapter V, §14, No. 2, Theorem 1)
+
+^ Artin (1991, Section 13.9)
+
+^ Banaschewski (1992). Mathoverflow post
+
+^ Ribenboim (1999, p. 186, §7.1)
+
+^ Bourbaki (1988, Chapter VI, §2.3, Corollary 1)
+
+^ Lorenz (2008, §22, Theorem 1)
+
+^ Prestel (1984, Proposition 1.22)
+
+^ Prestel (1984, Theorem 1.23)
+
+^ Warner (1989, Chapter 14)
+
+^ Gouvêa (1997, §5.7)
+
+^ Serre (1979)
+
+^ Scholze (2014)
+
+^ van der Put & Singer (2003, §1)
+
+^ Lang (2002, Theorem V.4.6)
+
+^ Lang (2002, §VI.1)
+
+^ Lang (2002, Example VI.2.6)
+
+^ Borceux & Janelidze (2001). See also Étale fundamental group.
+
+^ Gouvêa (2012, Theorem 6.4.8)
+
+^ Marker, Messmer & Pillay (2006, Corollary 1.2)
+
+^ Schoutens (2002, §2)
+
+^ Kuhlmann (2000)
+
+^ Jannsen & Wingberg (1982)
+
+^ Serre (2002)
+
+^ Artin (1991, §3.3)
+
+^ Eisenbud (1995, §13, Theorem A)
+
+^ Washington (1997)
+
+^ Serre (1978, Chapter IV) harvtxt error: no target: CITEREFSerre1978 (help)
+
+^ Serre (1992)
+
+^ Tits (1957)
+
+^ Conway (1976)
+
+^ Baez (2002)
+
+
+References[edit]
+
+
+
+The Wikibook Abstract algebra has a page on the topic of: Fields
+
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}
+.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Adamson, I. T. (2007), Introduction to Field Theory, Dover Publications, ISBN 978-0-486-46266-0
+Allenby, R. B. J. T. (1991), Rings, Fields and Groups, Butterworth-Heinemann, ISBN 978-0-340-54440-2
+Artin, Michael (1991), Algebra, Prentice Hall, ISBN 978-0-13-004763-2, especially Chapter 13
+Artin, Emil; Schreier, Otto (1927), "Eine Kennzeichnung der reell abgeschlossenen Körper", Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg (in German), 5: 225–231, doi:10.1007/BF02952522, ISSN 0025-5858, JFM 53.0144.01, S2CID 121547404
+Ax, James (1968), "The elementary theory of finite fields", Ann. of Math., 2, 88 (2): 239–271, doi:10.2307/1970573, JSTOR 1970573
+Baez, John C. (2002), "The octonions", Bulletin of the American Mathematical Society, 39 (2): 145–205, arXiv:math/0105155, doi:10.1090/S0273-0979-01-00934-X, S2CID 586512
+Banaschewski, Bernhard (1992), "Algebraic closure without choice.", Z. Math. Logik Grundlagen Math., 38 (4): 383–385, doi:10.1002/malq.19920380136, Zbl 0739.03027
+Beachy, John. A; Blair, William D. (2006), Abstract Algebra (3 ed.), Waveland Press, ISBN 1-57766-443-4
+Blyth, T. S.; Robertson, E. F. (1985), Groups, rings and fields: Algebra through practice, Cambridge University Press. See especially Book 3 (ISBN 0-521-27288-2) and Book 6 (ISBN 0-521-27291-2).
+Borceux, Francis; Janelidze, George (2001), Galois theories, Cambridge University Press, ISBN 0-521-80309-8, Zbl 0978.12004
+Bourbaki, Nicolas (1994), Elements of the history of mathematics, Springer, doi:10.1007/978-3-642-61693-8, ISBN 3-540-19376-6, MR 1290116
+Bourbaki, Nicolas (1988), Algebra II. Chapters 4–7, Springer, ISBN 0-387-19375-8
+Cassels, J. W. S. (1986), Local fields, London Mathematical Society Student Texts, 3, Cambridge University Press, doi:10.1017/CBO9781139171885, ISBN 0-521-30484-9, MR 0861410
+Clark, A. (1984), Elements of Abstract Algebra, Dover Books on Mathematics Series, Dover, ISBN 978-0-486-64725-8
+Conway, John Horton (1976), On Numbers and Games, Academic Press
+Corry, Leo (2004), Modern algebra and the rise of mathematical structures (2nd ed.), Birkhäuser, ISBN 3-7643-7002-5, Zbl 1044.01008
+Dirichlet, Peter Gustav Lejeune (1871),  Dedekind, Richard (ed.), Vorlesungen über Zahlentheorie (Lectures on Number Theory) (in German), 1 (2nd ed.), Braunschweig, Germany: Friedrich Vieweg und Sohn
+Eisenbud, David (1995), Commutative algebra with a view toward algebraic geometry, Graduate Texts in Mathematics, 150, New York: Springer-Verlag, doi:10.1007/978-1-4612-5350-1, ISBN 0-387-94268-8, MR 1322960
+Escofier, J. P. (2012), Galois Theory, Springer, ISBN 978-1-4613-0191-2
+Fraleigh, John B. (1976), A First Course In Abstract Algebra (2nd ed.), Reading: Addison-Wesley, ISBN 0-201-01984-1
+Fricke, Robert; Weber, Heinrich Martin (1924), Lehrbuch der Algebra (in German), Vieweg, JFM 50.0042.03
+Gouvêa, Fernando Q. (1997), p-adic numbers, Universitext (2nd ed.), Springer
+Gouvêa, Fernando Q. (2012), A Guide to Groups, Rings, and Fields, Mathematical Association of America, ISBN 978-0-88385-355-9
+"Field", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Hensel, Kurt (1904), "Über eine neue Begründung der Theorie der algebraischen Zahlen", Journal für die Reine und Angewandte Mathematik (in German), 128: 1–32, ISSN 0075-4102, JFM 35.0227.01
+Jacobson, Nathan (2009), Basic algebra, 1 (2nd ed.), Dover, ISBN 978-0-486-47189-1
+Jannsen, Uwe; Wingberg, Kay (1982), "Die Struktur der absoluten Galoisgruppe 𝔭-adischer Zahlkörper. [The structure of the absolute Galois group of 𝔭-adic number fields]", Invent. Math., 70 (1): 71–98, Bibcode:1982InMat..70...71J, doi:10.1007/bf01393199, MR 0679774, S2CID 119378923
+Kleiner, Israel (2007),  Kleiner, Israel (ed.), A history of abstract algebra, Birkhäuser, doi:10.1007/978-0-8176-4685-1, ISBN 978-0-8176-4684-4, MR 2347309
+Kiernan, B. Melvin (1971), "The development of Galois theory from Lagrange to Artin", Archive for History of Exact Sciences, 8 (1–2): 40–154, doi:10.1007/BF00327219, MR 1554154, S2CID 121442989
+Kuhlmann, Salma (2000), Ordered exponential fields, Fields Institute Monographs, 12, American Mathematical Society, ISBN 0-8218-0943-1, MR 1760173
+Lang, Serge (2002), Algebra, Graduate Texts in Mathematics, 211 (3rd ed.), Springer, doi:10.1007/978-1-4613-0041-0, ISBN 0-387-95385-X
+Lidl, Rudolf; Niederreiter, Harald (2008), Finite fields (2nd ed.), Cambridge University Press, ISBN 978-0-521-06567-2, Zbl 1139.11053
+Lorenz, Falko (2008), Algebra, Volume II: Fields with Structures, Algebras and Advanced Topics, Springer, ISBN 978-0-387-72487-4
+Marker, David; Messmer, Margit; Pillay, Anand (2006), Model theory of fields, Lecture Notes in Logic, 5 (2nd ed.), Association for Symbolic Logic, CiteSeerX 10.1.1.36.8448, ISBN 978-1-56881-282-3, MR 2215060
+McCoy, Neal H. (1968), Introduction To Modern Algebra, Revised Edition, Boston: Allyn and Bacon, LCCN 68015225
+Mines, Ray; Richman, Fred; Ruitenburg, Wim (1988), A course in constructive algebra, Universitext, Springer, doi:10.1007/978-1-4419-8640-5, ISBN 0-387-96640-4, MR 0919949
+Moore, E. Hastings (1893), "A doubly-infinite system of simple groups", Bulletin of the American Mathematical Society, 3 (3): 73–78, doi:10.1090/S0002-9904-1893-00178-X, MR 1557275
+Prestel, Alexander (1984), Lectures on formally real fields, Lecture Notes in Mathematics, 1093, Springer, doi:10.1007/BFb0101548, ISBN 3-540-13885-4, MR 0769847
+Ribenboim, Paulo (1999), The theory of classical valuations, Springer Monographs in Mathematics, Springer, doi:10.1007/978-1-4612-0551-7, ISBN 0-387-98525-5, MR 1677964
+Scholze, Peter (2014), "Perfectoid spaces and their Applications" (PDF), Proceedings of the International Congress of Mathematicians 2014, ISBN 978-89-6105-804-9
+Schoutens, Hans (2002), The Use of Ultraproducts in Commutative Algebra, Lecture Notes in Mathematics, 1999, Springer, ISBN 978-3-642-13367-1
+Serre, Jean-Pierre (1996) [1978], A course in arithmetic. Translation of Cours d'arithmetique, Graduate Text in Mathematics, 7 (2nd ed.), Springer, ISBN 9780387900407, Zbl 0432.10001
+Serre, Jean-Pierre (1979), Local fields, Graduate Texts in Mathematics, 67, Springer, ISBN 0-387-90424-7, MR 0554237
+Serre, Jean-Pierre (1992), Topics in Galois theory, Jones and Bartlett Publishers, ISBN 0-86720-210-6, Zbl 0746.12001
+Serre, Jean-Pierre (2002), Galois cohomology, Springer Monographs in Mathematics, Translated from the French by Patrick Ion, Berlin, New York: Springer-Verlag, ISBN 978-3-540-42192-4, MR 1867431, Zbl 1004.12003
+Sharpe, David (1987), Rings and factorization, Cambridge University Press, ISBN 0-521-33718-6, Zbl 0674.13008
+Steinitz, Ernst (1910), "Algebraische Theorie der Körper" [Algebraic Theory of Fields], Journal für die reine und angewandte Mathematik, 1910 (137): 167–309, doi:10.1515/crll.1910.137.167, ISSN 0075-4102, JFM 41.0445.03, S2CID 120807300
+Tits, Jacques (1957), "Sur les analogues algébriques des groupes semi-simples complexes", Colloque d'algèbre supérieure, tenu à Bruxelles du 19 au 22 décembre 1956, Centre Belge de Recherches Mathématiques Établissements Ceuterick, Louvain, Paris: Librairie Gauthier-Villars, pp. 261–289
+van der Put, M.; Singer, M. F. (2003), Galois Theory of Linear Differential Equations, Grundlehren der mathematischen Wissenschaften, 328, Springer
+von Staudt, Karl Georg Christian (1857), Beiträge zur Geometrie der Lage (Contributions to the Geometry of Position), 2, Nürnberg (Germany): Bauer and Raspe
+Wallace, D. A. R. (1998), Groups, Rings, and Fields, SUMS, 151, Springer
+Warner, Seth (1989), Topological fields, North-Holland, ISBN 0-444-87429-1, Zbl 0683.12014
+Washington, Lawrence C. (1997), Introduction to Cyclotomic Fields, Graduate Texts in Mathematics, 83 (2nd ed.), Springer-Verlag, doi:10.1007/978-1-4612-1934-7, ISBN 0-387-94762-0, MR 1421575
+Weber, Heinrich (1893), "Die allgemeinen Grundlagen der Galois'schen Gleichungstheorie", Mathematische Annalen (in German), 43 (4): 521–549, doi:10.1007/BF01446451, ISSN 0025-5831, JFM 25.0137.01, S2CID 120528969
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Field_(mathematics)&oldid=1060784495"
+		Categories: Field (mathematics)Algebraic structuresAbstract algebraHidden categories: Harv and Sfn no-target errorsArticles with short descriptionShort description is different from WikidataGood articlesAll articles with unsourced statementsArticles with unsourced statements from September 2018CS1 German-language sources (de)
+	

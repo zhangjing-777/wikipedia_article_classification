@@ -1,0 +1,844 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		  A randomly generated bitmap does not resemble typical pictures.
+  A typical picture does not resemble a random bitmap.
+In theoretical computer science, smoothed analysis is a way of measuring the complexity of an algorithm. Since its introduction in 2001, smoothed analysis has been used as a basis for considerable research, for problems ranging from mathematical programming, numerical analysis, machine learning, and data mining.[1] It can give a more realistic analysis of the practical performance (e.g., running time, success rate, approximation quality) of the algorithm compared to analysis that uses worst-case or average-case scenarios. 
+Smoothed analysis is a hybrid of worst-case and average-case analyses that inherits advantages of both. It measures the expected performance of algorithms under slight random perturbations of worst-case inputs. If the smoothed complexity of an algorithm is low, then it is unlikely that the algorithm will take a long time to solve practical instances whose data are subject to slight noises and imprecisions. Smoothed complexity results are strong probabilistic results, roughly stating that, in every large enough neighbourhood of the space of inputs, most inputs are easily solvable. Thus, a low smoothed complexity means that the hardness of inputs is a "brittle" property.
+Although worst-case analysis has been widely successful in explaining the practical performance of many algorithms,  this style of analysis gives misleading results for a number of problems. Worst-case complexity measures the time it takes to solve any input, although hard-to-solve inputs might never come up in practice. In such cases, the worst-case running time can be much worse than the observed running time in practice. For example, the worst-case complexity of solving a linear program using the simplex algorithm is exponential,[2] although the observed number of steps in practice is roughly linear.[3][4] The simplex algorithm is in fact much faster than the ellipsoid method in practice, although the latter has polynomial-time worst-case complexity.
+Average-case analysis was first introduced to overcome the limitations of worst-case analysis. However, the resulting average-case complexity depends heavily on the probability distribution that is chosen over the input. The actual inputs and distribution of inputs may be different in practice from the assumptions made during the analysis: a random input may be very unlike a typical input. Because of this choice of data model, a theoretical average-case result might say little about practical performance of the algorithm.
+Smoothed analysis generalizes both worst-case and average-case analysis and inherits strengths of both. It is intended to be much more general than average-case complexity, while still allowing low complexity bounds to be proven.
+
+Contents
+
+1 History
+2 Examples
+
+2.1 Simplex algorithm for linear programming
+2.2 Local search for combinatorial optimization
+
+
+3 See also
+4 References
+
+
+
+History[edit]
+ACM and the European Association for Theoretical Computer Science awarded the 2008 Gödel Prize to Daniel Spielman and Shanghua Teng for developing smoothed analysis. In 2010 Spielman received the Nevanlinna Prize for developing smoothed analysis.  Spielman and Teng's JACM paper "Smoothed analysis of algorithms: Why the simplex algorithm usually takes polynomial time" was also one of the three winners of the 2009 Fulkerson Prize sponsored jointly by the Mathematical Programming Society (MPS)  and the American Mathematical Society (AMS).
+
+Examples[edit]
+Simplex algorithm for linear programming[edit]
+The simplex algorithm is a very efficient algorithm in practice, and it is one of the dominant algorithms for linear programming in practice. On practical problems, the number of steps taken by the algorithm is linear in the number of variables and constraints.[3][4] Yet in the theoretical worst case it takes exponentially many steps for most successfully analyzed pivot rules. This was one of the main motivations for developing smoothed analysis.[5]
+For the perturbation model, we assume that the input data is perturbed by noise from a Gaussian distribution. For normalization purposes, we assume the unperturbed data 
+  
+    
+      
+        
+          
+            
+              
+                A
+              
+              ¯
+            
+          
+        
+        ∈
+        
+          
+            R
+          
+          
+            n
+            ×
+            d
+          
+        
+        ,
+        
+          
+            
+              
+                b
+              
+              ¯
+            
+          
+        
+        ∈
+        
+          
+            R
+          
+          
+            n
+          
+        
+        ,
+        
+          c
+        
+        ∈
+        
+          
+            R
+          
+          
+            d
+          
+        
+      
+    
+    {\displaystyle {\bar {\mathbf {A} }}\in \mathbb {R} ^{n\times d},{\bar {\mathbf {b} }}\in \mathbb {R} ^{n},\mathbf {c} \in \mathbb {R} ^{d}}
+  
+ satisfies 
+  
+    
+      
+        ‖
+        (
+        
+          
+            
+              
+                
+                  a
+                
+                ¯
+              
+            
+          
+          
+            i
+          
+        
+        ,
+        
+          
+            
+              
+                b
+                ¯
+              
+            
+          
+          
+            i
+          
+        
+        )
+        
+          ‖
+          
+            2
+          
+        
+        ≤
+        1
+      
+    
+    {\displaystyle \|({\bar {\mathbf {a} }}_{i},{\bar {b}}_{i})\|_{2}\leq 1}
+  
+ for all rows 
+  
+    
+      
+        (
+        
+          
+            
+              
+                
+                  a
+                
+                ¯
+              
+            
+          
+          
+            i
+          
+        
+        ,
+        
+          
+            
+              
+                b
+                ¯
+              
+            
+          
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle ({\bar {\mathbf {a} }}_{i},{\bar {b}}_{i})}
+  
+ of the matrix 
+  
+    
+      
+        (
+        
+          
+            
+              
+                A
+              
+              ¯
+            
+          
+        
+        ,
+        
+          
+            
+              
+                b
+              
+              ¯
+            
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle ({\bar {\mathbf {A} }},{\bar {\mathbf {b} }}).}
+  
+ The noise 
+  
+    
+      
+        (
+        
+          
+            
+              
+                A
+              
+              ^
+            
+          
+        
+        ,
+        
+          
+            
+              
+                b
+              
+              ^
+            
+          
+        
+        )
+      
+    
+    {\displaystyle ({\hat {\mathbf {A} }},{\hat {\mathbf {b} }})}
+  
+ has independent entries sampled from a Gaussian distribution with mean 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  
+ and standard deviation 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+. We set 
+  
+    
+      
+        
+          A
+        
+        =
+        
+          
+            
+              
+                A
+              
+              ¯
+            
+          
+        
+        +
+        
+          
+            
+              
+                A
+              
+              ^
+            
+          
+        
+        ,
+        
+          b
+        
+        =
+        
+          
+            
+              
+                b
+              
+              ¯
+            
+          
+        
+        +
+        
+          
+            
+              
+                b
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {A} ={\bar {\mathbf {A} }}+{\hat {\mathbf {A} }},\mathbf {b} ={\bar {\mathbf {b} }}+{\hat {\mathbf {b} }}}
+  
+. The smoothed input data consists of the linear program
+
+maximize
+
+  
+    
+      
+        
+          
+            c
+            
+              T
+            
+          
+        
+        ⋅
+        
+          x
+        
+      
+    
+    {\displaystyle \mathbf {c^{T}} \cdot \mathbf {x} }
+  
+
+subject to
+
+  
+    
+      
+        
+          A
+        
+        
+          x
+        
+        ≤
+        
+          b
+        
+      
+    
+    {\displaystyle \mathbf {A} \mathbf {x} \leq \mathbf {b} }
+  
+.
+If the running time of our algorithm on data 
+  
+    
+      
+        
+          A
+        
+        ,
+        
+          b
+        
+        ,
+        
+          c
+        
+      
+    
+    {\displaystyle \mathbf {A} ,\mathbf {b} ,\mathbf {c} }
+  
+ is given by 
+  
+    
+      
+        T
+        (
+        
+          A
+        
+        ,
+        
+          b
+        
+        ,
+        
+          c
+        
+        )
+      
+    
+    {\displaystyle T(\mathbf {A} ,\mathbf {b} ,\mathbf {c} )}
+  
+ then the smoothed complexity of the simplex method is[6]
+
+
+  
+    
+      
+        
+          C
+          
+            s
+          
+        
+        (
+        n
+        ,
+        d
+        ,
+        σ
+        )
+        :=
+        
+          max
+          
+            
+              
+                
+                  
+                    A
+                  
+                  ¯
+                
+              
+            
+            ,
+            
+              
+                
+                  
+                    b
+                  
+                  ¯
+                
+              
+            
+            ,
+            
+              c
+            
+          
+        
+         
+        
+          
+            E
+          
+          
+            
+              
+                
+                  
+                    A
+                  
+                  ^
+                
+              
+            
+            ,
+            
+              
+                
+                  
+                    b
+                  
+                  ^
+                
+              
+            
+          
+        
+        [
+        T
+        (
+        
+          
+            
+              
+                A
+              
+              ¯
+            
+          
+        
+        +
+        
+          
+            
+              
+                A
+              
+              ^
+            
+          
+        
+        ,
+        
+          
+            
+              
+                b
+              
+              ¯
+            
+          
+        
+        +
+        
+          
+            
+              
+                b
+              
+              ^
+            
+          
+        
+        ,
+        
+          c
+        
+        )
+        ]
+        =
+        
+          
+            p
+            o
+            l
+            y
+          
+        
+        (
+        d
+        ,
+        log
+        ⁡
+        n
+        ,
+        
+          σ
+          
+            −
+            1
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle C_{s}(n,d,\sigma ):=\max _{{\bar {\mathbf {A} }},{\bar {\mathbf {b} }},\mathbf {c} }~\mathbb {E} _{{\hat {\mathbf {A} }},{\hat {\mathbf {b} }}}[T({\bar {\mathbf {A} }}+{\hat {\mathbf {A} }},{\bar {\mathbf {b} }}+{\hat {\mathbf {b} }},\mathbf {c} )]={\rm {poly}}(d,\log n,\sigma ^{-1}).}
+  
+
+This bound holds for a specific pivot rule called the shadow vertex rule. The shadow vertex rule is slower than more commonly used pivot rules such as Dantzig's rule or the steepest edge rule[7] but it has properties that make it very well-suited to probabilistic analysis.[8]
+
+Local search for combinatorial optimization[edit]
+A number of local search algorithms have bad worst-case running times but perform well in practice.
+One example is the 2-opt heuristic for the traveling salesman problem. It can take exponentially many iterations until it finds a locally optimal solution, although in practice the running time is subquadratic in the number of vertices.[9] The approximation ratio, which is the ratio between the length of the output of the algorithm and the length of the optimal solution, tends to be good in practice but can also be bad in the theoretical worst case.
+One class of problem instances can be given by 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ points in the box 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        
+          ]
+          
+            d
+          
+        
+      
+    
+    {\displaystyle [0,1]^{d}}
+  
+, where their pairwise distances come from a norm. Already in two dimensions, the 2-opt heuristic might take exponentially many iterations until finding a local optimum. In this setting, one can analyze the perturbation model where the vertices 
+  
+    
+      
+        
+          v
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          v
+          
+            n
+          
+        
+      
+    
+    {\displaystyle v_{1},\dots ,v_{n}}
+  
+ are independently sampled according to probability distributions with probability density function 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          f
+          
+            n
+          
+        
+        :
+        [
+        0
+        ,
+        1
+        
+          ]
+          
+            d
+          
+        
+        →
+        [
+        0
+        ,
+        θ
+        ]
+      
+    
+    {\displaystyle f_{1},\dots ,f_{n}:[0,1]^{d}\rightarrow [0,\theta ]}
+  
+. For 
+  
+    
+      
+        θ
+        =
+        1
+      
+    
+    {\displaystyle \theta =1}
+  
+, the points are uniformly distributed. When 
+  
+    
+      
+        θ
+        >
+        1
+      
+    
+    {\displaystyle \theta >1}
+  
+ is big, the adversary has more ability to increase the likelihood of hard problem instances. In this perturbation model, the expected number of iterations of the 2-opt heuristic, as well as the approximation ratios of resulting output, are bounded by polynomial functions of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ and 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+.[9]
+Another local search algorithm for which smoothed analysis was successful is the k-means method. Given 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ points in 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        
+          ]
+          
+            d
+          
+        
+      
+    
+    {\displaystyle [0,1]^{d}}
+  
+, it is NP-hard to find a good partition into clusters with small pairwise distances between points in the same cluster. Lloyd's algorithm is widely used and very fast in practice, although it can take 
+  
+    
+      
+        
+          e
+          
+            Ω
+            (
+            n
+            )
+          
+        
+      
+    
+    {\displaystyle e^{\Omega (n)}}
+  
+ iterations in the worst case to find a locally optimal solution. However, assuming that the points have independent Gaussian distributions, each with expectation in 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        
+          ]
+          
+            d
+          
+        
+      
+    
+    {\displaystyle [0,1]^{d}}
+  
+ and standard deviation 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+, the expected number of iterations of the algorithm is bounded by a polynomial in 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+, 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+ and 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+.
+[10]
+
+See also[edit]
+Average-case complexity
+Pseudo-polynomial time
+Worst-case complexity
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Spielman, Daniel; Teng, Shang-Hua (2009), "Smoothed analysis: an attempt to explain the behavior of algorithms in practice" (PDF), Communications of the ACM, ACM, 52 (10): 76–84, doi:10.1145/1562764.1562785
+
+^ Amenta, Nina; Ziegler, Günter (1999), "Deformed products and maximal shadows of polytopes", Contemporary Mathematics, American Mathematical Society, 223: 10–19, CiteSeerX 10.1.1.80.3241, doi:10.1090/conm/223, ISBN 9780821806746, MR 1661377
+
+^ a b Shamir, Ron (1987), "The Efficiency of the Simplex Method: A Survey", Management Science, 33 (3): 301–334, doi:10.1287/mnsc.33.3.301
+
+^ a b Andrei, Neculai (2004), "Andrei, Neculai. "On the complexity of MINOS package for linear programming", Studies in Informatics and Control, 13 (1): 35–46
+
+^ Spielman, Daniel; Teng, Shang-Hua (2001), "Smoothed analysis of algorithms: why the simplex algorithm usually takes polynomial time", Proceedings of the Thirty-Third Annual ACM Symposium on Theory of Computing, ACM: 296–305, arXiv:cs/0111050, Bibcode:2001cs.......11050S, doi:10.1145/380752.380813, ISBN 978-1-58113-349-3
+
+^ Dadush, Daniel; Huiberts, Sophie (2018), "A friendly smoothed analysis of the simplex method", Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing: 390–403, arXiv:1711.05667, doi:10.1145/3188745.3188826, ISBN 9781450355599
+
+^ Borgwardt, Karl-Heinz; Damm, Renate; Donig, Rudolf; Joas, Gabriele (1993), "Empirical studies on the average efficiency of simplex variants under rotation symmetry", ORSA Journal on Computing, Operations Research Society of America, 5 (3): 249–260, doi:10.1287/ijoc.5.3.249
+
+^ Borgwardt, Karl-Heinz (1987), The Simplex Method: A Probabilistic Analysis, Algorithms and Combinatorics, 1, Springer-Verlag, doi:10.1007/978-3-642-61578-8, ISBN 978-3-540-17096-9
+
+^ a b Englert, Matthias; Röglin, Heiko; Vöcking, Berthold (2007), "Worst Case and Probabilistic Analysis of the 2-Opt Algorithm for the TSP", Proceedings of the Eighteenth Annual ACM-SIAM Symposium on Discrete Algorithms, 68: 190–264, doi:10.1007/s00453-013-9801-4
+
+^ Arthur, David; Manthey, Bodo; Röglin, Heiko (2011), "Smoothed Analysis of the k-Means Method", Journal of the ACM, 58 (5): 1–31, doi:10.1145/2027216.2027217
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Smoothed_analysis&oldid=1060272249"
+		Categories: Computational complexity theoryMathematical optimization
+	

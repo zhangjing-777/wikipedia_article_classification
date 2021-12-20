@@ -1,0 +1,2106 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Computational method
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}For an elementary treatment, see Factorization § Polynomials.
+In mathematics and computer algebra, factorization of polynomials or polynomial factorization  expresses a polynomial with coefficients in a given field or in the integers as the product of irreducible factors with coefficients in the same domain. Polynomial factorization is one of the fundamental components of computer algebra systems.
+The first polynomial factorization algorithm was published by Theodor von Schubert in 1793.[1] Leopold Kronecker rediscovered Schubert's algorithm in 1882 and extended it to multivariate polynomials and coefficients in an algebraic extension. But most of the knowledge on this topic is not older than circa 1965 and the first computer algebra systems:
+
+
+When the long-known finite step algorithms were first put on computers, they turned out to be highly inefficient. The fact that almost any uni- or multivariate polynomial of degree up to 100 and with coefficients of a moderate size (up to 100 bits) can be factored by modern algorithms in a few minutes of computer time indicates how successfully this problem has been attacked during the past fifteen years. (Erich Kaltofen, 1982)
+
+
+Nowadays, modern algorithms and computers can quickly factor univariate polynomials of degree more than 1000 having coefficients with thousands of digits.[2]  For this purpose, even for factoring over the rational numbers and number fields, a fundamental step is a factorization of a polynomial over a finite field.
+
+Contents
+
+1 Formulation of the question
+2 Primitive part–content factorization
+3 Square-free factorization
+4 Classical methods
+
+4.1 Obtaining linear factors
+4.2 Kronecker's method
+
+
+5 Modern methods
+
+5.1 Factoring over finite fields
+5.2 Factoring univariate polynomials over the integers
+5.3 Factoring over algebraic extensions (Trager's method)
+
+
+6 See also
+7 Bibliography
+8 Further reading
+
+
+
+Formulation of the question[edit]
+Polynomial rings over the integers or over a field are unique factorization domains. This means that every element of these rings is a product of a constant and a product of irreducible polynomials (those that are not the product of two non-constant polynomials). Moreover, this decomposition is unique up to multiplication of the factors by invertible constants.
+Factorization depends on the base field.  For example, the fundamental theorem of algebra, which states that every polynomial with complex coefficients has complex roots, implies that a polynomial with integer coefficients can be factored (with root-finding algorithms) into linear factors over the complex field C. Similarly, over the field of reals, the irreducible factors have degree at most two, while there are polynomials of any degree that are irreducible over the field of rationals Q.
+The question of polynomial factorization makes sense only for coefficients in a computable field whose every element may be represented in a computer and for which there are algorithms for the arithmetic operations. However, this is not a sufficient condition: Fröhlich and Shepherdson give examples of such fields for which no factorization algorithm can exist.[3]
+The fields of coefficients for which factorization algorithms are known include prime fields (i.e., the field of rationals and prime modular arithmetic) and their finitely generated field extensions. Integer coefficients are also tractable. Kronecker's classical method is interesting only from a historical point of view; modern algorithms proceed by a succession of:
+
+Square-free factorization
+Factorization over finite fields
+and reductions:
+
+From the multivariate case to the univariate case.
+From coefficients in a purely transcendental extension to the multivariate case over the ground field (see below).
+From coefficients in an algebraic extension to coefficients in the ground field (see below).
+From rational coefficients to integer coefficients (see below).
+From integer coefficients to coefficients in a prime field with p elements, for a well chosen p (see below).
+Primitive part–content factorization[edit]
+See also: Content (algebra) and Gauss's lemma (polynomial)
+In this section, we show that factoring over Q (the rational numbers) and over Z (the integers) is essentially the same problem.
+The content of a polynomial p ∈ Z[X], denoted "cont(p)",  is, up to its sign, the greatest common divisor of its coefficients. The primitive part of p is primpart(p)=p/cont(p), which is a primitive polynomial with integer coefficients. This defines a factorization of p into the product of an integer and a primitive polynomial. This factorization is unique up to the sign of the content. It is a usual convention to choose the sign of the content such that the leading coefficient of the primitive part is positive.
+For example,
+
+
+  
+    
+      
+        −
+        10
+        
+          x
+          
+            2
+          
+        
+        +
+        5
+        x
+        +
+        5
+        =
+        (
+        −
+        5
+        )
+        (
+        2
+        
+          x
+          
+            2
+          
+        
+        −
+        x
+        −
+        1
+        )
+        
+      
+    
+    {\displaystyle -10x^{2}+5x+5=(-5)(2x^{2}-x-1)\,}
+  
+
+is a factorization into content and primitive part.
+Every polynomial q with rational coefficients may be written
+
+
+  
+    
+      
+        q
+        =
+        
+          
+            p
+            c
+          
+        
+        ,
+      
+    
+    {\displaystyle q={\frac {p}{c}},}
+  
+
+where p ∈ Z[X] and c ∈ Z: it suffices to take for c a multiple of all denominators of the coefficients of q (for example their product) and p = cq. The content of q is defined as:
+
+
+  
+    
+      
+        
+          cont
+        
+        (
+        q
+        )
+        =
+        
+          
+            
+              
+                cont
+              
+              (
+              p
+              )
+            
+            c
+          
+        
+        ,
+      
+    
+    {\displaystyle {\text{cont}}(q)={\frac {{\text{cont}}(p)}{c}},}
+  
+
+and the primitive part of q is that of p. As for the polynomials with integer coefficients, this defines a factorization into a rational number and a primitive polynomial with integer coefficients. This factorization is also unique up to the choice of a sign.
+For example,
+
+
+  
+    
+      
+        
+          
+            
+              x
+              
+                5
+              
+            
+            3
+          
+        
+        +
+        
+          
+            
+              7
+              
+                x
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        +
+        2
+        x
+        +
+        1
+        =
+        
+          
+            
+              2
+              
+                x
+                
+                  5
+                
+              
+              +
+              21
+              
+                x
+                
+                  2
+                
+              
+              +
+              12
+              x
+              +
+              6
+            
+            6
+          
+        
+      
+    
+    {\displaystyle {\frac {x^{5}}{3}}+{\frac {7x^{2}}{2}}+2x+1={\frac {2x^{5}+21x^{2}+12x+6}{6}}}
+  
+
+is a factorization into content and primitive part.
+Gauss proved that the product of two primitive polynomials is also primitive (Gauss's lemma). This implies that a primitive polynomial is irreducible over the rationals if and only if it is irreducible over the integers. This implies also that the factorization over the rationals of a polynomial with rational coefficients is the same as the factorization over the integers of its primitive part. Similarly, the factorization over the integers of a polynomial with integer coefficients is the product of the factorization of its primitive part by the factorization of its content.
+In other words, an integer GCD computation reduces the factorization of a polynomial over the rationals to the factorization of a primitive polynomial with integer coefficients, and the factorization over the integers to the factorization of an integer and a primitive polynomial.
+Everything that precedes remains true if Z is replaced by a polynomial ring over a field F and Q is replaced by a field of rational functions over F in the same variables, with the only difference that "up to a sign" must be replaced by "up to the multiplication by an invertible constant in F". This reduces the factorization over a purely transcendental field extension of F to the factorization of multivariate polynomials over F.
+
+Square-free factorization[edit]
+Main article: Square-free polynomial
+If two or more factors of a polynomial are identical, then the polynomial is a multiple of the square of this factor. The multiple factor is also a factor of the polynomial's derivative (with respect to any of the variables, if several). 
+For univariate polynomials, multiple factors are equivalent to multiple roots (over a suitable extension field). For univariate polynomials over the rationals (or more generally over a field of characteristic zero), Yun's algorithm exploits this to efficiently factorize the polynomial into square-free factors, that is, factors that are not a multiple of a square, performing a sequence of GCD computations starting with gcd(f(x), f '(x)). To factorize the initial polynomial, it suffices to factorize each square-free factor. Square-free factorization is therefore the first step in most polynomial factorization algorithms.
+Yun's algorithm extends this to the multivariate case by considering a multivariate polynomial as a univariate polynomial over a polynomial ring.
+In the case of a polynomial over a finite field, Yun's algorithm applies only if the degree is smaller than the characteristic, because, otherwise, the derivative of a non-zero polynomial may be zero (over the field with p elements, the derivative of a polynomial in xp is always zero). Nevertheless, a succession of GCD computations, starting from the polynomial and its derivative, allows one to compute the square-free decomposition; see Polynomial factorization over finite fields#Square-free factorization.
+
+Classical methods[edit]
+This section describes textbook methods that can be convenient when computing by hand. These methods are not used for computer computations because they use integer factorization, which is currently slower than polynomial factorization.
+The two methods that follow start from a univariate polynomial with integer coefficients for finding factors that are also polynomials with integer coefficients.
+
+Obtaining linear factors[edit]
+All linear factors with rational coefficients can be found using the rational root test. If the polynomial to be factored is 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        
+          x
+          
+            n
+          
+        
+        +
+        
+          a
+          
+            n
+            −
+            1
+          
+        
+        
+          x
+          
+            n
+            −
+            1
+          
+        
+        +
+        ⋯
+        +
+        
+          a
+          
+            1
+          
+        
+        x
+        +
+        
+          a
+          
+            0
+          
+        
+      
+    
+    {\displaystyle a_{n}x^{n}+a_{n-1}x^{n-1}+\cdots +a_{1}x+a_{0}}
+  
+, then all possible linear factors are of the form 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+        x
+        −
+        
+          b
+          
+            0
+          
+        
+      
+    
+    {\displaystyle b_{1}x-b_{0}}
+  
+, where 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle b_{1}}
+  
+ is an integer factor of 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{n}}
+  
+ and 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+      
+    
+    {\displaystyle b_{0}}
+  
+ is an integer factor of 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+      
+    
+    {\displaystyle a_{0}}
+  
+. All possible combinations of integer factors can be tested for validity, and each valid one can be factored out using polynomial long division. If the original polynomial is the product of factors at least two of which are of degree 2 or higher, this technique only provides a partial factorization; otherwise the factorization is complete. In particular, if there is exactly one non-linear factor, it will be the polynomial left after all linear factors have been factorized out. In the case of a cubic polynomial, if the cubic is factorizable at all, the rational root test gives a complete factorization, either into a linear factor and an irreducible quadratic factor, or into three linear factors.
+
+Kronecker's method[edit]
+Kronecker's method is aimed to factor univariate polynomials with integer coefficients into polynomials with integer coefficients. 
+The method uses the fact that evaluating integer polynomials at integer values must produce integers. That is, if 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ is a polynomial with integer coefficients, then 
+  
+    
+      
+        f
+        (
+        a
+        )
+      
+    
+    {\displaystyle f(a)}
+  
+ is an integer as soon as a is an integer. There are only a finite number of possible integer values for a factor of a. So, if 
+  
+    
+      
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle g(x)}
+  
+ is a factor of 
+  
+    
+      
+        f
+        (
+        x
+        )
+        ,
+      
+    
+    {\displaystyle f(x),}
+  
+ the value of 
+  
+    
+      
+        g
+        (
+        a
+        )
+      
+    
+    {\displaystyle g(a)}
+  
+ must be one of the factors of 
+  
+    
+      
+        f
+        (
+        a
+        )
+        .
+      
+    
+    {\displaystyle f(a).}
+  
+
+If one searches the factors of a given degree d, one can consider 
+  
+    
+      
+        d
+        +
+        1
+      
+    
+    {\displaystyle d+1}
+  
+ values, 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            d
+          
+        
+      
+    
+    {\displaystyle a_{0},\ldots ,a_{d}}
+  
+ for a, which give a finite number of possibilities for the tuple 
+  
+    
+      
+        (
+        f
+        (
+        
+          a
+          
+            0
+          
+        
+        )
+        ,
+        …
+        ,
+        f
+        (
+        
+          a
+          
+            d
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle (f(a_{0}),\ldots ,f(a_{d}).}
+  
+ Each such tuple defines a unique polynomial of degree at most d, which can be computed by polynomial interpolation, and tested for being a factor by polynomial division. So, an exhaustive search allows finding all factors of degree at most d.
+For example, consider
+
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          x
+          
+            5
+          
+        
+        +
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          x
+          
+            2
+          
+        
+        +
+        x
+        +
+        2
+      
+    
+    {\displaystyle f(x)=x^{5}+x^{4}+x^{2}+x+2}
+  
+.
+If this polynomial factors over Z, then at least one of its factors 
+  
+    
+      
+        p
+        (
+        x
+        )
+      
+    
+    {\displaystyle p(x)}
+  
+ must be of degree two or less, so 
+  
+    
+      
+        p
+        (
+        x
+        )
+      
+    
+    {\displaystyle p(x)}
+  
+ is uniquely determined by three values. Thus, we compute three values 
+  
+    
+      
+        f
+        (
+        0
+        )
+        =
+        2
+      
+    
+    {\displaystyle f(0)=2}
+  
+, 
+  
+    
+      
+        f
+        (
+        1
+        )
+        =
+        6
+      
+    
+    {\displaystyle f(1)=6}
+  
+ and 
+  
+    
+      
+        f
+        (
+        −
+        1
+        )
+        =
+        2
+      
+    
+    {\displaystyle f(-1)=2}
+  
+. If one of these values is 0, we have a linear factor. If the values are nonzero, we can list the  possible factorizations for each.  Now, 2 can only factor as
+
+1×2, 2×1, (−1)×(−2), or (−2)×(−1).
+Therefore, if a second degree integer polynomial factor exists, it must take one of the values
+
+p(0) = 1, 2, −1, or −2
+and likewise for p(1). There are eight factorizations of 6 (four each for 1×6 and 2×3), making a total of 4×4×8 = 128 possible triples (p(0), p(1), p(−1)), of which half can be discarded as the negatives of the other half. Thus, we must check 64 explicit integer polynomials 
+  
+    
+      
+        p
+        (
+        x
+        )
+        =
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+      
+    
+    {\displaystyle p(x)=ax^{2}+bx+c}
+  
+ as possible factors of 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+. Testing them exhaustively reveals that
+
+
+  
+    
+      
+        p
+        (
+        x
+        )
+        =
+        
+          x
+          
+            2
+          
+        
+        +
+        x
+        +
+        1
+      
+    
+    {\displaystyle p(x)=x^{2}+x+1}
+  
+
+constructed from (g(0), g(1), g(−1)) = (1,3,1) factors 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+.
+Dividing f(x) by p(x) gives the other factor 
+  
+    
+      
+        q
+        (
+        x
+        )
+        =
+        
+          x
+          
+            3
+          
+        
+        −
+        x
+        +
+        2
+      
+    
+    {\displaystyle q(x)=x^{3}-x+2}
+  
+, so that 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        p
+        (
+        x
+        )
+        q
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)=p(x)q(x)}
+  
+.
+Now one can test recursively to find factors of p(x) and q(x), in this case using the rational root test. It turns out they are both irreducible, so the irreducible factorization of f(x) is:[4]
+
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        p
+        (
+        x
+        )
+        q
+        (
+        x
+        )
+        =
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        x
+        +
+        1
+        )
+        (
+        
+          x
+          
+            3
+          
+        
+        −
+        x
+        +
+        2
+        )
+        .
+      
+    
+    {\displaystyle f(x)=p(x)q(x)=(x^{2}+x+1)(x^{3}-x+2).}
+  
+
+Modern methods[edit]
+Factoring over finite fields[edit]
+Main articles: Factorization of polynomials over finite fields, Berlekamp's algorithm, and Cantor–Zassenhaus algorithm
+Factoring univariate polynomials over the integers[edit]
+If 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ is a univariate polynomial over the integers, assumed
+to be content-free
+and square-free, one starts by computing a bound 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+
+such that any factor 
+  
+    
+      
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle g(x)}
+  
+ has coefficients of
+absolute value bounded by 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+. This way, if 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ is
+an integer larger than 
+  
+    
+      
+        2
+        B
+      
+    
+    {\displaystyle 2B}
+  
+, and if 
+  
+    
+      
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle g(x)}
+  
+ is known modulo
+
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+, then 
+  
+    
+      
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle g(x)}
+  
+ can be reconstructed from its image mod 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+.
+The Zassenhaus algorithm proceeds as follows. First, choose a prime
+number 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ such that the image of 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ mod 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+
+remains square-free, and of the same degree as 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+.
+Then factor 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ mod 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+. This produces integer polynomials 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        (
+        x
+        )
+        ,
+        .
+        .
+        .
+        ,
+        
+          f
+          
+            r
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f_{1}(x),...,f_{r}(x)}
+  
+ whose product matches 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ mod 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+. Next, apply Hensel lifting; this updates the 
+  
+    
+      
+        
+          f
+          
+            i
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f_{i}(x)}
+  
+ in such a way that their product matches 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ mod 
+  
+    
+      
+        
+          p
+          
+            a
+          
+        
+      
+    
+    {\displaystyle p^{a}}
+  
+,  where 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ is large enough that 
+  
+    
+      
+        
+          p
+          
+            a
+          
+        
+      
+    
+    {\displaystyle p^{a}}
+  
+ exceeds 
+  
+    
+      
+        2
+        B
+      
+    
+    {\displaystyle 2B}
+  
+: thus each 
+  
+    
+      
+        
+          f
+          
+            i
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f_{i}(x)}
+  
+ corresponds to a well-defined integer polynomial. Modulo 
+  
+    
+      
+        
+          p
+          
+            a
+          
+        
+      
+    
+    {\displaystyle p^{a}}
+  
+, the polynomial 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ has 
+  
+    
+      
+        
+          2
+          
+            r
+          
+        
+      
+    
+    {\displaystyle 2^{r}}
+  
+ factors (up to units): the products of all subsets of 
+  
+    
+      
+        
+          
+            f
+            
+              1
+            
+          
+          (
+          x
+          )
+          ,
+          .
+          .
+          .
+          ,
+          
+            f
+            
+              r
+            
+          
+          (
+          x
+          )
+        
+      
+    
+    {\displaystyle {f_{1}(x),...,f_{r}(x)}}
+  
+ mod 
+  
+    
+      
+        
+          p
+          
+            a
+          
+        
+      
+    
+    {\displaystyle p^{a}}
+  
+. These factors modulo 
+  
+    
+      
+        
+          p
+          
+            a
+          
+        
+      
+    
+    {\displaystyle p^{a}}
+  
+ need not correspond to "true" factors of 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ in 
+  
+    
+      
+        
+          Z
+        
+        [
+        x
+        ]
+      
+    
+    {\displaystyle \mathbb {Z} [x]}
+  
+, but we can easily test them by division in 
+  
+    
+      
+        
+          Z
+        
+        [
+        x
+        ]
+      
+    
+    {\displaystyle \mathbb {Z} [x]}
+  
+. This way, all irreducible true factors can be found by checking at most 
+  
+    
+      
+        
+          2
+          
+            r
+          
+        
+      
+    
+    {\displaystyle 2^{r}}
+  
+ cases, reduced to 
+  
+    
+      
+        
+          2
+          
+            r
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle 2^{r-1}}
+  
+ cases by skipping complements. If 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ is reducible, the number of cases is reduced further by removing those 
+  
+    
+      
+        
+          f
+          
+            i
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f_{i}(x)}
+  
+ that appear in an already found true factor. The Zassenhaus algorithm processes each case (each subset) quickly, however, in the worst case, it considers an exponential number of cases.
+The first polynomial time algorithm for factoring rational polynomials was discovered by Lenstra, Lenstra and Lovász and is an application of the Lenstra–Lenstra–Lovász lattice basis reduction (LLL) algorithm (Lenstra, Lenstra & Lovász 1982).
+A simplified version of the LLL factorization algorithm is as follows: calculate a complex (or p-adic) root α of the polynomial 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ to high precision, then use the Lenstra–Lenstra–Lovász lattice basis reduction algorithm to find an approximate linear relation between 1, α, α2, α3, . . . with integer coefficients, which might be an exact linear relation and a polynomial factor of 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+. One can determine a bound for the precision that guarantees that this method produces either a factor, or an irreducibility proof.  Although this method finishes in polynomial time, it is not used in practice because the lattice has high dimension and huge entries, which makes the computation slow.
+The exponential complexity in the Zassenhaus algorithm comes from a combinatorial problem: how to select the right subsets of 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        (
+        x
+        )
+        ,
+        .
+        .
+        .
+        ,
+        
+          f
+          
+            r
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f_{1}(x),...,f_{r}(x)}
+  
+. State-of-the-art factoring implementations work in a manner similar to Zassenhaus, except that the combinatorial problem is translated to a lattice problem that is then solved by LLL.[5] In this approach, LLL is not used to compute coefficients of factors, but rather to compute vectors with 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+ entries in {0,1} that encode the subsets of 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        (
+        x
+        )
+        ,
+        .
+        .
+        .
+        ,
+        
+          f
+          
+            r
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f_{1}(x),...,f_{r}(x)}
+  
+ corresponding to the irreducible true factors.
+
+Factoring over algebraic extensions (Trager's method)[edit]
+We can factor a polynomial 
+  
+    
+      
+        p
+        (
+        x
+        )
+        ∈
+        K
+        [
+        x
+        ]
+      
+    
+    {\displaystyle p(x)\in K[x]}
+  
+, where the field 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  
+ is a finite extension of 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  
+.  First, using square-free factorization, we may suppose that the polynomial is square-free. Next we define the quotient ring 
+  
+    
+      
+        L
+        =
+        K
+        [
+        x
+        ]
+        
+          /
+        
+        p
+        (
+        x
+        )
+      
+    
+    {\displaystyle L=K[x]/p(x)}
+  
+ of degree 
+  
+    
+      
+        n
+        =
+        [
+        L
+        :
+        
+          Q
+        
+        ]
+        =
+        deg
+        ⁡
+        p
+        (
+        x
+        )
+        
+        [
+        K
+        :
+        
+          Q
+        
+        ]
+      
+    
+    {\displaystyle n=[L:\mathbb {Q} ]=\deg p(x)\,[K:\mathbb {Q} ]}
+  
+; this is not a field unless 
+  
+    
+      
+        p
+        (
+        x
+        )
+      
+    
+    {\displaystyle p(x)}
+  
+ is irreducible, but it is a reduced ring since 
+  
+    
+      
+        p
+        (
+        x
+        )
+      
+    
+    {\displaystyle p(x)}
+  
+ is square-free. Indeed, if
+  
+    
+      
+        p
+        (
+        x
+        )
+        =
+        
+          ∏
+          
+            i
+            =
+            1
+          
+          
+            m
+          
+        
+        
+          p
+          
+            i
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle p(x)=\prod _{i=1}^{m}p_{i}(x)}
+  
+is the desired factorization of p(x), the ring decomposes uniquely into fields as:
+
+  
+    
+      
+        L
+        =
+        K
+        [
+        x
+        ]
+        
+          /
+        
+        p
+        (
+        x
+        )
+        ≅
+        
+          ∏
+          
+            i
+            =
+            1
+          
+          
+            m
+          
+        
+        K
+        [
+        x
+        ]
+        
+          /
+        
+        
+          p
+          
+            i
+          
+        
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle L=K[x]/p(x)\cong \prod _{i=1}^{m}K[x]/p_{i}(x).}
+  
+
+We will find this decomposition without knowing the factorization. First, we write L explicitly as an algebra over 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  
+: we pick a random element 
+  
+    
+      
+        α
+        ∈
+        L
+      
+    
+    {\displaystyle \alpha \in L}
+  
+, which generates 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+ over 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  
+ with high probability by the primitive element theorem. If this is the case, we can compute the minimal polynomial 
+  
+    
+      
+        q
+        (
+        y
+        )
+        ∈
+        
+          Q
+        
+        [
+        y
+        ]
+      
+    
+    {\displaystyle q(y)\in \mathbb {Q} [y]}
+  
+ of 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  
+ over 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  
+, by finding a 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  
+-linear relation among 1, α, . . .  , αn.  Using a factoring algorithm for rational polyomials, we factor into irreducibles in 
+  
+    
+      
+        
+          Q
+        
+        [
+        y
+        ]
+      
+    
+    {\displaystyle \mathbb {Q} [y]}
+  
+:
+
+
+  
+    
+      
+        q
+        (
+        y
+        )
+        =
+        
+          ∏
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          q
+          
+            i
+          
+        
+        (
+        y
+        )
+        .
+      
+    
+    {\displaystyle q(y)=\prod _{i=1}^{n}q_{i}(y).}
+  
+
+Thus we have:
+
+
+  
+    
+      
+        L
+        ≅
+        
+          Q
+        
+        [
+        y
+        ]
+        
+          /
+        
+        q
+        (
+        y
+        )
+        ≅
+        
+          ∏
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          Q
+        
+        [
+        y
+        ]
+        
+          /
+        
+        
+          q
+          
+            i
+          
+        
+        (
+        y
+        )
+        ,
+      
+    
+    {\displaystyle L\cong \mathbb {Q} [y]/q(y)\cong \prod _{i=1}^{n}\mathbb {Q} [y]/q_{i}(y),}
+  
+
+where 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  
+ corresponds to 
+  
+    
+      
+        y
+        ↔
+        (
+        y
+        ,
+        y
+        ,
+        …
+        ,
+        y
+        )
+      
+    
+    {\displaystyle y\leftrightarrow (y,y,\ldots ,y)}
+  
+. This must be isomorphic to the previous decomposition of 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+.   
+The generators of L are x along with the generators of 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  
+ over 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  
+; writing these as a polynomials in 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  
+, we can determine the embeddings of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ and 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  
+ into each component 
+  
+    
+      
+        
+          Q
+        
+        [
+        y
+        ]
+        
+          /
+        
+        
+          q
+          
+            i
+          
+        
+        (
+        y
+        )
+        =
+        K
+        [
+        x
+        ]
+        
+          /
+        
+        
+          p
+          
+            i
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \mathbb {Q} [y]/q_{i}(y)=K[x]/p_{i}(x)}
+  
+. By finding the minimal polynomial of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ in 
+  
+    
+      
+        
+          Q
+        
+        [
+        y
+        ]
+        
+          /
+        
+        
+          q
+          
+            i
+          
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle \mathbb {Q} [y]/q_{i}(y)}
+  
+, we compute 
+  
+    
+      
+        
+          p
+          
+            i
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle p_{i}(x)}
+  
+, and thus factor 
+  
+    
+      
+        p
+        (
+        x
+        )
+      
+    
+    {\displaystyle p(x)}
+  
+ over 
+  
+    
+      
+        K
+        .
+      
+    
+    {\displaystyle K.}
+  
+
+
+See also[edit]
+Factorization § Polynomials, for elementary heuristic methods and explicit formulas
+Bibliography[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ FT Schubert: De Inventione Divisorum Nova Acta Academiae Scientiarum Petropolitanae v.11, p. 172-182(1793)
+
+^  An example of degree 2401, taking 7.35 seconds, is found in Section 4 in: Hart, van Hoeij, Novocin: Practical Polynomial Factoring in Polynomial Time ISSAC'2011 Proceedings, p. 163-170 (2011).
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Fröhlich, A.; Shepherdson, J. C. (1955). "On the factorisation of polynomials in a finite number of steps". Mathematische Zeitschrift. 62 (1): 331–334. doi:10.1007/bf01180640. ISSN 0025-5874.
+
+^ Van der Waerden, Sections 5.4 and 5.6
+
+^ M. van Hoeij: Factoring polynomials and the knapsack problem. Journal of Number Theory, 95, 167-189, (2002).
+
+
+Fröhlich, A.; Shepherson, J. C. (1955), "On the factorisation of polynomials in a finite number of steps", Mathematische Zeitschrift, 62 (1): 331–334, doi:10.1007/BF01180640, ISSN 0025-5874
+Trager, B.M. (1976), "Algebraic Factoring and Rational Function Integration", Proc. SYMSAC 76, Symsac '76: 219–226, doi:10.1145/800205.806338
+Bernard Beauzamy, Per Enflo, Paul Wang (October 1994). "Quantitative Estimates for Polynomials in One or Several Variables: From Analysis and Number Theory to Symbolic and Massively Parallel Computation". Mathematics Magazine. 67 (4): 243–257. doi:10.2307/2690843. JSTOR 2690843.CS1 maint: multiple names: authors list (link) (accessible to readers with undergraduate mathematics)
+Cohen, Henri (1993). A course in computational algebraic number theory. Graduate Texts in Mathematics. 138. Berlin, New York: Springer-Verlag. ISBN 978-3-540-55640-4. MR 1228206.
+Kaltofen, Erich (1982), "Factorization of polynomials",  in B. Buchberger; R. Loos; G. Collins (eds.), Computer Algebra, Springer Verlag, pp. 95–113, CiteSeerX 10.1.1.39.7916
+Knuth, Donald E (1997). "4.6.2 Factorization of Polynomials". Seminumerical Algorithms. The Art of Computer Programming. 2 (Third ed.). Reading, Massachusetts: Addison-Wesley. pp. 439–461, 678–691. ISBN 978-0-201-89684-8.
+Lenstra, A. K.; Lenstra, H. W.; Lovász, László (1982). "Factoring polynomials with rational coefficients". Mathematische Annalen. 261 (4): 515–534. CiteSeerX 10.1.1.310.318. doi:10.1007/BF01457454. ISSN 0025-5831. MR 0682664.
+Van der Waerden, Algebra (1970), trans. Blum and Schulenberger, Frederick Ungar.
+Further reading[edit]
+Kaltofen, Erich (1990), "Polynomial Factorization 1982-1986",  in D. V. Chudnovsky; R. D. Jenks (eds.), Computers in Mathematics, Lecture Notes in Pure and Applied Mathematics, 125, Marcel Dekker, Inc., CiteSeerX 10.1.1.68.7461
+Kaltofen, Erich (1992), "Polynomial Factorization 1987–1991" (PDF), Proceedings of Latin '92, Springer Lect. Notes Comput. Sci., 583, Springer, retrieved October 14, 2012
+Ivanyos, Gabor; Marek, Karpinski; Saxena, Nitin (2009), "Schemes for Deterministic Polynomial Factoring", Proc. ISSAC 2009: 191–198, arXiv:0804.1974, doi:10.1145/1576702.1576730, ISBN 9781605586090
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vtePolynomials and polynomial functionsBy degree
+Zero polynomial (degree undefined or −1 or −∞)
+Constant function (0)
+Linear function (1)
+Linear equation
+Quadratic function (2)
+Quadratic equation
+Cubic function (3)
+Cubic equation
+Quartic function (4)
+Quartic equation
+Quintic function (5)
+Sextic equation (6)
+Septic equation (7)
+By properties
+Univariate
+Bivariate
+Multivariate
+Monomial
+Binomial
+Trinomial
+Irreducible
+Square-free
+Homogeneous
+Quasi-homogeneous
+Tools and algorithms
+Factorization
+Greatest common divisor
+Division
+Horner's method of evaluation
+Resultant
+Discriminant
+Gröbner basis
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Factorization_of_polynomials&oldid=1053083869"
+		Categories: PolynomialsComputer algebraHidden categories: Articles with short descriptionShort description matches WikidataCS1 maint: multiple names: authors list
+	

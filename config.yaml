@@ -1,0 +1,17 @@
+---
+# key value结构表示字典
+download_path: /home/wanghuan/wiki_articles/data
+# 那个小横杠，表示list里面元素
+keywords: 
+  - music
+  - kmeans
+  - algebra
+  - sport
+  - american
+  - computer
+  - biology
+  - english
+
+database: article_db
+
+model_path: C:/Users/wanghuan/desktop/wiki_analysis/model_files

@@ -1,0 +1,331 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Type of algebras, possibly non associative
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Algebraic structures
+Group-like
+Group
+Semigroup / Monoid
+Rack and quandle
+Quasigroup and loop
+
+Abelian group
+Magma
+Lie group
+
+Group theory
+
+Ring-like
+Ring
+Rng
+Semiring
+Near-ring
+Commutative ring
+Integral domain
+Field
+Division ring
+Lie ring
+
+Ring theory
+
+Lattice-like
+Lattice
+Semilattice
+Complemented lattice
+Total order
+Heyting algebra
+Boolean algebra
+
+Map of lattices
+Lattice theory
+
+Module-like
+Module
+Group with operators
+Vector space
+
+Linear algebra
+
+Algebra-like
+Algebra
+
+Associative
+Non-associative
+Composition algebra
+Lie algebra
+Graded
+Bialgebra
+Hopf algebra
+
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+In mathematics, a composition algebra A over a field K is a not necessarily associative algebra over K together with a nondegenerate quadratic form  N that satisfies
+
+
+  
+    
+      
+        N
+        (
+        x
+        y
+        )
+        =
+        N
+        (
+        x
+        )
+        N
+        (
+        y
+        )
+      
+    
+    {\displaystyle N(xy)=N(x)N(y)}
+  
+
+for all x and y in A.
+A composition algebra includes an involution called a conjugation: 
+  
+    
+      
+        x
+        ↦
+        
+          x
+          
+            ∗
+          
+        
+        .
+      
+    
+    {\displaystyle x\mapsto x^{*}.}
+  
+ The quadratic form 
+  
+    
+      
+        N
+        (
+        x
+        )
+        =
+        x
+        
+          x
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle N(x)=xx^{*}}
+  
+ is called the norm of the algebra.
+A composition algebra (A, ∗, N) is either a division algebra or a split algebra, depending on the existence of a non-zero v in A such that N(v) = 0, called a null vector.[1] When x is not a null vector, the multiplicative inverse of x is 
+  
+    
+      
+        
+          
+            
+              x
+              
+                ∗
+              
+            
+            
+              N
+              (
+              x
+              )
+            
+          
+        
+      
+    
+    {\textstyle {\frac {x^{*}}{N(x)}}}
+  
+. When there is a non-zero null vector, N is an isotropic quadratic form, and "the algebra splits".
+
+Contents
+
+1 Structure theorem
+2 Instances and usage
+3 History
+4 See also
+5 References
+6 Further reading
+
+
+
+Structure theorem[edit]
+Every unital composition algebra over a field K can be obtained by repeated application of the Cayley–Dickson construction starting from K (if the characteristic of K is different from 2) or a 2-dimensional composition subalgebra (if char(K) = 2).  The possible dimensions of a composition algebra are 1, 2, 4, and 8.[2][3][4]
+
+1-dimensional composition algebras only exist when char(K) ≠ 2.
+Composition algebras of dimension 1 and 2 are commutative and associative.
+Composition algebras of dimension 2 are either quadratic field extensions of K or isomorphic to K ⊕ K.
+Composition algebras of dimension 4 are called quaternion algebras.  They are associative but not commutative.
+Composition algebras of dimension 8 are called octonion algebras.  They are neither associative nor commutative.
+For consistent terminology, algebras of dimension 1 have been called unarion, and those of dimension 2 binarion.[5]
+
+Instances and usage[edit]
+When the field K is taken to be complex numbers C and the quadratic form z2, then four composition algebras over C are C itself, the bicomplex numbers, the biquaternions (isomorphic to the 2×2 complex matrix ring M(2, C)), and the bioctonions C ⊗ O, which are also called complex octonions.
+Matrix ring M(2, C) has long been an object of interest, first as biquaternions by
+Hamilton (1853), later in the isomorphic matrix form, and especially as Pauli algebra.
+The squaring function N(x) = x2 on the real number field forms the primordial composition algebra.
+When the field K is taken to be real numbers R, then there are just six other real composition algebras.[3]: 166  
+In two, four, and eight dimensions there are both a division algebra and a "split algebra":
+
+binarions: complex numbers with quadratic form x2 + y2 and split-complex numbers with quadratic form x2 − y2,
+quaternions and split-quaternions,
+octonions and split-octonions.
+Every composition algebra has an associated bilinear form B(x,y) constructed with the norm N and a polarization identity:
+
+
+  
+    
+      
+        B
+        (
+        x
+        ,
+        y
+        )
+         
+        =
+         
+        [
+        N
+        (
+        x
+        +
+        y
+        )
+        −
+        N
+        (
+        x
+        )
+        −
+        N
+        (
+        y
+        )
+        ]
+        
+          /
+        
+        2.
+      
+    
+    {\displaystyle B(x,y)\ =\ [N(x+y)-N(x)-N(y)]/2.}
+  
+[6]
+History[edit]
+The composition of sums of squares was noted by several early authors. Diophantus was aware of the identity involving the sum of two squares, now called the Brahmagupta–Fibonacci identity, which is also articulated as a property of Euclidean norms of complex numbers when multiplied. Leonhard Euler discussed the four-square identity in 1748, and it led W. R. Hamilton to construct his four-dimensional algebra of quaternions.[5]: 62  In 1848 tessarines were described giving first light to bicomplex numbers.
+About 1818 Danish scholar Ferdinand Degen displayed the Degen's eight-square identity, which was later connected with norms of elements of the octonion algebra:
+
+Historically, the first non-associative algebra, the Cayley numbers ... arose in the context of the number-theoretic problem of quadratic forms permitting composition…this number-theoretic question can be transformed into one concerning certain algebraic systems, the composition algebras...[5]: 61 
+In 1919 Leonard Dickson advanced the study of the Hurwitz problem with a survey of efforts to that date, and by exhibiting the method of doubling the quaternions to obtain Cayley numbers. He introduced a new imaginary unit e, and for quaternions q and Q writes a Cayley number q + Qe. Denoting the quaternion conjugate by q′, the product of two Cayley numbers is[7]
+
+
+  
+    
+      
+        (
+        q
+        +
+        Q
+        e
+        )
+        (
+        r
+        +
+        R
+        e
+        )
+        =
+        (
+        q
+        r
+        −
+        
+          R
+          ′
+        
+        Q
+        )
+        +
+        (
+        R
+        q
+        +
+        Q
+        
+          r
+          ′
+        
+        )
+        e
+        .
+      
+    
+    {\displaystyle (q+Qe)(r+Re)=(qr-R'Q)+(Rq+Qr')e.}
+  
+
+The conjugate of a Cayley number is q' – Qe, and the quadratic form is qq′ + QQ′, obtained by multiplying the number by its conjugate. The doubling method has come to be called the Cayley–Dickson construction.
+In 1923 the case of real algebras with positive definite forms was delimited by the Hurwitz's theorem (composition algebras).
+In 1931 Max Zorn introduced a gamma (γ) into the multiplication rule in the Dickson construction to generate split-octonions.[8] Adrian Albert also used the gamma in 1942 when he showed that Dickson doubling could be applied to any field  with the squaring function to construct binarion, quaternion, and octonion algebras with their quadratic forms.[9] Nathan Jacobson described the automorphisms of composition algebras in 1958.[2]
+The classical composition algebras over R and C are unital algebras. Composition algebras without a multiplicative identity were found by H.P. Petersson (Petersson algebras) and Susumu Okubo (Okubo algebras) and others.[10]: 463–81 
+
+See also[edit]
+Freudenthal magic square
+Pfister form
+Triality
+References[edit]
+
+
+
+Wikibooks has a book on the topic of: Associative Composition Algebra
+
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Springer, T. A.; F. D. Veldkamp (2000). Octonions, Jordan Algebras and Exceptional Groups. Springer-Verlag. p. 18. ISBN 3-540-66337-1.
+
+^ a b Jacobson, Nathan (1958). "Composition algebras and their automorphisms". Rendiconti del Circolo Matematico di Palermo. 7: 55–80. doi:10.1007/bf02854388. Zbl 0083.02702.
+
+^ a b Guy Roos (2008) "Exceptional symmetric domains", §1: Cayley algebras, in Symmetries in Complex Analysis by Bruce Gilligan & Guy Roos, volume 468 of Contemporary Mathematics, American Mathematical Society, ISBN 978-0-8218-4459-5
+
+^ Schafer, Richard D. (1995) [1966]. An introduction to nonassociative algebras. Dover Publications. pp. 72–75. ISBN 0-486-68813-5. Zbl 0145.25601.
+
+^ a b c Kevin McCrimmon (2004) A Taste of Jordan Algebras, Universitext, Springer ISBN 0-387-95447-3 MR2014924
+
+^ Arthur A. Sagle & Ralph E. Walde (1973) Introduction to Lie Groups and Lie Algebras, pages 194−200, Academic Press
+
+^ Dickson, L. E. (1919), "On Quaternions and Their Generalization and the History of the Eight Square Theorem", Annals of Mathematics, Second Series, Annals of Mathematics, 20 (3): 155–171, doi:10.2307/1967865, ISSN 0003-486X, JSTOR 1967865
+
+^ Max Zorn (1931) "Alternativekörper und quadratische Systeme", Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg 9(3/4): 395–402
+
+^ Albert, Adrian (1942). "Quadratic forms permitting composition". Annals of Mathematics. 43: 161–177. doi:10.2307/1968887. Zbl 0060.04003.
+
+^ Max-Albert Knus, Alexander Merkurjev, Markus Rost, Jean-Pierre Tignol (1998) "Composition and Triality", chapter 8 in The Book of Involutions, pp. 451–511, Colloquium Publications v 44, American Mathematical Society ISBN 0-8218-0904-0
+
+
+Further reading[edit]
+Faraut, Jacques; Korányi, Adam (1994). Analysis on symmetric cones. Oxford Mathematical Monographs. The Clarendon Press, Oxford University Press, New York. pp. 81–86. ISBN 0-19-853477-9. MR 1446489.
+Lam, Tsit-Yuen (2005). Introduction to Quadratic Forms over Fields. Graduate Studies in Mathematics. 67. American Mathematical Society. ISBN 0-8218-1095-2. Zbl 1068.11023.
+Harvey, F. Reese (1990). Spinors and Calibrations. Perspectives in Mathematics. 9. San Diego: Academic Press. ISBN 0-12-329650-1. Zbl 0694.53002.
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Composition_algebra&oldid=1037236174"
+		Categories: Composition algebrasQuadratic formsHistorical treatment of quaternionsHidden categories: Articles with short descriptionShort description is different from Wikidata
+	

@@ -1,0 +1,178 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Clustering algorithm minimizing the sum of distances to k representatives
+The k-medoids problem is a clustering problem similar to k-means. The name was coined by Leonard Kaufman and Peter J. Rousseeuw with their PAM algorithm.[1] Both the k-means and k-medoids algorithms are partitional (breaking the dataset up into groups) and attempt to minimize the distance between points labeled to be in a cluster and a point designated as the center of that cluster. In contrast to the k-means algorithm, k-medoids chooses actual data points as centers (medoids or exemplars), and thereby allows for greater interpretability of the cluster centers than in k-means, where the center of a cluster is not necessarily one of the input data points (it is the average between the points in the cluster). Furthermore, k-medoids can be used with arbitrary dissimilarity measures, whereas k-means generally requires Euclidean distance for efficient solutions. Because k-medoids minimizes a sum of pairwise dissimilarities instead of a sum of squared Euclidean distances, it is more robust to noise and outliers than k-means.
+k-medoids is a classical partitioning technique of clustering that splits the data set of n objects into k clusters, where the number k of clusters assumed known a priori (which implies that the programmer must specify k before the execution of a k-medoids algorithm). The "goodness" of the given value of k can be assessed with methods such as the silhouette method.
+The medoid of a cluster is defined as the object in the cluster whose average dissimilarity to all the objects in the cluster is minimal, that is, it is a most centrally located point in the cluster.
+
+Contents
+
+1 Algorithms
+
+1.1 Partitioning Around Medoids (PAM)
+1.2 Other Algorithms
+
+
+2 Software
+3 References
+
+
+
+Algorithms[edit]
+  PAM choosing initial medoids, then iterating to convergence for k=3 clusters, visualized with ELKI.
+In general, the k-medoids problem is NP-hard to solve exactly. As such, many heuristic solutions exist. 
+
+Partitioning Around Medoids (PAM)[edit]
+PAM[1] uses a greedy search which may not find the optimum solution, but it is faster than exhaustive search. It works as follows:
+
+(BUILD) Initialize: greedily select k of the n data points as the medoids to minimize the cost
+Associate each data point to the closest medoid.
+(SWAP) While the cost of the configuration decreases:
+For each medoid m, and for each non-medoid data point o:
+Consider the swap of m and o, and compute the cost change
+If the cost change is the current best, remember this m and o combination
+Perform the best swap of 
+  
+    
+      
+        
+          m
+          
+            best
+          
+        
+      
+    
+    {\displaystyle m_{\text{best}}}
+  
+ and 
+  
+    
+      
+        
+          o
+          
+            best
+          
+        
+      
+    
+    {\displaystyle o_{\text{best}}}
+  
+, if it decreases the cost function. Otherwise, the algorithm terminates.
+The runtime complexity of the original PAM algorithm per iteration of (3) is 
+  
+    
+      
+        O
+        (
+        k
+        (
+        n
+        −
+        k
+        
+          )
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle O(k(n-k)^{2})}
+  
+, by only computing the change in cost. A naive implementation recomputing the entire cost function every time will be in 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2
+          
+        
+        
+          k
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{2}k^{2})}
+  
+. This runtime can be further reduced to 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{2})}
+  
+, by splitting the cost change into three parts such that computations can be shared or avoided (FastPAM).[2] The runtime can further be reduced by eagerly performing swaps (FasterPAM),[3] at which point a random initialization becomes a viable alternative to BUILD.
+
+
+Other Algorithms[edit]
+Algorithms other than PAM have also been suggested in the literature, including the following Voronoi iteration method:[4][5][6]
+
+Select initial medoids randomly
+Iterate while the cost decreases:
+In each cluster, make the point that minimizes the sum of distances within the cluster the medoid
+Reassign each point to the cluster defined by the closest medoid determined in the previous step.
+However, k-means-style Voronoi iteration finds worse results, as it does not allow reassigning points to other clusters while changing means, and thus only explores a smaller search space.[2][3][7]
+Other approximate algorithms such as CLARA and CLARANS trade optimality for runtime. CLARA applies PAM on multiple subsamples, keeping the best result. CLARANS works on the entire data set, but only explores a subset of the possible swaps of medoids and non-medoids using sampling.
+
+Software[edit]
+ELKI includes several k-medoid variants, including a Voronoi-iteration k-medoids, the original PAM algorithm, Reynolds' improvements, and the O(n²) FastPAM and FasterPAM algorithms, CLARA, CLARANS, FastCLARA and FastCLARANS.
+Julia contains a k-medoid implementation of the k-means style algorithm (fast, but much worse result quality) in the JuliaStats/Clustering.jl package.
+KNIME includes a k-medoid implementation supporting a variety of efficient matrix distance measures, as well as a number of native (and integrated third-party) k-means implementations
+Python contains FasterPAM and other variants in the "kmedoids" package, additional implementations can be found in many other packages
+R contains PAM in the "cluster" package, including the FasterPAM improvements via the options variant = "faster" and medoids = "random". There also exists a "fastkmedoids" package.
+RapidMiner has an operator named KMedoids, but it does not implement any of above KMedoids algorithms. Instead, it is a k-means variant, that substitutes the mean with the closest data point (which is not the medoid), which combines the drawbacks of k-means (limited to coordinate data) with the additional cost of finding the nearest point to the mean.
+Rust has a "kmedoids" crate that also includes the FasterPAM variant.
+MATLAB implements PAM, CLARA, and two other algorithms to solve the k-medoid clustering problem.
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ a b .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Kaufman, Leonard; Rousseeuw, Peter J. (1990-03-08), "Partitioning Around Medoids (Program PAM)", Wiley Series in Probability and Statistics, Hoboken, NJ, USA: John Wiley & Sons, Inc., pp. 68–125, doi:10.1002/9780470316801.ch2, ISBN 978-0-470-31680-1, retrieved 2021-06-13
+
+^ a b Schubert, Erich; Rousseeuw, Peter J. (2019),  Amato, Giuseppe; Gennaro, Claudio; Oria, Vincent; Radovanović, Miloš (eds.), "Faster k-Medoids Clustering: Improving the PAM, CLARA, and CLARANS Algorithms", Similarity Search and Applications, Springer International Publishing, 11807, pp. 171–187, arXiv:1810.05691, doi:10.1007/978-3-030-32047-8_16, ISBN 9783030320461
+
+^ a b Schubert, Erich; Rousseeuw, Peter J. (2021). "Fast and eager k -medoids clustering: O(k) runtime improvement of the PAM, CLARA, and CLARANS algorithms". Information Systems: 101804. arXiv:2008.05171. doi:10.1016/j.is.2021.101804.
+
+^ Maranzana, F. E. (1963). "On the location of supply points to minimize transportation costs". IBM Systems Journal. 2 (2): 129–135. doi:10.1147/sj.22.0129.
+
+^ T. Hastie, R. Tibshirani, and J. Friedman. The Elements of Statistical Learning, Springer (2001), 468–469.
+
+^ Park, Hae-Sang; Jun, Chi-Hyuck (2009). "A simple and fast algorithm for K-medoids clustering". Expert Systems with Applications. 36 (2): 3336–3341. doi:10.1016/j.eswa.2008.01.039.
+
+^ Teitz, Michael B.; Bart, Polly (1968-10-01). "Heuristic Methods for Estimating the Generalized Vertex Median of a Weighted Graph". Operations Research. 16 (5): 955–961. doi:10.1287/opre.16.5.955. ISSN 0030-364X.
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=K-medoids&oldid=1058232505"
+		Categories: Cluster analysis algorithmsHidden categories: Articles with short descriptionShort description is different from Wikidata
+	

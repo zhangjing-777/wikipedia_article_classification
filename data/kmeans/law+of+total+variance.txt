@@ -1,0 +1,1760 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		In probability theory, the law of total variance[1] or variance decomposition formula or conditional variance formulas or law of iterated variances also known as Eve's law,[2] states that if 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+ and 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+ are random variables on the same probability space, and the variance of 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+ is finite, then
+
+  
+    
+      
+        Var
+        ⁡
+        (
+        Y
+        )
+        =
+        E
+        ⁡
+        [
+        Var
+        ⁡
+        (
+        Y
+        ∣
+        X
+        )
+        ]
+        +
+        Var
+        ⁡
+        (
+        E
+        ⁡
+        [
+        Y
+        ∣
+        X
+        ]
+        )
+        .
+      
+    
+    {\displaystyle \operatorname {Var} (Y)=\operatorname {E} [\operatorname {Var} (Y\mid X)]+\operatorname {Var} (\operatorname {E} [Y\mid X]).}
+  
+
+In language perhaps better known to statisticians than to probability theorists, the two terms are the "unexplained" and the "explained" components of the variance respectively (cf. fraction of variance unexplained, explained variation). In actuarial science, specifically credibility theory, the first component is called the expected value of the process variance (EVPV) and the second is called the variance of the hypothetical means (VHM).[3] These two components are also the source of the term "Eve's law", from the initials EV VE for "expectation of variance" and "variance of expectation".
+
+Contents
+
+1 Formulation
+2 Proof
+3 General variance decomposition applicable to dynamic systems
+4 The square of the correlation and explained (or informational) variation
+5 Higher moments
+6 See also
+7 References
+
+
+
+Formulation[edit]
+There is a general variance decomposition formula for 
+  
+    
+      
+        c
+        ≥
+        2
+      
+    
+    {\displaystyle c\geq 2}
+  
+ components (see below).[4] For example, with two conditioning random variables:
+
+  
+    
+      
+        Var
+        ⁡
+        [
+        Y
+        ]
+        =
+        E
+        ⁡
+        
+          [
+          
+            Var
+            ⁡
+            
+              (
+              
+                Y
+                ∣
+                
+                  X
+                  
+                    1
+                  
+                
+                ,
+                
+                  X
+                  
+                    2
+                  
+                
+              
+              )
+            
+          
+          ]
+        
+        +
+        E
+        ⁡
+        [
+        Var
+        ⁡
+        (
+        E
+        ⁡
+        
+          [
+          
+            Y
+            ∣
+            
+              X
+              
+                1
+              
+            
+            ,
+            
+              X
+              
+                2
+              
+            
+          
+          ]
+        
+        ∣
+        
+          X
+          
+            1
+          
+        
+        )
+        ]
+        +
+        Var
+        ⁡
+        (
+        E
+        ⁡
+        
+          [
+          
+            Y
+            ∣
+            
+              X
+              
+                1
+              
+            
+          
+          ]
+        
+        )
+        ,
+      
+    
+    {\displaystyle \operatorname {Var} [Y]=\operatorname {E} \left[\operatorname {Var} \left(Y\mid X_{1},X_{2}\right)\right]+\operatorname {E} [\operatorname {Var} (\operatorname {E} \left[Y\mid X_{1},X_{2}\right]\mid X_{1})]+\operatorname {Var} (\operatorname {E} \left[Y\mid X_{1}\right]),}
+  
+
+which follows from the law of total conditional variance:[4]
+
+  
+    
+      
+        Var
+        ⁡
+        (
+        Y
+        ∣
+        
+          X
+          
+            1
+          
+        
+        )
+        =
+        E
+        ⁡
+        
+          [
+          
+            Var
+            ⁡
+            (
+            Y
+            ∣
+            
+              X
+              
+                1
+              
+            
+            ,
+            
+              X
+              
+                2
+              
+            
+            )
+            ∣
+            
+              X
+              
+                1
+              
+            
+          
+          ]
+        
+        +
+        Var
+        ⁡
+        
+          (
+          
+            E
+            ⁡
+            
+              [
+              
+                Y
+                ∣
+                
+                  X
+                  
+                    1
+                  
+                
+                ,
+                
+                  X
+                  
+                    2
+                  
+                
+              
+              ]
+            
+            ∣
+            
+              X
+              
+                1
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \operatorname {Var} (Y\mid X_{1})=\operatorname {E} \left[\operatorname {Var} (Y\mid X_{1},X_{2})\mid X_{1}\right]+\operatorname {Var} \left(\operatorname {E} \left[Y\mid X_{1},X_{2}\right]\mid X_{1}\right).}
+  
+
+Note that the conditional expected value 
+  
+    
+      
+        E
+        ⁡
+        (
+        Y
+        ∣
+        X
+        )
+      
+    
+    {\displaystyle \operatorname {E} (Y\mid X)}
+  
+ is a random variable in its own right, whose value depends on the value of 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+  
+ Notice that the conditional expected value of 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+ given the event 
+  
+    
+      
+        X
+        =
+        x
+      
+    
+    {\displaystyle X=x}
+  
+ is a function of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ (this is where adherence to the conventional and rigidly case-sensitive notation of probability theory becomes important!).  If we write 
+  
+    
+      
+        E
+        ⁡
+        (
+        Y
+        ∣
+        X
+        =
+        x
+        )
+        =
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle \operatorname {E} (Y\mid X=x)=g(x)}
+  
+ then the random variable 
+  
+    
+      
+        E
+        ⁡
+        (
+        Y
+        ∣
+        X
+        )
+      
+    
+    {\displaystyle \operatorname {E} (Y\mid X)}
+  
+ is just 
+  
+    
+      
+        g
+        (
+        X
+        )
+        .
+      
+    
+    {\displaystyle g(X).}
+  
+ Similar comments apply to the conditional variance.
+One special case, (similar to the law of total expectation) states that if 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          A
+          
+            n
+          
+        
+      
+    
+    {\displaystyle A_{1},\ldots ,A_{n}}
+  
+ is a partition of the whole outcome space, that is, these events are mutually exclusive and exhaustive, then
+
+  
+    
+      
+        
+          
+            
+              
+                Var
+                ⁡
+                (
+                X
+                )
+                =
+                
+
+                
+              
+              
+                
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                Var
+                ⁡
+                (
+                X
+                ∣
+                
+                  A
+                  
+                    i
+                  
+                
+                )
+                Pr
+                (
+                
+                  A
+                  
+                    i
+                  
+                
+                )
+                +
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                E
+                ⁡
+                [
+                X
+                ∣
+                
+                  A
+                  
+                    i
+                  
+                
+                
+                  ]
+                  
+                    2
+                  
+                
+                (
+                1
+                −
+                Pr
+                (
+                
+                  A
+                  
+                    i
+                  
+                
+                )
+                )
+                Pr
+                (
+                
+                  A
+                  
+                    i
+                  
+                
+                )
+              
+            
+            
+              
+              
+                
+                
+
+                
+                −
+                2
+                
+                  ∑
+                  
+                    i
+                    =
+                    2
+                  
+                  
+                    n
+                  
+                
+                
+                  ∑
+                  
+                    j
+                    =
+                    1
+                  
+                  
+                    i
+                    −
+                    1
+                  
+                
+                E
+                ⁡
+                [
+                X
+                ∣
+                
+                  A
+                  
+                    i
+                  
+                
+                ]
+                Pr
+                (
+                
+                  A
+                  
+                    i
+                  
+                
+                )
+                E
+                ⁡
+                [
+                X
+                ∣
+                
+                  A
+                  
+                    j
+                  
+                
+                ]
+                Pr
+                (
+                
+                  A
+                  
+                    j
+                  
+                
+                )
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\operatorname {Var} (X)={}&\sum _{i=1}^{n}\operatorname {Var} (X\mid A_{i})\Pr(A_{i})+\sum _{i=1}^{n}\operatorname {E} [X\mid A_{i}]^{2}(1-\Pr(A_{i}))\Pr(A_{i})\\[4pt]&{}-2\sum _{i=2}^{n}\sum _{j=1}^{i-1}\operatorname {E} [X\mid A_{i}]\Pr(A_{i})\operatorname {E} [X\mid A_{j}]\Pr(A_{j}).\end{aligned}}}
+  
+
+In this formula, the first component is the expectation of the conditional variance;  the other two components are the variance of the conditional expectation.
+
+Proof[edit]
+The law of total variance can be proved using the law of total expectation.[5] First,
+
+  
+    
+      
+        Var
+        ⁡
+        [
+        Y
+        ]
+        =
+        E
+        ⁡
+        
+          [
+          
+            Y
+            
+              2
+            
+          
+          ]
+        
+        −
+        E
+        ⁡
+        [
+        Y
+        
+          ]
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \operatorname {Var} [Y]=\operatorname {E} \left[Y^{2}\right]-\operatorname {E} [Y]^{2}}
+  
+
+from the definition of variance.  Again, from the definition of variance, and applying the law of total expectation, we have
+
+  
+    
+      
+        E
+        ⁡
+        
+          [
+          
+            Y
+            
+              2
+            
+          
+          ]
+        
+        =
+        E
+        ⁡
+        
+          [
+          
+            Var
+            ⁡
+            [
+            Y
+            ∣
+            X
+            ]
+            +
+            [
+            E
+            ⁡
+            [
+            Y
+            ∣
+            X
+            ]
+            
+              ]
+              
+                2
+              
+            
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle \operatorname {E} \left[Y^{2}\right]=\operatorname {E} \left[\operatorname {Var} [Y\mid X]+[\operatorname {E} [Y\mid X]]^{2}\right].}
+  
+
+Now we rewrite the conditional second moment of 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+ in terms of its variance and first moment, and apply the law of total expectation on the right hand side:
+
+  
+    
+      
+        E
+        ⁡
+        
+          [
+          
+            Y
+            
+              2
+            
+          
+          ]
+        
+        −
+        E
+        ⁡
+        [
+        Y
+        
+          ]
+          
+            2
+          
+        
+        =
+        E
+        ⁡
+        
+          [
+          
+            Var
+            ⁡
+            [
+            Y
+            ∣
+            X
+            ]
+            +
+            [
+            E
+            ⁡
+            [
+            Y
+            ∣
+            X
+            ]
+            
+              ]
+              
+                2
+              
+            
+          
+          ]
+        
+        −
+        [
+        E
+        ⁡
+        [
+        E
+        ⁡
+        [
+        Y
+        ∣
+        X
+        ]
+        ]
+        
+          ]
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \operatorname {E} \left[Y^{2}\right]-\operatorname {E} [Y]^{2}=\operatorname {E} \left[\operatorname {Var} [Y\mid X]+[\operatorname {E} [Y\mid X]]^{2}\right]-[\operatorname {E} [\operatorname {E} [Y\mid X]]]^{2}.}
+  
+
+Since the expectation of a sum is the sum of expectations, the terms can now be regrouped:
+
+  
+    
+      
+        =
+        
+          (
+          
+            E
+            ⁡
+            [
+            Var
+            ⁡
+            [
+            Y
+            ∣
+            X
+            ]
+            ]
+          
+          )
+        
+        +
+        
+          (
+          
+            E
+            ⁡
+            
+              [
+              
+                E
+                ⁡
+                [
+                Y
+                ∣
+                X
+                
+                  ]
+                  
+                    2
+                  
+                
+              
+              ]
+            
+            −
+            [
+            E
+            ⁡
+            [
+            E
+            ⁡
+            [
+            Y
+            ∣
+            X
+            ]
+            ]
+            
+              ]
+              
+                2
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle =\left(\operatorname {E} [\operatorname {Var} [Y\mid X]]\right)+\left(\operatorname {E} \left[\operatorname {E} [Y\mid X]^{2}\right]-[\operatorname {E} [\operatorname {E} [Y\mid X]]]^{2}\right).}
+  
+
+Finally, we recognize the terms in the second set of parentheses as the variance of the conditional expectation 
+  
+    
+      
+        E
+        ⁡
+        [
+        Y
+        ∣
+        X
+        ]
+      
+    
+    {\displaystyle \operatorname {E} [Y\mid X]}
+  
+:
+
+  
+    
+      
+        =
+        E
+        ⁡
+        [
+        Var
+        ⁡
+        [
+        Y
+        ∣
+        X
+        ]
+        ]
+        +
+        Var
+        ⁡
+        [
+        E
+        ⁡
+        [
+        Y
+        ∣
+        X
+        ]
+        ]
+        .
+      
+    
+    {\displaystyle =\operatorname {E} [\operatorname {Var} [Y\mid X]]+\operatorname {Var} [\operatorname {E} [Y\mid X]].}
+  
+
+
+General variance decomposition applicable to dynamic systems[edit]
+The following formula shows how to apply the general, measure theoretic variance decomposition formula [4] to stochastic dynamic systems. Let 
+  
+    
+      
+        Y
+        (
+        t
+        )
+      
+    
+    {\displaystyle Y(t)}
+  
+ be the value of a system variable at time 
+  
+    
+      
+        t
+        .
+      
+    
+    {\displaystyle t.}
+  
+ Suppose we have the internal histories (natural filtrations) 
+  
+    
+      
+        
+          H
+          
+            1
+            t
+          
+        
+        ,
+        
+          H
+          
+            2
+            t
+          
+        
+        ,
+        …
+        ,
+        
+          H
+          
+            c
+            −
+            1
+            ,
+            t
+          
+        
+      
+    
+    {\displaystyle H_{1t},H_{2t},\ldots ,H_{c-1,t}}
+  
+, each one corresponding to the history (trajectory) of a different collection of system variables. The collections need not be disjoint. The variance of 
+  
+    
+      
+        Y
+        (
+        t
+        )
+      
+    
+    {\displaystyle Y(t)}
+  
+ can be decomposed, for all times 
+  
+    
+      
+        t
+        ,
+      
+    
+    {\displaystyle t,}
+  
+ into 
+  
+    
+      
+        c
+        ≥
+        2
+      
+    
+    {\displaystyle c\geq 2}
+  
+ components as follows:
+
+  
+    
+      
+        
+          
+            
+              
+                Var
+                ⁡
+                [
+                Y
+                (
+                t
+                )
+                ]
+                =
+                
+
+                
+              
+              
+                E
+                ⁡
+                (
+                Var
+                ⁡
+                [
+                Y
+                (
+                t
+                )
+                ∣
+                
+                  H
+                  
+                    1
+                    t
+                  
+                
+                ,
+                
+                  H
+                  
+                    2
+                    t
+                  
+                
+                ,
+                …
+                ,
+                
+                  H
+                  
+                    c
+                    −
+                    1
+                    ,
+                    t
+                  
+                
+                ]
+                )
+              
+            
+            
+              
+              
+                
+                
+
+                
+                +
+                
+                  ∑
+                  
+                    j
+                    =
+                    2
+                  
+                  
+                    c
+                    −
+                    1
+                  
+                
+                E
+                ⁡
+                (
+                Var
+                ⁡
+                [
+                E
+                ⁡
+                [
+                Y
+                (
+                t
+                )
+                ∣
+                
+                  H
+                  
+                    1
+                    t
+                  
+                
+                ,
+                
+                  H
+                  
+                    2
+                    t
+                  
+                
+                ,
+                …
+                ,
+                
+                  H
+                  
+                    j
+                    t
+                  
+                
+                ]
+                ∣
+                
+                  H
+                  
+                    1
+                    t
+                  
+                
+                ,
+                
+                  H
+                  
+                    2
+                    t
+                  
+                
+                ,
+                …
+                ,
+                
+                  H
+                  
+                    j
+                    −
+                    1
+                    ,
+                    t
+                  
+                
+                ]
+                )
+              
+            
+            
+              
+              
+                
+                
+
+                
+                +
+                Var
+                ⁡
+                (
+                E
+                ⁡
+                [
+                Y
+                (
+                t
+                )
+                ∣
+                
+                  H
+                  
+                    1
+                    t
+                  
+                
+                ]
+                )
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\operatorname {Var} [Y(t)]={}&\operatorname {E} (\operatorname {Var} [Y(t)\mid H_{1t},H_{2t},\ldots ,H_{c-1,t}])\\[4pt]&{}+\sum _{j=2}^{c-1}\operatorname {E} (\operatorname {Var} [\operatorname {E} [Y(t)\mid H_{1t},H_{2t},\ldots ,H_{jt}]\mid H_{1t},H_{2t},\ldots ,H_{j-1,t}])\\[4pt]&{}+\operatorname {Var} (\operatorname {E} [Y(t)\mid H_{1t}]).\end{aligned}}}
+  
+
+The decomposition is not unique. It depends on the order of the conditioning in the sequential decomposition.
+
+The square of the correlation and explained (or informational) variation[edit]
+In cases where 
+  
+    
+      
+        (
+        Y
+        ,
+        X
+        )
+      
+    
+    {\displaystyle (Y,X)}
+  
+ are such that the conditional expected value is linear; that is, in cases where
+
+  
+    
+      
+        E
+        ⁡
+        (
+        Y
+        ∣
+        X
+        )
+        =
+        a
+        X
+        +
+        b
+        ,
+      
+    
+    {\displaystyle \operatorname {E} (Y\mid X)=aX+b,}
+  
+
+it follows from the bilinearity of covariance that  
+
+  
+    
+      
+        a
+        =
+        
+          
+            
+              Cov
+              ⁡
+              (
+              Y
+              ,
+              X
+              )
+            
+            
+              Var
+              ⁡
+              (
+              X
+              )
+            
+          
+        
+      
+    
+    {\displaystyle a={\operatorname {Cov} (Y,X) \over \operatorname {Var} (X)}}
+  
+
+and
+
+  
+    
+      
+        b
+        =
+        E
+        ⁡
+        (
+        Y
+        )
+        −
+        
+          
+            
+              Cov
+              ⁡
+              (
+              Y
+              ,
+              X
+              )
+            
+            
+              Var
+              ⁡
+              (
+              X
+              )
+            
+          
+        
+        E
+        ⁡
+        (
+        X
+        )
+      
+    
+    {\displaystyle b=\operatorname {E} (Y)-{\operatorname {Cov} (Y,X) \over \operatorname {Var} (X)}\operatorname {E} (X)}
+  
+
+and the explained component of the variance divided by the total variance is just the square of the correlation between 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+ and 
+  
+    
+      
+        X
+        ;
+      
+    
+    {\displaystyle X;}
+  
+ that is, in such cases,
+
+  
+    
+      
+        
+          
+            
+              Var
+              ⁡
+              (
+              E
+              ⁡
+              (
+              Y
+              ∣
+              X
+              )
+              )
+            
+            
+              Var
+              ⁡
+              (
+              Y
+              )
+            
+          
+        
+        =
+        Corr
+        ⁡
+        (
+        X
+        ,
+        Y
+        
+          )
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle {\operatorname {Var} (\operatorname {E} (Y\mid X)) \over \operatorname {Var} (Y)}=\operatorname {Corr} (X,Y)^{2}.}
+  
+
+One example of this situation is when 
+  
+    
+      
+        (
+        X
+        ,
+        Y
+        )
+      
+    
+    {\displaystyle (X,Y)}
+  
+ have a bivariate normal (Gaussian) distribution.
+More generally, when the conditional expectation 
+  
+    
+      
+        E
+        ⁡
+        (
+        Y
+        ∣
+        X
+        )
+      
+    
+    {\displaystyle \operatorname {E} (Y\mid X)}
+  
+ is a non-linear function of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+[4]
+
+  
+    
+      
+        
+          ι
+          
+            Y
+            ∣
+            X
+          
+        
+        =
+        
+          
+            
+              Var
+              ⁡
+              (
+              E
+              ⁡
+              (
+              Y
+              ∣
+              X
+              )
+              )
+            
+            
+              Var
+              ⁡
+              (
+              Y
+              )
+            
+          
+        
+        =
+        Corr
+        ⁡
+        (
+        E
+        ⁡
+        (
+        Y
+        ∣
+        X
+        )
+        ,
+        Y
+        
+          )
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle \iota _{Y\mid X}={\operatorname {Var} (\operatorname {E} (Y\mid X)) \over \operatorname {Var} (Y)}=\operatorname {Corr} (\operatorname {E} (Y\mid X),Y)^{2},}
+  
+
+which can be estimated as the 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ squared from a non-linear regression of 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+ on 
+  
+    
+      
+        X
+        ,
+      
+    
+    {\displaystyle X,}
+  
+ using data drawn from the joint distribution of 
+  
+    
+      
+        (
+        X
+        ,
+        Y
+        )
+        .
+      
+    
+    {\displaystyle (X,Y).}
+  
+ When 
+  
+    
+      
+        E
+        ⁡
+        (
+        Y
+        ∣
+        X
+        )
+      
+    
+    {\displaystyle \operatorname {E} (Y\mid X)}
+  
+ has a Gaussian distribution (and is an invertible function of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+), or 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+ itself has a (marginal) Gaussian distribution, this explained component of variation sets a lower bound on the mutual information:[4]
+
+  
+    
+      
+        I
+        ⁡
+        (
+        Y
+        ;
+        X
+        )
+        ≥
+        ln
+        ⁡
+        
+          (
+          
+            [
+            1
+            −
+            
+              ι
+              
+                Y
+                ∣
+                X
+              
+            
+            
+              ]
+              
+                −
+                1
+                
+                  /
+                
+                2
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \operatorname {I} (Y;X)\geq \ln \left([1-\iota _{Y\mid X}]^{-1/2}\right).}
+  
+
+
+Higher moments[edit]
+A similar law for the third central moment 
+  
+    
+      
+        
+          μ
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mu _{3}}
+  
+ says
+
+  
+    
+      
+        
+          μ
+          
+            3
+          
+        
+        (
+        Y
+        )
+        =
+        E
+        ⁡
+        
+          (
+          
+            
+              μ
+              
+                3
+              
+            
+            (
+            Y
+            ∣
+            X
+            )
+          
+          )
+        
+        +
+        
+          μ
+          
+            3
+          
+        
+        (
+        E
+        ⁡
+        (
+        Y
+        ∣
+        X
+        )
+        )
+        +
+        3
+        cov
+        ⁡
+        (
+        E
+        ⁡
+        (
+        Y
+        ∣
+        X
+        )
+        ,
+        var
+        ⁡
+        (
+        Y
+        ∣
+        X
+        )
+        )
+        .
+      
+    
+    {\displaystyle \mu _{3}(Y)=\operatorname {E} \left(\mu _{3}(Y\mid X)\right)+\mu _{3}(\operatorname {E} (Y\mid X))+3\operatorname {cov} (\operatorname {E} (Y\mid X),\operatorname {var} (Y\mid X)).}
+  
+
+For higher cumulants, a generalization exists.  See law of total cumulance.
+
+See also[edit]
+Law of total covariance − a generalization
+Law of propagation of errors
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ Neil A. Weiss, A Course in Probability, Addison–Wesley, 2005, pages 385–386.
+
+^  Joseph K. Blitzstein and Jessica Hwang: "Introduction to Probability"
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Mahler, Howard C.; Dean, Curtis Gary (2001). "Chapter 8: Credibility" (PDF).  In Casualty Actuarial Society (ed.). Foundations of Casualty Actuarial Science (4th ed.). Casualty Actuarial Society. pp. 525–526. ISBN 978-0-96247-622-8. Retrieved June 25, 2015.
+
+^ a b c d e Bowsher, C.G. and P.S. Swain, Identifying sources of variation and the flow of information in biochemical networks, PNAS May 15, 2012 109 (20) E1320-E1328.
+
+^ Neil A. Weiss, A Course in Probability, Addison–Wesley, 2005, pages 380–383.
+
+
+
+
+Blitzstein, Joe. "Stat 110 Final Review (Eve's Law)" (PDF). stat110.net. Harvard University, Department of Statistics. Retrieved 9 July 2014.
+Billingsley, Patrick (1995). Probability and Measure. New York, NY: John Wiley & Sons, Inc. ISBN 0-471-00710-2. (Problem 34.10(b))
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Law_of_total_variance&oldid=1054798791"
+		Categories: Algebra of random variablesStatistical deviation and dispersionTheory of probability distributionsTheorems in statisticsStatistical lawsHidden categories: Articles containing proofs
+	

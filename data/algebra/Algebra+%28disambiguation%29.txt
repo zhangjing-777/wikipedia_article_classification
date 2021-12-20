@@ -1,0 +1,111 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+Look up algebra in Wiktionary, the free dictionary.
+
+The word 'algebra' is used for various branches and structures of mathematics. For their overview, see Algebra.
+
+@media all and (max-width:720px){body.skin-minerva .mw-parser-output .tocright{display:none}.mw-parser-output .tocright{width:100%!important}}@media all and (min-width:720px){.mw-parser-output .tocright{float:right;clear:right;width:auto;margin:0 0 0.5em 1em}.mw-parser-output .tocright-clear-left{clear:left}.mw-parser-output .tocright-clear-both{clear:both}.mw-parser-output .tocright-clear-none{clear:none}}Contents
+
+1 The bare word "algebra"
+2 Branches of mathematics
+3 Mathematical structures
+
+3.1 Vector space with multiplication
+3.2 Other structures
+
+
+4 Other uses
+5 See also
+
+
+
+The bare word "algebra"[edit]
+The bare word "algebra" may refer to:
+
+Elementary algebra
+Abstract algebra
+Algebra over a field
+In universal algebra, algebra has an axiomatic definition, roughly as an instance of any of a number of algebraic structures, such as groups, rings, etc.
+
+Branches of mathematics[edit]
+Elementary algebra, i.e. "high-school algebra"
+Abstract algebra
+Linear algebra
+Relational algebra
+Universal algebra
+The term is also traditionally used for the field of:
+
+Computer algebra, dealing with software systems for symbolic mathematical computation, which often offer capabilities beyond what is normally understood to be "algebra"
+Mathematical structures[edit]
+Vector space with multiplication[edit]
+An "algebra", or to be verbose, an algebra over a field, is a vector space equipped with a bilinear vector product. Some notable algebras in this sense are:
+
+In ring theory and linear algebra:
+Algebra over a commutative ring, a module equipped with a bilinear product. Generalization of algebras over a field
+Associative algebra, a module equipped with an associative bilinear vector product
+Superalgebra, a 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{2}}
+  
+-graded algebra
+Lie algebras, Poisson algebras, and Jordan algebras, important examples of (potentially) nonassociative algebras
+In functional analysis:
+Banach algebra, an associative algebra A over the real or complex numbers which at the same time is also a Banach space
+Operator algebra, continuous linear operators on a topological vector space with multiplication given by the composition
+*-algebra, An algebra with a notion of adjoints
+C*-algebra, a Banach algebra equipped with a unary involution operation
+Von Neumann algebra (or W*-algebra)
+See also coalgebra, the dual notion.
+
+Other structures[edit]
+A different class of "algebras" consists of objects which generalize logical connectives, sets, and lattices.
+
+In logic:
+Relational algebra, in which a set of finitary relations that is closed under certain operators
+Boolean algebra and Boolean algebra (structure)
+Heyting algebra
+In measure theory:
+Algebra over a set, a collection of sets closed under finite unions and complementation
+Sigma algebra, a collection of sets closed under countable unions and complementation
+"Algebra" can also describe more general structures:
+
+In category theory and computer science:
+F-algebra and F-coalgebra
+T-algebra
+Other uses[edit]
+Algebra Blessett, singer from the U.S, goes by the stage name Algebra
+See also[edit]
+Algebraic (disambiguation)
+List of all articles whose title begins with "algebra"
+.mw-parser-output .dmbox{display:flex;align-items:center;clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;padding:0.25em 0.35em;font-style:italic}.mw-parser-output .dmbox>*{flex-shrink:0;margin:0 0.25em;display:inline}.mw-parser-output .dmbox-body{flex-grow:1;flex-shrink:1;padding:0.1em 0}
+ Topics referred to by the same termThis disambiguation page lists mathematics articles associated with the same title.  If an internal link led you here, you may wish to change the link to point directly to the intended article. 
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Algebra_(disambiguation)&oldid=1057958691"
+		Categories: Mathematics disambiguation pagesHidden categories: Disambiguation pages with short descriptionsShort description is different from WikidataAll article disambiguation pagesAll disambiguation pages
+	

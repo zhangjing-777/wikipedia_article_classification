@@ -1,0 +1,1388 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Form of competition using video games
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}This article is about video game competitions. For simulated sports in video games, see Sports game. For multiplayer games in general, see Multiplayer video game.
+
+
+
+  Players competing in a League of Legends tournament.
+Esports (also known as electronic sports, e-sports, or eSports) is a form of competition using video games.[1] Esports often takes the form of organized, multiplayer video game competitions, particularly between professional players, individually or as teams. Although organized competitions have long been a part of video game culture, these were largely between amateurs until the late 2000s, when participation by professional gamers and spectatorship in these events through live streaming saw a large surge in popularity.[2][3] By the 2010s, esports was a significant factor in the video game industry, with many game developers actively designing and providing funding for tournaments and other events.
+The most common video game genres associated with esports are multiplayer online battle arena (MOBA), first-person shooter (FPS), fighting, card, battle royale and real-time strategy (RTS) games. Popular esport franchises include League of Legends, Dota, Counter-Strike, Valorant, Overwatch, Street Fighter, Super Smash Bros. and StarCraft, among many others. Tournaments such as the League of Legends World Championship,  Dota 2's International, the fighting game-specific Evolution Championship Series (EVO) and Intel Extreme Masters are among the most popular in esports. Many other competitions use a series of league play with sponsored teams, such as the Overwatch League. Although the legitimacy of esports as a true sporting competition remains in question, they have been featured alongside traditional sports in some multinational events in Asia, with the International Olympic Committee also having discussed their inclusion into future Olympic events.
+By the late 2010s, it was estimated that the total audience of esports would grow to 454 million viewers, with revenue increasing to more than US$1 billion (with China accounting for 35% of the global esports revenue in 2020).[4][5] The increasing availability of online streaming media platforms, particularly YouTube and Twitch, have become central to the growth and promotion of esports competitions.[3] Despite viewership being approximately 85% male and 15% female, with a majority of viewers between the ages of 18 and 34, female gamers have also played professionally.[6][7][8] The popularity and recognition of esports first took place in Asia, seeing significant growth in China and South Korea, with the latter having licensed professional players since 2000. Despite its large video game industry, esports in Japan is relatively underdeveloped, with this being largely attributed to its broad anti-gambling laws which prohibit paid professional gaming tournaments.[9][10] Outside of Asia, esports are also popular in Europe and the Americas, with both regional and international events taking place in those regions.
+
+Contents
+
+1 History
+
+1.1 Early history (1972–1989)
+1.2 Growth and online video games (1990–1999)
+1.3 Global tournaments (2000–present)
+
+
+2 Classification as a sport
+
+2.1 Olympic Games recognition
+
+
+3 Games
+4 Video game design
+
+4.1 Spectator mode
+4.2 Online
+4.3 Local area network
+
+
+5 Players and teams
+6 Leagues and tournaments
+
+6.1 Promotion and relegation leagues
+6.2 Franchised leagues
+6.3 Tournaments
+6.4 Collegiate and school leagues
+6.5 Governing bodies
+
+
+7 Ethics and legal problems
+
+7.1 Performance-enhancing drugs
+7.2 Player exploitation
+7.3 Economics
+7.4 Gambling
+
+7.4.1 The incentives of the industry
+7.4.2 Types of esports Gambling
+
+
+7.5 Data analytics and machine learning
+7.6 Game cancellations
+
+
+8 Media coverage
+
+8.1 News reporting
+8.2 Internet live streaming
+8.3 Television
+
+
+9 References
+10 External links
+
+
+
+History
+Early history (1972–1989)
+  Attendees of the 1981 Space Invaders Championships attempt to set the highest score
+The earliest known video game competition took place on 19 October 1972 at Stanford University for the game Spacewar.[11] Stanford students were invited to an "Intergalactic spacewar olympics" whose grand prize was a year's subscription for Rolling Stone, with Bruce Baumgart winning the five-man-free-for-all tournament and Tovar and Robert E. Maas winning the team competition.[12]
+Contemporary esports has roots in competitive face-to-face arcade video game competitions. A forerunner of esports was held by Sega in 1974, the All Japan TV Game Championships, a nationwide arcade video game tournament in Japan.[13][14][15] The tournament was intended by Sega to promote the play and sales of video games in the country. There were local tournaments held in 300 locations across Japan, and then sixteen finalists from across the country competed in the final elimination rounds at Tokyo's Hotel Pacific. Prizes awarded included television sets (color and black-and-white), cassette tape recorders and transistor radios. According to Sega, the tournament "proved to be the biggest event ever" in the arcade game industry, and was attended by members from leading Japanese newspapers and leisure industry companies.[13] Sega stressed “the importance of such tournaments to foster better business relationships between the maker-location-customer and create an atmosphere of competition on TV amusement games".[14][13] In 1977, Gremlin Industries (a year before being acquired by Sega) held a marketing stunt to promote their early arcade snake game Hustle in the United States, involving the "Gremlin Girls" who were a duo of professional female arcade players called Sabrina Osment and Lynn Reid.[16][17] The pair travelled across 19 American cities, where players could challenge them in best-of-three matches for a chance to win money. The duo were challenged by a total of 1,300 players, only about seven of whom managed to beat them.[17]
+The golden age of arcade video games was heralded by Taito's Space Invaders in 1978, which popularized the use of a persistent high score for all players. Several video games in the next several years followed suit, adding other means of tracking high scores such with high score tables that included the players' initials in games like Asteroids in 1979. High score-chasing became a popular activity and a means of competition.[18] The Space Invaders Championship held by Atari in 1980 was the earliest large scale video game competition, attracting more than 10,000 participants across the United States, establishing competitive gaming as a mainstream hobby.[19] Walter Day, owner of an arcade in Iowa, had taken it upon himself to travel across the United States to record the high scores on various games in 1980, and on his return, founded Twin Galaxies, a high score record-keeping organization.[20] The organization went on to help promote video games and publicize its records through publications such as the Guinness Book of World Records, and in 1983 it created the U.S. National Video Game Team. The team was involved in competitions, such as running the Video Game Masters Tournament for Guinness World Records[21][22] and sponsoring the North American Video Game Challenge tournament.[23] A multicity tour in 1983, the "Electronic Circus", was used to feature these players in live challenges before audiences, and draw more people to video games.[18] These video game players and tournaments were featured in well-circulated newspapers and popular magazines including Life and Time and became minor celebrities at the time, such as Billy Mitchell.[24][25] Besides establishing the competitive nature of games, these types of promotional events all formed the nature of the marketing and promotion that formed the basis of modern esports.[18]
+In 1984, Konami and Centuri jointly held an international Track & Field arcade game competition that drew more than a million players from across Japan and North America. Play Meter in 1984 called it "the coin-op event of the year" and an "event on a scale never before achieved in the industry".[26] As of 2016[update], it holds the record for the largest organized video game competition of all time, according to Guinness World Records.[27]
+Televised esports events aired during this period included the American show Starcade which ran from 1982 to 1984 airing a total of 133 episodes, on which contestants would attempt to beat each other's high scores on an arcade game.[28] A video game tournament was included as part of TV show That's Incredible!,[29] and tournaments were also featured as part of the plot of various films, including 1982's Tron.[30] In the UK, the BBC game show First Class included competitive video game rounds featuring the contemporary arcade games, such as Hyper Sports, 720° and Paperboy.[31][32] In the United States, the Amusement Players Association held its first U.S. National Video Game Team competition in January 1987, where Vs. Super Mario Bros. was popular among competitive arcade players.[33]
+The 1988 game Netrek was an Internet game for up to 16 players, written almost entirely in cross-platform open source software. Netrek was the third Internet game, the first Internet game to use metaservers to locate open game servers, and the first to have persistent user information. In 1993 it was credited by Wired Magazine as "the first online sports game".[34]
+
+Growth and online video games (1990–1999)
+The fighting game Street Fighter II (1991) popularized the concept of direct, tournament-level competition between two players.[35] Previously, video games most often relied on high scores to determine the best player, but this changed with Street Fighter II, where players would instead challenge each other directly, "face-to-face," to determine the best player,[35] paving the way for the competitive multiplayer and deathmatch modes found in modern action games.[36] The popularity of fighting games such as Street Fighter and Marvel vs. Capcom in the 1990s led to the foundation of the international Evolution Championship Series (EVO) esports tournament in 1996.
+Large esports tournaments in the 1990s include the 1990 Nintendo World Championships, which toured across the United States, and held its finals at Universal Studios Hollywood in California. Nintendo held a 2nd World Championships in 1994 for the Super Nintendo Entertainment System called the Nintendo PowerFest '94. There were 132 finalists that played in the finals in San Diego, California.  Mike Iarossi took home 1st prize. Blockbuster Video also ran their own World Game Championships in the early 1990s, co-hosted by GamePro magazine.  Citizens from the United States, Canada, the United Kingdom, Australia, and Chile were eligible to compete.  Games from the 1994 championships included NBA Jam and Virtua Racing.[37]
+Television shows featuring esports during this period included the British shows GamesMaster and Bad Influence! the Australian game show A*mazing, where in one round contestants competed in a video game face off, and the Canadian game show Video & Arcade Top 10.
+In the 1990s, many games benefited from increasing internet connectivity, especially PC games. Inspired by the fighting games Street Fighter II, Fatal Fury and Art of Fighting, id Software's John Romero established competitive multiplayer in online games with Doom's deathmatch mode in 1993.[38] Tournaments established in the late 1990s include the Cyberathlete Professional League (CPL), QuakeCon, and the Professional Gamers League. PC games played at the CPL included the Counter-Strike series, Quake series, StarCraft, and Warcraft.
+
+Global tournaments (2000–present)
+  The League of Legends World Championship is an annual League of Legends tournament that rotates its venues around the world.
+The growth of esports in South Korea is thought to have been influenced by the mass building of broadband Internet networks following the 1997 Asian financial crisis.[39] It is also thought that the high unemployment rate at the time caused many people to look for things to do while out of work.[40] Instrumental to this growth of esports in South Korea was the prevalence of the Komany-style internet café/LAN gaming center, known as a PC bang. The Korean e-Sports Association, an arm of the Ministry of Culture, Sports and Tourism, was founded in 2000 to promote and regulate esports in the country.[41] Minister of Culture, Sports, and Tourism Park Jie-won coined the term "Esports" at the founding ceremony of the 21st Century Professional Game Association (currently Korean e-Sports Association) in 2000.[42] "Evo Moment 37", also known as the "Daigo Parry", refers to a portion of a Street Fighter III: 3rd Strike semi-final match held at Evolution Championship Series 2004 (Evo 2004) between Daigo Umehara and Justin Wong. During this match, Umehara made an unexpected comeback by parrying 15 consecutive hits of Wong's "Super Art" move while having only one pixel of vitality. Umehara subsequently won the match. "Evo Moment #37" is frequently described as the most iconic and memorable moment in the history of competitive video gaming. Being at one point the most-watched competitive gaming moment of all time, it has been compared to sports moments such as Babe Ruth's called shot and the Miracle on Ice.[43]
+In April 2006 the G7 teams federation were formed by seven prominent Counter-Strike teams. The goal of the organization was to increase stability in the esports world, particularly in standardizing player transfers and working with leagues and organizations. The founding members were 4Kings, Fnatic, Made in Brazil, Mousesports, NiP, SK-Gaming, Team 3D.[44] The organization only lasted until 2009 before dissolving.[45]
+The 2000s was a popular time for televised esports. Television coverage was best established in South Korea, with StarCraft and Warcraft III competitions regularly televised by dedicated 24-hour cable TV game channels Ongamenet and MBCGame.[46] Elsewhere, esports television coverage was sporadic. The German GIGA Television covered esports until its shutdown in 2009. The United Kingdom satellite television channel XLEAGUE.TV broadcast esports competitions from 2007 to 2009. The online esports only channel ESL TV[47] briefly attempted a paid television model renamed GIGA II from June 2006 to autumn 2007. The French channel Game One broadcast esports matches in a show called Arena Online for the Xfire Trophy.[48] The United States channel ESPN hosted Madden NFL competitions in a show called Madden Nation from 2005 to 2008.[49] DirecTV broadcast the Championship Gaming Series tournament for two seasons in 2007 and 2008.[46] CBS aired prerecorded footage of the 2007 World Series of Video Games tournament that was held in Louisville, Kentucky.[50] The G4 television channel originally covered video games exclusively, but broadened its scope to cover technology and men's lifestyle, though has now shutdown.[46]
+During the 2010s, esports grew tremendously, incurring a large increase in both viewership and prize money.[51][52] Although large tournaments were founded before the 21st century, the number and scope of tournaments has increased significantly, going from about 10 tournaments in 2000 to about 260 in 2010.[3] Many successful tournaments were founded during this period, including the World Cyber Games, the Intel Extreme Masters, and Major League Gaming. The proliferation of tournaments included experimentation with competitions outside traditional esports genres. For example, the September 2006 FUN Technologies Worldwide Webgames Championship featured 71 contestants competing in casual games for a $1 million grand prize.[53]
+The popularity and emergence of online streaming services have helped the growth of esports in this period, and are the most common method of watching tournaments. Twitch, an online streaming platform launched in 2011, routinely streams popular esports competitions. In 2013, viewers of the platform watched 12 billion minutes of video on the service, with the two most popular Twitch broadcasters being League of Legends and Dota 2.[54] During one day of The International, Twitch recorded 4.5 million unique views, with each viewer watching for an average of two hours.[3]
+The modern esports boom has also seen a rise in video games companies embracing the esports potential of their products. After many years of ignoring and at times suppressing the esports scene, Nintendo hosted Wii Games Summer 2010. Spanning over a month, the tournament had over 400,000 participants, making it the largest and most expansive tournament in the company's history. In 2014 Nintendo hosted an invitational Super Smash Bros. for Wii U competitive tournament at the 2014 Electronic Entertainment Expo (E3) press conference that was streamed online on Twitch.[55] Halo developers 343 Industries announced in 2014 plans to revive Halo as an esport with the creation of the Halo Championship Series and a prize pool of US$50,000.[56] Both Blizzard Entertainment and Riot Games have their own collegiate outreach programs with their North American Collegiate Championship.[57][58] Since 2013 universities and colleges in the United States such as Robert Morris University Illinois and the University of Pikeville have recognized esports players as varsity level athletes and offer athletic scholarships.[59] In 2017, Tespa, Blizzard Entertainment's collegiate esports division, unveiled its new initiative to provide scholarships and prizes for collegiate esports clubs competing in its tournaments worth US$1 million.[60] Colleges have begun granting scholarships to students who qualify to play esports professionally for the school. Colleges such as Columbia College, Robert Morris University, and Indiana Institute of Technology have taken part in this.[61]  In 2018, Harrisburg University of Science and Technology began a tuition scholarship program for esports players.[62]
+In 2014, the largest independent esports league, Electronic Sports League, partnered with the local brand Japan Competitive Gaming to try and grow esports in the country.[63]
+Physical viewership of esports competitions and the scope of events have increased in tandem with the growth of online viewership.[64] In 2013, the Season 3 League of Legends World Championship was held in a sold-out Staples Center.[65] The 2014 League of Legends World Championship in Seoul, South Korea, had over 40,000 fans in attendance and featured the band Imagine Dragons, and opening and closing ceremonies in addition to the competition.[66]
+In 2015, the first Esports Arena was launched in Santa Ana, California, as the United States' first dedicated esports facility.[67]
+
+Classification as a sport
+Labeling video games as sports is a controversial topic.[68][69][70] Proponents[71] argue that esports are a fast-growing "non-traditional sport" which requires "careful planning, precise timing, and skillful execution".[72] Others[who?] claim that sports involve physical fitness and physical training, and prefer to classify esports as a mind sport.[73][74]
+In 2014, then-ESPN president John Skipper described esports as "not a sport – [they're] a competition."[75][76][77][78][79][80] In 2013 on an episode of Real Sports with Bryant Gumbel the panelist openly laughed at the topic.[81] In addition, many in the fighting games community maintain a distinction between their competitive gaming competitions and the more commercially connected esports competitions of other genres.[82] In the 2015 World Championship hosted by the International Esports Federation, an esports panel of guests from international sports society discussed the future recognition of esports as a legitimate sport.[83]
+Russia was the first country that classified "cybersport" as an official sport discipline[84] on 25 July 2001.[85] After a series of reforms in Russian sports, it was classified as a sport again on 12 March 2004.[85][86][87][88] In July 2006, it was removed from a list of sport disciplines because it did not fit the new sport standards.[89][90] On 7 July 2016, The Ministry of Sport decided to add cybersport the into sport registry[91] and on 13 April 2017, esports become an official sport discipline once again.[citation needed]
+China was one of the first countries to recognize esport as a real sport in 2003, despite concerns at the time that video games were addicting. Through this, the government encouraged esport, stating that by participating in esports, players were also "training the body for China".[92] Further, by early 2019, China recognized esports players as an official profession within the Ministry of Human Resources and Social Security's Occupation Skill Testing Authority recommendations, as well as professional gaming operators, those that distribute and manage esports games.[93] By July 2019, more than 100,000 people had registered themselves as professional gamers under this, with the Ministry stating that they anticipate over 2 million such people in this profession in five years.[94]
+In 2013, Canadian League of Legends player Danny "Shiphtur" Le became the first pro gamer to receive an American P-1A visa, a category designated for "Internationally Recognized Athletes".[95][96]
+In 2014, Turkey's Ministry of Youth and Sports started issuing esports Player licenses to players certified as professionals.[97][98]
+In 2016, the French government started working on a project to regulate and recognize esports.[99] The Games and Amusements Board of the Philippines started issuing athletic license to Filipino esports players who are vouched by a professional esports team in July 2017.[100][101]
+To help promote esports as a legitimate sport, several esports events have been run alongside more traditional international sports competitions. The 2007 Asian Indoor Games was the first notable multi-sport competition including esports as an official medal-winning event alongside other traditional sports, and the later editions of the Asian Indoor Games and its successor the Asian Indoor and Martial Arts Games have always included esports as an official medal event or an exhibition event up to now. Moreover, the Asian Games, which is the Asian top-level multi-sport competition, will also include esports as a medal event at the 2022 edition; esports around games such as Hearthstone, Starcraft II, and League of Legends were presented as an exhibition event at the 2018 Asian Games as a lead-in to the 2022 games.[102][103] The 2019 Southeast Asian Games included six medal events for esports.[104]
+Since 2018 World Sailing has held an eSailing World Championship that showed a main sports federation embracing esports.[105] Virtual Regatta race shadowing the 2020-2021 Vendee Globe was the first online game believe to have in excess of 1,000,000 unique users[106]
+Ahead of The International 2021 which was planned to take place in Stockholm, Sweden, the Swedish Sports Federation voted in June 2021 to deny recognition of esports as a sporting event, which jeopardized plans for how Valve had arranged the event in regards to travel visas for international players. Valve had tried to work with Sweden to accommodate players, but rescheduled the event to Bucharest, Romania instead.[107][108]
+
+Olympic Games recognition
+The Olympic Games are also seen as a potential method to legitimize esports.  A summit held by the International Olympic Committee (IOC) in October 2017 acknowledged the growing popularity of esports, concluding that "Competitive 'esports' could be considered as a sporting activity, and the players involved prepare and train with an intensity which may be comparable to athletes in traditional sports" but would require any games used for the Olympics fitting "with the rules and regulations of the Olympic movement".[109] Another article by Andy Stout suggests that 106 million people viewed the 2017 Worlds Esports competition.[110] International Olympic Committee (IOC) president Thomas Bach has noted that the IOC is troubled by violent games and the lack of a global sanctioning body for esports.[111][103] Bach acknowledged that many Olympic sports bore out from actual violent combat, but stated that "sport is the civilized expression about this. If you have egames where it's about killing somebody, this cannot be brought into line with our Olympic values."[103] Due to that, the IOC suggested that they would approve more of esports centered around games that simulate real sports, such as the NBA 2K or FIFA series.[112]
+The issues around esports have not prevented the IOC from exploring what possibilities there are for incorporation into future Olympics. During July 2018, the IOC and the Global Association of International Sports Federations (GAISF) held a symposium and inviting major figures in esports, including Epic Games' Mark Rein, Blizzard Entertainment's Mike Morhaime, and esports players Dario "TLO" Wünsch, Jacob "Jake" Lyon, and Se-yeon "Geguri" Kim, for these organizations "to gain a deeper understanding of esports, their impact and likely future development, so that [they] can jointly consider the ways in which [they] may collaborate to the mutual benefit of all of sport in the years ahead".[113][114] The IOC has tested the potential for esports through exhibition games. With support of the IOC, Intel sponsored exhibition esport events for StarCraft II and Steep prior to the 2018 Winter Olympics in Pyeongchang, and five South Korean esport players were part of the Olympic Torch relay.[115][116] A similar exhibition showcase, the eGames, was held alongside the 2016 Summer Olympics in Rio de Janeiro, though this was not supported by the IOC.
+Leaders in Japan are becoming involved to help bring esports to the 2020 Summer Olympics and beyond, given the country's reputation as a major video game industry center. Esports in Japan had not flourished due to the country's anti-gambling laws that also prevent paid professional gaming tournaments, but there were efforts starting in late 2017 to eliminate this issue.[10] At the suggestion of the Tokyo Olympic Games Committee for the 2020 Summer Olympics, four esports organizations have worked with Japan's leading consumer organization to exempt esports tournaments from gambling law restrictions. Takeo Kawamura, a member of the Japanese House of Representatives and of the ruling Liberal Democratic Party, led a collation of ruling and opposing politicians to support esports, called the Japan esports Union, or JeSU;[117] Kawamura said that they would be willing to pass laws to further exempt esports as needed so that esports athletes can make a living playing these sports. So far, this has resulted in the ability of esports players to obtain exemption licenses to allow them to play, a similar mechanism needed for professional athletes in other sports in Japan to play professionally.[10] The first such licenses were given out in mid-July 2018, via a tournament held by several video game publishers to award prizes to many players but with JeSU offered these exemption licenses to the top dozen or so players that emerge, allowing them to compete in further esports events.[117] The Tokyo Olympic Committee has also planned to arrange a number of esports events to lead up into the 2020 games.[10] With the IOC, five esports events were set as part of an Olympic Virtual Series from May 13 to June 23, 2021, ahead of the games. Each event in auto racing, baseball, cycling, rowing and sailing will be managed by an IOC-recognized governing body for the sport along with a video game publisher of a game for that sport. For example, the auto racing event will be based on the Gran Turismo series and overseen by the International Automobile Federation along with Polyphony Digital. The baseball, cycling, and sailing events will be based on eBaseball Powerful Pro Baseball 2020, Zwift, and Virtual Regatta, respectively.[118]
+The organization committee for the 2024 Summer Olympics in Paris were in discussions with the IOC and the various professional esport organizations to consider esports for the event, citing the need to include these elements to keep the Olympics relevant to younger generations.[119] Ultimately, the organization committee determined esports were premature to bring to the 2024 Games as medal events, but have not ruled out other activities related to esports during the Games.[120]
+In September 2021, the Olympic Council of Asia announced eight esports games will officially debut as medal sports for the 2022 Asian Games in HangZhou, China.[121]
+During the Eighth Olympic Summit in December 2019, the IOC reiterated that it would only consider sports-simulating games for any official Olympic event, but it would look at two paths for such games in the future: those that promoted good physical and mental health lifestyles, and virtual reality and augmented reality games that included physical activity.[122]
+
+Games
+Main article: List of esports games
+A number of games are popular among professional competitors. The tournaments which emerged in the mid-1990s coincided with the popularity of fighting games and first-person shooters, genres which still maintain a devoted fan base. In the 2000s, real-time strategy games became overwhelmingly popular in South Korean internet cafés, with crucial influence on the development of esports worldwide. Competitions exist for many titles and genres, though the most popular games as of the early 2020s are Counter-Strike: Global Offensive, Call of Duty, League of Legends, Dota 2, Smite, Rocket League, Heroes of the Storm, Hearthstone, Super Smash Bros. Melee, StarCraft II and Overwatch.[123] Hearthstone has also popularized the digital collectible card game (DCCG) genre since its release in 2014.[124]
+
+Video game design
+See also: Video game design
+While it is common for video games to be designed with the experience of the player in game being the only priority, many successful esports games have been designed to be played professionally from the beginning. Developers may decide to add dedicated esports features, or even make design compromises to support high level competition. Games such as StarCraft II,[125] League of Legends,[126] and Dota 2[127] have all been designed, at least in part, to support professional competition.
+
+Spectator mode
+In addition to allowing players to participate in a given game, many game developers have added dedicated observing features for the benefit of spectators. This can range from simply allowing players to watch the game unfold from the competing player's point of view, to a highly modified interface that gives spectators access to information even the players may not have.  The state of the game viewed through this mode may tend to be delayed by a certain amount of time in order to prevent either teams in a game from gaining a competitive advantage. Games with these features include Counter-Strike: Global Offensive, Call of Duty,[128] StarCraft II,[129][130] Dota 2,[131] and Counter-Strike.[132] League of Legends includes spectator features, which are restricted to custom game modes.[133][134]
+In response to the release of virtual reality headsets in 2016, some games, such as Dota 2, were updated to include virtual reality spectating support.[135]
+
+Online
+A very common method for connection is the Internet. Game servers are often separated by region, but high quality connections allow players to set up real-time connections across the world. Downsides to online connections include increased difficulty detecting cheating compared to physical events, and greater network latency, which can negatively impact players' performance, especially at high levels of competition. Many competitions take place online, especially for smaller tournaments and exhibition games.
+Since the 1990s, professional teams or organized clans have set up matches via Internet Relay Chat networks such as QuakeNet. As esports have developed, it has also become common for players to use automated matchmaking clients built into the games themselves. This was popularized by the 1996 release of Blizzard's Battle.net, which has been integrated into both the Warcraft and StarCraft series. Automated matchmaking has become commonplace in console gaming as well, with services such as Xbox Live and the PlayStation Network. After competitors have contacted each other, the game is often managed by a game server, either remotely to each of the competitors, or running on one of the competitor's machines.
+
+Local area network
+Further information: LAN Party
+Additionally, competitions are also often conducted over a local area network or LAN. The smaller network usually has very little lag and higher quality. Because competitors must be physically present, LANs help ensure fair play by allowing direct scrutiny of competitors. This helps prevent many forms of cheating, such as unauthorized hardware or software modding. The physical presence of competitors helps create a more social atmosphere at LAN events. Many gamers organize LAN parties or visit Internet cafés, and most major tournaments are conducted over LANs.
+Individual games have taken various approaches to LAN support. In contrast to the original StarCraft,  StarCraft II was released without support for LAN play, drawing some strongly negative reactions from players.[136] League of Legends was originally released for online play only, but announced in October 2012 that a LAN client was in the works for use in major tournaments.[137] In September 2013, Valve added general support for LAN play to Dota 2 in a patch for the game.[138]
+
+Players and teams
+Professional gamers, or "pro gamers", are often associated with gaming teams and/or broader gaming associations. Teams like FaZe Clan, 100 Thieves, Evil Geniuses, Team SoloMid, Cloud9, Fnatic, Counter Logic Gaming, T1, G2 Esports, Team Envy, and Natus Vincere consist of several professionals. These teams often cover multiple esports games within tournaments and leagues, with various team makeups for each game. They may also represent single players for one-on-one esports games like fighting games within Evolution Championship Series, or Hearthstone tournaments. In addition to prize money from tournament wins, players in these teams and associations may also be paid a separate team salary. Team sponsorship may cover tournament travel expenses or gaming hardware. Prominent esports sponsors include companies such as Logitech and Razer.[139] Teams feature these sponsors on their website, team jerseys[140] and on their social media, in 2016 the biggest teams have social media followings of over a million.[141] Associations include the Korean e-Sports Association (KeSPA), the International e-Sports Federation (IeSF), the British esports Association, and the World esports Association (WESA).
+Some traditional sporting athletes have invested in esports, such as Rick Fox's ownership of Echo Fox,[142] Jeremy Lin's ownership of Team VGJ,[143] and Shaquille O'Neal's investment in NRG Esports.[144] Some association football teams, such as FC Schalke 04 in Germany,[145] Paris Saint-Germain esports in France;[146] Besiktas JK, Fenerbahce S.K., and Galatasaray in Turkey; Panathinaikos F.C. in Greece either sponsor or have complete ownership in esports teams.[147]
+While different from the regimens of traditional sports, esports athletes still have extensive training routines. Team Liquid, a professional League of Legends team, practice for a minimum of 50 hours per week and most play the game far more.[148] In April 2020, researchers from the Queensland University of Technology found that some of the top esport players showed similar aspects of mental toughness as Olympic athletes.[149][150] This training schedule for players has resulted in many of them retiring an early age. Players are generally in competition by their mid- to late-teens, with most retiring by their late-20s.[151]
+
+Leagues and tournaments
+See also: List of esports leagues and tournaments
+Promotion and relegation leagues
+In most team-based esports, organized play is centered around the use of promotion and relegation to move sponsored teams between leagues within the competition's organization based on how the team fared in matches; this follows patterns of professional sports in European and Asian countries. Teams will play a number of games across a season as to vie for top positioning in the league by the end of that season. Those that do well, in addition to prize money, may be promoted into a higher-level league, while those that fare poorly can be regulated downward. For example, until 2018 Riot Games runs several League of Legends series, with the League of Legends Championship Series being the top-tier series. Teams that did not do well were relegated to the League of Legends Challenger Series, replaced by the better performing teams from that series. This format was discontinued when Riot opted to use the franchise format in mid-2018.
+
+Franchised leagues
+  A match from the second season of the Overwatch League, occurring at Blizzard Arena in Los Angeles
+With rising interest in viewership of esports, some companies sought to create leagues that followed the franchise approach used in North American professional sports, in which all teams, backed by a major financial sponsor to support the franchise, participate in a regular season of matches to vie for top standing as to participate in the post-season games. This approach is more attractive for larger investors, who would be more willing to back a team that remains playing in the esport's premiere league and not threatened to be relegated to a lower standing.[152] Though the details vary from league to league, these leagues generally require all signed player to have a minimum salary with appropriate benefits, and may share in the team's winnings. While there is no team promotion or relegation, players can be signed onto contracts, traded among teams, or let go as free agents, and new players may be pulled from the esports' equivalent minor league.
+The first such league to be formed was the Overwatch League, established by Blizzard Entertainment in 2016 based on its Overwatch game.[153] Initially launched in 2018 with 12 teams, the league expanded to twenty teams in 2019. Though the first two seasons were played at Blizzard Arena in Los Angeles, the Overwatch League's third season in 2020 will implement the typical home/away game format at esports arenas in the teams' various home cities or regions.[154]
+Take-Two Interactive partnered with the National Basketball Association (NBA) to create the NBA 2K League, using the NBA 2K game series. It is the first esports league to be operated by a professional sports league, and the NBA sought to have a League team partially sponsored by each of the 30 professional NBA teams. Its inaugural season is set to start May 2018 with 17 teams.[155] Similarly, EA Sports and Major League Soccer (MLS) established the eMLS in 2018, a league using EA's FIFA series.[156]
+Activision launched its 12-team Call of Duty League in January 2020, following the format of the Overwatch League but based on the Call of Duty series.[154]
+Cloud9 and Dignitas, among others, have started development of a franchise-based Counter-Strike: Global Offensive league, Flashpoint, in February 2020. This will be the first such esports league to be owned by the teams rather than any single organization.[157]
+
+Tournaments
+  Casual players at the 2013 Intel Extreme Masters in Katowice, Poland
+Esports are also frequently played in tournaments, where potential players and teams vie to be placed through qualification matches before entering the tournament. From there, the tournament formats can vary from single or double elimination, sometimes hybridized with group stage.[158] Esports tournaments are almost always physical events in which occur in front of a live audience, with referees or officials to monitor for cheating. The tournament may be part of a larger gathering, such as Dreamhack, or the competition may be the entirety of the event, like the World Cyber Games or the Fortnite World Cup. Esport competitions have also become a popular feature at gaming and multi-genre conventions.[citation needed]
+Although competitions involving video games have long existed, esports underwent a significant transition in the late 1990s. Beginning with the Cyberathlete Professional League in 1997, tournaments became much larger, and corporate sponsorship became more common. Increasing viewership both in person and online brought esports to a wider audience.[2][159] Major tournaments include the World Cyber Games, the North American Major League Gaming league, the France-based Electronic Sports World Cup, and the World e-Sports Games held in Hangzhou, China.
+The average compensation for professional esports players does not compare to those of the top classical sports organizations in the world. According to Julian Krinsky Camps & Programs website, the top Esports player in the world earned around $2.5 million in 2017.[160] The highest overall salary by any esports professional at the time was around $3.6 million. While prizes for esports competitions can be very large, the limited number of competitions and large number of competitors ultimately lowers the amount of money one can make in the industry. In the United States, Esports competitions have prizes that can reach $200,000 for a single victory. Dota 2 International hosted a competition where the grand-prize winning team walked home with almost $10.9 million.[160]
+For well established games, total prize money can amount to millions of U.S. dollars a year.[161][162] As of 10 September 2016, Dota 2 has awarded approximately US$86 million in prize money within 632 registered tournaments, with 23 players winning over $1 million. League of Legends awarded approximately $30 million within 1749 registered tournaments, but in addition to the prize money, Riot Games provides salaries for players within their League of Legends Championship Series.[163] Nonetheless, there has been criticism to how these salaries are distributed, since most players earn a fairly low wage but a few top players have a significantly higher salary, skewing the average earning per player.[164] In August 2018, The International 2018, Valve's annual premier Dota 2 tournament, was held and broke the record for holding the largest prize pool to date for any esports tournament, amounting to over US$25 million.[165]
+Often, game developers provide prize money for tournament competition directly,[161] but sponsorship may also come from third parties, typically companies selling computer hardware, energy drinks, or computer software. Generally, hosting a large esports event is not profitable as a stand-alone venture.[166] For example, Riot has stated that their headline League of Legends Championship Series is "a significant investment that we're not making money from".[167]
+There is considerable variation and negotiation over the relationship between video game developers and tournament organizers and broadcasters. While the original StarCraft events emerged in South Korea largely independently of Blizzard, the company decided to require organizers and broadcasters to authorize events featuring the sequel StarCraft II.[168] In the short term, this led to a deadlock with the Korean e-Sports Association.[169] An agreement was reached in 2012.[170] Blizzard requires authorization for tournaments with more than US$10,000 in prizes.[171] Riot Games offers in-game rewards to authorized tournaments.[172]
+
+Collegiate and school leagues
+Main article: College esports in the United States
+In addition to professional and amateur esports, esports have drawn attention of colleges and high schools since 2008.
+Along with the bursting popularity of esports over the last two decades came a demand for extended opportunities for esports athletes. Universities across the world (mostly China and America) began offering scholarship opportunities to incoming freshmen to join their collegiate esports teams. According to Schaeperkoetter (2017) and others, the potential impact that an esports program could have on a university, coupled with the growing interest that universities are showing in such a program, combine to make this line of research relevant in sport literature.[173]
+As of 2019, over 130 colleges have esports-based variety programs.[174]
+
+Governing bodies
+While game publishers or esport broadcasters typically act in oversight roles for specific esports, a number of esport governing bodies have been established to collectively represent esports on a national, regional or global basis. These governing bodies may have various levels of involvement with the esport, from being part of esports regulation to simply acting more as a trade group and public face for esports.
+The International Esports Federation (IESF) was one of the first such bodies. Originally formed in 2008 to help promote esports in the southeast Asian region, it has grown to include 56 member countries from across the global. The IESF has managed annual Esport World Championships for teams from its member countries across multiple games.[175]
+The European Esports Federation was formed in April 2019 and includes UK, Belgium, Germany, Austria, Hungary, France, Russia, Slovenia, Serbia, Sweden, Turkey, and Ukraine. This body was designed more to be a managing partner for other esports, working to coordinate event structures and regulations across multiple esports.[176]
+Additionally, trade groups representing video games have also generally acted as governing bodies for esports. Notably, in November 2019, five major national trade organizations - the Entertainment Software Association in the United States, the Entertainment Software Association of Canada, The Association for UK Interactive Entertainment, Interactive Software Federation of Europe, and the Interactive Games and Entertainment Association of Australian and New Zealand - issued a joined statement for supporting the promotion and participation of esports to respect player safety and integrity, respect and diversity among players, and enriching game play.[177]
+
+Ethics and legal problems
+Further information: Professional ethics
+Pro gamers are usually obligated to behave ethically, abiding by both the explicit rules set out by tournaments, associations, and teams, as well as following general expectations of good sportsmanship. For example, it is common practice and considered good etiquette to chat "gg" (for "good game") when defeated.[178] Many games rely on the fact competitors have limited information about the game state. In a prominent example of good conduct, during a 2012 IEM StarCraft II game, the players Feast and DeMusliM both voluntarily offered information about their strategies to negate the influence of outside information inadvertently leaked to "Feast" during the game.[179] Players in some leagues have been reprimanded for failure to comply with expectations of good behavior. In 2012 professional League of Legends player Christian "IWillDominate" Riviera was banned from competing for a period of one year following a history of verbal abuse.[180] In 2013 StarCraft II progamer Greg "Idra" Fields was fired from Evil Geniuses for insulting his fans on the Team Liquid internet forums.[181] League of Legends players Mithy and Nukeduck received similar penalties in 2014 after behaving in a "toxic" manner during matches.[182]
+Team Siren, an all-female League of Legends team, was formed in June 2013. The announcement of the team was met with controversy, being dismissed as a "gimmick" to attract the attention of men.[183][184] The team disbanded within a month, due to the negative publicity of their promotional video, as well as the poor attitude of the team captain towards her teammates.[185][186]
+There have been serious violations of the rules. In 2010, eleven StarCraft: Brood War players were found guilty of fixing matches for profit, and were fined and banned from future competition. Team Curse and Team Dignitas were denied prize money for collusion during the 2012 MLG Summer Championship.[187] In 2012, League of Legends team Azubu Frost was fined US$30,000 for cheating during a semifinal match of the world playoffs.[188] Dota 2 player Aleksey "Solo" Berezin was suspended from a number of tournaments for intentionally throwing a game in order to collect $322 from online gambling.[189] In 2014, four high-profile North American Counter-Strike players from iBuyPower, namely Sam "DaZeD" Marine, Braxton "swag" Pierce, Joshua "steel" Nissan and Keven "AZK" Lariviere were suspended from official tournaments after they had been found guilty of match-fixing. The four players had allegedly profited over US$10,000 through betting on their fixed matches.[190] Gambling on esports using Counter-Strike: Global Offense "skins", worth an estimated US$2.3 billion in 2015, had come under criticism in June and July 2016 after several questionable legal and ethical aspects of the practice were discovered.[191]
+
+Performance-enhancing drugs
+Reports of widespread use of performance-enhancing drugs (PEDs) in esports are not uncommon, with players discussing their own, their teammates' and their competitors' use and officials acknowledging the prevalence of the issue.[192][193][194] Players often turn to stimulants such as Ritalin, Adderall and Vyvanse, drugs which can significantly boost concentration, improve reaction time and prevent fatigue.[192] Selegiline, a drug used to treat Parkinson's disease, is reportedly popular because, like stimulants, it enhances mood and motivation. Conversely, drugs with calming effects are also sought after. Some players take propranolol, which blocks the effects of adrenaline, or Valium, which is prescribed to treat anxiety disorder, in order to remain calm under pressure.[193] According to Bjoern Franzen, a former SK Gaming executive, it is second nature for some League of Legends players to take as many as three different drugs before competition.[195] In July 2015 Kory "Semphis" Friesen, an ex-Cloud9 player, admitted that he and his teammates were all using Adderall during a match against Virtus.pro in the ESL One Katowice 2015 Counter-Strike: Global Offensive tournament, and went on to claim that "everyone" at ESEA League tournaments uses Adderall.[194] In 2020, former Call of Duty champion Adam "KiLLa" Sloss told The Washington Post that one of the major reasons he stopped competing in esports was the "rampant" use of Adderall in the competitive scene.[196]
+The unregulated use of such drugs poses severe risks to competitors' health, including addiction, overdose, serotonin syndrome and, in the case of stimulants, weight loss.[192][193] Accordingly, Adderall and other such stimulants are banned and their use penalized by many professional sporting bodies and leagues, including Major League Baseball and the National Football League. Although International e-Sports Federation (IeSF) is a signatory of the World Anti-Doping Agency, the governing body has not outlawed any PEDs in its sanctioned competitions.[192] Action has been taken on the individual league level, however, as at least one major league, the Electronic Sports League, has made use of any drugs during matches punishable by expulsion from competition.[197] Although not all players use drugs, the use of over-the-counter energy drinks is common. These energy drinks are often marketed specifically toward gamers, and have also faced media and regulatory scrutiny due to their health risks.[198]
+
+Player exploitation
+There has been some concern over the quality of life and potential mistreatment of players by organizations, especially in South Korea. Korean organizations have been accused of refusing to pay competitive salaries, leading to a slow exodus of Korean players to other markets. In an interview, League of Legends player Bae "Dade" Eo-jin said that "Korean players wake up at 1 pm and play until 5 am", and suggested that the 16-hour play schedule was a significant factor in causing burnout.[199] Concerns over the mental health of players intensified in 2014 when League of Legends player Cheon "Promise" Min-Ki attempted suicide a week after admitting to match fixing.[200]
+To combat the negative environment, Korean League of Legends teams were given new rules for the upcoming 2015 season by Riot Games, including the adoption of minimum salaries for professional players, requiring contracts and allowing players to stream individually for additional player revenue.[201]
+Players must handle their own treatments and carry their own medical insurance, which is the opposite of the norm with professional sports teams. Since most esports play requires many actions per minute, some players may get repetitive strain injuries, causing hand or wrist pain.[202]
+
+Economics
+League of Legends Championship Series and League of Legends Champions Korea offer guaranteed salaries for players.[203] Despite this, online streaming is preferred by some players, as it is in some cases more profitable than competing with a team and streamers have the ability to determine their own schedule. The International tournament awards US$10 million to the winners, however teams that do not have the same amount of success often do not have financial stability and frequently break up after failing to win.[204]
+In 2015 it was estimated by SuperData Research that the global esports industry generated revenue of around US$748.8 million that year. Asia is the leading esports market with over $321 million in revenue, North America is around $224 million, and Europe has $172 million and the rest of the world for about $29 million.[205] Global esports revenue is estimated to reach $1.9 billion by 2018.
+The number of female viewers has been growing in esports, with an estimated 30% of esports viewers being female in 2013, an increase from 15% from the previous year.[citation needed] However, despite the increase in female viewers, there is not a growth of female players in high level competitive esports.[citation needed] The top female players that are involved in esports mainly get exposure in female-only tournaments, most notably Counter-Strike, Dead or Alive 4, and StarCraft II. All-female esports teams include Frag Dolls and PMS Clan.[citation needed]
+
+Gambling
+This section needs expansion. You can help by adding to it.  (June 2018)
+Gambling and betting on esport matches have generally been illegal in major markets. The illegality of esport gambling has created a black market and virtual currency. And since it is not regulated, this may encourage match-fixing by players themselves, and lead to issues with underage gambling due to the draw of video games. A bright example can be represented by skin gambling, where virtual items earned in games are used as a currency, and it let users bet on the outcome of matches.[206]
+Esports gambling in the United States has been illegal under the federal Professional and Amateur Sports Protection Act of 1992 (PASPA) until May 2018. The Act prevented all but five states from allowing gambling on sporting events.[206] However, regulation of esports betting still depended on state law. Some betting houses in Nevada, where sports betting has been already exempted under PASPA, classify esports as non-competitive "other events" similar to the selection of the Heisman Trophy winner or NFL Draft which are considered as legal.[206] Other companies established in the United States allow betting on esports to international users but are restricted to Americans. Nevada legalized esports gambling in June 2017, classifying esports along with competitive sports and dog racing.[207]
+With the Supreme Court of the United States's ruling in Murphy v. National Collegiate Athletic Association in May 2018, PASPA was recognized as unconstitutional, as the Court claimed that the federal government cannot limit states from regulating sports betting. This created the potential for legalized esports-based betting in the United States.[208] However, New Jersey, the state at the center of the Supreme Court case, passed its bill to legalize sports gambling but restricted gambling on esports to only international competitions where most players are over 18 years of age.[209] Without PASPA, interstate gambling on esports would be still be limited by the Federal Wire Act, preventing users from betting on national esports events outside of the state.[206]
+In 2019, the countries where esports gambling is legal include the UK, New Zealand, Australia, China, Spain, Canada, South Korea, and Japan, and many of them are the international hosts for gaming tournaments.[210] By the end of 2019, the state of New Jersey approved esports betting, just in time for the finals of the LoL Worlds Cup 2019 final match, which had over 4.000.000 spectators.[211]
+
+The incentives of the industry
+Like traditional sports, bookmarkers and gambling companies do their best to attract as many gamblers as possible. However, one of the biggest issues with the esports gambling industry has been its target audience. As an important part of the esports audience is underage, most governments have expressed scepticism regarding the market's moral view. Nevertheless, a huge synergy has been shown between the esports and gambling industries as online betting houses have been able to aim to younger audiences and experiment, with new forms of gambling adapted to each game title and/or tournament.[212] Additionally, these industries have become interconnecting, with betting houses sponsoring professional esports teams, as happened with the contract between Betway and PSG.LGD team (Dota 2) in August 2019.[213]
+
+Types of esports Gambling
+In esports gambling, most bets and odds are structured in the same way as traditional sports. Most gambling sites offering the booker service allow users to bet based on the outcome of tournaments, matches or special esports titles. On the other hand, due to the nature of esports, there are numerous innovative ways to make bets, which are based on in-game milestones.[214] For example, League of Legend bettors may place their money on which team/champion will take the "First Blood".[215] On the other hand, First-person shooters like Counter-Strike: Global Offensive is also open to "First Map" bets.[216] Some bookers allow "odds & even" bets which allow players to take chances on whether the final count of a game, mostly in kills, will be an odd or even number. There are also different types of betting in esports based on the means of the bet. While an important part of this market is guided by bookers, some games allow bets in their in-game currency.[217] Conversely, players may stablish to do in-game or offline transactions to cover personal bets on the matches they participate in.
+
+Data analytics and machine learning
+With the growing popularity of machine learning in data analytics,[citation needed] esports has been the focus of several software programs that analyze the plethora of game data available. Based on the huge number of matches played on a daily basis globally (League of Legends alone had a reported 100 million active monthly players worldwide in 2016[218] and an average of 27 million League of Legends games played per day reported in 2014[219]), these games can be used for applying big-data machine learning platforms. Several games make their data publicly available, so websites aggregate the data into easy-to-visualize graphs and statistics. In addition, several programs use machine learning tools to predict the win probability of a match based on various factors, such as team composition.[220] In 2018, the DotA team Team Liquid partnered with a software company to allow players and coaches to predict the team's success rate in each match and provide advice on what needs to be changed to improve performance.[221]
+
+Game cancellations
+As more esport competitions and leagues are run entirely or in portion by the video game publisher or developer for the game, the ongoing viability of that game's esport activities is tied to that company. In December 2018, Blizzard announced that it was reducing resources spent on the development of Heroes of the Storm and canceling its plans for tournaments in 2019. This caused several professional Heroes players and coaches to recognize that their career was no longer viable, and expressed outrage and disappointment at Blizzard's decision.[222][223]
+
+Media coverage
+.mw-parser-output .tmulti .thumbinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}As with traditional sporting events, larger eSport events, such as The International, usually feature live pre- and post-game discussion by a panel of analysts (top), with in-match casting being done by play-by-play and color commentators (bottom).
+News reporting
+The main medium for esports coverage is the Internet. In the mid-2010s, mainstream sports and news reporting websites, such as ESPN, Yahoo!, Sport1, Kicker, and Aftonbladet started dedicated esports coverage.[224][225] esports tournaments commonly use commentators or casters to provide live commentary of games in progress, similar to a traditional sports commentator. For popular casters, providing commentary for esports can be a full-time position by itself.[226] Prominent casters for StarCraft II include Dan "Artosis" Stemkoski and Nick "Tasteless" Plott. However, the impact of COVID-19 pandemic affected how esports were covered in addition to the sports themselves. Notably, ESPN's dedicated esports coverage was shuttered in November 2020 as the network refocus on more traditional sports, though said they would still have some coverage of esports events.[227]
+In 2018, the Associated Press' AP Stylebook officially began spelling the word as "esports", dropping support for both the capital "S" and the dash between "e" and "sports" styles, similar to how "e-mail" transformed with common usage to "email".[228][229] Richard Tyler Blevins, better known as "Ninja", became the first professional gamer to appear in a cover story for a major sports magazine when he appeared in the September 2018 issue of ESPN The Magazine.[230]
+
+Internet live streaming
+Many esports events are streamed online to viewers over the internet. With the shutdown of the Own3d streaming service in 2013, Twitch is by far the most popular streaming service for esports, competing against other providers such as Hitbox.tv, Azubu, and YouTube Gaming.[231][232] Dreamhack Winter 2011 reached 1.7 million unique viewers on Twitch.[233] While coverage of live events usually brings in the largest viewership counts, the recent popularization of streaming services has allowed individuals to broadcast their own gameplay independent of such events as well. Individual broadcasters can enter an agreement with Twitch or Hitbox in which they receive a portion of the advertisement revenue from commercials which run on the stream they create.[234]
+Another major streaming platform was Major League Gaming's MLG.tv.[235] The network, which specializes in Call of Duty content but hosts a range of gaming titles, has seen increasing popularity, with 1376% growth in MLG.tv viewership in Q1 of 2014.[236] The 2014 Call of Duty: Ghosts broadcast at MLG's X Games event drew over 160,000 unique viewers.[237] The network, like Twitch, allows users to broadcast themselves playing games, though only select individuals can use the service. For several years, MLG.tv was the primary streaming platform for the Call of Duty professional scene; famous players such as NaDeSHoT and Scump have signed contracts with the company to use its streaming service exclusively.[238] In January 2016, MLG was acquired by Activision Blizzard.[239]
+YouTube also relaunched its livestreaming platform with a renewed focus on live gaming and esports specifically.[240] For The International 2014, coverage was also simulcast on ESPN's streaming service ESPN3.[241] In December 2016, Riot Games announced a deal with MLB Advanced Media's technology division BAM Tech for the company to distribute and monetize broadcasts of League of Legends events through 2023. BAM Tech will pay Riot at least $300 million per-year, and split advertising revenue.[242][243]
+
+Television
+  StarCraft match televised on MBCGame in Seoul, South Korea
+Especially since the popularization of streaming in esports, organizations no longer prioritize television coverage, preferring online streaming websites such as Twitch. Ongamenet continues to broadcast as an esports channel in South Korea, but MBCGame was taken off the air in 2012. Riot Games' Dustin Beck stated that "TV's not a priority or a goal",[244] and DreamHack's Tomas Hermansson said "esports have [been proven] to be successful on internet streaming [services]."[245]
+On the night before the finals of The International 2014 in August, ESPN3 broadcast a half-hour special profiling the tournament.[241] In 2015, ESPN2 broadcast Heroes of the Dorm, the grand finals of the Heroes of the Storm collegiate tournament. The first-place team from the University of California, Berkeley received tuition for each of the team's players, paid for by Blizzard and Tespa.[246] The top four teams won gaming equipment and new computers. This was the first time an eSport had ever been broadcast on a major American television network. The broadcast was an attempt to broaden the appeal of esports by reaching viewers who would not normally come across it. However, the broadcast was met with a few complaints. Those living outside of the United States were unable to view the tournament.  Additionally, the tournament could not be viewed online via streams, cutting off a large portion of viewers from the main demographic in the process.[247]
+In September 2015, Turner Broadcasting partnered with WME/IMG. In December 2015, the partnered companies announced two seasons of the ELeague, a Counter-Strike: Global Offensive league based in North America including 15 teams from across the world competing for a $1,200,000 prize pool each 10-week season. The tournament, filmed at Turner's studios in Atlanta, Georgia, is simultaneously streamed on online streaming websites and TBS on Friday nights.[248]
+In January 2016, Activision Blizzard, publishers of the Call of Duty and StarCraft series, acquired Major League Gaming. In an interview with The New York Times about the purchase, Activision Blizzard CEO Robert Kotick explained that the company was aspiring to create a U.S. cable network devoted to esports, which he described as "the ESPN of video games". He felt that higher quality productions, more in line with those of traditional sports telecasts, could help to broaden the appeal of esports to advertisers. Activision Blizzard had hired former ESPN and NFL Network executive Steve Bornstein to be CEO of the company's esports division.[239]
+TV 2, the largest private television broadcaster in Norway, broadcasts esports across the country. TV 2 partnered with local Norwegian organization House of Nerds to bring a full season of esports competition with an initial lineup of Counter-Strike: Global Offensive, League of Legends, and StarCraft II.[249][250]
+In April 2016, Big Ten Network announced a collaboration with Riot to hold an invitational League of Legends competition between two universities from the collegiate Big Ten Conference, as part of Riot's collegiate championships at PAX East.[251] On 17 January 2017, Big Ten Network and Riot announced that it would hold a larger season of conference competition involving 10 Big Ten schools.[252]
+Nielsen Holdings, a global information company known for tracking viewership for television and other media, announced in August 2017 that it would launch Nielsen esports, a division devoted to providing similar viewership and other consumer research data around esports, forming an advisory board with members from ESL, Activision Blizzard, Twitch, YouTube, ESPN, and FIFA to help determine how to track and monitor audience sizes for eSport events.[253]
+In July 2018, on the first day of the inaugural 2018 Overwatch League season playoffs, Blizzard and Disney announced a multi-year deal that gave Disney and its networks ESPN and ABC broadcast rights to the Overwatch League and Overwatch World Cup, starting with the playoffs and continuing with future events.[254]
+
+References
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Hamari, Juho; Sjöblom, Max (2016). "What is eSports and why do people watch it?". Internet Research. 27 (2): 211–232. doi:10.1108/IntR-04-2016-0085. SSRN 2686182.
+
+^ a b Tassi, Paul (20 December 2012). "2012: The Year of eSports". Forbes. Retrieved 15 August 2013.
+
+^ a b c d Ben Popper (30 September 2013). "Field of Streams: How Twitch Made Video Games a Spectator Sport". The Verge. Retrieved 9 October 2013.
+
+^ "Newzoo: Global esports will top $1 billion in 2020, with China as the top market". VentureBeat.
+
+^ "Global esports revenues to top $1 billion in 2019: report". Reuters. 12 February 2019. Retrieved 21 May 2019.
+
+^ "Major League Gaming reports COWS GO MOO 334 percent growth in live video". GameSpot. 14 November 2012. Retrieved 8 October 2013.
+
+^ John Gaudiosi (28 April 2012). "Team Evil Geniuses Manager Anna Prosser Believes More Female Gamers Will Turn Pro". Forbes. Retrieved 8 October 2013.
+
+^ John Gaudiosi (29 July 2012). "Taipei Assassins Manager Erica Tseng Talks Growth Of Female Gamers In League Of Legends". Forbes. Retrieved 8 October 2013.
+
+^ Andrew Groen (14 May 2013). "Why gamers in Asia are the world's best eSport athletes". PC World. Retrieved 7 October 2013.
+
+^ a b c d Yuji Nakamura; Emi Nobuhiro; Takako Taniguchi (18 January 2018). "Shinzo Abe's Party Wants Japan Ready for Video Games in Olympics". Bloomberg Businessweek. Retrieved 19 January 2018.
+
+^ "The Rise of Esports". Racer Gaming Chairs.
+
+^ Owen Good (19 October 2012). "Today is the 40th Anniversary of the World's First Known Video Gaming Tournament". Kotaku. Retrieved 1 August 2013.
+
+^ a b c "Sega Sponsors All Japan TV Game Championships". Vending Times. December 1974.
+
+^ a b Borowy, Michael; Jin, Dal Yong; Pluda, Alessandra (15 October 2013). "Pioneering eSport: The Experience Economy and the Marketing of Early 1980s Arcade Gaming Contests". International Journal of Communication. 7: 1–21 (9). ISSN 1932-8036.
+
+^ Zhouxiang, Lu (19 September 2021). "Competitive Gaming".  In Phillips, Murray G.; Booth, Douglas; Adams, Carly (eds.). Routledge Handbook of Sport History. Routledge. p. 337. ISBN 978-1-000-44166-6.
+
+^ Johnson, Ethan (16 November 2018). "The Sega-Gremlin Marketing Video Archive: Nearly a decade before they did what Nintendon't, Sega's marketing still managed to break new ground…even when it was really cheesy". Video Game History Foundation. Retrieved 26 September 2021.
+
+^ a b Drewis, Deena (15 March 2018). "The Little-Known Female Duo That Obliterated The Gaming Scene In The '70s". Girlboss. Retrieved 26 September 2021.
+
+^ a b c Borowy, Michael; Jin, Dal Yong (2013). "Pioneering E-Sport: The Experience Economy and the Marketing of Early 1980s Arcade Gaming Contests". International Journal of Communication. 7: 2254–2274. ISSN 1932-8036.
+
+^ "Players Guide To Electronic Science Fiction Games". Electronic Games. 1 (2): 35–45 [36]. March 1982. Retrieved 1 February 2012.
+
+^ Bramwell, Tom (8 March 2010). "Walter Day leaves Twin Galaxies". EuroGamer. Retrieved 18 September 2013.
+
+^ Carless, Simon (20 October 2006). "World's Oldest Competitive Gamer Passes On". GameSetWatch. Retrieved 18 September 2013.
+
+^ Caoili, Eric (4 May 2009). "Walter Day: Twin Galaxies and the Two Golden Domes". GameSetWatch. Retrieved 18 September 2013.
+
+^ "Video champ tourney bound". Sunday Star-News. 23 December 1984. p. 6F. Retrieved 20 September 2013.
+
+^ Ramsey, David. "The Perfect Man: How Billy Mitchell became a video-game superstar and achieved Pac-Man bliss". Oxford American. Archived from the original on 29 February 2008.
+
+^ Michael Borowy (2012). "3" (PDF). Public Gaming: eSport and Event Marketing in the Experience Economy (Thesis). Retrieved 18 September 2013.
+
+^ Sharpe, Roger C. (December 1984). "1984—Every Which Way But Up". Play Meter. Vol. 10 no. 23. pp. 39, 49–51.
+
+^ Baker, Chris (16 August 2016). "How 'Track & Field' Launched World's Biggest Video Game Tournament". Rolling Stone. Retrieved 6 October 2021.
+
+^ Plunkett, Luke (14 June 2011). "Arcades Don't Make for Good TV (But Starcades do)". Kotaku. Retrieved 17 September 2013.
+
+^ Biggs, John (29 July 2009). "The That's Incredible! Video Game Invitational: This is what we used to watch". Tech Crunch. Retrieved 30 September 2013.
+
+^ Ebert, Roger (1 January 1982). "TRON". Retrieved 20 September 2013.
+
+^ "First Class". TV Cream. Retrieved 14 June 2018.
+
+^ Weaver, Iain. "Weaver's Week 2012-08-12: First Class". UK Gameshows.com. Labyrinth Games. Retrieved 14 June 2018.
+
+^ Horowitz, Ken (30 July 2020). Beyond Donkey Kong: A History of Nintendo Arcade Games. McFarland & Company. p. 156. ISBN 978-1-4766-4176-8.
+
+^ Kevin Kelly (December 1993). "The First Online Sports Game". Wired. wired.com. Retrieved 1 July 2013.
+
+^ a b Patterson, Eric L. (3 November 2011). "EGM Feature: The 5 Most Influential Japanese Games Day Four: Street Fighter II". Electronic Gaming Monthly. Archived from the original on 14 March 2017. Retrieved 17 April 2012.
+
+^ Matt Barton; Bill Loguidice (2009). Vintage games: an insider look at the history of Grand Theft Auto, Super Mario, and the most influential games of all time. Boston: Focal Press/Elsevier. pp. 239–255. ISBN 978-0-240-81146-8. Retrieved 17 April 2012.
+
+^ Blockbuster Video World Game Championship Guide, GamePro Magazine, June 1994
+
+^ Consalvo, Mia (2016). Atari to Zelda: Japan's Videogames in Global Contexts. MIT Press. pp. 201–3. ISBN 978-0262034395.
+
+^ Mozur, Paul (19 October 2014). "For South Korea, E-Sports Is National Pastime". The New York Times. Retrieved 13 June 2015.
+
+^ Jin, Dal Yong (2010). Korea's Online Gaming Empire. MIT Press.
+
+^ "History of Korea e-Sports Association 1999–2004" (in Korean). KeSPA. Retrieved 7 October 2013.
+
+^ Jin, Dal-yong (19 June 2020). "Historiography of Korean Esports: Perspectives on Spectatorship". International Journal of Communication. 14: 19. ISSN 1932-8036. Retrieved 23 August 2021.
+
+^ Narcisse, Evan (14 April 2014). "Someone Wrote A Book About Street Fighter's Greatest Match". Kotaku.
+
+^ G7 Federation (20 April 2006). "G7 teams launched". Fnatic. Archived from the original on 23 December 2016. Retrieved 12 June 2015.
+
+^ Taylor, TL (2013). Raising the Stakes: E-Sports and the Professionalization.
+
+^ a b c Kim, Ryan (11 June 2007). "League beginning for video gamers". Sfgate.com. Retrieved 4 June 2012.
+
+^ "ESL TV". Archived from the original on 4 May 2012. Retrieved 16 September 2013.
+
+^ "Xfire Trophy CC3 @ Arena Online on Gameone TV". SK Gaming.
+
+^ Steve_OS (15 September 2008). "ESPN2's Madden Nation to Begin Fourth Season". Operation Sports. Retrieved 16 September 2013.
+
+^ Schiesel, Seth (28 July 2007). "Video Game Matches to Be Televised on CBS". The New York Times. Retrieved 4 December 2013.
+
+^ Patrick Miller (29 December 2010). "2011: The Year of eSports". PCWorld. Retrieved 15 August 2013.
+
+^ Gaudiosi, John (12 February 2014). "'Ender's Game' Blu-ray gets ESports tournament". Chicago Tribune. Archived from the original on 26 February 2014. Retrieved 20 February 2014.
+
+^ Tim Surette (11 September 2006). "Casual gamer gets serious prize". GameSpot.
+
+^ Patrick Howell O'Neill (16 January 2014). "Twitch dominated streaming in 2013, and here are the numbers to prove it". The Daily Dot. Retrieved 9 November 2014.
+
+^ Alex R (29 April 2014). "Nintendo Announces Super Smash Bros. Invitational at E3 2014". eSports Max. Archived from the original on 9 November 2014. Retrieved 9 November 2014.
+
+^ Jasmine Henry (7 September 2014). "Microsoft Launching 'Halo Championship Series' eSports League". Game Rant. Retrieved 9 November 2014.
+
+^ Steve Jaws Jaworski (1 July 2014). "Announcing the North American Collegiate Championship". Riot Games. Retrieved 9 November 2014.
+
+^ Emanuel Maiberg (8 February 2014). "Blizzard eSports initiative will support your college gaming club". Game Spot. Retrieved 9 November 2014.
+
+^ Tassi, Paul. "Second US College Now Offering 'League of Legends' Scholarship". www.forbes.com. Retrieved 22 February 2015.
+
+^ "Tespa to expand collegiate esports with $1 million in scholarships and prizes". ESPN.com. Retrieved 21 September 2017.
+
+^ "List of varsity esports programs spans North America". ESPN.com. Retrieved 10 May 2018.
+
+^ "Harrisburg University hosts international esports tryout". ESPN.com. Retrieved 14 May 2018.
+
+^ "ESL to bring world class eSports to Japan with new local partner". 4 September 2014. Retrieved 9 November 2014.
+
+^ Tassi, Paul. "ESPN Boss Declares eSports 'Not A Sport'". Forbes. Retrieved 15 December 2017.
+
+^ "One World Championship, 32 million viewers". Retrieved 2 September 2015.
+
+^ Magrino, Tom. "Welcome to the League of Legends 2014 World Championship!". Retrieved 20 August 2014.
+
+^ Esports arena is coming to the Luxor Hotel in Las Vegas Retrieved 2 October 2017
+
+^ "eSports, sport or business?". Johan Cruyff Institute. Archived from the original on 18 September 2017.
+
+^ Ivo v. Hilvoorde & Niek Pot (2016) Embodiment and fundamental motor skills in eSports, Sport, Ethics and Philosophy, 10:1, 14–27, doi:10.1080/17511321.2016.1159246
+
+^ Ivo van Hilvoorde (2016) Sport and play in a digital world, Sport, Ethics and Philosophy, 10:1, 1–4, doi:10.1080/17511321.2016.1171252
+
+^ Tjønndal, Anne (23 September 2020). ""What's next? Calling beer-drinking a sport?!": virtual resistance to considering eSport as sport". Sport, Business and Management. 11 (1): 72–88. doi:10.1108/SBM-10-2019-0085. ISSN 2042-678X.
+
+^ Tom Burns (26 July 2014). "'E-Sports' can now drop the 'e'". Al Jazeera. Retrieved 20 September 2015.
+
+^ "E-Sports and Other Games". World Mind Sports Federation. Archived from the original on 8 December 2015. Retrieved 23 August 2015.
+
+^ Elsa (8 September 2011). "eSports: Really??". Destructoid. Retrieved 1 September 2013.
+
+^ Schwartz, Nick (6 September 2014). "ESPN's president says that eSports are not 'real sports,' and he's wrong". USA Today.
+
+^ Hillier, Brenna (8 September 2014). "ESPN boss says eSports are not "real sports"". VG247.
+
+^ Reahard, Jef (8 September 2014). "ESPN boss: E-sports aren't sports". Engadget.
+
+^ Tassi, Paul (7 September 2014). "ESPN Boss Declares eSports 'Not A Sport'". Forbes.
+
+^ Gera, Emily (1 October 2014). "Does eSports need ESPN before the mainstream accepts it?". Polygon.
+
+^ Emanuel Maiberg (6 September 2014). "ESPN Says eSports Isn't a Sport – What Do You Think?". GameSpot. Retrieved 9 November 2014.
+
+^ Sarkar, Samit (18 December 2013). "HBO's 'Real Sports' debates the merits of eSports". Polygon. Retrieved 13 May 2015.
+
+^ Graham, David Philip (12 December 2011). "Guest Editorial – Momentum Matters: A Historical Perspective on the FGC and eSports". Shoryuken.com.
+
+^ [2015 IESF] e-Sports Summit with International Sports Society -EsportsTV. 3 December 2015 – via YouTube.
+
+^ "Как Россия первой в мире признала киберспорт" (in Russian). Retrieved 23 October 2017.
+
+^ a b Приказ Госкомспорта РФ от 25.07.2001 № 449 «О введении видов спорта в государственные программы физического воспитания»
+
+^ Утв. приказом Госкомспорта РФ от 14.04.2003 № 225 «О перечне видов спорта, признанных федеральным органом исполнительной власти в области физической культуры и спорта» с последующими изменениями.
+
+^ Приказ Федерального агентства по физической культуре и спорту от 4 июля 2006 г № 414 «О компьютерном спорте»
+
+^ Положение «О Всероссийском реестре видов спорта (ВРВС)» (утв. Приказом Федерального агентства по физической культуре, спорту и туризму от 28 сентября 2004 г № 273)
+
+^ ProPlay / Новости / Киберспорт более не имеет официального статуса
+
+^ См. Приказ Федерального агентства по физической культуре и спорту от 4 июля 2006 г № 414 «О компьютерном спорте»; Положение «О Всероссийском реестре видов спорта (ВРВС)» (утв. Приказом Федерального агентства по физической культуре, спорту и туризму от 28 сентября 2004 г № 273).
+
+^ "Официальный интернет-портал правовой информации". publication.pravo.gov.ru. Retrieved 8 June 2016.
+
+^ Yu, Haiqing (2018). "Game On: The Rise of the eSports Middle Kingdom". Media Industries. 5 (1). doi:10.3998/mij.15031809.0005.106.
+
+^ Gera, Emily (1 February 2019). "China to Recognize Gaming as Official Profession". Variety. Retrieved 24 September 2019.
+
+^ Ren, Shuli (19 July 2019). "Chinese governments hand out cash, subsidies to encourage esports development". Bloomberg L.P. – via Los Angeles Times.
+
+^ Paresh Dave (7 August 2013). "Online game League of Legends star gets U.S. visa as pro athlete". Los Angeles Times. Retrieved 4 December 2013.
+
+^ "P-1A Internationally Recognized Athlete". US Citizenship and Immigration Services. Retrieved 7 October 2013.
+
+^ "Sizler de lisanslı E-Sporcu olabilirsiniz". 8 February 2014. Retrieved 17 January 2018.
+
+^ "E-Spor Nedir?". Retrieved 17 January 2018.
+
+^ "French government announces plans to legalize and regulate esports industry". VentureBeat. 3 May 2016. Retrieved 14 September 2016.
+
+^ Sheldon, David (22 October 2017). "Philippines Officially Recognizes eSports As A Real Sport". Casino Org. Retrieved 22 October 2017.
+
+^ Regalado, Pia (10 October 2017). "The Philippines' new athletes: eSports gamers". ABS-CBN. Retrieved 22 October 2017.
+
+^ Myers, Maddy (18 April 2017). "Esports Will Become A Medal Event At The 2022 Asian Games". Kotaku. Retrieved 18 April 2017.
+
+^ a b c Wade, Stephen (1 September 2018). "Bach: No Olympic future for esports until 'violence' removed". Associated Press. Retrieved 3 September 2018.
+
+^ Brown, Fraser (28 November 2018). "Esports is an official medal event at the Southeast Asian Games". PC Gamer. Retrieved 28 November 2018.
+
+^ "Velista71 wins eSailing World Championship title". sailing.org.
+
+^ "Vendée Globe: A digital twist?". 4 February 2021.
+
+^ Peters, Jay (22 June 2021). "Dota 2's The International might not take place in Sweden after all". The Verge. Retrieved 22 June 2021.
+
+^ Bailey, Dustin (7 July 2021). "Dota 2's The International gets new dates after Sweden says no to esports". PCGamesN. Retrieved 8 July 2021.
+
+^ Grohmann, Karolos (28 October 2017). "E-sports just got closer to being part of the Olympics". Reuters. Retrieved 5 November 2017.
+
+^ Stout, A. (10 November 2017). How big is the eSports opportunity? Retrieved 26 March 2020, from https://www.ibc.org/create-and-produce/how-big-is-the-esports-opportunity/2533.article
+
+^ Good, Owen (30 August 2017). "If esports come to the Olympics, don't expect to see 'violent' titles". Polygon. Retrieved 30 August 2017.
+
+^ Orland, Kyle (13 March 2018). "Violent video games not welcome for Olympic esports consideration". Ars Technica. Retrieved 14 March 2018.
+
+^ Frisk, Adam (19 July 2018). "Video gaming as an Olympic sport? IOC hosting eSports forum to better understand competitive gaming". Global News. Retrieved 20 July 2018.
+
+^ Dominaco, Michael (20 July 2018). "Overwatch Players Involved In Talks With Olympic Committee To Discuss Esports Opportunities". IGN. Retrieved 20 July 2018.
+
+^ Zaccardi, Nick (3 November 2017). "Esports event in PyeongChang before Olympics supported by IOC". NBC News. Retrieved 5 November 2017.
+
+^ Pham, Phuc (9 February 2018). "ESPORTS ZERG-RUSH THE OLYMPICS—BUT CAN THEY BECOME OFFICIAL EVENTS?". Wired. Retrieved 10 February 2018.
+
+^ a b Nakamura, Yuri; Furikawa, Yuki (10 July 2018). "You Can Now Officially Play Esports for Money in Japan". Bloomberg L.P. Retrieved 13 July 2018.
+
+^ Bieler, Des (22 April 2021). "IOC announces inaugural slate of Olympic-licensed esports events". The Washington Post. Retrieved 23 April 2021.
+
+^ "Paris Olympic bid committee is open to esports on 2024 Olympic program". Associated Press. 9 August 2017. Retrieved 9 August 2017.
+
+^ Morris, Chris (10 December 2018). "Video Games Won't Be Part of the Paris Olympics". Fortune. Retrieved 10 December 2018.
+
+^ Daniels, Tom (8 September 2021). "LoL, Dota 2, and Street Fighter V among 2022 Asian Games medal events". Esports Insider. Retrieved 15 November 2021.
+
+^ "IOC to form 'two-speed' esports strategy". Sports Business. 9 December 2019. Retrieved 10 December 2019.
+
+^ robzacny (31 December 2012). "2012 in eSports: the battle for momentum between League of Legends, StarCraft 2, and Dota 2". PC Games N. Retrieved 15 November 2013.
+
+^ Clark, Tim (20 August 2014). "What I learned from playing with a professional Hearthstone coach". www.pcgamer.com. Retrieved 22 February 2015.
+
+^ Michael McWhertor (4 March 2011). "The Sacrifices of StarCraft II Made In The Name of Sports". Kotaku. Retrieved 8 October 2013.
+
+^ robzacny (24 October 2012). "How Riot Games are building a better League of Legends, and catching up to their own success". PC GamesN. Retrieved 8 October 2013.
+
+^ Alan LaFleur (21 June 2012). "Valve show developers how to support eSports with Dota 2". Esports Business. Archived from the original on 22 December 2013. Retrieved 8 October 2013.
+
+^ Steve Smith (15 August 2012). "Black Ops 2 CoDCaster System". Gamma Gamers. Archived from the original on 12 August 2014. Retrieved 28 June 2014.
+
+^ Jeremy Peel (16 January 2013). "StarCraft 2's new observer UI mod tool should make for better eSports broadcasts". PC GamesN. Retrieved 3 November 2013.
+
+^ Michael McWhertor (29 July 2013). "StarCraft 2 update adds new eSports features, color blind mode". Polygon. Retrieved 3 November 2013.
+
+^ Tom Senior (17 August 2011). "Dota 2 tournament showcases Valve's e-sports spectator package". PC Gamer. Retrieved 3 November 2013.
+
+^ Jordan Devore (10 November 2013). "The latest Counter-Strike: GO update is for spectators". Destructoid. Retrieved 3 November 2013.
+
+^ "Spectator FAQ". Riot Games. Retrieved 22 January 2014.
+
+^ Lucas Sullivan (17 June 2011). "The full breakdown on League of Legends' Spectator Mode". PC Gamer. Retrieved 3 November 2013.
+
+^ Thursten, Chris (28 July 2016). "Dota 2 Battle Pass update adds crazy new VR spectator mode". PC Gamer. Retrieved 9 August 2016.
+
+^ Jason Schreier (20 June 2012). "Why StarCraft II Still Doesn't Support Local Multiplayer". Kotaku. Retrieved 7 September 2013.
+
+^ Michael McWhertor (12 October 2012). "League of Legends LAN version in development at Riot Games, Mac client news coming". Polygon. Retrieved 7 September 2013.
+
+^ Xairylle (20 September 2013). "DOTA 2 update: Why the LAN feature is something worth being excited about". TechInAsia. Retrieved 23 September 2013.
+
+^ Brent Ruiz (3 February 2013). "Interview with Razer's global e-sports manager: The business behind sponsoring teams". ESFI World. Archived from the original on 22 August 2013. Retrieved 10 September 2013.
+
+^ "Custom Esports Jerseys and Apparel".
+
+^ "OpTic Gaming™ (@OpTicGaming) | Twitter". twitter.com. Retrieved 27 January 2016.
+
+^ Soshnick, Scott (18 December 2015). "Former NBA Player Rick Fox Buys eSports Team Gravity". Bloomberg.com. Bloomberg News. Retrieved 18 December 2015.
+
+^ Van Allen, Eric (18 September 2016). "Jeremy Lin endorses new Dota 2 team VGJ". ESPN. Retrieved 5 October 2016.
+
+^ "Shaq, NRG Esports pick up Overwatch team". ESPN. 3 August 2016.
+
+^ "Sources: Soccer org Schalke 04 finalizes League Championship Series roster, picks up Fox". espn.com. 15 May 2016.
+
+^ Johnson, Jonathan (20 October 2016). "PSG unveil first three signings in ambitious eSports venture". ESPN. Retrieved 5 November 2016.
+
+^ "Espor nedir? Bora Koçyiğit Fanatik'e anlattı!". Retrieved 17 January 2018.
+
+^ "Here's the insane training schedule of a 20-something professional gamer". Business Insider. Retrieved 5 April 2018.
+
+^ Queensland University of Technology (11 June 2020). "Elite gamers share mental toughness with top athletes, study finds - The influence of mental toughness in elite esports". EurekAlert!. Retrieved 11 June 2020.
+
+^ Poulus, Dylan;  et al. (23 April 2020). "Stress and Coping in Esports and the Influence of Mental Toughness". Frontiers in Psychology. 11: 628. doi:10.3389/fpsyg.2020.00628. PMC 7191198. PMID 32390900.
+
+^ "Inside an eSports training regimen". ESPN.com. Retrieved 5 April 2018.
+
+^ Snider, Jake (26 July 2018). "What's Overwatch? Why is it on ESPN? 8 things to know about competitive gaming". Associated Press. Retrieved 29 July 2018 – via Chicago Tribune.
+
+^ Hill, Nathan (7 December 2017). "The Overwatch Videogame League Aims to Become the New NFL". Wired. Retrieved 7 December 2017.
+
+^ a b Hume, Mike (25 September 2019). "New Call of Duty esports league will begin play in home markets in 2020, start with 12 teams". The Washington Post. Retrieved 28 September 2019.
+
+^ Needleman, Sarah (9 February 2017). "NBA, Take-Two to Create Professional Videogame League". The Wall Street Journal. Retrieved 14 December 2017.
+
+^ Sarkar, Samit (12 January 2018). "MLS launching esports league for FIFA 18 World Cup". Polygon. Retrieved 12 January 2018.
+
+^ Taylor, Haydn (6 February 2020). "Major esport organisations launch new team-owned CS:GO league". GamesIndustry.biz. Retrieved 6 February 2020.
+
+^ "GotFrag eSports – All Games News Story – TF2 Referees Wanted". Gotfrag.com. 10 October 2007. Archived from the original on 28 May 2012. Retrieved 4 June 2012.
+
+^ Goodale, Gloria (8 August 2003). "Are video games a sport?". CS Monitor. Retrieved 4 December 2013.
+
+^ a b "How Much Do Pro Gamers & Esports Players Make?". Julian Krinsky Camps and Programs. 5 June 2018. Retrieved 29 April 2020.[better source needed]
+
+^ a b Goldfarb, Andrew (1 May 2012). "League of Legends Season 2 Championship Announced". IGN. Archived from the original on 8 May 2012. Retrieved 22 August 2012.
+
+^ Schmidt, David (16 July 2012). "NASL S3 Finals push SC2 earnings over $5m". ESFI World. Archived from the original on 12 December 2013. Retrieved 22 August 2012.
+
+^ "Comparing the potential earnings of LCS PLayers to Professional Streamers". GAMURS. 27 October 2014. Archived from the original on 6 October 2016. Retrieved 4 July 2016.
+
+^ "KeSPA Responds to KOCCA Pro Gamer Salary Data… 10 Players Over $85,241". LCK Translation Archive. 24 December 2015. Archived from the original on 6 April 2016. Retrieved 10 September 2016.
+
+^ "The 2017–2018 Dota 2 Hub". ESPN. 26 August 2018. Retrieved 31 January 2019.
+
+^ Popper, Ben (30 September 2013). "Field of streams: how Twitch made video games a spectator sport". TheVerge. Retrieved 4 December 2013.
+
+^ robzacny (21 August 2013). "LCS "a significant investment that we're not making money from", but Riot love it anyway". PCGamesN. Retrieved 14 September 2013.
+
+^ Edge Staff (11 November 2010). "The battle for StarCraft II". Edge-Online. Retrieved 14 September 2013.
+
+^ Simon "Go0g3n" (2009). "Blizzard VS. Kespa, the Ultimate fight". Gosu Gamers. Retrieved 18 September 2013.
+
+^ Jeroen Amin (2 May 2012). "KeSPA, OGN, Blizzard and GOMtv Join Horses for StarCraft II". PikiGeek. Retrieved 14 September 2013.
+
+^ "Tournament Guidelines Document" (PDF). Blizzard. 6 June 2013. Retrieved 14 September 2013.
+
+^ "Prized Events". Riot. Retrieved 4 December 2013.
+
+^ Schaeperkoetter, Claire C.; Mays, Jonathan; Hyland, Sean Thomas; Wilkerson, Zach; Oja, Brent; Krueger, Kyle; Christian, Ronald; Bass, Jordan R. (2017). "The "New" Student-Athlete: An Exploratory Examination of Scholarship e Sports Players". Journal of Intercollegiate Sport. 10: 1–21. doi:10.1123/jis.2016-0011.
+
+^ "List of varsity esports programs spans North America". ESPN.com. Retrieved 31 January 2020.
+
+^ Rowbottom, Mike (28 February 2019). "Seoul to host 2019 Esports World Championships". Inside the Games. Retrieved 20 December 2019.
+
+^ Ashton, Graham (18 April 2019). "European Esports Federation to Form With 12 National Members". The Esports Observer. Retrieved 20 December 2019.
+
+^ Valentine, Rebekah (5 November 2019). "Games industry international trade bodies unite on universal esports principles". GamesIndustry.biz. Retrieved 20 December 2019.
+
+^ David Daw (21 January 2012). "Web Jargon Origins Revealed". TechHive. Retrieved 22 September 2013.
+
+^ Victor Meulendijks (8 February 2012). "IEM Sao Paolo: Manner Bear Conflict". Cadred. Archived from the original on 8 October 2013. Retrieved 8 October 2013.
+
+^ "IWillDominate Tribunal Permaban & eSports Competition Ruling". 4 December 2012. Archived from the original on 26 October 2017. Retrieved 9 November 2014.
+
+^ Alexander Garfield (10 May 2013). "Evil Geniuses Releases Greg "IdrA" Fields". TeamLiquid. Retrieved 8 January 2014.
+
+^ "League of Legends Pro Players Banned for "Toxic Behavior"". 3 June 2014. Retrieved 22 February 2015.
+
+^ "Introducing Team Siren – YouTube". YouTube. 30 May 2013.
+
+^ "Why Team Siren Matters". 10 June 2013. Retrieved 27 December 2014.
+
+^ "Siren broke up (with proof) – Page 16 – League of Legends Community". 19 June 2013. Archived from the original on 11 March 2017. Retrieved 27 December 2014.
+
+^ "League of Legends Team Siren Disbands: Valuable Lessons Learned – League of Legends". 26 June 2013. Retrieved 27 December 2014.
+
+^ Jeremy Peel (27 August 2012). "League of Legends' Curse NA and Team Dignitas disqualified from MLG Summer Championship, no first or second place awarded". PC GamesN. Retrieved 22 September 2013.
+
+^ Laura Parker (10 October 2012). "Riot fines League of Legends cheaters $30,000". GameSpot. Retrieved 22 September 2013.
+
+^ Sun_tzu (21 June 2013). "Solo out of Rox.KIS". joinDota. Retrieved 3 July 2014.
+
+^ "Valve Bans Pro Counter-Strike Teams For Match Fixing". GameSpot. Retrieved 2 September 2015.
+
+^ "Valve tackles Counter Strike gambling sites". BBC. 21 July 2016. Retrieved 21 July 2016.
+
+^ a b c d Parkin, Simon (8 April 2015). "Winners might use drugs". Eurogamer. Retrieved 19 July 2015.
+
+^ a b c Hodson, Hal (18 August 2014). "Esports: Doping is rampant, industry insider claims". New Scientist. Retrieved 19 July 2015.
+
+^ a b Summers, Nick (17 July 2015). "Top 'Counter-Strike' player admits eSports has a doping problem". Engadget. Retrieved 19 July 2015.
+
+^ Franzen, Bjoern (14 August 2014). "Doping in eSports – The almost invisible Elephant in the room". BjoernFranzen.com. Archived from the original on 22 April 2021. Retrieved 19 July 2015.
+
+^ Hamstead, Coleman (13 February 2021). "'Nobody talks about it because everyone is on it': Adderall presents esports with an enigma". Washington Post. Retrieved 23 September 2021.
+
+^ "ESL Major Series One Rulebook" (PDF). Electronic Sports League. Retrieved 19 July 2015.
+
+^ Stout, Hilary (19 May 2015). "Selling the Young on 'Gaming Fuel'". The New York Times. Retrieved 19 July 2015.
+
+^ Frank 'Riot Mirhi' Fields (5 November 2014). "KOREA'S PRO EXODUS MAY SPELL BAD NEWS FOR THE GAME'S TOP REGION". Riot Games. Retrieved 9 November 2014.
+
+^ Owen S. Good (18 March 2014). "Top Korean League of Legends player fixed matches before attempting suicide, says eSports league". Polygon. Retrieved 9 November 2014.
+
+^ Travis Gafford (27 October 2014). "Major changes heading to Korea for the 2015 season". OnGamers. Archived from the original on 10 December 2015. Retrieved 9 November 2014.
+
+^ Luke Winkie (31 May 2016) The eSports Injury Crisis Vocativ, Retrieved 3 June 2016.
+
+^ Caymus (11 November 2014). "Official 2015 Season LoL eSports League Reform Plan Announced (Final Version)". News of Legends. Archived from the original on 18 May 2015. Retrieved 28 April 2015.
+
+^ "Dota 2 is the richest of the big esports, but its players are the poorest". The Daily Dot. 13 August 2014. Archived from the original on 18 May 2015. Retrieved 2 May 2015.
+
+^ Gaudiosi, John (28 October 2015). "Global esports revenues are nearing 2 billion". Fortune. Retrieved 9 November 2015.
+
+^ a b c d Smith, Noah (6 April 2018). "Esports bookmaking? Globally, it's already a billion-dollar gambling industry". The Washington Post. Retrieved 8 June 2018.
+
+^ Wolf, Jacob (2 June 2017). "Nevada governor approves esports betting bill". ESPN. Retrieved 8 June 2018.
+
+^ Jones, Ali (17 May 2018). "Esports betting may soon become legal in several American states". PCGamesN. Retrieved 8 June 2018.
+
+^ Myers, Maddy (8 June 2018). "New Jersey Added A Last-Minute Esports Betting Ban And No One Knows Why". Kotaku. Retrieved 8 June 2018.
+
+^ "Esports Betting Laws & Country Restrictions 2019 | Gamopo Esports Hub". Gamopo.com. Retrieved 5 September 2019.
+
+^ "New Jersey Allows Esports Betting in Time for League of Legends Final". Esports.net. 12 November 2019. Retrieved 31 January 2020.
+
+^ "Esports: The Convergence of Gaming and Gambling". EsportsBets.com. 18 November 2019. Retrieved 31 January 2020.
+
+^ Kuchefski, Kathryn (14 August 2019). "Betway Partners With PSG.LGD And Gains Control Over Team Branding". Medium. Retrieved 31 January 2020.
+
+^ "Betting is esports' biggest and most underappreciated opportunity". VentureBeat. 3 June 2019. Retrieved 31 January 2020.
+
+^ "LoL esports bets explained ➠ Best esports advice". LoLBettingSites.com. Retrieved 31 January 2020.
+
+^ "CS:GO Betting And Prediction Guide". skrilla.com. Retrieved 31 January 2020.
+
+^ "Dota 2 Now Lets You Bet In-Game Currency On Pro Tournaments". Kotaku. Retrieved 31 January 2020.
+
+^ "Number of players of selected eSports games worldwide as of August 2017 (in million)". Rift Herald. 13 September 2016. Retrieved 12 August 2018.
+
+^ Sheer, Ian (27 January 2014). "Player Tally for 'League of Legends' Surges". Wsj.com. Archived from the original on 30 January 2014. Retrieved 31 January 2014.
+
+^ Hodge, Victoria; Devlin, Sam; Sephton, Nick; Block, Florian; Drachen, Anders; Cowling, Peter (17 November 2017). "Win Prediction in Esports: Mixed-Rank Match Prediction in Multi-player Online Battle Arena Games". arXiv:1711.06498 [cs.AI].
+
+^ "'DOTA analytics': Big data meets e-sports in software giant deal with Team Liquid". ABC-CBN News. 10 May 2018. Retrieved 12 August 2018.
+
+^ Shah, Saqid (14 December 2018). "Blizzard cancels 'Heroes of the Storm' eSports plans". Engadget. Retrieved 16 December 2018.
+
+^ McWhertor, Michael (14 December 2018). "Heroes of the Storm pros vent sadness, anger after Blizzard kills game's esports future". Polygon. Retrieved 16 December 2018.
+
+^ Dave, Paresh. "ESPN.com to cover e-sports with same 'rigor' as it does the big leagues". Los Angeles Times. Retrieved 13 July 2016.
+
+^ "Yahoo Launches New Experience Dedicated to Esports". Yahoo. Retrieved 13 July 2016.
+
+^ Tracey Lien (16 July 2013). "How two StarCraft commentators became stars". Polygon. Retrieved 11 September 2013.
+
+^ Smith, Noah (16 February 2021). "The rise, fall and resonance of ESPN Esports". The Washington Post. Retrieved 18 October 2021.
+
+^ Justin Binkowski (25 March 2017). "Goodbye eSports: The 2017 AP Style Guide will settle the esports spelling debate once and for all". Dot Esports. Archived from the original on 19 May 2017. Retrieved 26 April 2017.
+
+^ Taylor Cocke (24 March 2017). "It's official: The AP Style guide spells it 'esports', not 'eSports', 'e-sports', or 'Esports'". Yahoo Esports.
+
+^ Nunnelley, Stephany (18 September 2018). "Fortnite streamer Ninja graces cover of latest ESPN magazine – a first for professional gaming". VG247. Retrieved 18 September 2018.
+
+^ Jon Partridge (29 October 2014). "How Hitbox plans to take on Twitch". RedBull. Retrieved 29 October 2014.
+
+^ Erik Cloutier (29 January 2013). "Own3D is Shutting Down. Twitch Declared Winner". GamingSoul. Retrieved 1 July 2013.
+
+^ "Dreamhack and Twitch Announce Record-Breaking Online Viewership". Dreamhack.
+
+^ Paul Tassi (2 May 2013). "Talking Livestreams, eSports and the Future of Entertainment with Twitch". Forbes. Retrieved 16 September 2013.
+
+^ "MLG Streaming Platform". Major League Gaming. Retrieved 28 July 2014.
+
+^ "1376% Growth in MLG.tv Viewership in Q1". Major League Gaming. 10 April 2014. Archived from the original on 13 July 2017. Retrieved 28 June 2013.
+
+^ "MLG Championship 2014 – Anaheim, CA". Esports Maxl. 22 June 2014. Archived from the original on 27 June 2014. Retrieved 28 June 2013.
+
+^ "Video Game Super Star "Nadeshot" Signs Exclusive Deal with Major League Gaming". Major League Gaming. 10 April 2014. Archived from the original on 13 July 2017. Retrieved 28 June 2013.
+
+^ a b Wingfield, Nick (4 January 2016). "Activision Buys Major League Gaming to Broaden Role in E-Sports". The New York Times. Retrieved 5 January 2016.
+
+^ Lewis, Richard (24 March 2015). "YouTube to relaunch livestreaming service with focus on esports and gaming". The Daily Dot. Archived from the original on 14 April 2015. Retrieved 4 May 2015.
+
+^ a b "The International Dota 2 championships will be watchable on ESPN3". Polygon. 17 July 2014. Retrieved 21 July 2014.
+
+^ "League of Legends' maker inks rich broadcast contract, with an eye on premium content". Polygon. Vox Media. 18 December 2016. Retrieved 18 December 2016.
+
+^ Needleman, Sarah E. (16 December 2016). "'League of Legends' E-Sports Contests Lure Newest Fan: Major League Baseball". The Wall Street Journal. Retrieved 18 December 2016.
+
+^ Daniel Tack (4 September 2013). "Riot Games, 'League of Legends', And The Future Of eSports". Forbes. Retrieved 8 October 2013.
+
+^ Radoslav "Nydra" Kolev (25 September 2013). "DreamHack partners with MTG for eSports studio in Stockholm". Gosu Gamers. Retrieved 12 November 2013.
+
+^ Molina, Brett. "Blizzard unveils "Heroes of the Storm" tournament". USA Today. Retrieved 24 January 2016.
+
+^ Marks, Tom (27 April 2015). "Heroes of the Dorm finals were a success story for esports". PCGamer. Retrieved 4 May 2015.
+
+^ "ELeague Official Website".
+
+^ Commercial broadcast company TV 2 is partnering with local Norwegian organization House of Nerds to bring a full season of esports competition to domestic airwaves.
+
+^ Wynne, Jared (18 February 2015). "Esports are coming to television in Norway". The Daily Dot. Archived from the original on 14 April 2015. Retrieved 7 April 2015.
+
+^ "Riot Games and Big Ten Network partner for televised Ohio State vs. Michigan State League of Legends match". SB Nation. 14 April 2016. Retrieved 18 April 2016.
+
+^ Tracy, Marc (19 January 2017). "Big Ten Universities Entering a New Realm: E-Sports". The New York Times. Retrieved 27 January 2017.
+
+^ Jones, Ali (18 August 2017). "The company that governs TV ratings just started an esports organisation". PCGamesN. Retrieved 18 August 2017.
+
+^ "Overwatch League comes to ESPN, Disney and ABC". ESPN. 11 July 2018. Retrieved 11 July 2018.
+
+
+External links
+
+
+
+Wikimedia Commons has media related to Electronic sports.
+
+The Rise of Competitive Gaming & E-Sports Video produced by Off Book
+
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteEsports and competitive video gaming
+Games
+Leagues and tournaments
+Players
+Fighting
+Capcom Cup
+Evolution Championship Series
+Killer Instinct World Cup
+Super Smash Bros.
+Genesis
+Super Smash Con
+The Big House
+MOBA
+Dota 2
+Pro Circuit
+The International
+League of Legends
+Champions Korea
+Championship Series
+European Championship
+Mid-Season Invitational
+Pacific Championship Series
+Pro League
+World Championship
+other
+Mobile Legends: Bang Bang
+Southeast Asia Cup
+Smite World Championship
+Real-time strategy
+StarCraft
+StarCraft II
+Global League
+Warcraft III
+championships
+Shooter
+Call of Duty
+Championship
+League
+Counter-Strike
+BLAST Premier
+ESL Pro League
+Flashpoint
+Majors
+Fortnite World Cup
+Overwatch
+Contenders
+League
+World Cup
+Apex
+QuakeCon
+Valorant
+Champions
+Sports
+eFootball.Open
+eSailing World Championship
+FIA-Certified Gran Turismo Championships
+FIFA eWorld Cup
+Formula One Esports Series
+iRacing
+eNASCAR Coca-Cola iRacing Series
+eNASCAR iRacing Pro Invitational Series
+EuroNASCAR Esports Series
+INDYCAR iRacing Challenge
+NBA 2K League
+Rocket League Championship Series
+Other genres
+Classic Tetris World Championship
+Hearthstone
+Pokémon
+World Championships
+Multi-genre
+Asian Games
+Asian Indoor and Martial Arts Games
+DreamHack
+ELeague
+ESEA League
+ESL
+Intel Extreme Masters
+Esports World Convention
+Major League Gaming
+list of National Championships
+Nintendo World Championships
+Southeast Asian Games
+Twin Galaxies
+World Cyber Games
+World Electronic Sports Games
+World Series of Video Games
+Governing bodies
+Amazon University Esports
+Asian Electronic Sports Federation
+British Esports Association
+International Esports Federation
+Korea e-Sports Association
+National Association of Collegiate Esports
+Professional Esports Association
+Tespa
+Thailand E-Sports Federation
+Russian eSports Federation
+World Esports Association
+Defunct organizations
+Championship Gaming Series
+Cyberathlete Professional League
+eGames
+G7 Teams
+MBCGame StarCraft League
+Ongamenet Starleague
+Professional Gamers League
+Tougeki – Super Battle Opera
+United Kingdom eSports Association
+World e-Sports Games
+World League eSport Bundesliga
+XLEAGUE.TV
+Years
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+
+ Category
+
+vteVideo game conceptsGlossary of video game termsAttributes
+Health
+Life
+Experience point
+Magic
+Critical hit
+Level
+Characters
+Boss
+Bot
+Non-player character
+Player character
+Mechanics
+Item
+Power-up
+HUD
+Warp
+Fast travel
+Fog of war
+Invisible wall
+Cutscene
+Paper doll
+Loading screen
+Replay value
+Saved game
+Scripted sequence
+Password
+Line of sight
+Stats
+Permadeath
+Status effect
+Turns, rounds and time-keeping systems
+Collision detection
+Quick time event
+Power-up
+Random encounter
+Tank controls
+Dialogue tree
+Quest (video games)
+Scenery
+Destructible environment
+Instance dungeon
+Mini-map
+Open world
+Persistent world
+Procedural generation
+Movement techniques
+Rocket jumping
+Strafing
+Trickjump
+ModesPlayer type
+Single-player
+Multiplayer
+Competitive gameplay
+Esports
+Speedrun
+Gameplay type
+Capture the flag
+Cooperative
+Deathmatch
+Last man standing
+Player versus environment
+Survival
+
+vteWorld championships
+List of world sports championships
+Olympic sportsTeam
+Association football
+men
+men's club
+women
+women's club
+Baseball
+men
+women
+Basketball
+men
+women
+3x3 basketball
+club
+Beach volleyball
+Curling
+Mixed doubles
+Field hockey
+men
+women
+Handball
+men
+women
+Ice hockey
+men
+women
+Rugby sevens
+Sailing
+Lacrosse
+men
+Softball
+men
+women
+Volleyball
+men
+men's club
+women
+women's club
+Water polo
+Individual
+Archery
+Aquatic sports
+Athletics
+outdoor
+race walking
+Badminton
+men
+women
+mixed
+individual
+Biathlon
+Bobsleigh and skeleton
+Boxing (amateur)
+Canoeing
+slalom
+sprint
+Cycling
+BMX
+mountain biking
+road
+track
+urban
+Equestrianism
+dressage
+eventing
+show jumping
+Fencing
+Golf
+men
+women
+Gymnastics
+artistic
+rhythmic
+trampoline
+Ice skating
+figure
+short track
+speed
+Judo
+Karate
+Luge
+artificial track
+natural track
+Modern pentathlon
+Rowing
+Sailing
+Olympic Class Combined Worlds
+Shooting
+Skateboarding
+Skiing
+alpine
+nordic
+freestyle
+snowboarding
+Sport climbing
+Surfing
+Table tennis
+Taekwondo
+Tennis
+men
+women
+Triathlon
+mixed relay
+Weightlifting
+Wrestling
+Discontinued
+Basque pelota
+Polo
+Roller hockey
+men
+women
+Paralympic sportsTeam
+Blind football
+Para ice hockey
+Wheelchair basketball
+Wheelchair handball
+Wheelchair rugby
+Wheelchair curling
+Goalball
+Sitting volleyball
+Individual
+Archery
+Athletics
+Badminton
+Bobsleigh and skeleton
+Climbing
+Cycling
+Track cycling
+Road cycling
+Powerlifting
+Shooting
+Snowboard
+Skiing
+Alpine
+Nordic
+Swimming
+Table tennis
+Combat sports
+Kendo
+Kickboxing
+Muaythai
+Sambo
+Sumo
+Wrestling
+Wushu
+Cue sports
+Carom billiards
+Three-cushion
+men's
+women's
+team
+artistic
+English billiards
+amateurs
+women
+Pool
+eight-ball
+nine-ball
+ten-ball
+straight pool
+Snooker
+six-red
+women
+amateurs
+Mind sports
+Backgammon
+Bridge
+Chess
+open
+women
+team
+Draughts
+men
+women
+checkers
+draughts-64
+draughts-64 women
+Go
+Puzzles
+Scrabble
+Sudoku
+Xiangqi
+MotorsportAuto racing
+Formula E
+Formula One
+Karting
+Rallying
+Rallycross
+Rally raid
+Rallies
+Bajas
+Sports Car Endurance
+Touring Car
+Motorcycle sports
+Endurance
+Enduro
+SuperEnduro
+Ice racing
+individual
+team
+Grand Prix
+MotoGP
+Moto2
+Moto3
+Motocross
+individual
+women
+nations
+Supercross
+Sidecarcross
+Snowcross
+Production
+Superbike
+Supersport
+Supersport 300
+Rally raid
+Rallies
+Bajas
+Sidecar
+Speedway
+individual
+team
+Trial
+nations
+Other
+Aeroplane sport
+Aerobatic
+Aerobatic GP
+Powerboating
+Aquabike
+F1
+F4s
+offshore
+Radio-controlled racing
+1:10 electric off-road
+1:8 nitro off-road
+Tank biathlon
+Other sportsTeam
+American football
+men
+women
+Australian football
+Ball hockey
+men
+women
+Bandy
+men
+men's club
+women
+women's club
+Baseball
+women
+Cricket
+Test
+ODI (men)
+ODI (women)
+T20 (men)
+T20 (women)
+Beach handball
+Beach soccer
+Canoe polo
+Crokinole
+Dancesport
+Formation Latin
+Fistball
+men
+women
+Flag football
+Floorball
+men
+women
+Futsal
+men
+men's club
+women
+Indoor hockey
+men
+women
+Indoor Soccer
+Inline hockey
+FIRS
+IIHF
+Korfball
+Lacrosse
+men
+women
+indoor
+Life Saving
+Netball
+Padel tennis
+Quidditch
+Ringette
+Rogaining
+Roll Ball
+Roller derby
+men
+women
+Rugby league
+men
+men's club
+women
+Rugby union
+men
+women
+Sailing
+Yachts
+Dinghies
+Sepaktakraw
+Softball
+men
+women
+Synchronized skating
+Tchoukball
+Individual
+Air sports
+Ballooning
+Gliding
+Parachuting
+Paragliding
+Aquatics
+Surfing
+Water skiing
+Armwrestling
+Athletics
+cross country
+half marathon
+indoor
+100 km
+Mountain running
+Long Distance Mountain running
+Snowshoe running
+Skyrunning
+Trail running
+Bowling
+Tenpin
+Ninepin (Single's, Team)
+Bowls (outdoor)
+Bowls (indoor)
+Brazilian Jiu-Jitsu
+Canoeing
+marathon
+wildwater
+Cycling
+cyclo-cross
+indoor
+mountain bike marathon
+trials
+Darts
+BDO
+PDC
+Finswimming
+Fishing
+freshwater
+fly fishing
+Gymnastics
+acrobatic
+aerobic
+Orienteering
+foot
+ski
+mountain bike
+trail
+Pétanque
+Powerlifting
+men
+women
+Mounted games
+Racquetball
+Sailing
+Shooting
+practical handgun
+practical rifle
+practical shotgun
+Skiing
+flying
+Ski mountaineering
+Squash
+individual
+doubles
+team
+Roller Sports
+aggressive roller freestyle
+artistic skating
+inline alpine
+inline downhill
+inline freestyle
+inline speed skating
+skateboarding
+Swimming
+short course
+Triathlon
+Aquathlon
+Duathlon
+Ironman
+Yo-yo
+Esports
+Call of Duty
+Counter-Strike
+Dota 2
+eSailing
+FIFA
+Fortnite
+League of Legends
+NES Tetris
+Overwatch
+Pro Evolution Soccer
+ Rocket League
+Smite
+StarCraft II
+Valorant
+
+See also: {{World cups}}
+
+Authority control 
+Integrated Authority File (Germany)
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Esports&oldid=1058665291"
+		Categories: EsportsVideo game cultureHidden categories: CS1 Korean-language sources (ko)CS1 Russian-language sources (ru)All articles lacking reliable referencesArticles lacking reliable references from April 2020Articles with short descriptionShort description is different from WikidataWikipedia indefinitely semi-protected pagesUse dmy dates from April 2020Articles containing potentially dated statements from 2016All articles containing potentially dated statementsAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from November 2020All articles with unsourced statementsArticles with unsourced statements from October 2021Articles with unsourced statements from December 2016Articles with unsourced statements from January 2017Articles to be expanded from June 2018All articles to be expandedArticles using small message boxesArticles with unsourced statements from November 2018Commons category link is on WikidataArticles with GND identifiers
+	

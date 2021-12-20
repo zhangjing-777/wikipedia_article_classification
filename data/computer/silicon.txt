@@ -1,0 +1,1200 @@
+
+		From Wikipedia, the free encyclopedia
+		  (Redirected from Computer revolution)
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Shift from analogue to digital electronics
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}"third Industrial Revolution" redirects here. For the book by Jeremy Rifkin, see The Third Industrial Revolution.
+
+
+  A visualization of the various routes through a portion of the Internet (created via The Opte Project).
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}History of technology
+By technological eras
+Pre-modern history
+Prehistoric
+Stone Age
+Neolithic Revolution
+Bronze Age
+Iron Age
+Ancient
+Modern history
+Proto-industrialization
+First Industrial Revolution
+Standardization
+Second Industrial Revolution
+Machine Age
+Atomic Age
+Jet Age
+Space Age
+Digital Revolution (Third Industrial Revolution)
+Digital transformation
+Information Age
+Fourth Industrial Revolution
+Imagination Age
+Emerging technologies
+
+By historical regions
+Ancient Africa
+Ancient Egypt
+Indian subcontinent
+Ancient China
+Maya civilization
+Hellenistic world
+Roman Empire
+Byzantine Empire
+Medieval Islamic world
+Arab Agricultural Revolution
+Medieval Europe
+Renaissance Europe
+
+By type of technology
+History of agriculture
+History of biotechnology
+History of communication
+History of computer hardware
+History of electrical engineering
+History of manufacturing
+History of materials science
+History of measurement
+History of medicine
+History of nuclear technology
+History of transport
+
+Technology timelines
+Timeline of historic inventions
+Complete list by category
+
+Article indices
+Outline of technology
+Outline of prehistoric technology
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+Part of a series onSociology
+History
+Outline
+Index
+Key themes
+Society
+Globalization
+Human behavior
+Human environmental impact
+Identity
+Industrial revolutions 3 & 4
+Social complexity
+Social construct
+Social environment
+Social equality
+Social equity
+Social power
+Social stratification
+Social structure
+
+Perspectives
+Conflict theory
+Critical theory
+Structural functionalism
+Positivism
+Social constructionism
+Symbolic interactionism
+
+Branches
+Aging
+Architecture
+Art
+Astrosociology
+Body
+Criminology
+Consciousness
+Culture
+Death
+Demography
+Deviance
+Disaster
+Economic
+Education
+Emotion (Jealousy)
+Environmental
+Family
+Feminist
+Fiscal
+Food
+Gender
+Generations
+Health
+Historical
+Immigration
+Industrial
+Internet
+Jewry
+Knowledge
+Language
+Law
+Leisure
+Literature
+Marxist
+Mathematic
+Medical
+Military
+Music
+Peace, war, and social conflict
+Philosophy
+Political
+Public
+Punishment
+Race and ethnicity
+Religion
+Rural
+Science (History of science)
+Social movements
+Social psychology
+Sociocybernetics
+Sociology
+Space
+Sport
+Technology
+Terrorism
+Urban
+Utopian
+Victimology
+Visual
+
+Methods
+Quantitative
+Qualitative
+Comparative
+Computational
+Ethnographic
+Conversation analysis
+Historical
+Interview
+Mathematical
+Network analysis
+Social experiment
+Survey
+
+PeopleEast Asia
+1900s
+Fei Xiaotong
+South Asia 
+
+1800s
+G.S Ghurye
+1900s
+Irawati Karve
+M. N. Srinivas
+Middle East
+
+1400s
+Ibn Khaldun
+Europe
+
+1700s
+Auguste Comte
+Emmanuel Joseph Sieyès
+1800s
+Émile Durkheim
+Harriet Martineau
+Karl Marx
+Georg Simmel
+Herbert Spencer
+Ferdinand Tönnies
+Max Weber
+1900s
+Michel Foucault
+Jürgen Habermas
+North America 
+
+1800s
+Jane Addams
+Ernest Burgess
+W.E.B. Du Bois
+George Herbert Mead
+Thorstein Veblen
+1900s
+James Coleman
+Patricia Hill Collins
+Erving Goffman
+Paul Lazarsfeld
+Charles Wright Mills
+Robert K. Merton
+Theda Skocpol
+Dorothy E. Smith
+
+Lists
+Bibliography
+Terminology
+Journals
+Organizations
+People
+Timeline
+By country
+
+ Society portal
+WikiProject Sociologyvte
+The Digital Revolution (also known as the Third Industrial Revolution) is the shift from mechanical and analogue electronic technology to digital electronics which began in the latter half of the 20th century, with the adoption and proliferation of digital computers and digital record-keeping, that continues to the present day.[1] Implicitly, the term also refers to the sweeping changes brought about by digital computing and communication technologies during this period. From analogous to the Agricultural Revolution and Industrial Revolution, the Digital Revolution marked the beginning of the Information Age.[2]
+Central to this revolution is the mass production and widespread use of digital logic, MOSFETs (MOS transistors), integrated circuit (IC) chips, and their derived technologies, including computers, microprocessors, digital cellular phones, and the Internet.[3]  These technological innovations have transformed traditional production and business techniques.[4]
+
+Contents
+
+1 History
+
+1.1 Brief history
+1.2 1947–1969: Origins
+1.3 1969–1989: Invention of the Internet, rise of home computers
+1.4 1989–2005: Invention of the World Wide Web, mainstreaming of the Internet, Web 1.0
+1.5 2005–present: Web 2.0, social media, smartphones, digital TV
+
+
+2 Rise in digital technology use of computers, 1980–2020
+
+2.1 1990
+2.2 2000
+2.3 2010
+2.4 2020
+
+
+3 Converted technologies
+4 Technological basis
+5 Socio-economic impact
+
+5.1 Information sharing and privacy
+5.2 Copyright and trademark issues
+
+
+6 Concerns
+7 Implications
+
+7.1 Environmental impact
+
+
+8 See also
+9 References
+10 External links
+
+
+
+History[edit]
+  Rings of time showing some important dates in Digital Revolution from 1968 to 2017
+Brief history[edit]
+The underlying technology was invented in the later quarter of the 19th century, including Babbage's Analytical Engine and the telegraph. Digital communication became economical for widespread adoption after the invention of the personal computer. Claude Shannon, a Bell Labs mathematician, is credited for having laid out the foundations of digitalization in his pioneering 1948 article, A Mathematical Theory of Communication.[5] The digital revolution converted technology from analog format to digital format. By doing this, it became possible to make copies that were identical to the original. In digital communications, for example, repeating hardware was able to amplify the digital signal and pass it on with no loss of information in the signal. Of equal importance to the revolution was the ability to easily move the digital information between media, and to access or distribute it remotely.
+The turning point of the revolution was the change from analogue to digitally recorded music.[6] During the 1980s the digital format of optical compact discs gradually replaced analog formats, such as vinyl records and cassette tapes, as the popular medium of choice.[7]
+
+1947–1969: Origins[edit]
+See also: Early history of video games and Early mainframe games
+In 1947, the first working transistor, the germanium-based point-contact transistor, was invented by John Bardeen and Walter Houser Brattain while working under William Shockley at Bell Labs.[8] This led the way to more advanced digital computers. From the late 1940s, universities, military, and businesses developed computer systems to digitally replicate and automate previously manually performed mathematical calculations, with the LEO being the first commercially available general-purpose computer.
+Other important technological developments included the invention of the monolithic integrated circuit chip by Robert Noyce at Fairchild Semiconductor in 1959[9] (made possible by the planar process developed by Jean Hoerni),[10] the first successful metal-oxide-semiconductor field-effect transistor (MOSFET, or MOS transistor) by Mohamed Atalla and Dawon Kahng at Bell Labs in 1959,[11] and the development of the complementary MOS (CMOS) process by Frank Wanlass and Chih-Tang Sah at Fairchild in 1963.[12]
+Following the development of MOS integrated circuit chips in the early 1960s, MOS chips reached higher transistor density and lower manufacturing costs than bipolar integrated circuits by 1964. MOS chips further increased in complexity at a rate predicted by Moore's law, leading to large-scale integration (LSI) with hundreds of transistors on a single MOS chip by the late 1960s. The application of MOS LSI chips to computing was the basis for the first microprocessors, as engineers began recognizing that a complete computer processor could be contained on a single MOS LSI chip.[13] In 1968, Fairchild engineer Federico Faggin improved MOS technology with his development of the silicon-gate MOS chip, which he later used to develop the Intel 4004, the first single-chip microprocessor.[14] It was released by Intel in 1971, and laid the foundations for the microcomputer revolution that began in the 1970s.
+MOS technology also led to the development of semiconductor image sensors suitable for digital cameras.[15]  The first such image sensor was the charge-coupled device, developed by Willard S. Boyle and George E. Smith at Bell Labs in 1969,[16] based on MOS capacitor technology.[15]
+
+1969–1989: Invention of the Internet, rise of home computers[edit]
+See also: History of arcade video games, First generation of video game consoles, Second generation of video game consoles, Third generation of video game consoles, and Fourth generation of video game consoles
+The public was first introduced to the concepts that led to the Internet when a message was sent over the ARPANET in 1969. Packet switched networks such as ARPANET, Mark I, CYCLADES, Merit Network, Tymnet, and Telenet, were developed in the late 1960s and early 1970s using a variety of protocols. The ARPANET in particular led to the development of protocols for internetworking, in which multiple separate networks could be joined together into a network of networks.
+The Whole Earth movement of the 1960s advocated the use of new technology.[17]
+In the 1970s, the home computer was introduced,[18] time-sharing computers,[19] the video game console, the first coin-op video games,[20][21] and the golden age of arcade video games began with Space Invaders.  As digital technology proliferated, and the switch from analog to digital record keeping became the new standard in business, a relatively new job description was popularized, the data entry clerk.  Culled from the ranks of secretaries and typists from earlier decades, the data entry clerk's job was to convert analog data (customer records, invoices, etc.) into digital data.
+In developed nations, computers achieved semi-ubiquity during the 1980s as they made their way into schools, homes, business, and industry. Automated teller machines, industrial robots, CGI in film and television, electronic music, bulletin board systems, and video games all fueled what became the zeitgeist of the 1980s.  Millions of people purchased home computers, making household names of early personal computer manufacturers such as Apple, Commodore, and Tandy.  To this day the Commodore 64 is often cited as the best selling computer of all time, having sold 17 million units (by some accounts)[22] between 1982 and 1994.
+In 1984, the U.S. Census Bureau began collecting data on computer and Internet use in the United States; their first survey showed that 8.2% of all U.S. households owned a personal computer in 1984, and that households with children under the age of 18 were nearly twice as likely to own one at 15.3% (middle and upper middle class households were the most likely to own one, at 22.9%).[23]  By 1989, 15% of all U.S. households owned a computer, and nearly 30% of households with children under the age of 18 owned one.[24]  By the late 1980s, many businesses were dependent on computers and digital technology.
+Motorola created the first mobile phone, Motorola DynaTac, in 1983.  However, this device used analog communication -  digital cell phones were not sold commercially until 1991 when the 2G network started to be opened in Finland to accommodate the unexpected demand for cell phones that was becoming apparent in the late 1980s.
+Compute! magazine predicted that CD-ROM would be the centerpiece of the revolution, with multiple household devices reading the discs.[25]
+The first true digital camera was created in 1988, and the first were marketed in December 1989 in Japan and in 1990 in the United States.[26] By the mid-2000s, they had eclipsed traditional film in popularity.
+Digital ink was also invented in the late 1980s. Disney's CAPS system (created 1988) was used for a scene in 1989's The Little Mermaid and for all their animation films between 1990's The Rescuers Down Under and 2004's Home on the Range.
+
+1989–2005: Invention of the World Wide Web, mainstreaming of the Internet, Web 1.0[edit]
+See also: Fifth generation of video game consoles and Sixth generation of video game consoles
+Tim Berners-Lee invented the World Wide Web in 1989.
+The first public digital HDTV broadcast was of the 1990 World Cup that June; it was played in 10 theaters in Spain and Italy. However, HDTV did not become a standard until the mid-2000s outside Japan.
+The World Wide Web became publicly accessible in 1991, which had been available only to government and universities.[27] In 1993 Marc Andreessen and Eric Bina introduced Mosaic, the first web browser capable of displaying inline images[28] and the basis for later browsers such as Netscape Navigator and Internet Explorer. Stanford Federal Credit Union was the first financial institution to offer online internet banking services to all of its members in October 1994.[29] In 1996 OP Financial Group, also a cooperative bank, became the second online bank in the world and the first in Europe.[30] The Internet expanded quickly, and by 1996, it was part of mass culture and many businesses listed websites in their ads. By 1999, almost every country had a connection, and nearly half of Americans and people in several other countries used the Internet on a regular basis. However throughout the 1990s, "getting online" entailed complicated configuration, and dial-up was the only connection type affordable by individual users; the present day mass Internet culture was not possible.
+In 1989, about 15% of all households in the United States owned a personal computer.[31]
+For households with children, nearly 30% owned a computer in 1989, and in 2000, 65% owned one.
+Cell phones became as ubiquitous as computers by the early 2000s, with movie theaters beginning to show ads telling people to silence their phones. They also became much more advanced than phones of the 1990s, most of which only took calls or at most allowed for the playing of simple games.
+Text messaging existed in the 1990s but was not widely used until the early 2000s, when it became a cultural phenomenon.
+The digital revolution became truly global in this time as well - after revolutionizing society in the developed world in the 1990s, the digital revolution spread to the masses in the developing world in the 2000s.
+By 2000, a majority of U.S. households had at least one personal computer and internet access the following year.[32] In 2002, a majority of U.S. survey respondents reported having a mobile phone.[33]
+
+2005–present: Web 2.0, social media, smartphones, digital TV[edit]
+Main articles: Web 2.0, Social media, Smartphone, Digital terrestrial television, Digital television transition, Video game industry, Seventh generation of video game consoles, Eighth generation of video game consoles, and Ninth generation of video game consoles
+In late 2005 the population of the Internet reached 1 billion,[34] and 3 billion people worldwide used cell phones by the end of the decade. HDTV became the standard television broadcasting format in many countries by the end of the decade. In September and December 2006 respectively, Luxembourg and the Netherlands became the first countries to completely transition from analog to digital television. In September 2007, a majority of U.S. survey respondents reported having broadband internet at home.[35] According to estimates from the Nielsen Media Research, approximately 45.7 million U.S. households in 2006 (or approximately 40 percent of approximately 114.4 million) owned a dedicated home video game console,[36][37] and by 2015, 51 percent of U.S. households owned a dedicated home video game console according to an Entertainment Software Association annual industry report.[38][39] By 2012, over 2 billion people used the Internet, twice the number using it in 2007. Cloud computing had entered the mainstream by the early 2010s. In January 2013, a majority of U.S. survey respondents reported owning a smartphone.[40] By 2016, half of the world's population was connected[41] and as of 2020, that number has risen to 67%.[42]
+
+Rise in digital technology use of computers, 1980–2020[edit]
+Further information: History of the Internet
+  Analog to digital transition 1986 - 2014
+In the late 1980s, less than 1% of the world's technologically stored information was in digital format, while it was 94% in 2007, with more than 99% by 2014.[43]
+It is estimated that the world's capacity to store information has increased from 2.6 (optimally compressed) exabytes in 1986, to some 5,000 exabytes in 2014 (5 zettabytes).[43][44]
+
+1990[edit]
+Cell phone subscribers: 12.5 million (0.25% of world population in 1990)[45]
+Internet users: 2.8 million (0.05% of world population in 1990)[46]
+2000[edit]
+Cell phone subscribers: 1.5 billion (19% of world population in 2002)[46]
+Internet users: 631 million (11% of world population in 2002)[46]
+2010[edit]
+Cell phone subscribers: 4 billion (68% of world population in 2010)[47]
+Internet users: 1.8 billion (26.6% of world population in 2010)[41]
+2020[edit]
+Cell phone subscribers: 4.78 billion (62% of world population in 2020)[48]
+Internet users: 4.54 billion (59% of world population in 2020)[49]
+  A university computer lab containing many desktop PCs
+Converted technologies[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed.  (April 2020) (Learn how and when to remove this template message)
+Conversion of below analog technologies to digital. (The decade indicated is the period when digital became dominant form.)
+
+Analog computer to digital computer (1950s)
+Telex to fax (1980s)
+Phonograph cylinder, gramophone record and compact cassette to compact disc (1980s and 1990s, although sales of vinyl records have increased again in the 2010s among antique collectors)
+VHS to DVD (2000s)
+Analog photography (photographic plate and photographic film) to digital photography (2000s)
+Analog cinematography (film stock) to digital cinematography (2010s)
+  Image of Compact DiscAnalog television to digital television (2010s)
+Analog radio to digital radio (2020s (expected))
+Analog mobile phone (1G) to digital mobile phone (2G) (1990s)
+Analog watch and clock to digital watch and clock (not yet predictable)
+Analog thermometer to digital thermometer (2010s)
+Offset printing to digital printing (2020s (expected))
+Decline or disappearance of below analog technologies:
+
+Mail (parcel to continue, others to be discontinued) (2020s (expected))[citation needed]
+Telegram (2010s)
+Typewriter (2010s)
+Disappearance of other technologies also attributed to digital revolution. (Analog–digital classification doesn't apply to these.)
+
+CRT (2010s)
+Plasma display (2010s)
+CCFL backlit LCDs (2010s)
+Improvements in digital technologies.
+
+Desktop computer to laptop to tablet computer
+DVD to Blu-ray Disc to 4K Blu-ray Disc
+2G to 3G to 4G to 5G
+Mobile phone to smartphone (2010s)
+Digital watch to smartwatch
+Analog weighing scale to digital weighing scale
+Technological basis[edit]
+The basic building block of the Digital Revolution is the metal-oxide-semiconductor field-effect transistor (MOSFET, or MOS transistor),[50] which is the most widely manufactured device in history.[51] It is the basis of every microprocessor, memory chip and telecommunication circuit in commercial use.[52] MOSFET scaling (rapid miniaturization of MOS transistors) has been largely responsible for enabling Moore's law, which predicted that transistor counts would increase at an exponential pace.[53][54][55]
+Following the development of the digital personal computer, MOS microprocessors and memory chips, with their steadily increasing performance and storage, have enabled computer technology to be embedded into a huge range of objects from cameras to personal music players. Also important was the development of transmission technologies including computer networking, the Internet and digital broadcasting. 3G phones, whose social penetration grew exponentially in the 2000s, also played a very large role in the digital revolution as they simultaneously provide ubiquitous entertainment, communications, and online connectivity.
+
+Socio-economic impact[edit]
+Positive aspects include greater interconnectedness, easier communication, and the exposure of information that in the past could have more easily been suppressed by totalitarian regimes. Michio Kaku wrote in his books Physics of the Future that the failure of the Soviet coup of 1991 was due largely to the existence of technology such as the fax machine and computers that exposed classified information.
+The Revolutions of 2011 were enabled by social networking and smartphone technology; however these revolutions in hindsight largely failed to reach their goals as hardcore Islamist governments and in Syria a civil war have formed in the absence of the dictatorships that were toppled.
+The economic impact of the digital revolution has been wide-ranging. Without the World Wide Web (WWW), for example, globalization and outsourcing would not be nearly as feasible as they are today. The digital revolution radically changed the way individuals and companies interact. Small regional companies were suddenly given access to much larger markets. Concepts such as on-demand software services and manufacturing and rapidly dropping technology costs made possible innovations in all aspects of industry and everyday life.
+After initial concerns of an IT productivity paradox, evidence is mounting that digital technologies have significantly increased the productivity and performance of businesses.[56]
+The Digital transformation allowed technology to continuously adapt which resulted in a boost in the economy with an increase of productivity. With the increase of technical advances, digital revolution has created a demand for new job skills. Economically, retailers, trucking companies and banks have transitioned into digital format. In addition, the introduction of cryptocurrency like Bitcoin creates faster and secure transactions.[57]
+Negative effects include information overload, Internet predators, forms of social isolation, and media saturation. In a poll of prominent members of the national news media, 65 percent said the Internet is hurting journalism more than it is helping[58] by allowing anyone no matter how amateur and unskilled to become a journalist; causing information to be muddier and the rise of conspiracy theory in a way it didn't exist in the past.
+In some cases, company employees' pervasive use of portable digital devices and work related computers for personal use—email, instant messaging, computer games—were often found to, or perceived to, reduce those companies' productivity. Personal computing and other non-work related digital activities in the workplace thus helped lead to stronger forms of privacy invasion, such as keystroke recording and information filtering applications (spyware and content-control software).
+
+Information sharing and privacy[edit]
+Privacy in general became a concern during the digital revolution. The ability to store and utilize such large amounts of diverse information opened possibilities for tracking of individual activities and interests. Libertarians and privacy rights advocates feared the possibility of an Orwellian future where centralized power structures control the populace via automatic surveillance and monitoring of personal information in such programs as the CIA's Information Awareness Office.[59] Consumer and labor advocates opposed the ability to direct market to individuals, discriminate in hiring and lending decisions, invasively monitor employee behavior and communications and generally profit from involuntarily shared personal information.
+The Internet, especially the WWW in the 1990s, opened whole new avenues for communication and information sharing. The ability to easily and rapidly share information on a global scale brought with it a whole new level of freedom of speech. Individuals and organizations were suddenly given the ability to publish on any topic, to a global audience, at a negligible cost, particularly in comparison to any previous communication technology.
+Large cooperative projects could be endeavored (e.g. Open-source software projects, SETI@home). Communities of like-minded individuals were formed (e.g. MySpace, Tribe.net). Small regional companies were suddenly given access to a larger marketplace.
+In other cases, special interest groups as well as social and religious institutions found much of the content objectionable, even dangerous. Many parents and religious organizations, especially in the United States, became alarmed by pornography being more readily available to minors. In other circumstances the proliferation of information on such topics as child pornography, building bombs, committing acts of terrorism, and other violent activities were alarming to many different groups of people. Such concerns contributed to arguments for censorship and regulation on the WWW.
+
+Copyright and trademark issues[edit]
+Main article: Legal aspects of file sharing
+Copyright and trademark issues also found new life in the digital revolution. The widespread ability of consumers to produce and distribute exact reproductions of protected works dramatically changed the intellectual property landscape, especially in the music, film, and television industries.
+The digital revolution, especially regarding privacy, copyright, censorship and information sharing, remains a controversial topic. As the digital revolution progresses it remains unclear to what extent society has been impacted and will be altered in the future.
+With the advancement of digital technology, copyright infringements will become difficult to detect. They will occur more frequently, will be difficult to prove and the public will continue to find loopholes around the law. Digital recorders for example, can be used personally and private use making the distributions of copywritten material discreet.[60]
+
+Concerns[edit]
+While there have been huge benefits to society from the digital revolution, especially in terms of the accessibility of information, there are a number of concerns. Expanded powers of communication and information sharing, increased capabilities for existing technologies,  and the advent of new technology brought with it many potential opportunities for exploitation. The digital revolution helped usher in a new age of mass surveillance, generating a range of new civil and human rights issues. Reliability of data became an issue as information could easily be replicated, but not easily verified. For example, the introduction of Cryptocurrency, opens possibility for illegal trade, such as the sale of drugs, guns and black market transaction.[57] The digital revolution made it possible to store and track facts, articles, statistics, as well as minutiae hitherto unfeasible.
+From the perspective of the historian, a large part of human history is known through physical objects from the past that have been found or preserved, particularly in written documents. Digital records are easy to create but also easy to delete and modify. Changes in storage formats can make recovery of data difficult or near impossible, as can the storage of information on obsolete media for which reproduction equipment is unavailable, and even identifying what such data is and whether it is of interest can be near impossible if it is no longer easily readable, or if there is a large number of such files to identify. Information passed off as authentic research or study must be scrutinized and verified.[citation needed]
+These problems are further compounded by the use of digital rights management and other copy prevention technologies which, being designed to only allow the data to be read on specific machines, may well make future data recovery impossible. The Voyager Golden Record, which is intended to be read by an intelligent extraterrestrial (perhaps a suitable parallel to a human from the distant future), is recorded in analog rather than digital format specifically for easy interpretation and analysis.
+
+Implications[edit]
+The shift to digitization in the contemporary media world has created implications for traditional mass media products. With more technology advances, the more converged the realm of mass media will become with less need for traditional communication technologies.[citation needed] For example, the Internet has transformed many communication norms, creating more efficiency not only for individuals but also for businesses.[citation needed] However, McQuail suggests traditional media have also benefited greatly from new media, allowing more effective and efficient resources available.[61]
+
+Environmental impact[edit]
+The digital technology industry is one of the least sustainable and most environmentally damaging sectors in the modern world,[62][63] due to its inextricable link to the electronics industry and the waste produced by it.[64] Digitization facilitates the mass propagation of data, which requires the existence of data centers for processing and storage. These centers consume significant amounts of the electricity supply of a host country.[65]
+
+See also[edit]
+Revolution
+Neolithic Revolution
+Agricultural Revolution
+Scientific Revolution
+Industrial Revolution
+Second Industrial Revolution
+Environmental revolution
+Information revolution
+Microcomputer revolution
+Nanotechnology
+Technological revolution
+The Triple Revolution
+Dot-com company
+Digital native
+Digital omnivore
+Digital addict
+Digital phobic
+Electronic document
+Fourth Industrial Revolution
+Great Regression
+Indigo Era
+Japanese economic miracle, a period of rapid growth and innovation in Japan which roughly coincided with the Third Industrial Revolution
+Paperless office
+Post–Cold War era
+Telework
+Timeline of electrical and electronic engineering
+Telecommunications
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}E. Schoenherr, Steven (5 May 2004). "The Digital Revolution". Archived from the original on 7 October 2008.
+
+^ "Information Age".
+
+^ Debjani, Roy (2014). "Cinema in the Age of Digital Revolution" (PDF).
+
+^ Bojanova, Irena (2014). "The Digital Revolution: What's on the Horizon?". IT Professional (Jan.-Feb. 2014). 16 (1): 8–12. doi:10.1109/MITP.2014.11. S2CID 28110209.
+
+^ Shannon, Claude E.; Weaver, Warren (1963). The mathematical theory of communication (4. print. ed.). Urbana: University of Illinois Press. p. 144. ISBN 0252725484.
+
+^ "Museum Of Applied Arts And Sciences - About". Museum of Applied Arts and Sciences. Retrieved 22 August 2017.
+
+^ "The Digital Revolution Ahead for the Audio Industry," Business Week. New York, 16 March 1981, p. 40D.
+
+^ Phil Ament (17 April 2015). "Transistor History - Invention of the Transistor". Archived from the original on 13 August 2011. Retrieved 17 April 2015.
+
+^ Saxena, Arjun (2009). Invention of Integrated Circuits: Untold Important Facts. pp. x–xi.
+
+^ Saxena, Arjun (2009). Invention of Integrated Circuits: Untold Important Facts. pp. 102–103.
+
+^ "1960: Metal Oxide Semiconductor (MOS) Transistor Demonstrated".
+
+^ "1963: Complementary MOS Circuit Configuration is Invented".
+
+^ Shirriff, Ken (30 August 2016). "The Surprising Story of the First Microprocessors". IEEE Spectrum. Institute of Electrical and Electronics Engineers. 53 (9): 48–54. doi:10.1109/MSPEC.2016.7551353. S2CID 32003640. Retrieved 13 October 2019.
+
+^ "1971: Microprocessor Integrates CPU Function onto a Single Chip". Computer History Museum.
+
+^ a b Williams, J. B. (2017). The Electronics Revolution: Inventing the Future. Springer. pp. 245–8. ISBN 9783319490885.
+
+^ James R. Janesick (2001). Scientific charge-coupled devices. SPIE Press. pp. 3–4. ISBN 978-0-8194-3698-6.
+
+^ "History of Whole Earth Catalog". Retrieved 17 April 2015.
+
+^ "Personal Computer Milestones". Retrieved 17 April 2015.
+
+^ Criss, Fillur (14 August 2014). "2,076 IT jobs from 492 companies". ICTerGezocht.nl (in Dutch). Retrieved 19 August 2017.
+
+^ "Atari - Arcade/Coin-op". Archived from the original on 2 November 2014. Retrieved 17 April 2015.
+
+^ Vincze Miklós. "Forgotten arcade games let you shoot space men and catch live lobsters". io9. Retrieved 17 April 2015.
+
+^ "How many Commodore 64 computers were really sold?". pagetable.com. Archived from the original on 6 March 2016. Retrieved 17 April 2015.
+
+^ "Archived copy" (PDF). Archived from the original (PDF) on 2 April 2013. Retrieved 20 December 2017.CS1 maint: archived copy as title (link)
+
+^ https://www.census.gov/hhes/computer/files/1989/p23-171.pdf
+
+^ "COMPUTE! magazine issue 93 Feb 1988". February 1988. If the wheels behind the CD-ROM industry have their way, this product will help open the door to a brave, new multimedia world for microcomputers, where the computer is intimately linked with the other household electronics, and every gadget in the house reads tons of video, audio, and text data from CD-ROM disks.
+
+^ "1988". Retrieved 17 April 2015.
+
+^ Martin Bryant (6 August 2011). "20 years ago today, the World Wide Web was born - TNW Insider". The Next Web. Retrieved 17 April 2015.
+
+^ "The World Wide Web". Retrieved 17 April 2015.
+
+^ "Stanford Federal Credit Union Pioneers Online Financial Services" (Press release). 21 June 1995.
+
+^ "History - About us - OP Group".
+
+^ https://www.census.gov/prod/2005pubs/p23-208.pdf
+
+^ File, Thom (May 2013). Computer and Internet Use in the United States (PDF) (Report). Current Population Survey Reports. Washington, D.C.: U.S. Census Bureau. Retrieved 11 February 2020.
+
+^ Tuckel, Peter; O'Neill, Harry (2005). Ownership and Usage Patterns of Cell Phones: 2000-2005 (PDF) (Report). JSM Proceedings, Survey Research Methods Section. Alexandria, VA: American Statistical Association. p. 4002. Retrieved 25 September 2020.
+
+^ "One Billion People Online!". Archived from the original on 22 October 2008. Retrieved 17 April 2015.
+
+^ "Demographics of Internet and Home Broadband Usage in the United States". Pew Research Center. 7 April 2021. Retrieved 19 May 2021.
+
+^ Arendt, Susan (5 March 2007). "Game Consoles in 41% of Homes". WIRED. Condé Nast. Retrieved 29 June 2021.
+
+^ Statistical Abstract of the United States: 2008 (PDF) (Report). Statistical Abstract of the United States (127 ed.). U.S. Census Bureau. 30 December 2007. p. 52. Retrieved 29 June 2021.
+
+^ North, Dale (14 April 2015). "155M Americans play video games, and 80% of households own a gaming device". VentureBeat. Retrieved 29 June 2021.
+
+^ 2015 Essential Facts About the Computer and Video Game Industry (Report). Essential Facts About the Computer and Video Game Industry. 2015. Entertainment Software Association. Retrieved 29 June 2021.
+
+^ "Demographics of Mobile Device Ownership and Adoption in the United States". Pew Research Center. 7 April 2021. Retrieved 19 May 2021.
+
+^ a b "World Internet Users Statistics and 2014 World Population Stats". Retrieved 17 April 2015.
+
+^ Clement. "Worldwide digital population as of April 2020". Statista. Retrieved 21 May 2020.
+
+^ a b "The World’s Technological Capacity to Store, Communicate, and Compute Information", especially Supporting online material, Martin Hilbert and Priscila López (2011), Science, 332(6025), 60-65; free access to the article through here: http://www.martinhilbert.net/worldinfocapacity-html/
+
+^ Information in the Biosphere: Biological and Digital Worlds, doi:10.1016/j.tree.2015.12.013, Gillings, M. R., Hilbert, M., & Kemp, D. J. (2016), Trends in Ecology & Evolution, 31(3), 180–189
+
+^ "Worldmapper: The world as you've never seen it before - Cellular Subscribers 1990". Retrieved 17 April 2015.
+
+^ a b c "Worldmapper: The world as you've never seen it before - Communication Maps". Retrieved 17 April 2015.
+
+^ Arms, Michael (2013). "Cell Phone Dangers - Protecting Our Homes From Cell Phone Radiation". Computer User. Archived from the original on 29 March 2014.
+
+^ "Number of mobile phone users worldwide 2015-2020". Statista. Retrieved 19 February 2020.
+
+^ "Global digital population 2020". Statista. Retrieved 19 February 2020.
+
+^ Wong, Kit Po (2009). Electrical Engineering - Volume II. EOLSS Publications. p. 7. ISBN 9781905839780.
+
+^ "13 Sextillion & Counting: The Long & Winding Road to the Most Frequently Manufactured Human Artifact in History". Computer History Museum. 2 April 2018.
+
+^ Colinge, Jean-Pierre; Greer, James C. (2016). Nanowire Transistors: Physics of Devices and Materials in One Dimension. Cambridge University Press. p. 2. ISBN 9781107052406.
+
+^ Motoyoshi, M. (2009). "Through-Silicon Via (TSV)". Proceedings of the IEEE. 97 (1): 43–48. doi:10.1109/JPROC.2008.2007462. ISSN 0018-9219. S2CID 29105721.
+
+^ "Tortoise of Transistors Wins the Race - CHM Revolution". Computer History Museum. Retrieved 22 July 2019.
+
+^ "Transistors Keep Moore's Law Alive". EETimes. 12 December 2018. Retrieved 18 July 2019.
+
+^ Hitt, Lorin M.; Brynjolfsson, Erik (June 2003). "Computing Productivity: Firm-Level Evidence". SSRN 290325. Cite journal requires |journal= (help)
+
+^ a b Hodson, Richard (28 November 2018). "Digital revolution". Nature. 563 (7733): S131. Bibcode:2018Natur.563S.131H. doi:10.1038/d41586-018-07500-z. PMID 30487631.
+
+^ Cyra Master (10 April 2009). "Media Insiders Say Internet Hurts Journalism". The Atlantic. Retrieved 17 April 2015.
+
+^ John Markoff (22 November 2002). "Pentagon Plans a Computer System That Would Peek at Personal Data of Americans". The New York Times.
+
+^ Fleischmann, Eric (1987). "The Impact of Digital Technology on Copyright Law, 8 Computer L.J. 1". N the John Marshall Journal of Information Technology & Privacy Law. 8.
+
+^ McQuail, Denis (2000). McQuail's Mass Communication Theory.  4th ed. Thousand Oaks, Calif.: Sage. p. 28.
+
+^ "Digital Technologies Are Part of the Climate Change Problem". ICTworks. 20 February 2020.
+
+^ Alorse, R. W. (2019, December 8). The digital economy's environmental footprint is threatening the planet. The Conversation. https://theconversation.com/the-digital-economys-environmental-footprint-is-threatening-the-planet-126636
+
+^ "Is digital really greener than paper?". The Guardian. 24 February 2014.
+
+^ "Why Ireland's data centre boom is complicating climate efforts". Irish Times. 6 January 2020.
+
+
+External links[edit]
+
+
+
+Wikibooks has a book on the topic of: The Information Age
+
+Virginia Heffernan (New York Times) - The Digital Revolution
+Virginia Heffernan (New York Times), an interview
+Digital Transformation Reshaping The Business Model
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteIndustrial and technological revolution
+First
+Second
+Third
+Fourth
+Potential future
+Themes
+Coal
+Coal mining
+Coke
+Cotton
+Industry/Manufacturing
+Invention
+Iron
+Machinery
+Metallurgy
+Sociology
+Steam power
+Steel
+Technology
+Textiles, Water power
+Workforce
+Economies of agglomeration
+Economies of density
+Economies of scale
+People/groups
+Richard Arkwright
+Thomas Boulsover
+Matthew Boulton
+James Brindley
+Isambard Kingdom Brunel
+Edmund Cartwright
+Henry Cort
+Thomas and George Cranege
+Samuel Crompton
+Abraham Darby I
+Abraham Darby II
+Abraham Darby III
+Francis Egerton, 3rd Duke of Bridgewater
+William Fairbairn
+James Hargreaves
+Hawks family
+Thomas Highs
+Eaton Hodgkinson
+Benjamin Huntsman
+Joseph Marie Jacquard, John Kay (flying shuttle)
+John Kay (spinning frame)
+Francis Cabot Lowell
+Lunar Society
+Thomas Newcomen
+Robert Owen
+Lewis Paul
+William Radcliffe
+Richard Roberts
+Thomas Savery
+Samuel Slater
+John Smeaton
+George Stephenson
+Robert Stephenson
+Thomas Telford
+Richard Trevithick
+James Watt
+John Wilkinson
+John Wyatt
+Places
+Abbeydale Industrial Hamlet
+Bridgewater Canal
+Broseley
+Coalbrookdale
+Cromford
+Derwent Valley Mills
+Ironbridge
+New Lanark
+Portsmouth Block Mills
+Quarry Bank Mill
+Soho Foundry
+Stockton and Darlington Railway
+Invention/technology
+Blast furnace
+Canal
+Cotton mill
+Crucible steel
+Factory
+Flying shuttle
+Newcomen steam engine
+Power loom
+Railway
+Reverberatory furnace
+Sheffield plate
+Spinning frame
+Spinning jenny
+Steam engine
+Stephenson's Rocket
+Water frame
+Watt steam engine
+Social impact
+Bourgeoisie
+Child labour
+History of the Co-operative Movement
+Cottage industry
+Factory Acts
+Industrial unrest
+Luddite
+Proletariat
+Rochdale Pioneers
+Urbanization
+Industrial warfare
+Reference
+History of technology
+History of the British canal system
+Industrial archaeology
+List of United Kingdom-related topics
+Timeline of clothing and textiles technology
+Timeline of invention
+Timeline of materials technology
+Timeline of steam power
+
+ Category
+ Commons
+
+vteSociology
+Outline
+History
+Timeline
+Index
+General aspects
+Public sociology
+Social research
+Social theory
+Sociological theory
+Sociological practice
+Related fieldsand subfields
+Anthropology
+Comparative sociology
+Criminology
+Cultural anthropology
+Demography
+Historical sociology
+Political sociology
+Social movements
+Social psychology
+Sociolinguistics
+Social anthropology
+Sociology of
+consciousness
+culture
+deviance
+economics
+education
+environment
+gender
+knowledge
+law
+military
+religion
+science
+small groups
+stratification
+work
+
+
+ Categories
+lists
+Journals
+ Commons
+ WikiProject
+ Society portal
+
+vteHistory of technology
+History of technology cultures
+Prehistoric technology
+Neolithic
+Ancient Egypt
+Mayan
+Ancient Greek
+Roman
+Chinese
+Indian
+Byzantine
+Medieval Islam
+Medieval Europe
+Renaissance
+Ottoman
+Great Divergence
+Industrial Revolution
+Modern
+
+History of technology domains
+History of biotechnology
+History of communication
+History of computing hardware
+History of electrical engineering
+History of materials science
+History of measurement
+History of medicine
+History of nuclear technology
+History of transport
+
+vteRecessions in the United States and Commonwealth of Nations countries
+Balance sheet recession
+Business cycle
+Chronic inflation
+Deflation
+Depression
+Disinflation
+Economic expansion
+U.S. expansions
+Economic recovery
+General glut
+Global recession
+Inflation
+Recession
+Recession shapes
+Rolling recession
+Shock
+Demand
+Supply
+Stagflation
+Yield curve
+Commercial Revolution(1000–1760)
+Great Slump (1430–1490)
+Great Frost of 1709
+1st Industrial Revolution(1760–1840)
+Crisis of 1772
+1772–1774; England
+Scotland
+Thirteen Colonies
+1785–1788
+Copper Panic of 1789/Panic of 1792 (1789–1793)
+Panic of 1796–1797 (1796–1799)
+1802–1804
+1807–1810
+1812
+Post-Napoleonic depression (1815–1821)
+1822–23
+Panic of 1825 (1825–1826)
+1828–29
+1833–34
+Panic of 1837 (1836–1838 and 1839–1843)
+Civil War-era United States/Victorian Britain(1840–1870)
+1845–46
+Panic of 1847 (1847–1848)
+1853–54
+Panic of 1857 (1857–1858)
+Panic of 1866 (1865–1867)
+Black Friday (1869–1870)
+2nd Industrial Revolution(1870–1914)
+Long Depression
+1873–1879; United Kingdom
+United States
+Depression of 1882–1885
+1887–88
+Baring crisis (1890–1891)
+Panic of 1893 (1893–1897)
+1899–1900
+Panic of 1901 (1902–1904)
+Panic of 1907 (1907–1908)
+Panic of 1910–1911 (1910–1912)
+1913–14
+Interwar period(1918–1939)
+Post–World War I recession (1918–1919)
+Depression of 1920–1921
+1923–1924
+1926–1927
+Great Depression
+1929–1933; Australia
+Canada
+India
+New Zealand
+South Africa
+United Kingdom
+United States
+Recession of 1937–1938
+Post–WWII expansion(1945–1973)
+1945
+Recession of 1949 (1948–1949)
+Recession of 1953 (1953–1954)
+Recession of 1958 (1957–1958)
+Recession of 1960–1961
+Recession of 1969–1970
+Great Inflation(1973–1982)
+1973–1975 recession
+United Kingdom
+United States
+Early 1980s recession
+1980–1982; Canada
+United Kingdom
+United States
+Great Moderation/Great Regression(1982–2007)
+Early 1990s recession
+1990–1991; Australia
+Canada
+United Kingdom
+United States
+1997 Asian financial crisis
+Early 2000s recession (2001)
+Digital Revolution(2007–present)
+Great Recession
+2007–2009; Australia
+Bangladesh
+Canada
+India
+Malaysia
+New Zealand
+Pakistan
+South Africa
+Sri Lanka
+United Kingdom
+United States
+COVID-19 recession
+2020–present; Australia
+Bangladesh
+Belize
+Botswana
+Canada
+India
+Malaysia
+Namibia
+New Zealand
+Singapore
+United Kingdom
+United States
+Zambia
+List of recessions in the United Kingdom
+vteFinancial bubbles
+Bull market
+Commodity booms
+Credit cycle
+Diamond rush
+Gold rush
+Irrational exuberance
+Oil boom
+Real estate bubble
+Stock market bubble
+1000–1760
+Tulip mania (1634–1637)
+Mississippi bubble (1684–1720)
+Brazilian Gold Rush (c. 1690–1760)
+South Sea bubble (1711–1720)
+Bengal Bubble of 1769 (1757–1760)
+1760–1840
+Bengal Bubble of 1769 (1760–1769)
+Brazilian Gold Rush (1760–1840)
+Canal Mania (c. 1790–c. 1810)
+Carolina Gold Rush (1802–1825)
+1810s Alabama real estate bubble
+Georgia Gold Rush (1828–c. 1840)
+1830s Chicago real estate bubble
+Chilean silver rush (1830–1840)
+1840–1870
+Chilean silver rush (1840–1850)
+Railway Mania (c. 1840–c. 1850)
+Brazilian Gold Rush (1840–1870)
+California Gold Rush (1848–1855)
+Queen Charlottes Gold Rush (1851)
+Victorian gold rush (1851–c. 1870)
+New South Wales gold rush (1851–1880)
+Australian gold rushes (1851–1914)
+Fraser Canyon Gold Rush (1858)
+Pike's Peak Gold Rush (1858–1861)
+Rock Creek Gold Rush (1859)
+Pennsylvania oil rush (1859–1891)
+Similkameen Gold Rush (1860)
+Stikine Gold Rush (1861)
+Colorado River mining boom (1861–1864)
+Otago Gold Rush (1861–1864)
+Cariboo Gold Rush (1861–1867)
+First Nova Scotia Gold Rush (1861–1874)
+Wild Horse Creek Gold Rush (1864–1865)
+Leechtown Gold Rush (1864–1865)
+West Coast Gold Rush (1864–1867)
+Big Bend Gold Rush (c. 1865)
+Vermilion Lake Gold Rush (1865–1867)
+Kildonan Gold Rush (1869)
+Omineca Gold Rush (1869)
+1870–1914
+1870s Lapland gold rush
+Coromandel Gold Rushes (c. 1870–c. 1890)
+Cassiar Gold Rush (c. 1870–c. 1890)
+Brazilian Gold Rush (1870–c. 1900)
+Black Hills Gold Rush (1874–1880)
+Colorado Silver Boom (1879–1893)
+Western Australian gold rushes (c. 1880–c. 1900)
+Indiana gas boom (c. 1880–1903)
+Ohio oil rush (c. 1880–c. 1930)
+Tierra del Fuego gold rush (1883–1906)
+Cayoosh Gold Rush (1884)
+Witwatersrand Gold Rush (1886)
+Encilhamento (1886–1890)
+Cripple Creek Gold Rush (c. 1890–c. 1910)
+Klondike Gold Rush (1896–1899)
+Second Nova Scotia Gold Rush (1896–1903)
+Kobuk River Stampede (1897–1899)
+Mount Baker Gold Rush (1897–c. 1925)
+Nome Gold Rush (1899–1909)
+Fairbanks Gold Rush (c. 1900–1918)
+Texas oil boom (1901–1918)
+Cobalt silver rush (1903–1918)
+Porcupine Gold Rush (1909–1918)
+1918–1939
+1920s Florida land boom (c. 1920–1925)
+Fairbanks Gold Rush (1918–c. 1930)
+Texas oil boom (1918–1945)
+Cobalt silver rush (1918–c. 1930)
+Porcupine Gold Rush (1918–1945)
+1930s Kakamega gold rush
+Third Nova Scotia Gold Rush (1932–1942)
+1945–1973
+Texas oil boom (1945–c. 1950)
+Porcupine Gold Rush (1945–c. 1960)
+Poseidon bubble (1969–1970)
+1973–1982
+Mexican oil boom (1977–1981)
+Silver Thursday (1980)
+New Zealand property bubble (c. 1980–1982)
+1982–2007
+1980s oil glut
+New Zealand property bubble (1982–)
+Spanish property bubble (1985–2008)
+Japanese asset price bubble (1986–1990)
+Dot-com bubble (1995–2000)
+Baltic states housing bubble (2000–2006)
+Irish property bubble (c. 2000–2007)
+2000s commodities boom (2000–2008)
+2000s Danish property bubble (2001–2006)
+Indian property bubble (2001–2007)
+United States housing bubble (2002–2006)
+Romanian property bubble (2002–2007)
+Polish property bubble (2002–2008)
+Canadian property bubble (2002–)
+Chinese property bubble (2005–11)
+Lebanese housing bubble (2005–2008)
+Bulgarian property bubble (2006–2008)
+North Dakota oil boom (2006–2008)
+Chinese stock bubble of 2007
+Uranium bubble of 2007
+2007–present
+North Dakota oil boom (2008–2012)
+2000s commodities boom (2008–2014)
+Lebanese housing bubble (2008–)
+Corporate debt bubble (2008–)
+Australian property bubble (2010–)
+Cryptocurrency bubble (2011–)
+Everything bubble (2020–)
+
+AI winter
+Carbon bubble
+Chaotic bubble
+The Green Bubble
+Social media stock bubble
+Unicorn bubble
+U.S. higher education bubble
+
+vteFinancial crises
+Banking panic
+Commodity price shocks
+Credit crunch
+Credit cycle
+Currency crisis
+Debt crisis
+Energy crisis
+Flash crash
+Hyperinflation
+Liquidity crisis
+Minsky moment
+Stock market crash
+Pre-1000
+Crisis of the Third Century (235–284 CE)
+1000–1760
+Great Bullion Famine (c. 1400–c. 1500)
+The Great Debasement (1544–1551)
+Dutch Republic stock market crashes (c. 1600–1760)
+Kipper und Wipper (1621–1623)
+Tulip mania crash (1637)
+South Sea bubble crash (1720)
+Mississippi bubble crash (1720)
+1760–1840
+Amsterdam banking crisis of 1763
+Bengal bubble crash (1769–1784)
+Crisis of 1772
+Dutch Republic financial collapse (c. 1780–1795)
+Panic of 1785
+Copper Panic of 1789
+Panic of 1792
+Panic of 1796–1797
+Danish state bankruptcy of 1813
+Post-Napoleonic Irish grain price and land use shocks (1815–1816)
+Panic of 1819
+Panic of 1825
+Panic of 1837
+1840–1870
+European Potato Failure (1845–1856)
+Great Irish Famine
+Highland Potato Famine
+Panic of 1847
+Panic of 1857
+Panic of 1866
+Black Friday (1869)
+1870–1914
+Panic of 1873
+Paris Bourse crash of 1882
+Panic of 1884
+Arendal crash (1886)
+Baring crisis (1890)
+Encilhamento (1890–1893)
+Panic of 1893
+Australian banking crisis of 1893
+Black Monday (1894)
+Panic of 1896
+Panic of 1901
+Panic of 1907
+Shanghai rubber stock market crisis (1910)
+Panic of 1910–11
+1918–1939
+Early Soviet hyperinflation (1917–1924)
+Weimar Republic hyperinflation (1921–1923)
+Shōwa financial crisis (1927)
+Wall Street Crash of 1929
+Panic of 1930
+1973–1982
+1970s energy crisis (1973–1980)
+1973 oil crisis
+1973–1974 stock market crash
+Secondary banking crisis of 1973–1975
+Steel crisis (1973–1982)
+Latin American debt crisis (1975–1982)
+1976 British sterling crisis
+1979 oil crisis
+Brazilian hyperinflation (1980–1982)
+1982–2007
+Brazilian hyperinflation (1982–1994)
+Souk Al-Manakh stock market crash (1982)
+Chilean crisis of 1982
+1983 Israel bank stock crisis
+Black Saturday (1983)
+Savings and loan crisis (1986–1995)
+Black Monday (1987)
+1988–1992 Norwegian banking crisis
+Japanese asset price bubble crash (1990–1992)
+Rhode Island banking crisis (1990–1992)
+1991 Indian economic crisis
+1990s Swedish financial crisis (1991–1992)
+1990s Finnish banking crisis (1991–1993)
+1990s Armenian energy crisis (1991–1995)
+Cuban Special Period (1991–2000)
+Black Wednesday (1992)
+Yugoslav hyperinflation (1992–1994)
+1994 bond market crisis
+Venezuelan banking crisis of 1994
+Mexican peso crisis (1994–1996)
+1997 Asian financial crisis
+1998 Russian financial crisis
+1998–99 Ecuador financial crisis
+Samba effect (1999)
+Dot-com bubble crash (2000–2004)
+2001 Turkish economic crisis
+South American economic crisis of 2002
+2002 Uruguay banking crisis
+2003 Myanmar banking crisis
+2004 Argentine energy crisis
+2007 Chinese stock bubble crash
+Zimbabwean hyperinflation (2007–)
+2007–present
+Financial crisis of 2007–2008
+Subprime mortgage crisis
+U.S. bear market of 2007–2009
+Global financial crisis in September 2008
+Global financial crisis in October 2008
+Global financial crisis in November 2008
+Global financial crisis in December 2008
+2008 Latvian financial crisis
+2008–2009 Belgian financial crisis
+2008–09 Russian financial crisis
+2008–2009 Ukrainian financial crisis
+2008–2011 Icelandic financial crisis
+2008–2011 Irish banking crisis
+2008–2014 Spanish financial crisis
+Global financial crisis in 2009
+Blue Monday Crash 2009
+European debt crisis
+Greek government-debt crisis
+2009 Dubai debt standstill
+Venezuelan banking crisis of 2009–2010
+2010–2014 Portuguese financial crisis
+Energy crisis in Venezuela (2010–)
+August 2011 stock markets fall
+2011 Bangladesh share market scam
+2012–2013 Cypriot financial crisis
+2013 Chinese banking liquidity crisis
+Venezuela economic crisis (2013–)
+2014–2016 Brazilian economic crisis
+Puerto Rican government-debt crisis (2014–)
+2014–2017 Russian financial crisis
+2015–2016 Chinese stock market turbulence
+2015–2016 stock market selloff
+Brexit stock market crash (2016)
+Venezuelan hyperinflation (2016–)
+2017 Sri Lankan fuel crisis
+Ghana banking crisis (2017–2018)
+2018–2021 Turkish currency and debt crisis (2018–)
+Lebanese liquidity crisis (2019–)
+COVID-19 pandemic (2019–)
+Evergrande liquidity crisis (2021–)
+
+List of banking crises
+List of economic crises
+List of sovereign debt crises
+List of stock market crashes and bear markets
+
+Authority control General
+Integrated Authority File (Germany)
+Other
+Microsoft Academic
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Digital_Revolution&oldid=1059229679"
+		Categories: Digital RevolutionHistorical erasRevolutions by typeInformation AgeHidden categories: CS1 Dutch-language sources (nl)CS1 maint: archived copy as titleCS1 errors: missing periodicalArticles with short descriptionShort description is different from WikidataUse dmy dates from May 2018Articles needing additional references from April 2020All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from March 2021Articles with unsourced statements from January 2010Articles with unsourced statements from June 2021Articles with GND identifiersArticles with MA identifiers
+	

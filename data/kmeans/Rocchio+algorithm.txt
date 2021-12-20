@@ -1,0 +1,760 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		The Rocchio algorithm is based on a method of relevance feedback found in information retrieval systems which stemmed from the SMART Information Retrieval System which was developed 1960-1964. Like many other retrieval systems, the Rocchio feedback approach was developed using the Vector Space Model.  The algorithm is based on the assumption that most users have a general conception of which documents should be denoted as  relevant or non-relevant.[1]  Therefore, the user's search query is revised to include an arbitrary percentage of  relevant and non-relevant documents as a means of increasing the search engine's recall, and possibly the precision as well.  The number of  relevant and non-relevant documents allowed to enter a query is dictated by the weights of the a, b, c variables listed below in the Algorithm section.[1]
+
+Contents
+
+1 Algorithm
+2 Time complexity
+3 Usage
+4 Limitations
+5 See also
+6 References
+
+
+
+Algorithm[edit]
+The formula and variable definitions for Rocchio relevance feedback are as follows:[1]
+
+  
+    
+      
+        
+          
+            
+              Q
+              
+                m
+              
+            
+            →
+          
+        
+        =
+        
+          
+            (
+          
+        
+        a
+        ⋅
+        
+          
+            
+              Q
+              
+                o
+              
+            
+            →
+          
+        
+        
+          
+            )
+          
+        
+        +
+        
+          
+            (
+          
+        
+        b
+        ⋅
+        
+          
+            
+              1
+              
+                
+                  |
+                
+                
+                  D
+                  
+                    r
+                  
+                
+                
+                  |
+                
+              
+            
+          
+        
+        ⋅
+        
+          ∑
+          
+            
+              
+                
+                  D
+                  
+                    j
+                  
+                
+                →
+              
+            
+            ∈
+            
+              D
+              
+                r
+              
+            
+          
+        
+        
+          
+            
+              D
+              
+                j
+              
+            
+            →
+          
+        
+        
+          
+            )
+          
+        
+        −
+        
+          
+            (
+          
+        
+        c
+        ⋅
+        
+          
+            
+              1
+              
+                
+                  |
+                
+                
+                  D
+                  
+                    n
+                    r
+                  
+                
+                
+                  |
+                
+              
+            
+          
+        
+        ⋅
+        
+          ∑
+          
+            
+              
+                
+                  D
+                  
+                    k
+                  
+                
+                →
+              
+            
+            ∈
+            
+              D
+              
+                n
+                r
+              
+            
+          
+        
+        
+          
+            
+              D
+              
+                k
+              
+            
+            →
+          
+        
+        
+          
+            )
+          
+        
+      
+    
+    {\displaystyle {\overrightarrow {Q_{m}}}={\bigl (}a\cdot {\overrightarrow {Q_{o}}}{\bigr )}+{\biggl (}b\cdot {\tfrac {1}{|D_{r}|}}\cdot \sum _{{\overrightarrow {D_{j}}}\in D_{r}}{\overrightarrow {D_{j}}}{\biggr )}-{\biggl (}c\cdot {\tfrac {1}{|D_{nr}|}}\cdot \sum _{{\overrightarrow {D_{k}}}\in D_{nr}}{\overrightarrow {D_{k}}}{\biggr )}}
+  
+
+
+
+
+
+Variable
+
+Value
+
+
+
+  
+    
+      
+        
+          
+            
+              Q
+              
+                m
+              
+            
+            →
+          
+        
+      
+    
+    {\displaystyle {\overrightarrow {Q_{m}}}}
+  
+
+
+Modified Query Vector
+
+
+
+  
+    
+      
+        
+          
+            
+              Q
+              
+                o
+              
+            
+            →
+          
+        
+      
+    
+    {\displaystyle {\overrightarrow {Q_{o}}}}
+  
+
+
+Original Query Vector
+
+
+
+  
+    
+      
+        
+          
+            
+              D
+              
+                j
+              
+            
+            →
+          
+        
+      
+    
+    {\displaystyle {\overrightarrow {D_{j}}}}
+  
+
+
+Related Document Vector
+
+
+
+  
+    
+      
+        
+          
+            
+              D
+              
+                k
+              
+            
+            →
+          
+        
+      
+    
+    {\displaystyle {\overrightarrow {D_{k}}}}
+  
+
+
+Non-Related Document Vector
+
+
+
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+
+
+Original Query Weight
+
+
+
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+
+
+Related Documents Weight
+
+
+
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+
+
+Non-Related Documents Weight
+
+
+
+  
+    
+      
+        
+          D
+          
+            r
+          
+        
+      
+    
+    {\displaystyle D_{r}}
+  
+
+
+Set of Related Documents
+
+
+
+  
+    
+      
+        
+          D
+          
+            n
+            r
+          
+        
+      
+    
+    {\displaystyle D_{nr}}
+  
+
+
+Set of Non-Related Documents
+
+As demonstrated in the formula, the associated weights (a, b, c) are responsible for shaping the modified vector in a direction closer, or farther away, from the original query, related documents, and non-related documents.  In particular, the values for b and c should be incremented or decremented proportionally to the set of documents classified by the user.  If the user decides that the modified query should not contain terms from either the original query, related documents, or non-related documents, then the corresponding weight (a, b, c) value for the category should be set to 0.
+In the later part of the algorithm, the variables 
+  
+    
+      
+        
+          D
+          
+            r
+          
+        
+      
+    
+    {\displaystyle D_{r}}
+  
+, and 
+  
+    
+      
+        
+          D
+          
+            n
+            r
+          
+        
+      
+    
+    {\displaystyle D_{nr}}
+  
+ are presented to be sets of vectors containing the coordinates of related documents and non-related documents.  Though 
+  
+    
+      
+        
+          D
+          
+            r
+          
+        
+      
+    
+    {\displaystyle D_{r}}
+  
+ and 
+  
+    
+      
+        
+          D
+          
+            n
+            r
+          
+        
+      
+    
+    {\displaystyle D_{nr}}
+  
+ are not  vectors themselves, 
+  
+    
+      
+        
+          
+            
+              D
+              j
+            
+            →
+          
+        
+      
+    
+    {\displaystyle {\overrightarrow {Dj}}}
+  
+ and 
+  
+    
+      
+        
+          
+            
+              D
+              k
+            
+            →
+          
+        
+      
+    
+    {\displaystyle {\overrightarrow {Dk}}}
+  
+ are the vectors used to iterate through the two sets and form vector summations. These sums are normalized (divided) by the size of their respective document set (
+  
+    
+      
+        
+          D
+          
+            r
+          
+        
+      
+    
+    {\displaystyle D_{r}}
+  
+, 
+  
+    
+      
+        
+          D
+          
+            n
+            r
+          
+        
+      
+    
+    {\displaystyle D_{nr}}
+  
+).
+In order to visualize the changes taking place on the modified vector, please refer to the image below.[1] As the weights are increased or decreased for a particular category of documents, the coordinates for the modified vector begin to move either closer, or farther away, from the centroid of the document collection. Thus if the weight is increased for related documents, then the modified vectors coordinates will reflect being closer to the centroid of related documents.
+
+Time complexity[edit]
+
+
+
+Variable
+
+Value
+
+
+
+  
+    
+      
+        
+          D
+        
+      
+    
+    {\displaystyle \mathbb {D} }
+  
+
+
+Labeled Document Set
+
+
+
+  
+    
+      
+        
+          L
+          
+            a
+            v
+            e
+          
+        
+      
+    
+    {\displaystyle L_{ave}}
+  
+
+
+Average Tokens Per Document
+
+
+
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  
+
+
+Class Set
+
+
+
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  
+
+
+Vocabulary/Term Set
+
+
+
+  
+    
+      
+        
+          L
+          
+            a
+          
+        
+      
+    
+    {\displaystyle L_{a}}
+  
+
+
+Number of Tokens in Document
+
+
+
+  
+    
+      
+        
+          M
+          
+            a
+          
+        
+      
+    
+    {\displaystyle M_{a}}
+  
+
+
+Number of Types in Document
+
+The time complexity for training and testing the algorithm are listed below and followed by the definition of each variable. Note that when in testing phase, the time complexity can be reduced to that of calculating the euclidean distance between a class centroid and the respective document.  As shown by: 
+  
+    
+      
+        Θ
+        (
+        |
+        
+          C
+        
+        |
+        
+          M
+          
+            a
+          
+        
+        )
+      
+    
+    {\displaystyle \Theta (\vert \mathbb {C} \vert M_{a})}
+  
+.
+Training = 
+  
+    
+      
+        Θ
+        (
+        |
+        
+          D
+        
+        |
+        
+          L
+          
+            a
+            v
+            e
+          
+        
+        +
+        |
+        
+          C
+        
+        |
+        |
+        V
+        |
+        )
+      
+    
+    {\displaystyle \Theta (\vert \mathbb {D} \vert L_{ave}+\vert \mathbb {C} \vert \vert V\vert )}
+  
+ 
+Testing = 
+  
+    
+      
+        Θ
+        (
+        
+          L
+          
+            a
+          
+        
+        +
+        |
+        
+          C
+        
+        |
+        
+          M
+          
+            a
+          
+        
+        )
+        =
+        Θ
+        (
+        |
+        
+          C
+        
+        |
+        
+          M
+          
+            a
+          
+        
+        )
+      
+    
+    {\displaystyle \Theta (L_{a}+\vert \mathbb {C} \vert M_{a})=\Theta (\vert \mathbb {C} \vert M_{a})}
+  
+ [1]
+
+Usage[edit]
+  Rocchio Classification
+Though there are benefits to ranking documents as not-relevant, a relevant document ranking will result in more precise documents being made available to the user. Therefore, traditional values for the algorithm's weights (a, b, c) in Rocchio Classification are typically around a = 1, b = 0.8, and  c = 0.1. Modern information retrieval systems have moved towards eliminating the non-related documents by setting c = 0 and thus only accounting for related documents. Although not all retrieval systems have eliminated the need for non-related documents, most have limited the effects on modified query by only accounting for strongest non-related documents in the Dnr set.
+
+Limitations[edit]
+The Rocchio algorithm often fails to classify multimodal classes and relationships. For instance, the country of Burma was renamed to Myanmar in 1989. Therefore, the two queries of "Burma" and "Myanmar" will appear much farther apart in the vector space model, though they both contain similar origins.[1]
+
+See also[edit]
+Nearest centroid classifier, aka Rocchio classifier
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ a b c d e f Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze: An Introduction to Information Retrieval, page 163-167. Cambridge University Press, 2009.
+
+
+Relevance Feedback in Information Retrieval
+Relevance Feedback and Query Expansion
+Vector Space Classification
+Data Classification
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Rocchio_algorithm&oldid=984706591"
+		Categories: Search algorithmsHidden categories: Pages that use a deprecated format of the math tags
+	

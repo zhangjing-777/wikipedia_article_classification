@@ -1,0 +1,5456 @@
+
+		From Wikipedia, the free encyclopedia
+		  (Redirected from Mathematical symbol)
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Meanings of symbols used in Mathematics
+It has been suggested that List of mathematical symbols by subject be merged into this article. (Discuss) Proposed since January 2021.
+A mathematical symbol is a figure or a combination of figures that is used to represent a mathematical object, an action on mathematical objects, a relation between mathematical objects, or for structuring the other symbols that occur in a formula. As formulas are entirely constituted with symbols of various types, many symbols are needed for expressing all mathematics.
+The most basic symbols are the decimal digits (0, 1, 2, 3, 4, 5, 6, 7, 8, 9), and the letters of the Latin alphabet. The decimal digits are used for representing numbers through the Hindu–Arabic numeral system. Historically, upper-case letters were used for representing points in geometry, and lower-case letters were used for variables and constants. Letters are used for representing many other sort of mathematical objects. As the number of these sorts has dramatically increased in modern mathematics, the Greek alphabet and some Hebrew letters are also used. In mathematical formulas, the standard typeface is italic type for Latin letters and lower-case Greek letters, and upright type for upper case Greek letters. For having more symbols, other typefaces are also used, mainly boldface 
+  
+    
+      
+        
+          a
+          ,
+          A
+          ,
+          b
+          ,
+          B
+        
+        ,
+        …
+      
+    
+    {\displaystyle \mathbf {a,A,b,B} ,\ldots }
+  
+, script typeface 
+  
+    
+      
+        
+          
+            A
+            ,
+            B
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle {\mathcal {A,B}},\ldots }
+  
+ (the lower-case script face is rarely used because of the possible confusion with the standard face), German fraktur 
+  
+    
+      
+        
+          
+            a
+            ,
+            A
+            ,
+            b
+            ,
+            B
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle {\mathfrak {a,A,b,B}},\ldots }
+  
+, and blackboard bold 
+  
+    
+      
+        
+          
+            N
+            ,
+            Z
+            ,
+            Q
+            ,
+            R
+            ,
+            C
+            ,
+            H
+            ,
+            F
+          
+          
+            q
+          
+        
+      
+    
+    {\displaystyle \mathbb {N,Z,Q,R,C,H,F} _{q}}
+  
+ (the other letters are rarely used in this face, or their use is unconventional).
+The use of Latin and Greek letters as symbols for denoting mathematical objects is not described in this article. For such uses, see Variable (mathematics) and List of mathematical constants. However, some symbols that are described here have the same shape as the letter from which they are derived, such as 
+  
+    
+      
+        
+          ∏
+          
+
+          
+        
+      
+    
+    {\displaystyle \textstyle \prod {}}
+  
+ and 
+  
+    
+      
+        
+          ∑
+          
+
+          
+        
+      
+    
+    {\displaystyle \textstyle \sum {}}
+  
+.
+Theses letters alone are not sufficient for the needs of mathematicians, and many other symbols are used. Some take their origin in punctuation marks and diacritics traditionally used in typography; others by deforming letter forms, as in the cases of 
+  
+    
+      
+        ∈
+      
+    
+    {\displaystyle \in }
+  
+ and 
+  
+    
+      
+        ∀
+      
+    
+    {\displaystyle \forall }
+  
+. Others, such as + and =, were specially designed for mathematics.
+
+Contents
+
+1 Layout
+2 Arithmetic operators
+3 Equality, equivalence and similarity
+4 Comparison
+5 Set theory
+6 Basic logic
+7 Blackboard bold
+8 Calculus
+9 Linear and multilinear algebra
+10 Advanced group theory
+11 Infinite numbers
+12 Brackets
+
+12.1 Parentheses
+12.2 Square brackets
+12.3 Braces
+12.4 Other brackets
+
+
+13 Symbols that do not belong to formulas
+14 Miscellaneous
+15 See also
+16 References
+17 External links
+
+
+
+Layout[edit]
+Normally, entries of a glossary are structured by topics and sorted alphabetically. This is not possible here, as there is no natural order on symbols, and many symbols are used in different parts of mathematics with different meanings, often completely unrelated. Therefore, some arbitrary choices had to be made, which are summarized below.
+The article is split into sections that are sorted by an increasing level of technicality. That is, the first sections contain the symbols that are encountered in most mathematical texts, and that are supposed to be known even by beginners. On the other hand, the last sections contain symbols that are specific to some area of mathematics and are ignored outside these areas. However, the long section on brackets has been placed near to the end, although most of its entries are elementary: this makes it easier to search for a symbol entry by scrolling.
+Most symbols have multiple meanings that are generally distinguished either by the area of mathematics where they are used or by their syntax, that is, by their position inside a formula and the nature of the other parts of the formula that are close to them.
+As readers may not be aware of the area of mathematics to which is related the symbol that they are looking for, the different meanings of a symbol are grouped in the section corresponding to their most common meaning.
+When the meaning depends on the syntax, a symbol may have different entries depending on the syntax. For summarizing the syntax in the entry name, the symbol 
+  
+    
+      
+        ◻
+      
+    
+    {\displaystyle \Box }
+  
+ is used for representing the neighboring parts of a formula that contains the symbol. See § Brackets for examples of use.
+Most symbols have two printed versions. They can be displayed as Unicode characters, or in LaTeX format. With the Unicode version, using search engines and copy-pasting are easier. On the other hand, the LaTeX rendering is often much better (more aesthetic), and is generally considered a standard in mathematics. Therefore, in this article, the Unicode version of the symbols is used (when possible) for labelling their entry, and the LaTeX version is used in their description. So, for finding how to type a symbol in LaTeX, it suffices to look at the source of the article.
+For most symbols, the entry name is the corresponding Unicode symbol. So, for searching the entry of a symbol, it suffices to type or copy the Unicode symbol into the search textbox. Similarly, when possible, the entry name of a symbol is also an anchor, which allows linking easily from another Wikipedia article. When an entry name contains special characters such as [, ], and |, there is also an anchor, but one has to look at the article source to know it.
+Finally, when there is an article on the symbol itself (not its mathematical meaning), it is linked to in the entry name.
+
+Arithmetic operators[edit]
+
++
+1.  Denotes addition and is read as plus; for example, 3 + 2.
+2.  Sometimes used instead of 
+  
+    
+      
+        ⊔
+      
+    
+    {\displaystyle \sqcup }
+  
+ for a disjoint union of sets.
+
+–
+1.  Denotes subtraction and is read as minus; for example, 3 – 2.
+2.  Denotes the additive inverse and is read as negative or the opposite of; for example, –2.
+3.  Also used in place of \ for denoting the set-theoretic complement; see \ in § Set theory.
+
+×
+1.  In elementary arithmetic, denotes multiplication, and is read as times; for example, 3 × 2.
+2.  In geometry and linear algebra, denotes the cross product.
+3.  In set theory and category theory, denotes the Cartesian product and the direct product. See also × in § Set theory.
+
+·
+1.  Denotes multiplication and is read as times; for example, 3 ⋅ 2.
+2.  In geometry and linear algebra, denotes the dot product.
+3.  Placeholder used for replacing an indeterminate element. For example, "the absolute value is denoted | · |" is clearer than saying that it is denoted as | |.
+
+±
+1.  Denotes either a plus sign or a minus sign.
+2.  Denotes the range of values that a measured quantity may have; for example, 10 ± 2 denotes an unknown value that lies between 8 and 12.
+
+∓
+Used paired with ±, denotes the opposite sign; that is, + if ± is –, and – if ± is +.
+
+÷
+Widely used for denoting division in anglophone countries, it is no longer in common use in mathematics and its use is "not recommended".[1] In some countries, it can indicate subtraction.
+
+:
+1.  Denotes the ratio of two quantities.
+2.  In some countries, may denote division.
+3.  In set-builder notation, it is used as a separator meaning "such that"; see {□ : □}.
+
+/
+1.  Denotes division and is read as divided by or over. Often replaced by a horizontal bar. For example, 3 / 2 or 
+  
+    
+      
+        
+          
+            3
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {3}{2}}}
+  
+.
+2.  Denotes a quotient structure. For example, quotient set, quotient group, quotient category, etc.
+3.  In number theory and field theory, 
+  
+    
+      
+        F
+        
+          /
+        
+        E
+      
+    
+    {\displaystyle F/E}
+  
+ denotes a field extension, where F is an extension field of the field E.
+4.  In probability theory, denotes a conditional probability. For example, 
+  
+    
+      
+        P
+        (
+        A
+        
+          /
+        
+        B
+        )
+      
+    
+    {\displaystyle P(A/B)}
+  
+ denotes the probability of A, given that B occurs. Also denoted 
+  
+    
+      
+        P
+        (
+        A
+        ∣
+        B
+        )
+      
+    
+    {\displaystyle P(A\mid B)}
+  
+: see "|".
+
+√
+Denotes square root and is read as the square root of. Rarely used in modern mathematics without an horizontal bar delimiting the width of its argument (see the next item). For example, √2.
+
+√  
+1.  Denotes square root and is read as the square root of. For example, 
+  
+    
+      
+        
+          
+            3
+            +
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {3+2}}}
+  
+.
+2.  With an integer greater than 2 as a left superscript, denotes an nth root. For example, 
+  
+    
+      
+        
+          
+            3
+            
+              7
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{7}]{3}}}
+  
+.
+
+^
+1.  Exponentiation is normally denoted with a superscript. However, 
+  
+    
+      
+        
+          x
+          
+            y
+          
+        
+      
+    
+    {\displaystyle x^{y}}
+  
+ is often denoted x^y when superscripts are not easily available, such as in programming languages (including LaTeX) or plain text emails.
+2.  Not to be confused with ∧.
+
+Equality, equivalence and similarity[edit]
+
+=
+1.  Denotes equality.
+2.  Used for naming a mathematical object in a sentence like "let 
+  
+    
+      
+        x
+        =
+        E
+      
+    
+    {\displaystyle x=E}
+  
+", where E is an expression. On a blackboard and in some mathematical texts, this may be abbreviated as 
+  
+    
+      
+        x
+        
+        
+          
+            
+              
+                =
+              
+              
+                
+                  d
+                  e
+                  f
+                
+              
+            
+          
+        
+        
+        E
+      
+    
+    {\displaystyle x\,{\stackrel {\mathrm {def} }{=}}\,E}
+  
+. This is related to the concept of assignment in computer science, which is variously denoted (depending on the used programming language) 
+  
+    
+      
+        =
+        ,
+        :=
+        ,
+        ==
+        ,
+        ←
+        ,
+        …
+      
+    
+    {\displaystyle =,:=,==,\leftarrow ,\ldots }
+  
+
+
+≠
+Denotes inequality and means "not equal".
+
+≈
+Means "is approximately equal to". For example, 
+  
+    
+      
+        π
+        ≈
+        
+          
+            22
+            7
+          
+        
+      
+    
+    {\displaystyle \pi \approx {\frac {22}{7}}}
+  
+ (for a more accurate approximation, see pi).
+
+~
+1.  Between two numbers, either it is used instead of ≈ to mean "approximatively equal", or it means "has the same order of magnitude as".
+2.  Denotes the asymptotic equivalence of two functions or sequences.
+3.  Often used for denoting other types of similarity, for example, matrix similarity or similarity of geometric shapes.
+4.  Standard notation for an equivalence relation.
+5.  In probability and statistics, may specify the probability distribution of a random variable. For example, 
+  
+    
+      
+        X
+        ∼
+        N
+        (
+        0
+        ,
+        1
+        )
+      
+    
+    {\displaystyle X\sim N(0,1)}
+  
+ means that the distribution of the random variable X is  standard normal.[2]
+6.  Notation for showing proportionality. See also ∝ for a less ambiguous symbol.
+
+≡
+1.  Denotes an identity, that is, an equality that is true whichever values are given to the variables occurring in it.
+2.  In number theory, and more specifically in modular arithmetic, denotes the congruence modulo an integer.
+
+
+  
+    
+      
+        ≅
+      
+    
+    {\displaystyle \cong }
+  
+
+1.  May denote an isomorphism between two mathematical structures, and is read as "is isomorphic to".
+2.  In geometry, may denote the congruence of two geometric shapes (that is the equality up to a displacement), and is read "is congruent to".
+
+Comparison[edit]
+
+<
+1.  Strict inequality between two numbers; means and is read as "less than".
+2.  Commonly used for denoting any strict order.
+3.  Between two groups, may mean that the first one is a proper subgroup of the second one.
+
+>
+1.  Strict inequality between two numbers; means and is read as "greater than".
+2.  Commonly used for denoting any strict order.
+3.  Between two groups, may mean that the second one is a proper subgroup of the first one.
+
+≤
+1.  Means "less than or equal to". That is, whatever A and B are, A ≤ B is equivalent to A < B or A = B.
+2.  Between two groups, may mean that the first one is a subgroup of the second one.
+
+≥
+1.  Means "greater than or equal to". That is, whatever A and B are, A ≥ B is equivalent to A > B or A = B.
+2.  Between two groups, may mean that the second one is a subgroup of the first one.
+
+≪ , ≫
+1.  Mean "much less than" and "much greater than". Generally, much is not formally defined, but means that the lesser quantity can be neglected with respect to the other. This is generally the case when the lesser quantity is smaller than the other by one or several orders of magnitude.
+2.  In measure theory, 
+  
+    
+      
+        μ
+        ≪
+        ν
+      
+    
+    {\displaystyle \mu \ll \nu }
+  
+ means that the measure 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  
+ is absolutely continuous with respect to the measure 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  
+.
+
+≦
+1.  A rarely used synonym of ≤. Despite the easy confusion with ≤, some authors use it with a different meaning.
+
+≺ , ≻
+Often used for denoting an order or, more generally, a preorder, when it would be confusing or not convenient to use < and >.
+
+Set theory[edit]
+
+∅
+Denotes the empty set, and is more often written 
+  
+    
+      
+        ∅
+      
+    
+    {\displaystyle \emptyset }
+  
+. Using set-builder notation, it may also be denoted { }.
+
+#
+1.  Number of elements: 
+  
+    
+      
+        #
+        S
+      
+    
+    {\displaystyle \#S}
+  
+ may denote the cardinality of the set S. An alternative notation is 
+  
+    
+      
+        
+          |
+        
+        S
+        
+          |
+        
+      
+    
+    {\displaystyle |S|}
+  
+; see |□|.
+2.  Primorial: 
+  
+    
+      
+        n
+        #
+      
+    
+    {\displaystyle n\#}
+  
+ denotes the product of the prime numbers that are not greater than n.
+3.  In topology, 
+  
+    
+      
+        M
+        #
+        N
+      
+    
+    {\displaystyle M\#N}
+  
+ denotes the connected sum of two manifolds or two knots.
+
+∈
+Denotes set membership, and is read "in" or "belongs to". That is, 
+  
+    
+      
+        x
+        ∈
+        S
+      
+    
+    {\displaystyle x\in S}
+  
+ means that x is an element of the set S.
+
+∉
+Means "not in". That is, 
+  
+    
+      
+        x
+        ∉
+        S
+      
+    
+    {\displaystyle x\notin S}
+  
+ means 
+  
+    
+      
+        ¬
+        (
+        x
+        ∈
+        S
+        )
+      
+    
+    {\displaystyle \neg (x\in S)}
+  
+.
+
+⊂
+Denotes set inclusion. However two slightly different definitions are common. It seems that the first one is more commonly used in recent texts, since it allows often avoiding case distinctions.
+1.  
+  
+    
+      
+        A
+        ⊂
+        B
+      
+    
+    {\displaystyle A\subset B}
+  
+ may mean that A is a subset of B, and is possibly equal to B; that is, every element of A belongs to B; in formula, 
+  
+    
+      
+        ∀
+        x
+        ,
+        
+        x
+        ∈
+        A
+        ⇒
+        x
+        ∈
+        B
+      
+    
+    {\displaystyle \forall x,\,x\in A\Rightarrow x\in B}
+  
+.
+2.  
+  
+    
+      
+        A
+        ⊂
+        B
+      
+    
+    {\displaystyle A\subset B}
+  
+ may mean that A is a proper subset of B, that is the two sets are different, and every element of A belongs to B; in formula, 
+  
+    
+      
+        A
+        ≠
+        B
+        ∧
+        ∀
+        x
+        ,
+        
+        x
+        ∈
+        A
+        ⇒
+        x
+        ∈
+        B
+      
+    
+    {\displaystyle A\neq B\land \forall x,\,x\in A\Rightarrow x\in B}
+  
+.
+
+⊆
+
+  
+    
+      
+        A
+        ⊆
+        B
+      
+    
+    {\displaystyle A\subseteq B}
+  
+ means that A is a subset of B. Used for emphasizing that equality is possible, or when the second definition is used for 
+  
+    
+      
+        A
+        ⊂
+        B
+      
+    
+    {\displaystyle A\subset B}
+  
+.
+
+⊊
+
+  
+    
+      
+        A
+        ⊊
+        B
+      
+    
+    {\displaystyle A\subsetneq B}
+  
+ means that A is a proper subset of B. Used for emphasizing that 
+  
+    
+      
+        A
+        ≠
+        B
+      
+    
+    {\displaystyle A\neq B}
+  
+, or when the first definition is used for 
+  
+    
+      
+        A
+        ⊂
+        B
+      
+    
+    {\displaystyle A\subset B}
+  
+.
+
+⊃ , ⊇ , ⊋
+The same as the preceding ones with the operands reversed. For example, 
+  
+    
+      
+        B
+        ⊃
+        A
+      
+    
+    {\displaystyle B\supset A}
+  
+ is equivalent to 
+  
+    
+      
+        A
+        ⊂
+        B
+      
+    
+    {\displaystyle A\subset B}
+  
+.
+
+∪
+Denotes set-theoretic union, that is, 
+  
+    
+      
+        A
+        ∪
+        B
+      
+    
+    {\displaystyle A\cup B}
+  
+ is the set formed by the elements of A and B together. That is, 
+  
+    
+      
+        A
+        ∪
+        B
+        =
+        {
+        x
+        ∣
+        (
+        x
+        ∈
+        A
+        )
+        ∨
+        (
+        x
+        ∈
+        B
+        )
+        }
+      
+    
+    {\displaystyle A\cup B=\{x\mid (x\in A)\lor (x\in B)\}}
+  
+.
+
+∩
+Denotes set-theoretic intersection, that is, 
+  
+    
+      
+        A
+        ∩
+        B
+      
+    
+    {\displaystyle A\cap B}
+  
+ is the set formed by the elements of both A and B. That is, 
+  
+    
+      
+        A
+        ∩
+        B
+        =
+        {
+        x
+        ∣
+        (
+        x
+        ∈
+        A
+        )
+        ∧
+        (
+        x
+        ∈
+        B
+        )
+        }
+      
+    
+    {\displaystyle A\cap B=\{x\mid (x\in A)\land (x\in B)\}}
+  
+.
+
+\
+Set difference; that is, 
+  
+    
+      
+        A
+        ∖
+        B
+      
+    
+    {\displaystyle A\setminus B}
+  
+ is the set formed by the elements of A that are not in B. Sometimes, 
+  
+    
+      
+        A
+        −
+        B
+      
+    
+    {\displaystyle A-B}
+  
+ is used instead; see – in § Arithmetic operators.
+
+⊖
+Symmetric difference: that is, 
+  
+    
+      
+        A
+        ⊖
+        B
+      
+    
+    {\displaystyle A\ominus B}
+  
+ is the set formed by the elements that belong to exactly one of the two sets A and B. Notation 
+  
+    
+      
+        A
+        
+          Δ
+        
+        ⁡
+        B
+      
+    
+    {\displaystyle A\operatorname {\Delta } B}
+  
+ is also used; see Δ.
+
+∁
+1.  With a subscript, denotes a set complement: that is, if 
+  
+    
+      
+        B
+        ⊆
+        A
+      
+    
+    {\displaystyle B\subseteq A}
+  
+, then 
+  
+    
+      
+        
+          ∁
+          
+            A
+          
+        
+        B
+        =
+        A
+        ∖
+        B
+      
+    
+    {\displaystyle \complement _{A}B=A\setminus B}
+  
+.
+2.  Without a subscript, denotes the absolute complement; that is, 
+  
+    
+      
+        ∁
+        A
+        =
+        
+          ∁
+          
+            U
+          
+        
+        A
+      
+    
+    {\displaystyle \complement A=\complement _{U}A}
+  
+, where U is a set implicitly defined by the context, which contains all sets under consideration. This set U is sometimes called the universe of discourse. 
+
+×
+See also × in § Arithmetic operators.
+1.  Denotes the Cartesian product of two sets. That is, 
+  
+    
+      
+        A
+        ×
+        B
+      
+    
+    {\displaystyle A\times B}
+  
+ is the set formed by all pairs of an element of A and an element of B.
+2.  Denotes the direct product of two mathematical structures of the same type, which is the Cartesian product of the underlying sets, equipped with a structure of the same type. For example, direct product of rings, direct product of topological spaces.
+3.  In category theory, denotes the direct product (often called simply product) of two objects, which is a generalization of the preceding concepts of product.
+
+⊔
+Denotes the disjoint union. That is, if A and B are two sets, 
+  
+    
+      
+        A
+        ⊔
+        B
+        =
+        A
+        ∪
+        C
+      
+    
+    {\displaystyle A\sqcup B=A\cup C}
+  
+, where C is a set formed by the elements of B renamed to not belong to A.
+
+
+  
+    
+      
+        ∐
+      
+    
+    {\textstyle \coprod }
+  
+
+1.  An alternative to 
+  
+    
+      
+        ⊔
+      
+    
+    {\displaystyle \sqcup }
+  
+ for denoting disjoint union.
+2.  Denotes the coproduct of mathematical structures or of objects in a category.
+
+
+Basic logic[edit]
+Several logical symbols are widely used in all mathematics, and are listed here. For symbols that are used only in mathematical logic, or are rarely used, see List of logic symbols.
+
+
+¬
+Denotes logical negation, and is read as "not". If E is a logical predicate, 
+  
+    
+      
+        ¬
+        E
+      
+    
+    {\displaystyle \neg E}
+  
+ is the predicate that evaluates to true if and only if E evaluates to false. For clarity, it is often replaced by the word "not". In programming languages and some mathematical texts, it is sometimes replaced by "~" or "!", which are easier to type on some keyboards.
+
+∨
+1.  Denotes the logical or, and is read as "or". If E and F are logical predicates, 
+  
+    
+      
+        E
+        ∨
+        F
+      
+    
+    {\displaystyle E\lor F}
+  
+ is true if either E, F, or both are true. It is often replaced by the word "or".
+2.  In lattice theory, denotes the join or least upper bound operation. 
+3.  In topology, denotes the wedge sum of two pointed spaces.
+
+∧
+1.  Denotes the logical and, and is read as "and". If E and F are logical predicates, 
+  
+    
+      
+        E
+        ∧
+        F
+      
+    
+    {\displaystyle E\land F}
+  
+ is true if E and F are both true. It is often replaced by the word "and" or the symbol "&".
+2.  In lattice theory, denotes the meet or greatest lower bound operation. 
+3.  In multilinear algebra, geometry, and multivariable calculus, denotes the wedge product or the exterior product.
+
+⊻
+Exclusive or: if E and F are two Boolean variables or predicates, 
+  
+    
+      
+        E
+        ⊻
+        F
+      
+    
+    {\displaystyle E\veebar F}
+  
+ denotes the exclusive or. Notations E XOR F and 
+  
+    
+      
+        E
+        ⊕
+        F
+      
+    
+    {\displaystyle E\oplus F}
+  
+ are also commonly used; see ⊕.
+
+∀
+1.  Denotes universal quantification and is read as "for all". If E is a logical predicate, 
+  
+    
+      
+        ∀
+        x
+        E
+      
+    
+    {\displaystyle \forall xE}
+  
+ means that E is true for all possible values of the variable x.
+2.  Often used improperly[3] in plain text as an abbreviation of "for all" or "for every".
+
+∃
+1.  Denotes existential quantification and is read "there exists ... such that". If E is a logical predicate, 
+  
+    
+      
+        ∃
+        x
+        E
+      
+    
+    {\displaystyle \exists xE}
+  
+ means that there exists at least one value of x for which E is true.
+2.  Often used improperly[3] in plain text as an abbreviation of "there exists".
+
+∃!
+Denotes uniqueness quantification, that is, 
+  
+    
+      
+        ∃
+        !
+        x
+        P
+      
+    
+    {\displaystyle \exists !xP}
+  
+ means "there exists exactly one x such that P (is true)". In other words,
+
+  
+    
+      
+        ∃
+        !
+        x
+        P
+        (
+        x
+        )
+      
+    
+    {\displaystyle \exists !xP(x)}
+  
+ is an abbreviation of 
+  
+    
+      
+        ∃
+        x
+        
+        (
+        P
+        (
+        x
+        )
+        
+        ∧
+        ¬
+        ∃
+        y
+        
+        (
+        P
+        (
+        y
+        )
+        ∧
+        y
+        ≠
+        x
+        )
+        )
+      
+    
+    {\displaystyle \exists x\,(P(x)\,\wedge \neg \exists y\,(P(y)\wedge y\neq x))}
+  
+.
+
+⇒
+1.  Denotes material conditional, and is read as "implies". If P and Q are logical predicates, 
+  
+    
+      
+        P
+        ⇒
+        Q
+      
+    
+    {\displaystyle P\Rightarrow Q}
+  
+ means that if P is true, then Q is also true. Thus, 
+  
+    
+      
+        P
+        ⇒
+        Q
+      
+    
+    {\displaystyle P\Rightarrow Q}
+  
+ is logically equivalent with 
+  
+    
+      
+        Q
+        ∨
+        ¬
+        P
+      
+    
+    {\displaystyle Q\lor \neg P}
+  
+.
+2.  Often used improperly[3] in plain text as an abbreviation of "implies".
+
+⇔
+1.  Denotes logical equivalence, and is read "is equivalent to" or "if and only if". If  P and Q are logical predicates, 
+  
+    
+      
+        P
+        ⇔
+        Q
+      
+    
+    {\displaystyle P\Leftrightarrow Q}
+  
+ is thus an abbreviation of 
+  
+    
+      
+        (
+        P
+        ⇒
+        Q
+        )
+        ∧
+        (
+        Q
+        ⇒
+        P
+        )
+      
+    
+    {\displaystyle (P\Rightarrow Q)\land (Q\Rightarrow P)}
+  
+, or of 
+  
+    
+      
+        (
+        P
+        ∧
+        Q
+        )
+        ∨
+        (
+        ¬
+        P
+        ∧
+        ¬
+        Q
+        )
+      
+    
+    {\displaystyle (P\land Q)\lor (\neg P\land \neg Q)}
+  
+.
+2.  Often used improperly[3] in plain text as an abbreviation of "if and only if".
+
+⊤
+1.  
+  
+    
+      
+        ⊤
+      
+    
+    {\displaystyle \top }
+  
+ denotes the logical predicate always true.
+2.  Denotes also the truth value true.
+3.  Sometimes denotes the top element of a bounded lattice (previous meanings are specific examples).
+4.  For the use as a superscript, see ⊤□.
+
+⊥
+1.  
+  
+    
+      
+        ⊥
+      
+    
+    {\displaystyle \bot }
+  
+ denotes the logical predicate always false.
+2.  Denotes also the truth value false.
+3.  Sometimes denotes the bottom element of a bounded lattice (previous meanings are specific examples).
+4.  As a binary operator, denotes perpendicularity and orthogonality. For example, if A, B, C are three points in a Euclidean space, then 
+  
+    
+      
+        A
+        B
+        ⊥
+        A
+        C
+      
+    
+    {\displaystyle AB\perp AC}
+  
+ means that the line segments AB and AC are perpendicular, and form a right angle.
+5.  In Cryptography often denotes an error in place of a regular value.
+6.  For the use as a superscript, see □⊥.
+
+Blackboard bold[edit]
+The blackboard bold typeface is widely used for denoting the basic number systems. These systems are often also denoted by the corresponding uppercase bold letter. A clear advantage of blackboard bold is that these symbols cannot be confused with anything else. This allows using them in any area of mathematics, without having to recall their definition. For example, if one encounters 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  
+ in combinatorics, one should immediately know that this denotes the real numbers, although combinatorics does not study the real numbers (but it uses them for many proofs).
+
+
+
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+  
+
+Denotes the set of natural numbers 
+  
+    
+      
+        {
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+        }
+      
+    
+    {\displaystyle \{0,1,2,\ldots \}}
+  
+, or sometimes 
+  
+    
+      
+        {
+        1
+        ,
+        2
+        ,
+        …
+        }
+      
+    
+    {\displaystyle \{1,2,\ldots \}}
+  
+. It is often denoted also by 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbf {N} }
+  
+.
+
+
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+
+Denotes the set of integers 
+  
+    
+      
+        {
+        …
+        ,
+        −
+        2
+        ,
+        −
+        1
+        ,
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+        }
+      
+    
+    {\displaystyle \{\ldots ,-2,-1,0,1,2,\ldots \}}
+  
+. It is often denoted also by 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbf {Z} }
+  
+.
+
+
+  
+    
+      
+        
+          
+            Z
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{p}}
+  
+
+1.  Denotes the set of p-adic integers, where p is a prime number.
+2.  Sometimes, 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{n}}
+  
+ denotes the integers modulo n, where n is an integer greater than 0. The notation 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        n
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} /n\mathbb {Z} }
+  
+ is also used, and is less ambiguous.
+
+
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  
+
+Denotes the set of rational numbers (fractions of two integers). It is often denoted also by 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbf {Q} }
+  
+.
+
+
+  
+    
+      
+        
+          
+            Q
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} _{p}}
+  
+
+Denotes the set of p-adic numbers, where p is a prime number.
+
+
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  
+
+Denotes the set of real numbers. It is often denoted also by 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbf {R} }
+  
+.
+
+
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  
+
+Denotes the set of complex numbers. It is often denoted also by 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbf {C} }
+  
+.
+
+
+  
+    
+      
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbb {H} }
+  
+
+Denotes the set of quaternions. It is often denoted also by 
+  
+    
+      
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbf {H} }
+  
+.
+
+
+  
+    
+      
+        
+          
+            F
+          
+          
+            q
+          
+        
+      
+    
+    {\displaystyle \mathbb {F} _{q}}
+  
+
+Denotes the finite field with q elements, where q is a prime power (including prime numbers). It is denoted also by GF(q).
+
+
+Calculus[edit]
+
+□'
+Lagrange's notation for the derivative: if f is a function of a single variable, 
+  
+    
+      
+        
+          f
+          ′
+        
+      
+    
+    {\displaystyle f'}
+  
+, read as "f prime", is the derivative of f with respect to this variable. The second derivative is the derivative of 
+  
+    
+      
+        
+          f
+          ′
+        
+      
+    
+    {\displaystyle f'}
+  
+, and is denoted 
+  
+    
+      
+        
+          f
+          ″
+        
+      
+    
+    {\displaystyle f''}
+  
+.
+
+
+  
+    
+      
+        
+          
+            
+              ◻
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {\Box }}}
+  
+
+Newton's notation, most commonly used for the derivative with respect to time: if x is a variable depending on time, then 
+  
+    
+      
+        
+          
+            
+              x
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {x}}}
+  
+ is its derivative with respect to time. In particular, if x represents a moving point, then 
+  
+    
+      
+        
+          
+            
+              x
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {x}}}
+  
+ is its velocity.
+
+
+  
+    
+      
+        
+          
+            
+              ◻
+              ¨
+            
+          
+        
+      
+    
+    {\displaystyle {\ddot {\Box }}}
+  
+
+Newton's notation, for the second derivative: in particular, if x is a variable that represents a moving point, then 
+  
+    
+      
+        
+          
+            
+              x
+              ¨
+            
+          
+        
+      
+    
+    {\displaystyle {\ddot {x}}}
+  
+ is its acceleration.
+
+.mw-parser-output .sfrac{white-space:nowrap}.mw-parser-output .sfrac.tion,.mw-parser-output .sfrac .tion{display:inline-block;vertical-align:-0.5em;font-size:85%;text-align:center}.mw-parser-output .sfrac .num,.mw-parser-output .sfrac .den{display:block;line-height:1em;margin:0 0.1em}.mw-parser-output .sfrac .den{border-top:1px solid}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}d□/d□
+Leibniz's notation for the derivative, which is used in several slightly different ways.
+1.  If y is a variable that depends on x, then 
+  
+    
+      
+        
+          
+            
+              
+                d
+                y
+              
+              
+                d
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\frac {dy}{dx}}}
+  
+, read as "d y over d x", is the derivative of y with respect to x.
+2.  If f is a function of a single variable x, then 
+  
+    
+      
+        
+          
+            
+              
+                d
+                f
+              
+              
+                d
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\frac {df}{dx}}}
+  
+ is the derivative of f, and 
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                f
+              
+              
+                d
+                x
+              
+            
+          
+          (
+          a
+          )
+        
+      
+    
+    {\displaystyle \textstyle {\frac {df}{dx}}(a)}
+  
+ is the value of the derivative at a.
+3.  Total derivative: if 
+  
+    
+      
+        f
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle f(x_{1},\ldots ,x_{n})}
+  
+ is a function of several variables that depend on x, then 
+  
+    
+      
+        
+          
+            
+              
+                d
+                f
+              
+              
+                d
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\frac {df}{dx}}}
+  
+ is the derivative of f considered as a function of x. That is, 
+  
+    
+      
+        
+          
+            
+              
+                d
+                f
+              
+              
+                d
+                x
+              
+            
+          
+          =
+          
+            ∑
+            
+              i
+              =
+              1
+            
+            
+              n
+            
+          
+          
+            
+              
+                ∂
+                f
+              
+              
+                ∂
+                
+                  x
+                  
+                    i
+                  
+                
+              
+            
+          
+          
+          
+            
+              
+                d
+                
+                  x
+                  
+                    i
+                  
+                
+              
+              
+                d
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\frac {df}{dx}}=\sum _{i=1}^{n}{\frac {\partial f}{\partial x_{i}}}\,{\frac {dx_{i}}{dx}}}
+  
+.
+
+∂□/∂□
+Partial derivative: if 
+  
+    
+      
+        f
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle f(x_{1},\ldots ,x_{n})}
+  
+ is a function of several variables, 
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                f
+              
+              
+                ∂
+                
+                  x
+                  
+                    i
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\frac {\partial f}{\partial x_{i}}}}
+  
+ is the derivative with respect to the ith variable considered as an independent variable, the other variables being considered as constants.
+
+𝛿□/𝛿□
+Functional derivative: if 
+  
+    
+      
+        f
+        (
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle f(y_{1},\ldots ,y_{n})}
+  
+ is a functional of several functions, 
+  
+    
+      
+        
+          
+            
+              
+                δ
+                f
+              
+              
+                δ
+                
+                  y
+                  
+                    i
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\frac {\delta f}{\delta y_{i}}}}
+  
+ is the functional derivative with respect to the nth function considered as an independent variable, the other functions being considered constant.
+
+
+  
+    
+      
+        
+          
+            ◻
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\Box }}}
+  
+
+1.  Complex conjugate: if z is a complex number, then 
+  
+    
+      
+        
+          
+            z
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {z}}}
+  
+ is its complex conjugate. For example, 
+  
+    
+      
+        
+          
+            
+              a
+              +
+              b
+              i
+            
+            ¯
+          
+        
+        =
+        a
+        −
+        b
+        i
+      
+    
+    {\displaystyle {\overline {a+bi}}=a-bi}
+  
+.
+2.  Topological closure: if S is a subset of a topological space T, then 
+  
+    
+      
+        
+          
+            S
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {S}}}
+  
+ is its topological closure, that is, the smallest closed subset of T that contains S.
+3.  Algebraic closure: if F is a field, then 
+  
+    
+      
+        
+          
+            F
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {F}}}
+  
+ is its algebraic closure, that is, the smallest algebraically closed field that contains F. For example, 
+  
+    
+      
+        
+          
+            
+              Q
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\mathbb {Q} }}}
+  
+ is the field of all algebraic numbers.
+4.  Mean value: if x is a variable that takes its values in some sequence of numbers S, then 
+  
+    
+      
+        
+          
+            x
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {x}}}
+  
+ may denote the mean of the elements of S.
+
+→
+1.  
+  
+    
+      
+        A
+        →
+        B
+      
+    
+    {\displaystyle A\to B}
+  
+ denotes a function with domain A and codomain B. For naming such a function, one writes 
+  
+    
+      
+        f
+        :
+        A
+        →
+        B
+      
+    
+    {\displaystyle f:A\to B}
+  
+, which is read as "f from A to B".
+2.  More generally, 
+  
+    
+      
+        A
+        →
+        B
+      
+    
+    {\displaystyle A\to B}
+  
+ denotes a homomorphism or a morphism from A to B. 
+3.  May denote a logical implication. For the material implication that is widely used in mathematics reasoning, it is nowadays generally replaced by ⇒. In mathematical logic, it remains used for denoting implication, but its exact meaning depends on the specific theory that is studied.
+4.  Over a variable name, means that the variable represents a vector, in a context where ordinary variables represent scalars; for example, 
+  
+    
+      
+        
+          
+            v
+            →
+          
+        
+      
+    
+    {\displaystyle {\overrightarrow {v}}}
+  
+. Boldface (
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+  
+) or a circumflex (
+  
+    
+      
+        
+          
+            
+              v
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {v}}}
+  
+) are often used for the same purpose.
+5.  In Euclidean geometry and more generally in affine geometry, 
+  
+    
+      
+        
+          
+            
+              P
+              Q
+            
+            →
+          
+        
+      
+    
+    {\displaystyle {\overrightarrow {PQ}}}
+  
+ denotes the vector defined by the two points P and Q, which can be identified with the translation that maps P to Q. The same vector can be denoted also 
+  
+    
+      
+        Q
+        −
+        P
+      
+    
+    {\displaystyle Q-P}
+  
+; see Affine space.
+
+↦
+Used for defining a function without having to name it. For example, 
+  
+    
+      
+        x
+        ↦
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x\mapsto x^{2}}
+  
+ is the square function.
+
+○[4]
+1.  Function composition: if f and g are two functions, then 
+  
+    
+      
+        g
+        ∘
+        f
+      
+    
+    {\displaystyle g\circ f}
+  
+ is the function such that 
+  
+    
+      
+        (
+        g
+        ∘
+        f
+        )
+        (
+        x
+        )
+        =
+        g
+        (
+        f
+        (
+        x
+        )
+        )
+      
+    
+    {\displaystyle (g\circ f)(x)=g(f(x))}
+  
+ for every value of x.
+2.  Hadamard product of matrices: if A and B are two matrices of the same size, then 
+  
+    
+      
+        A
+        ∘
+        B
+      
+    
+    {\displaystyle A\circ B}
+  
+ is the matrix such that 
+  
+    
+      
+        (
+        A
+        ∘
+        B
+        
+          )
+          
+            i
+            ,
+            j
+          
+        
+        =
+        (
+        A
+        
+          )
+          
+            i
+            ,
+            j
+          
+        
+        (
+        B
+        
+          )
+          
+            i
+            ,
+            j
+          
+        
+      
+    
+    {\displaystyle (A\circ B)_{i,j}=(A)_{i,j}(B)_{i,j}}
+  
+. Possibly, 
+  
+    
+      
+        ∘
+      
+    
+    {\displaystyle \circ }
+  
+ is also used instead of ⊙ for the Hadamard product of power series.[citation needed]
+
+∂
+1.  Boundary of a topological subspace: if S is a subspace of a topological space, then its boundary, denoted 
+  
+    
+      
+        ∂
+        S
+      
+    
+    {\displaystyle \partial S}
+  
+, is the set difference between the closure and the interior of S.
+2.  Partial derivative: see ∂□/∂□.
+
+∫
+1.  Without a subscript, denotes an antiderivative. For example, 
+  
+    
+      
+        
+          ∫
+          
+            x
+            
+              2
+            
+          
+          d
+          x
+          =
+          
+            
+              
+                x
+                
+                  3
+                
+              
+              3
+            
+          
+          +
+          C
+        
+      
+    
+    {\displaystyle \textstyle \int x^{2}dx={\frac {x^{3}}{3}}+C}
+  
+.
+2.  With a subscript and a superscript, or expressions placed below and above it, denotes a definite integral. For example, 
+  
+    
+      
+        
+          
+            ∫
+            
+              a
+            
+            
+              b
+            
+          
+          
+            x
+            
+              2
+            
+          
+          d
+          x
+          =
+          
+            
+              
+                
+                  b
+                  
+                    3
+                  
+                
+                −
+                
+                  a
+                  
+                    3
+                  
+                
+              
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \int _{a}^{b}x^{2}dx={\frac {b^{3}-a^{3}}{3}}}
+  
+.
+3.  With a subscript that denotes a curve, denotes a line integral. For example, 
+  
+    
+      
+        
+          
+            ∫
+            
+              C
+            
+          
+          f
+          =
+          
+            ∫
+            
+              a
+            
+            
+              b
+            
+          
+          f
+          (
+          r
+          (
+          t
+          )
+          )
+          
+            r
+            ′
+          
+          (
+          t
+          )
+          d
+          t
+        
+      
+    
+    {\displaystyle \textstyle \int _{C}f=\int _{a}^{b}f(r(t))r'(t)dt}
+  
+, if r is a parametrization of the curve C, from a to b.
+
+∮
+Often used, typically in physics, instead of 
+  
+    
+      
+        
+          ∫
+        
+      
+    
+    {\displaystyle \textstyle \int }
+  
+ for line integrals over a closed curve.
+
+∬, ∯
+Similar to 
+  
+    
+      
+        
+          ∫
+        
+      
+    
+    {\displaystyle \textstyle \int }
+  
+ and 
+  
+    
+      
+        
+          ∮
+        
+      
+    
+    {\displaystyle \textstyle \oint }
+  
+ for surface integrals.
+
+∇
+Nabla, the vector differential operator 
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  ∂
+                  
+                    ∂
+                    x
+                  
+                
+              
+              ,
+              
+                
+                  ∂
+                  
+                    ∂
+                    y
+                  
+                
+              
+              ,
+              
+                
+                  ∂
+                  
+                    ∂
+                    z
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \textstyle \left({\frac {\partial }{\partial x}},{\frac {\partial }{\partial y}},{\frac {\partial }{\partial z}}\right)}
+  
+, also called del.
+
+Δ
+1.  Laplace operator or Laplacian: 
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                ∂
+                
+                  x
+                  
+                    2
+                  
+                
+              
+            
+          
+          +
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                ∂
+                
+                  y
+                  
+                    2
+                  
+                
+              
+            
+          
+          +
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                ∂
+                
+                  z
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\frac {\partial ^{2}}{\partial x^{2}}}+{\frac {\partial ^{2}}{\partial y^{2}}}+{\frac {\partial ^{2}}{\partial z^{2}}}}
+  
+. Also denoted ∇2, where the square represents a sort of dot product of ∇ and itself.
+2.  May denote the symmetric difference of two sets, that is, the set of the elements that belong to exactly to one of the sets. Also denoted ⊖.
+3.  Also used for denoting the operator of finite difference.
+
+□ (here an actual square, not a placeholder)
+Denotes the d'Alembertian or d'Alembert operator, which is a generalization of the Laplacian to non-Euclidean spaces.
+
+
+Linear and multilinear algebra[edit]
+
+∑ (Sigma notation)
+1.  Denotes the sum of a finite number of terms, which are determined by subscripts and superscripts (which can also be placed below and above), such as in 
+  
+    
+      
+        
+          
+            ∑
+            
+              i
+              =
+              1
+            
+            
+              n
+            
+          
+          
+            i
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \sum _{i=1}^{n}i^{2}}
+  
+ or 
+  
+    
+      
+        
+          
+            ∑
+            
+              0
+              <
+              i
+              <
+              j
+              <
+              n
+            
+          
+          j
+          −
+          i
+        
+      
+    
+    {\displaystyle \textstyle \sum _{0<i<j<n}j-i}
+  
+.
+2.  Denotes a series and, if the series is convergent, the sum of the series. For example, 
+  
+    
+      
+        
+          
+            ∑
+            
+              i
+              =
+              0
+            
+            
+              ∞
+            
+          
+          
+            
+              
+                x
+                
+                  i
+                
+              
+              
+                i
+                !
+              
+            
+          
+          =
+          
+            e
+            
+              x
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \sum _{i=0}^{\infty }{\frac {x^{i}}{i!}}=e^{x}}
+  
+.
+
+∏ (Capital-pi notation) 
+1.  Denotes the product of a finite number of terms, which are determined by subscripts and superscripts (which can also be placed below and above), such as in 
+  
+    
+      
+        
+          
+            ∏
+            
+              i
+              =
+              1
+            
+            
+              n
+            
+          
+          
+            i
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \prod _{i=1}^{n}i^{2}}
+  
+ or 
+  
+    
+      
+        
+          
+            ∏
+            
+              0
+              <
+              i
+              <
+              j
+              <
+              n
+            
+          
+          j
+          −
+          i
+        
+      
+    
+    {\displaystyle \textstyle \prod _{0<i<j<n}j-i}
+  
+.
+2.  Denotes an infinite product. For example, the Euler product formula for the Riemann zeta function is 
+  
+    
+      
+        
+          ζ
+          (
+          z
+          )
+          =
+          
+            ∏
+            
+              n
+              =
+              1
+            
+            
+              ∞
+            
+          
+          
+            
+              1
+              
+                1
+                −
+                
+                  p
+                  
+                    n
+                  
+                  
+                    −
+                    z
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \zeta (z)=\prod _{n=1}^{\infty }{\frac {1}{1-p_{n}^{-z}}}}
+  
+.
+3.  Also used for the Cartesian product of any number of sets and the direct product of any number of mathematical structures.
+
+⊕
+1.  Internal direct sum: if E and F are abelian subgroups of an abelian group V, notation 
+  
+    
+      
+        V
+        =
+        E
+        ⊕
+        F
+      
+    
+    {\displaystyle V=E\oplus F}
+  
+ means that V is the direct sum of E and F; that is, every element of V can be written in a unique way as the sum of an element of E and an element of F. This applies also when E and F are linear subspaces or submodules of the vector space or module V.
+2.  Direct sum: if  E and F are two abelian groups, vector spaces, or modules, then their direct sum, denoted 
+  
+    
+      
+        E
+        ⊕
+        F
+      
+    
+    {\displaystyle E\oplus F}
+  
+ is an abelian group, vector space, or module (respectively) equipped with two monomorphisms 
+  
+    
+      
+        f
+        :
+        E
+        →
+        E
+        ⊕
+        F
+      
+    
+    {\displaystyle f:E\to E\oplus F}
+  
+ and 
+  
+    
+      
+        g
+        :
+        F
+        →
+        E
+        ⊕
+        F
+      
+    
+    {\displaystyle g:F\to E\oplus F}
+  
+ such that 
+  
+    
+      
+        E
+        ⊕
+        F
+      
+    
+    {\displaystyle E\oplus F}
+  
+ is the internal direct sum of 
+  
+    
+      
+        f
+        (
+        E
+        )
+      
+    
+    {\displaystyle f(E)}
+  
+ and 
+  
+    
+      
+        g
+        (
+        F
+        )
+      
+    
+    {\displaystyle g(F)}
+  
+. This definition makes sense because this direct sum is unique up to a unique isomorphism.
+3.  Exclusive or: if E and F are two Boolean variables or predicates, 
+  
+    
+      
+        E
+        ⊕
+        F
+      
+    
+    {\displaystyle E\oplus F}
+  
+ may denote the exclusive or. Notations E XOR F and 
+  
+    
+      
+        E
+        ⊻
+        F
+      
+    
+    {\displaystyle E\veebar F}
+  
+ are also commonly used; see ⊻.
+
+⊗
+Denotes the tensor product. If E and F are abelian groups, vector spaces, or modules over a commutative ring, then the tensor product of E and F, denoted 
+  
+    
+      
+        E
+        ⊗
+        F
+      
+    
+    {\displaystyle E\otimes F}
+  
+ is an abelian group, a vector space or a module (respectively), equipped with a bilinear map 
+  
+    
+      
+        (
+        e
+        ,
+        f
+        )
+        ↦
+        e
+        ⊗
+        f
+      
+    
+    {\displaystyle (e,f)\mapsto e\otimes f}
+  
+ from 
+  
+    
+      
+        E
+        ×
+        F
+      
+    
+    {\displaystyle E\times F}
+  
+ to 
+  
+    
+      
+        E
+        ⊗
+        F
+      
+    
+    {\displaystyle E\otimes F}
+  
+, such that the bilinear maps from 
+  
+    
+      
+        E
+        ×
+        F
+      
+    
+    {\displaystyle E\times F}
+  
+ to any abelian group, vector space or module G can be identified with the linear maps from 
+  
+    
+      
+        E
+        ⊗
+        F
+      
+    
+    {\displaystyle E\otimes F}
+  
+ to G. If E and F are vector spaces over a field R, or modules over a ring R, the tensor product is often denoted 
+  
+    
+      
+        E
+        
+          ⊗
+          
+            R
+          
+        
+        F
+      
+    
+    {\displaystyle E\otimes _{R}F}
+  
+ to avoid ambiguity.
+
+⊤□
+1.  Transpose: if A is a matrix, 
+  
+    
+      
+        
+          
+          
+            ⊤
+          
+        
+        
+        
+        A
+      
+    
+    {\displaystyle ^{\top }\!\!A}
+  
+ denotes the transpose of A, that is, the matrix obtained by exchanging rows and columns of A. Notation 
+  
+    
+      
+        
+          A
+          
+            ⊤
+          
+        
+      
+    
+    {\displaystyle A^{\top }}
+  
+ is also used. The symbol 
+  
+    
+      
+        ⊤
+      
+    
+    {\displaystyle \top }
+  
+ is often replaced by the letter T or t.
+2.  For inline uses of the symbol, see ⊤.
+
+□⊥
+1.  Orthogonal complement: If W is a linear subspace of an inner product space V, then 
+  
+    
+      
+        
+          W
+          
+            ⊥
+          
+        
+      
+    
+    {\displaystyle W^{\bot }}
+  
+ denotes its orthogonal complement, that is, the linear space of the elements of V whose inner products with the elements of W are all zero.
+2.  Orthogonal subspace in the dual space: If W is a linear subspace (or a submodule) of a vector space (or of a module) V, then 
+  
+    
+      
+        
+          W
+          
+            ⊥
+          
+        
+      
+    
+    {\displaystyle W^{\bot }}
+  
+ may denote the orthogonal subspace of W, that is, the set of all linear forms that map W to zero.
+3.  For inline uses of the symbol, see ⊥.
+
+Advanced group theory[edit]
+
+⋉⋊
+1.  Inner semidirect product: if N and H are subgroups of a group G, such that N is a normal subgroup of G, then 
+  
+    
+      
+        G
+        =
+        N
+        ⋊
+        H
+      
+    
+    {\displaystyle G=N\rtimes H}
+  
+ and 
+  
+    
+      
+        G
+        =
+        H
+        ⋉
+        N
+      
+    
+    {\displaystyle G=H\ltimes N}
+  
+ mean that G is the semidirect product of N and H, that is, that every element of G can be uniquely decomposed as the product of an element of N and an element of H (unlike for the direct product of groups, the element of H may change if the order of the factors is changed). 
+2.  Outer semidirect product: if N and H are two groups, and 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+ is a group homomorphism from N to the automorphism group of H, then 
+  
+    
+      
+        N
+        
+          ⋊
+          
+            φ
+          
+        
+        H
+        =
+        H
+        
+          ⋉
+          
+            φ
+          
+        
+        N
+      
+    
+    {\displaystyle N\rtimes _{\varphi }H=H\ltimes _{\varphi }N}
+  
+ denotes a group G, unique up to a group isomorphism, which is a semidirect product of N and H, with the commutation of elements of N and H defined by 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+.
+
+≀
+In group theory, 
+  
+    
+      
+        G
+        ≀
+        H
+      
+    
+    {\displaystyle G\wr H}
+  
+ denotes the wreath product of the groups G and H. It is also denoted as 
+  
+    
+      
+        G
+        wr
+        ⁡
+        H
+      
+    
+    {\displaystyle G\operatorname {wr} H}
+  
+ or 
+  
+    
+      
+        G
+        Wr
+        ⁡
+        H
+      
+    
+    {\displaystyle G\operatorname {Wr} H}
+  
+; see Wreath product § Notation and conventions for several notation variants.
+
+
+Infinite numbers[edit]
+
+∞
+1.  The symbol is read as infinity. As an upper bound of a summation, an infinite product, an integral, etc., means that the computation is unlimited. Similarly, 
+  
+    
+      
+        −
+        ∞
+      
+    
+    {\displaystyle -\infty }
+  
+ in a lower bound means that the computation is not limited toward negative values.
+2.  
+  
+    
+      
+        −
+        ∞
+      
+    
+    {\displaystyle -\infty }
+  
+ and 
+  
+    
+      
+        +
+        ∞
+      
+    
+    {\displaystyle +\infty }
+  
+ are the generalized numbers that are added to the real line to form the extended real line.
+3.  
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+  
+ is the generalized number that is added to the real line to form the projectively extended real line.
+
+𝔠
+
+  
+    
+      
+        
+          
+            c
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {c}}}
+  
+ denotes the cardinality of the continuum, which is the cardinality of the set of real numbers.
+
+ℵ
+With an ordinal i as a subscript, denotes the ith aleph number, that is the ith infinite cardinal. For example, 
+  
+    
+      
+        
+          ℵ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \aleph _{0}}
+  
+ is the smallest infinite cardinal, that is, the cardinal of the natural numbers.
+
+ℶ
+With an ordinal i as a subscript, denotes the ith beth number. For example, 
+  
+    
+      
+        
+          ℶ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \beth _{0}}
+  
+ is the cardinal of the natural numbers, and 
+  
+    
+      
+        
+          ℶ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \beth _{1}}
+  
+ is the cardinal of the continuum.
+
+ω
+1.  Denotes the first limit ordinal. It is also denoted 
+  
+    
+      
+        
+          ω
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \omega _{0}}
+  
+ and can be identified with the ordered set of the natural numbers.
+2.  With an ordinal i as a subscript, denotes the ith limit ordinal that has a cardinality greater than that of all preceding ordinals.
+3.  In computer science, denotes the (unknown) greatest lower bound for the exponent of the computational complexity of matrix multiplication.
+4.  Written as a function of another function, it is used for comparing the asymptotic growth of two functions. See Big O notation § Related asymptotic notations.
+5.  In number theory, may denote the prime omega function. That is, 
+  
+    
+      
+        ω
+        (
+        n
+        )
+      
+    
+    {\displaystyle \omega (n)}
+  
+ is the number of distinct prime factors of the integer n.
+
+
+Brackets[edit]
+Many sorts of brackets are used in mathematics. Their meanings depend not only on their shapes, but also on the nature and the arrangement of what is delimited by them, and sometimes what appears between or before them. For this reason, in the entry titles, the symbol □ is used for schematizing the syntax that underlies the meaning.
+
+Parentheses[edit]
+
+(□)
+Used in an expression for specifying that the sub-expression between the parentheses has to be considered as a single entity; typically used for specifying the order of operations.
+
+□(□)□(□, □) □(□, ..., □)
+1.  Functional notation: if the first 
+  
+    
+      
+        ◻
+      
+    
+    {\displaystyle \Box }
+  
+ is the name (symbol) of a function, denotes the value of the function applied to the expression between the parentheses; for example, 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+, 
+  
+    
+      
+        sin
+        ⁡
+        (
+        x
+        +
+        y
+        )
+      
+    
+    {\displaystyle \sin(x+y)}
+  
+. In the case of a multivariate function, the parentheses contain several expressions separated by commas, such as 
+  
+    
+      
+        f
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle f(x,y)}
+  
+.
+2.  May also denote a product, such as in 
+  
+    
+      
+        a
+        (
+        b
+        +
+        c
+        )
+      
+    
+    {\displaystyle a(b+c)}
+  
+. When the confusion is possible, the context must distinguish which symbols denote functions, and which ones denote variables.
+
+(□, □)
+1.  Denotes an ordered pair of mathematical objects, for example, 
+  
+    
+      
+        (
+        π
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (\pi ,0)}
+  
+.
+2.  If a and b are real numbers, 
+  
+    
+      
+        −
+        ∞
+      
+    
+    {\displaystyle -\infty }
+  
+, or 
+  
+    
+      
+        +
+        ∞
+      
+    
+    {\displaystyle +\infty }
+  
+, and a < b, then 
+  
+    
+      
+        (
+        a
+        ,
+        b
+        )
+      
+    
+    {\displaystyle (a,b)}
+  
+ denotes the open interval delimited by a and b. See ]□, □[ for an alternative notation. 
+3.  If a and b are integers, 
+  
+    
+      
+        (
+        a
+        ,
+        b
+        )
+      
+    
+    {\displaystyle (a,b)}
+  
+ may denote the greatest common divisor of a and b. Notation 
+  
+    
+      
+        gcd
+        (
+        a
+        ,
+        b
+        )
+      
+    
+    {\displaystyle \gcd(a,b)}
+  
+ is often used instead.
+
+(□, □, □)
+If x, y, z are vectors in 
+  
+    
+      
+        
+          
+            R
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{3}}
+  
+, then 
+  
+    
+      
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+      
+    
+    {\displaystyle (x,y,z)}
+  
+ may denote the scalar triple product.[citation needed]  See also [□,□,□] in § Square brackets.
+
+(□, ..., □)
+Denotes a tuple. If there are n objects separated by commas, it is an n-tuple.
+
+(□, □, ...)(□, ..., □, ...)
+Denotes an infinite sequence.
+
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  ◻
+                
+                
+                  ⋯
+                
+                
+                  ◻
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  ◻
+                
+                
+                  ⋯
+                
+                
+                  ◻
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle {\begin{pmatrix}\Box &\cdots &\Box \\\vdots &\ddots &\vdots \\\Box &\cdots &\Box \end{pmatrix}}}
+  
+
+Denotes a matrix. Often denoted with square brackets.
+
+
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              ◻
+              ◻
+            
+            
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\binom {\Box }{\Box }}}
+  
+
+Denotes a binomial coefficient: Given two nonnegative integers, 
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\binom {n}{k}}}
+  
+ is read as "n choose k", and is defined as the integer 
+  
+    
+      
+        
+          
+            
+              n
+              (
+              n
+              −
+              1
+              )
+              ⋯
+              (
+              n
+              −
+              k
+              +
+              1
+              )
+            
+            
+              1
+              ⋅
+              2
+              ⋯
+              k
+            
+          
+        
+        =
+        
+          
+            
+              n
+              !
+            
+            
+              k
+              !
+              
+              (
+              n
+              −
+              k
+              )
+              !
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {n(n-1)\cdots (n-k+1)}{1\cdot 2\cdots k}}={\frac {n!}{k!\,(n-k)!}}}
+  
+ (if k = 0, its value is conventionally 1). Using the left-hand-side expression, it denotes a polynomial in n, and is thus defined and used for any real or complex value of n.
+
+(□/□)
+Legendre symbol: If p is an odd prime number and a is an integer, the value of 
+  
+    
+      
+        
+          (
+          
+            
+              a
+              p
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left({\frac {a}{p}}\right)}
+  
+ is 1 if a is a quadratic residue modulo p; it is –1 if a is a quadratic non-residue modulo p; it is 0 if p divides a. The same notation is used for the Jacobi symbol and Kronecker symbol, which are generalizations where p is respectively any odd positive integer, or any integer.
+
+Square brackets[edit]
+
+[□]
+1.  Sometimes used as a synonym of (□) for avoiding nested parentheses.
+2.  Equivalence class: given an equivalence relation, 
+  
+    
+      
+        [
+        x
+        ]
+      
+    
+    {\displaystyle [x]}
+  
+ often denotes the equivalence class of the element x.
+3.  Integral part: if x is a real number, [x] often denotes the integral part or truncation of x, that is, the integer obtained by removing all digits after the decimal mark. This notation has also been used for other variants of floor and ceiling functions.
+4.  Iverson bracket: if P is a predicate, 
+  
+    
+      
+        [
+        P
+        ]
+      
+    
+    {\displaystyle [P]}
+  
+ may denote the Iverson bracket, that is the function that takes the value 1 for the values of the free variables in P for which P is true, and takes the value 0 otherwise. For example, 
+  
+    
+      
+        [
+        x
+        =
+        y
+        ]
+      
+    
+    {\displaystyle [x=y]}
+  
+ is the Kronecker delta function, which equals one if 
+  
+    
+      
+        x
+        =
+        y
+      
+    
+    {\displaystyle x=y}
+  
+, and zero otherwise.
+
+□[□]
+Image of a subset: if S is a subset of the domain of the function f, then 
+  
+    
+      
+        f
+        [
+        S
+        ]
+      
+    
+    {\displaystyle f[S]}
+  
+ is sometimes used for denoting the image of S. When no confusion is possible, notation f(S) is commonly used.
+
+[□, □]
+1.  Closed interval: if a and b are real numbers such that 
+  
+    
+      
+        a
+        ≤
+        b
+      
+    
+    {\displaystyle a\leq b}
+  
+, then 
+  
+    
+      
+        [
+        a
+        ,
+        b
+        ]
+      
+    
+    {\displaystyle [a,b]}
+  
+ denotes the closed interval defined by them.
+2.  Commutator (group theory): if a and b belong to a group, then 
+  
+    
+      
+        [
+        a
+        ,
+        b
+        ]
+        =
+        
+          a
+          
+            −
+            1
+          
+        
+        
+          b
+          
+            −
+            1
+          
+        
+        a
+        b
+      
+    
+    {\displaystyle [a,b]=a^{-1}b^{-1}ab}
+  
+.
+3.  Commutator (ring theory): if a and b belong to a ring, then 
+  
+    
+      
+        [
+        a
+        ,
+        b
+        ]
+        =
+        a
+        b
+        −
+        b
+        a
+      
+    
+    {\displaystyle [a,b]=ab-ba}
+  
+.
+4.  Denotes the Lie bracket, the operation of a Lie algebra.
+
+[□ : □]
+1.  Degree of a field extension: if F is an extension of a field E, then 
+  
+    
+      
+        [
+        F
+        :
+        E
+        ]
+      
+    
+    {\displaystyle [F:E]}
+  
+ denotes the degree of the field extension 
+  
+    
+      
+        F
+        
+          /
+        
+        E
+      
+    
+    {\displaystyle F/E}
+  
+. For example, 
+  
+    
+      
+        [
+        
+          C
+        
+        :
+        
+          R
+        
+        ]
+        =
+        2
+      
+    
+    {\displaystyle [\mathbb {C} :\mathbb {R} ]=2}
+  
+.
+2.  Index of a subgroup: if H is a subgroup of a group E, then 
+  
+    
+      
+        [
+        G
+        :
+        H
+        ]
+      
+    
+    {\displaystyle [G:H]}
+  
+ denotes the index of H in G. The notation |G:H| is also used
+
+[□, □, □]
+If x, y, z are vectors in 
+  
+    
+      
+        
+          
+            R
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{3}}
+  
+, then 
+  
+    
+      
+        [
+        x
+        ,
+        y
+        ,
+        z
+        ]
+      
+    
+    {\displaystyle [x,y,z]}
+  
+ may denote the scalar triple product.[5]  See also (□,□,□) in § Parentheses.
+
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  ◻
+                
+                
+                  ⋯
+                
+                
+                  ◻
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  ◻
+                
+                
+                  ⋯
+                
+                
+                  ◻
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}\Box &\cdots &\Box \\\vdots &\ddots &\vdots \\\Box &\cdots &\Box \end{bmatrix}}}
+  
+
+Denotes a matrix. Often denoted with parentheses.
+
+
+Braces[edit]
+
+{ }
+Set-builder notation for the empty set, also denoted 
+  
+    
+      
+        ∅
+      
+    
+    {\displaystyle \emptyset }
+  
+ or ∅.
+
+{□} 
+1.  Sometimes used as a synonym of (□) and [□] for avoiding nested parentheses.
+2.  Set-builder notation for a singleton set: 
+  
+    
+      
+        {
+        x
+        }
+      
+    
+    {\displaystyle \{x\}}
+  
+ denotes the set that has x as a single element.
+
+{□, ..., □} 
+Set-builder notation: denotes the set whose elements are listed between the braces, separated by commas.
+
+{□ : □} {□ | □} 
+Set-builder notation: if 
+  
+    
+      
+        P
+        (
+        x
+        )
+      
+    
+    {\displaystyle P(x)}
+  
+ is a predicate depending on a variable x, then both 
+  
+    
+      
+        {
+        x
+        :
+        P
+        (
+        x
+        )
+        }
+      
+    
+    {\displaystyle \{x:P(x)\}}
+  
+ and 
+  
+    
+      
+        {
+        x
+        ∣
+        P
+        (
+        x
+        )
+        }
+      
+    
+    {\displaystyle \{x\mid P(x)\}}
+  
+ denote the set formed by the values of x for which 
+  
+    
+      
+        P
+        (
+        x
+        )
+      
+    
+    {\displaystyle P(x)}
+  
+ is true.
+
+Single brace
+1.  Used for emphasizing that several equations have to be considered as simultaneous equations; for example, 
+  
+    
+      
+        
+          
+            
+              {
+              
+                
+                  
+                    2
+                    x
+                    +
+                    y
+                    =
+                    1
+                  
+                
+                
+                  
+                    3
+                    x
+                    −
+                    y
+                    =
+                    1
+                  
+                
+              
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\begin{cases}2x+y=1\\3x-y=1\end{cases}}}
+  
+.
+2.  Piecewise definition; for example, 
+  
+    
+      
+        
+          
+            |
+          
+          x
+          
+            |
+          
+          =
+          
+            
+              {
+              
+                
+                  
+                    x
+                  
+                  
+                    
+                      if 
+                    
+                    x
+                    ≥
+                    0
+                  
+                
+                
+                  
+                    −
+                    x
+                  
+                  
+                    
+                      if 
+                    
+                    x
+                    <
+                    0
+                  
+                
+              
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle |x|={\begin{cases}x&{\text{if }}x\geq 0\\-x&{\text{if }}x<0\end{cases}}}
+  
+.
+3.  Used for grouped annotation of elements in a formula; for example, 
+  
+    
+      
+        
+          
+            
+              
+                
+                  (
+                  a
+                  ,
+                  b
+                  ,
+                  …
+                  ,
+                  z
+                  )
+                
+                ⏟
+              
+            
+            
+              26
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \underbrace {(a,b,\ldots ,z)} _{26}}
+  
+, 
+  
+    
+      
+        
+          
+            
+              
+                
+                  1
+                  +
+                  2
+                  +
+                  ⋯
+                  +
+                  100
+                
+                ⏞
+              
+            
+            
+              =
+              5050
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \overbrace {1+2+\cdots +100} ^{=5050}}
+  
+, 
+  
+    
+      
+        
+          
+            
+            
+              
+                [
+                
+                  
+                    
+                      A
+                    
+                  
+                  
+                    
+                      B
+                    
+                  
+                
+                ]
+              
+            
+            }
+          
+          m
+          +
+          n
+          
+             rows
+          
+        
+      
+    
+    {\displaystyle \textstyle \left.{\begin{bmatrix}A\\B\end{bmatrix}}\right\}m+n{\text{ rows}}}
+  
+
+
+
+Other brackets[edit]
+
+|□|
+1.  Absolute value: if x is a real or complex number, 
+  
+    
+      
+        
+          |
+        
+        x
+        
+          |
+        
+      
+    
+    {\displaystyle |x|}
+  
+ denotes its absolute value.
+2.  Number of elements: If S is a set, 
+  
+    
+      
+        
+          |
+        
+        x
+        
+          |
+        
+      
+    
+    {\displaystyle |x|}
+  
+ may denote its cardinality, that is, its number of elements. 
+  
+    
+      
+        #
+        S
+      
+    
+    {\displaystyle \#S}
+  
+ is also often used, see #.
+3.  Length of a line segment: If P and Q are two points in a Euclidean space, then 
+  
+    
+      
+        
+          |
+        
+        P
+        Q
+        
+          |
+        
+      
+    
+    {\displaystyle |PQ|}
+  
+ often denotes the length of the line segment that they define, which is the distance from P to Q, and is often denoted 
+  
+    
+      
+        d
+        (
+        P
+        ,
+        Q
+        )
+      
+    
+    {\displaystyle d(P,Q)}
+  
+.
+4.  For a similar-looking operator, see |.
+
+|□:□|
+Index of a subgroup: if H is a subgroup of a group G, then 
+  
+    
+      
+        
+          |
+        
+        G
+        :
+        H
+        
+          |
+        
+      
+    
+    {\displaystyle |G:H|}
+  
+ denotes the index of H in G. The notation [G:H] is also used
+
+
+  
+    
+      
+        
+          
+            
+              |
+              
+                
+                  
+                    ◻
+                  
+                  
+                    ⋯
+                  
+                  
+                    ◻
+                  
+                
+                
+                  
+                    ⋮
+                  
+                  
+                    ⋱
+                  
+                  
+                    ⋮
+                  
+                
+                
+                  
+                    ◻
+                  
+                  
+                    ⋯
+                  
+                  
+                    ◻
+                  
+                
+              
+              |
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\begin{vmatrix}\Box &\cdots &\Box \\\vdots &\ddots &\vdots \\\Box &\cdots &\Box \end{vmatrix}}}
+  
+
+
+  
+    
+      
+        
+          
+            |
+            
+              
+                
+                  
+                    x
+                    
+                      1
+                      ,
+                      1
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    x
+                    
+                      1
+                      ,
+                      n
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    x
+                    
+                      n
+                      ,
+                      1
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    x
+                    
+                      n
+                      ,
+                      n
+                    
+                  
+                
+              
+            
+            |
+          
+        
+      
+    
+    {\displaystyle {\begin{vmatrix}x_{1,1}&\cdots &x_{1,n}\\\vdots &\ddots &\vdots \\x_{n,1}&\cdots &x_{n,n}\end{vmatrix}}}
+  
+ denotes the determinant of the square matrix 
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    x
+                    
+                      1
+                      ,
+                      1
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    x
+                    
+                      1
+                      ,
+                      n
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    x
+                    
+                      n
+                      ,
+                      1
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    x
+                    
+                      n
+                      ,
+                      n
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}x_{1,1}&\cdots &x_{1,n}\\\vdots &\ddots &\vdots \\x_{n,1}&\cdots &x_{n,n}\end{bmatrix}}}
+  
+.
+
+||□||
+1.  Denotes the norm of an element of a normed vector space.
+2.  For the similar-looking operator named parallel, see ∥.
+
+⌊□⌋
+Floor function: if x is a real number, 
+  
+    
+      
+        ⌊
+        x
+        ⌋
+      
+    
+    {\displaystyle \lfloor x\rfloor }
+  
+ is the greatest integer that is not greater than x.
+
+⌈□⌉
+Ceil function: if x is a real number, 
+  
+    
+      
+        ⌈
+        x
+        ⌉
+      
+    
+    {\displaystyle \lceil x\rceil }
+  
+ is the lowest integer that is not lesser than x.
+
+⌊□⌉
+Nearest integer function: if x is a real number, 
+  
+    
+      
+        ⌊
+        x
+        ⌉
+      
+    
+    {\displaystyle \lfloor x\rceil }
+  
+ is the  integer that is the closest to x.
+
+]□, □[
+Open interval: If a and b are real numbers, 
+  
+    
+      
+        −
+        ∞
+      
+    
+    {\displaystyle -\infty }
+  
+, or 
+  
+    
+      
+        +
+        ∞
+      
+    
+    {\displaystyle +\infty }
+  
+, and 
+  
+    
+      
+        a
+        <
+        b
+      
+    
+    {\displaystyle a<b}
+  
+, then 
+
+  
+    
+      
+        ]
+        a
+        ,
+        b
+        [
+      
+    
+    {\displaystyle ]a,b[}
+  
+ denotes the open interval delimited by a and b. See (□, □) for an alternative notation.
+
+(□, □]]□, □]
+Both notations are used for a left-open interval.
+
+[□, □)[□, □[
+Both notations are used for a right-open interval.
+
+⟨□⟩
+1.  Generated object: if S is a set of elements in a algebraic structure, 
+  
+    
+      
+        ⟨
+        S
+        ⟩
+      
+    
+    {\displaystyle \langle S\rangle }
+  
+ denotes often the object generated by S. If 
+  
+    
+      
+        S
+        =
+        {
+        
+          s
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          s
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle S=\{s_{1},\ldots ,s_{n}\}}
+  
+, one writes 
+  
+    
+      
+        ⟨
+        
+          s
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          s
+          
+            n
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle s_{1},\ldots ,s_{n}\rangle }
+  
+ (that is, braces are omitted). In particular, this may denote
+the linear span in a vector space (also often denoted Span(S)),
+the generated subgroup in a group,
+the generated ideal in a ring,
+the generated submodule in a module.
+2.  Often used, mainly in physics, for denoting an expected value. In probability theory, 
+  
+    
+      
+        E
+        (
+        X
+        )
+      
+    
+    {\displaystyle E(X)}
+  
+ is generally used instead of 
+  
+    
+      
+        ⟨
+        S
+        ⟩
+      
+    
+    {\displaystyle \langle S\rangle }
+  
+.
+⟨□ , □⟩⟨□ | □⟩
+Both 
+  
+    
+      
+        ⟨
+        x
+        ,
+        y
+        ⟩
+      
+    
+    {\displaystyle \langle x,y\rangle }
+  
+ and 
+  
+    
+      
+        ⟨
+        x
+        ∣
+        y
+        ⟩
+      
+    
+    {\displaystyle \langle x\mid y\rangle }
+  
+ are commonly used for denoting the inner product in an inner product space.
+
+⟨□| and |□⟩
+Bra–ket notation or Dirac notation: if x and y are elements of an inner product space, 
+  
+    
+      
+        
+          |
+        
+        x
+        ⟩
+      
+    
+    {\displaystyle |x\rangle }
+  
+ is the vector defined by x, and 
+  
+    
+      
+        ⟨
+        y
+        
+          |
+        
+      
+    
+    {\displaystyle \langle y|}
+  
+ is the covector defined by y; their inner product is 
+  
+    
+      
+        ⟨
+        y
+        ∣
+        x
+        ⟩
+      
+    
+    {\displaystyle \langle y\mid x\rangle }
+  
+.
+
+Symbols that do not belong to formulas[edit]
+In this section, the symbols that are listed are used as some sorts of punctuation marks in mathematical reasoning, or as abbreviations of English phrases. They are generally not used inside a formula. Some were used in classical logic for indicating the logical dependence between sentences written in plain English. Except for the first two, they are normally not used in printed mathematical texts since, for readability, it is generally recommended to have at least one word between two formulas. However, they are still used on a black board for indicating relationships between formulas.
+
+
+■ , □
+Used for marking the end of a proof and separating it from the current text. The initialism Q.E.D. or QED (Latin: quod erat demonstrandum, "as was to be shown") is often used for the same purpose, either in its upper-case form or in lower case.
+
+☡
+Bourbaki dangerous bend symbol: Sometimes used in the margin to forewarn readers against serious errors, where they risk falling, or to mark a passage that is tricky on a first reading because of an especially subtle argument.
+
+∴
+Abbreviation of "therefore". Placed between two assertions, it means that the first one implies the second one. For example: "All humans are mortal, and Socrates is a human. ∴ Socrates is mortal."
+
+∵
+Abbreviation of "because" or "since". Placed between two assertions, it means that the first one is implied by the second one. For example: "11 is prime ∵ it has no positive integer factors other than itself and one."
+
+∋
+1.  Abbreviation of "such that". For example, 
+  
+    
+      
+        x
+        ∋
+        x
+        >
+        3
+      
+    
+    {\displaystyle x\ni x>3}
+  
+ is normally printed "x such that 
+  
+    
+      
+        x
+        >
+        3
+      
+    
+    {\displaystyle x>3}
+  
+".
+2.  Sometimes used for reversing the operands of 
+  
+    
+      
+        ∈
+      
+    
+    {\displaystyle \in }
+  
+; that is, 
+  
+    
+      
+        S
+        ∋
+        x
+      
+    
+    {\displaystyle S\ni x}
+  
+ has the same meaning as 
+  
+    
+      
+        x
+        ∈
+        S
+      
+    
+    {\displaystyle x\in S}
+  
+. See ∈ in § Set theory.
+
+∝
+Abbreviation of "is proportional to".
+
+
+Miscellaneous[edit]
+
+!
+1.  Factorial: if n is a positive integer, n! is the product of the first n positive integers, and is read as "n factorial".
+2.  Subfactorial: if n is a positive integer, !n is the number of derangements of a set of n elements, and is read as "the subfactorial of n".
+
+*
+Many different uses in mathematics; see Asterisk § Mathematics.
+
+|
+1.  Divisibility: if m and n are two integers, 
+  
+    
+      
+        m
+        ∣
+        n
+      
+    
+    {\displaystyle m\mid n}
+  
+ means that m divides n evenly.
+2.  In set-builder notation, it is used as a separator meaning "such that"; see {□ | □}.
+3.  Restriction of a function: if f is a function, and S is a subset of its domain, then 
+  
+    
+      
+        f
+        
+          
+            |
+          
+          
+            S
+          
+        
+      
+    
+    {\displaystyle f|_{S}}
+  
+ is the function with S as a domain that equals f on S.
+4.  Conditional probability: 
+  
+    
+      
+        P
+        (
+        X
+        ∣
+        E
+        )
+      
+    
+    {\displaystyle P(X\mid E)}
+  
+ denotes the probability of X given that the event E occurs. Also denoted 
+  
+    
+      
+        P
+        (
+        X
+        
+          /
+        
+        E
+        )
+      
+    
+    {\displaystyle P(X/E)}
+  
+; see "/".
+5.  For several uses as brackets (in pairs or with ⟨ and ⟩) see § Other brackets.
+
+∤
+Non-divisibility: 
+  
+    
+      
+        n
+        ∤
+        m
+      
+    
+    {\displaystyle n\nmid m}
+  
+ means that n is not a divisor of m.
+
+∥
+1.  Denotes parallelism in elementary geometry: if PQ and RS are two lines, 
+  
+    
+      
+        P
+        Q
+        ∥
+        R
+        S
+      
+    
+    {\displaystyle PQ\parallel RS}
+  
+ means that they are parallel.
+2.  Parallel, an arithmetical operation used in electrical engineering for modeling parallel resistors: 
+  
+    
+      
+        x
+        ∥
+        y
+        =
+        
+          
+            1
+            
+              
+                
+                  1
+                  x
+                
+              
+              +
+              
+                
+                  1
+                  y
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle x\parallel y={\frac {1}{{\frac {1}{x}}+{\frac {1}{y}}}}}
+  
+.
+3.  Used in pairs as brackets, denotes a norm; see ||□||.
+
+∦
+Sometimes used for denoting that two lines are not parallel; for example, 
+  
+    
+      
+        P
+        Q
+        ∦
+        R
+        S
+      
+    
+    {\displaystyle PQ\not \parallel RS}
+  
+.
+
+⊙
+Hadamard product of power series: if 
+  
+    
+      
+        
+          S
+          =
+          
+            ∑
+            
+              i
+              =
+              0
+            
+            
+              ∞
+            
+          
+          
+            s
+            
+              i
+            
+          
+          
+            x
+            
+              i
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle S=\sum _{i=0}^{\infty }s_{i}x^{i}}
+  
+ and 
+  
+    
+      
+        
+          T
+          =
+          
+            ∑
+            
+              i
+              =
+              0
+            
+            
+              ∞
+            
+          
+          
+            t
+            
+              i
+            
+          
+          
+            x
+            
+              i
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle T=\sum _{i=0}^{\infty }t_{i}x^{i}}
+  
+, then 
+  
+    
+      
+        
+          S
+          ⊙
+          T
+          =
+          
+            ∑
+            
+              i
+              =
+              0
+            
+            
+              ∞
+            
+          
+          
+            s
+            
+              i
+            
+          
+          
+            t
+            
+              i
+            
+          
+          
+            x
+            
+              i
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle S\odot T=\sum _{i=0}^{\infty }s_{i}t_{i}x^{i}}
+  
+. Possibly, 
+  
+    
+      
+        ⊙
+      
+    
+    {\displaystyle \odot }
+  
+ is also used instead of ○ for the Hadamard product of matrices.[citation needed]
+
+See also[edit]
+List of mathematical symbols (Unicode and LaTeX)
+List of mathematical symbols by subject
+List of logic symbols
+Mathematical Alphanumeric Symbols (Unicode block)
+Mathematical constants and functions
+Table of mathematical symbols by introduction date
+List of Unicode characters
+Blackboard bold#Usage
+Letterlike Symbols
+Unicode block
+Lists of Mathematical operators and symbols in Unicode
+Mathematical Operators and Supplemental Mathematical Operators
+Miscellaneous Math Symbols: A, B, Technical
+Arrow (symbol) and Miscellaneous Symbols and Arrows and arrow symbols
+ISO 31-11 (Mathematical signs and symbols for use in physical sciences and technology)
+Number Forms
+Geometric Shapes
+Diacritic
+Language of mathematics
+Mathematical notation
+Typographical conventions and common meanings of symbols:
+APL syntax and symbols
+Greek letters used in mathematics, science, and engineering
+Latin letters used in mathematics
+List of common physics notations
+List of letters used in mathematics and science
+List of mathematical abbreviations
+Mathematical notation
+Notation in probability and statistics
+Physical constants
+Typographical conventions in mathematical formulae
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ ISO 80000-2, Section 9 "Operations", 2-9.6
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"Statistics and Data Analysis: From Elementary to Intermediate".
+
+^ a b c d Letourneau, Mary; Wright Sharp, Jennifer (2017). "AMS style guide" (PDF). American Mathematical Society. p. 99.
+
+^ The LaTeX equivalent to both Unicode symbols ∘ and ○ is \circ. The Unicode symbol that has the same size as \circ depends on the browser and its implementation. In some cases ∘ is so small that it can be confused with an interpoint, and ○ looks similar as \circ. In other cases, ○ is too large for denoting a binary operation, and it is ∘ that looks like \circ. As LaTeX is commonly considered as the standard for mathematical typography, and it does not distinguish these two Unicode symbols, they are considered here as having the same mathematical meaning.
+
+^ Rutherford, D. E. (1965). Vector Methods. University Mathematical Texts. Oliver and Boyd Ltd., Edinburgh.
+
+
+External links[edit]
+Jeff Miller: Earliest Uses of Various Mathematical Symbols
+Numericana: Scientific Symbols and Icons
+GIF and PNG Images for Math Symbols
+Mathematical Symbols in Unicode
+Detexify: LaTeX Handwriting Recognition Tool
+Some Unicode charts of mathematical operators and symbols:
+
+Index of Unicode symbols
+Range 2100–214F: Unicode Letterlike Symbols
+Range 2190–21FF: Unicode Arrows
+Range 2200–22FF: Unicode Mathematical Operators
+Range 27C0–27EF: Unicode Miscellaneous Mathematical Symbols–A
+Range 2980–29FF: Unicode Miscellaneous Mathematical Symbols–B
+Range 2A00–2AFF: Unicode Supplementary Mathematical Operators
+Some Unicode cross-references:
+
+Short list of commonly used LaTeX symbols and Comprehensive LaTeX Symbol List
+MathML Characters - sorts out Unicode, HTML and MathML/TeX names on one page
+Unicode values and MathML names
+Unicode values and Postscript names from the source code for Ghostscript
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Glossary_of_mathematical_symbols&oldid=1060455296"
+		Categories: Mathematical notationMathematics-related listsMathematical symbolsMathematical tablesMathematical logicLists of symbolsHidden categories: Articles with short descriptionShort description is different from WikidataArticles to be merged from January 2021All articles to be mergedAll articles with unsourced statementsArticles with unsourced statements from November 2020Articles containing Latin-language textPages that use a deprecated format of the math tags
+	

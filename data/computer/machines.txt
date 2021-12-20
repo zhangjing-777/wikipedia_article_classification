@@ -1,0 +1,378 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Small, hand-held computing device
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}"Hand Held" redirects here. For the 2010 documentary film, see Hand Held (film).
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Mobile device" – news · newspapers · books · scholar · JSTOR  (February 2020) (Learn how and when to remove this template message)
+  An iPhone smartphone and iPad tablet—two examples of mobile devices.
+A mobile device (or handheld computer) is a computer small enough to hold and operate in the hand. Typically, any handheld computer device will have an LCD or OLED flatscreen interface, providing a touchscreen interface with digital buttons and keyboard or physical buttons along with a physical keyboard. Many such devices can connect to the Internet and interconnect with other devices such as car entertainment systems or headsets via Wi-Fi, Bluetooth, cellular networks or near field communication (NFC). Integrated cameras, the ability to place and receive voice and video telephone calls, video games, and Global Positioning System (GPS) capabilities are common. Power is typically provided by a lithium-ion battery. Mobile devices may run mobile operating systems that allow third-party applications to be installed and run.
+Early smartphones were joined in the late 2000s by larger, but otherwise essentially the same, tablets. Input and output is now usually via a touch-screen interface. Phones/tablets and personal digital assistants may provide much of the functionality of a laptop/desktop computer but more conveniently, in addition to exclusive features. Enterprise digital assistants can provide additional business functionality such as integrated data capture via barcode, RFID and smart card readers.
+By 2010, mobile devices often contained sensors such as accelerometers, magnetometers and gyroscopes, allowing detection of orientation and motion. Mobile devices may provide biometric user authentication such as face recognition or fingerprint recognition.
+Major global manufacturers of mobile devices are Apple, Samsung, Huawei, Meizu, Zte, Xiaomi, Sony, Google, HTC, LG, TCL, Motorola Mobility and Nokia.
+
+Contents
+
+1 Characteristics
+2 Types
+3 Uses
+4 See also
+5 References
+6 Sources
+
+
+
+Characteristics[edit]
+Device mobility can be viewed in the context of several qualities:[1]
+
+Physical dimensions and weight
+Whether the device is mobile or some kind of host to which it is attached is mobile
+To what kind of host devices can it be bound
+How devices communicate with a host
+When the mobility occurs
+Strictly speaking, many so-called mobile devices are not mobile. It is the host that is mobile, i.e., a mobile human host carries a non-mobile smartphone device. An example of a true mobile computing device, where the device itself is mobile, is a robot. Another example is an autonomous vehicle. There are three basic ways mobile devices can be physically bound to mobile hosts: accompanied, surface-mounted or embedded into the fabric of a host, e.g., an embedded controller embedded in a host device. Accompanied refers to an object being loosely bound and accompanying a mobile host, e.g., a smartphone can be carried in a bag or pocket but can easily be misplaced.[1] Hence, mobile hosts with embedded devices such as an autonomous vehicle can appear larger than pocket-sized.
+As stated earlier, the most common size of mobile computing device is pocket-sized that can be hand-held, but other sizes for mobile devices exist, too. Mark Weiser, known[by whom?] as the father of ubiquitous computing, computing everywhere, referred to device sizes that are tab-sized, pad and board sized,[2] where tabs are defined as accompanied or wearable centimeter-sized devices, e.g. smartphones, phablets and pads are defined as hand-held decimetre-sized devices. If one changes the form of the mobile devices in terms of being non-planar, one can also have skin devices and tiny dust-sized devices.[1] Dust refers to miniaturized devices without direct HCI interfaces, e.g., micro electro-mechanical systems (MEMS), ranging from nanometres through micrometers to millimeters. See also Smart dust. Skin: fabrics based upon light emitting and conductive polymers and organic computer devices. These can be formed into more flexible non-planar display surfaces and products such as clothes and curtains, see OLED display. Also see smart device.
+Although mobility is often regarded[by whom?] as synonymous with having wireless connectivity, these terms are different. Not all network access by mobile users, applications and devices need be via wireless networks and vice versa. Wireless access devices can be static and mobile users can move in between wired and wireless hotspots such as in Internet cafés.[1] Some mobile devices can be used as mobile Internet devices to access the Internet while moving but they do not need to do this and many phone functions or applications are still operational even while disconnected to the Internet. What makes the mobile device unique compared to other technologies is the inherent flexibility in the hardware and also the software. Flexible applications include video chat, Web browsing, payment systems, NFC, audio recording etc.[3] As mobile devices become ubiquitous there, will be a proliferation of services which include the use of the cloud.[citation needed] Although a common form of mobile device, a smartphone, has a display, another perhaps even more common form of smart computing device, the smart card, e.g., used as a bank card or travel card, does not have a display. This mobile device often has a CPU and memory but needs to connect, or be inserted into a reader in order to display its internal data or state.
+
+Types[edit]
+  Smartphones, handheld mobile devices
+  Smartwatches, handheld mobile devices
+There are many kinds of mobile devices, designed for different applications. They include:
+
+.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}
+Mobile computers
+Tablet computer
+Netbook
+Digital media player
+Enterprise digital assistant
+Graphing calculator
+Handheld game console
+Handheld PC
+Laptop
+Mobile Internet device (MID)
+Personal digital assistant (PDA)
+Pocket calculator
+Portable media player
+Ultra-mobile PC
+Mobile phones
+Camera phones
+Feature phones
+Smartphones
+Phablets
+Digital cameras
+Digital camcorder
+Digital still camera (DSC)
+Digital video camera (DVC)
+Front-facing camera
+Pagers
+Personal navigation device (PND)
+Wearable computers
+Calculator watch
+Smartwatch
+Head-mounted display
+Smart cards
+
+Uses[edit]
+This section's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions.  (February 2020) (Learn how and when to remove this template message)
+Handheld devices have become ruggedized for use in mobile field management. For instance, the uses are, digitizing notes, sending and receiving invoices, asset management, recording signatures, managing parts, and scanning barcodes.
+In 2009, developments in mobile collaboration systems enabled the use of handheld devices that combine video, audio and on-screen drawing capabilities to enable multi-party conferencing in real-time, independent of location.[4] Handheld computers are available in a variety of form factors, including smartphones on the low end, handheld PDAs, Ultra-Mobile PCs and Tablet PCs (Palm OS, WebOS).[5] Users can watch television through Internet by IPTV on some mobile devices. Mobile television receivers have existed since the 1960s, and in the 21st century mobile phone providers began making television available on cellular phones.[6]
+In the 2010s, mobile devices can sync and share a lot of data despite the distance or specifications of said devices. In the medical field, mobile devices are quickly becoming essential tools for accessing clinical information such as drugs, treatment, even medical calculation.[7] Due to the popularity of mobile gaming, the gambling industry started offering casino games on mobile devices, which in turn lead to inclusion of these devices in anti hazard legislature as devices that could potentially be used in illegal gambling. Other potentially illegal activities might include the use of mobile devices in distributing child pornography and the legal sex industry use of mobile apps and hardware to promote its activities, as well as the possibility of using mobile devices to perform trans-border services, which are all issues that need to be regulated. In the military, mobile devices have created new opportunities for the armed forces to deliver training and educational materials to soldiers, regardless of where they are stationed.[8]
+
+See also[edit]
+Converged device
+List of emerging technologies
+Mobile interaction
+Near field communication (NFC)
+Smart device
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ a b c d .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Poslad, Stefan (2009). Ubiquitous Computing Smart Devices, Smart Environments and Smart Interaction. Wiley. ISBN 978-0-470-03560-3. Archived from the original on 2014-12-10. Retrieved 2015-01-07..
+
+^ Weiser, Mark (1991). "The Computer for the Twenty-First Century". Scientific American. 265 (3): 94–104. doi:10.1038/scientificamerican0991-94.
+
+^ Beddall-Hill, Nicola; Jabbar, Abdul & Al Shehri, Saleh (2011). "Social Mobile Devices as Tools for Qualitative Research in Education: iPhones and iPads in Ethnography, Interviewing, and Design-Based Research". Journal of the Research Center for Educational Technology. 7 (1): 67–90. ISSN 1948-075X.
+
+^ Robbins, Renee (May 28, 2009). "Mobile video system visually connects global plant floor engineers". Control Engineering. Archived from the original on 2012-07-27.
+
+^ Mellow, P. (2005).The media generation: Maximise learning by getting mobile. In Ascilite, 470–476
+
+^ Lotz, Amanda D. (2007). "The Television Will Be Revolutionized." New York, NY: New York University Press. p. 65-66
+
+^ Boruff & Storie, Jill & Dale (January 2014). "Mobile devices in medicine: a survey of how medical students, residents, and faculty use smartphones and other mobile devices to find information*". J Med Lib Assoc. Cite journal requires |journal= (help)
+
+^ Casey, Mike (June 26, 2014). "Army seeks to increase use of mobile devices". ftleavenworthLamp.com.
+
+
+Sources[edit]
+"Mobile Devices". Library Technology Reports. 44 (5): 10–15. 2008.
+Hanson, C. W. (2011). "Chapter 2: Mobile Devices in 2011". Library Technology Reports. 47 (2): 11–23.
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteMajor mobile device companiesCompanies with an annual revenue of over US$3 billion
+Acer
+Alba
+Amazon
+Apple
+Asus
+BBK Electronics
+Oppo
+OnePlus
+Vivo
+Realme
+iQOO
+BlackBerry Limited
+BLU Products
+Bush
+Dell
+Fitbit
+Foxconn
+Sharp
+InFocus
+Nokia
+Fujitsu
+GeeksPhone
+Gionee
+Google
+Haier
+Hisense 
+Honor
+HTC
+HP
+Huawei
+Intel
+Kyocera
+Lenovo
+Motorola Mobility
+LG
+Meizu
+Microsoft
+Lumia
+HMD Global
+Nokia
+Onyx Boox
+Panasonic
+Samsung
+Sony
+TCL
+Alcatel Mobile
+BlackBerry Mobile
+RCA
+Palm
+Toshiba
+Transsion
+Tecno
+Infinix
+Itel
+Tinno Mobile
+Wiko
+True
+Vaio
+VinSmart
+Xiaomi
+Redmi
+POCO
+Black Shark
+ZTE
+Nubia
+Walton Mobile
+Zoostorm
+
+See also
+Largest IT companies
+Category:Mobile technology companies
+Category:Mobile phone manufacturers
+
+vteComputer sizesClasses of computersmicrocomputer,personalcomputerstatic
+Appliances:
+Smart speaker
+Smart TV
+Interactive kiosk
+Arcade cabinet
+Home console
+Microconsole
+thin client/computer terminal
+Computers:
+By use:
+Home
+Home server
+Workstation
+Personal supercomputer
+By size:
+Portable
+Small form factor
+Nettop
+Plug
+Desktop
+Deskside
+All-in-One
+Tabletop
+mobilelaptop
+Desktop replacement
+2-in-1
+Subnotebook
+Netbook
+Smartbook
+Ultrabook
+Ultra-mobile PC
+tablet
+Ultra-mobile PC
+2-in-1
+Phablet
+Tabletop
+handheld(informationappliance)
+Handheld PC
+Palmtop PC
+Pocket computer
+Personal digital assistant
+Electronic organizer
+Mobile phone
+Feature phone
+Smartphone
+Rugged Phone
+Phablet
+Portable media player
+E-reader
+Handheld game console
+Portable/Mobile data terminal
+calculator
+Scientific
+Programmable
+Graphing
+wearable
+Digital wristwatch
+Calculator watch
+Smartwatch
+Sportwatch
+Smartband
+Smartglasses
+Smart ring
+midrange
+Minicomputer
+Supermini
+large
+Super
+Mainframe
+Minisuper
+others
+Microcontroller
+Nanocomputer
+Single-board computer
+Smartdust
+Wireless sensor network
+Server (size independent)
+
+ Category
+ Portal
+
+vteMobile operating systems
+Mobile OS comparisons
+Open-source mobile phones / OSes
+Open Handset Alliance
+Open Mobile Alliance
+Mobile app distributions
+Mobile app development
+Linuxkernelprimary
+Android
+forks
+Wear OS
+Chrome OS
+KaiOS
+LuneOS
+Maemo Leste
+Manjaro ARM
+postmarketOS
+PureOS
+Sailfish OS
+Tizen
+Ubuntu Touch
+UBports
+SteamOS
+defunct
+Bada
+Firefox OS
+B2G OS
+Maemo
+MeeGo
+Mer
+Moblin
+MontaVista
+MotoMagx
+Mobilinux
+OpenEmbedded
+Ångström
+Openmoko Linux
+QtMoko
+SHR
+OpenEZX
+WebOS
+LuneOS
+XNU
+iOS
+iPadOS
+watchOS
+tvOS
+QNX
+BlackBerry 10
+BlackBerry Tablet OS
+MicrosoftWindows
+Windows XP Tablet PC Edition
+Windows Mobile
+Windows Phone
+7
+8
+8.1
+Windows RT
+Windows 10 Mobile
+Windows 10
+Windows 11
+Zircon
+Fuchsia
+other
+Binary Runtime Environment for Wireless (BREW)
+BlackBerry OS
+EPOC
+FreeRTOS
+GEOS
+LiteOS
+Magic Cap
+Nintendo 3DS
+Nintendo DSi
+Nintendo Switch
+Nokia Asha platform
+PalmDOS
+Palm OS
+Sony PlayStation
+PSP
+PS Vita
+S30
+S30+
+S40
+Symbian
+S60
+S80
+S90
+UIQ
+
+ Mobile operating systems
+Mobile applications
+ Telecommunication
+Software
+
+Authority control General
+Integrated Authority File (Germany)
+Other
+Microsoft Academic
+2
+3
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Mobile_device&oldid=1060548949"
+		Categories: Information appliancesMobile computersPersonal digital assistantsHidden categories: CS1 errors: missing periodicalArticles with short descriptionShort description matches WikidataArticles needing additional references from February 2020All articles needing additional referencesArticles with specifically marked weasel-worded phrases from August 2015All articles with unsourced statementsArticles with unsourced statements from August 2015Wikipedia articles with style issues from February 2020All articles with style issuesArticles with GND identifiersArticles with MA identifiersArticles with multiple identifiers
+	

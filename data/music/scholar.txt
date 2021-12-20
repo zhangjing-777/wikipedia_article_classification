@@ -1,0 +1,431 @@
+
+		From Wikipedia, the free encyclopedia
+		  (Redirected from Diatonic function)
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This article needs attention from an expert in music theory. The specific problem is: No reason given. WikiProject Music theory may be able to help recruit an expert.  (August 2021)
+In music, function (also referred to as harmonic function[1]) is a term used to denote the relationship of a chord[2] or a scale degree[3] to a tonal centre. Two main theories of tonal functions exist today:
+
+The German theory created by Hugo Riemann in his Vereinfachte Harmonielehre of 1893, which soon became an international success (English and Russian translations in 1896, French translation in 1899),[4] and which is the theory of functions properly speaking.[5] Riemann described three abstract tonal "functions", tonic, dominant and subdominant, denoted by the letters T, D and S respectively, each of which could take on a more or less modified appearance in any chord of the scale.[6] This theory, in several revised forms, remains much in use for the pedagogy of harmony and analysis in German-speaking countries and in North- and East-European countries.
+The Viennese theory, characterized by the use of Roman numerals to denote the chords of the tonal scale, as developed by Simon Sechter, Arnold Schoenberg, Heinrich Schenker and others,[7] practiced today in Western Europe and the United States. This theory in origin was not explicitly about tonal functions. It considers the relation of the chords to their tonic in the context of harmonic progressions, often following the cycle of fifths. That this actually describes what could be termed the "function" of the chords becomes quite evident in Schoenberg's Structural Functions of Harmony of 1954, a short treatise dealing mainly with harmonic progressions in the context of a general "monotonality".[8]
+Both theories find part of their inspiration in the theories of Jean-Philippe Rameau, starting with his Traité d'harmonie of 1722.[9] Even if the concept of harmonic function was not so named before 1893, it could be shown to exist, explicitly or implicitly, in many theories of harmony before that date. Early usages of the term in music (not necessarily in the sense implied here, or only vaguely so) include those by Fétis (Traité complet de la théorie et de la pratique de l'harmonie, 1844), Durutte (Esthétique musicale, 1855), Loquin (Notions élémentaires d'harmonie moderne, 1862), etc.[10]
+The idea of function has been extended further and is sometimes used to translate Antique concepts, such as dynamis in Ancient Greece, or qualitas in medieval Latin.
+
+Contents
+
+1 Origins of the concept
+2 German functional theory
+3 Viennese theory of the degrees
+4 Comparison of the terminologies
+5 See also
+6 References
+7 Further reading
+8 External links
+
+
+
+Origins of the concept[edit]
+The concept of harmonic function originates in theories about just intonation. It was realized that three perfect major triads, distant from each other by a perfect fifth, produced the seven degrees of the major scale in one of the possible forms of just intonation: for instance, the triads F–A–C, C–E–G and G–B–D (subdominant, tonic, and dominant respectively) produce the seven notes of the major scale. These three triads were soon considered the most important chords of the major tonality, with the tonic in the center, the dominant above and the subdominant under.
+This symmetric construction may have been one of the reasons why the fourth degree of the scale, and the chord built on it, were named "subdominant", i.e. the "dominant under [the tonic]". It also is one of the origins of the dualist theories which described not only the scale in just intonation as a symmetric construction, but also the minor tonality as an inversion of the major one. Dualist theories are documented from the 16th century onwards.
+
+German functional theory[edit]
+The term 'functional harmony' derives from Hugo Riemann and, more particularly, from his Harmony Simplified.[11] Riemann's direct inspiration was Moritz Hauptmann's dialectic description of tonality.[12] Riemann described three abstract functions: the tonic, the dominant (its upper fifth), and the subdominant (its lower fifth).[13] He also considered the minor scale to be the inversion of the major scale, so that the dominant was the fifth above the tonic in major, but below the tonic in minor; the subdominant, similarly, was the fifth below the tonic (or the fourth above) in major, and the reverse in minor.
+Despite the complexity of his theory, Riemann's ideas had huge impact, especially where German influence was strong. A good example in this regard are the textbooks by Hermann Grabner.[14] More recent German theorists have abandoned the most complex aspect of Riemann's theory, the dualist conception of major and minor, and consider that the dominant is the fifth degree above the tonic, the subdominant the fourth degree, both in minor and in major.[15]
+
+  Tonic and its relative (German Parallel, Tp) in C major: CM and Am chords Play (help·info).
+In Diether de la Motte's version of the theory,[16] the three tonal functions are denoted by the letters T, D and S, for Tonic, Dominant and Subdominant respectively; the letters are uppercase for functions in major (T, D, S), lowercase for functions in minor (t, d, s). Each of these functions can in principle be fulfilled by three chords: not only the main chord corresponding to the function, but also the chords a third lower or a third higher, as indicated by additional letters. An additional letter P or p indicates that the function is fulfilled by the relative (German Parallel) of its main triad: for instance Tp for the minor relative of the major tonic (e.g., A minor for C major), tP for the major relative of the minor tonic (e.g. E♭ major for c minor), etc. The other triad a third apart from the main one may be denoted by an additional G or g for Gegenparallelklang or Gegenklang ("counterrelative"), for instance tG for the major counterrelative of the minor tonic (e.g. A♭ major for C minor). 
+The relation between triads a third apart resides in the fact that they differ from each other by one note only, the two other notes being common notes. In addition, within the diatonic scale, triads a third apart necessarily are of opposite mode. In the simplified theory where the functions in major and minor are on the same degrees of the scale, the possible functions of triads on degrees I to VII of the scale could be summarized as in the table below[17] (degrees II in minor and VII in major, diminished fifths in the diatonic scale, are considered as chords without fundamental). Chords on III and VI may exert the same function as those a third above or a third below, but one of these two is less frequent than the other, as indicated by parentheses in the table.
+
+
+
+
+
+Degree
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+
+Function
+
+in major
+
+T
+
+Sp
+
+Dp / (Tg)
+
+S<l
+
+D
+
+Tp / (Sg)
+
+ 
+
+
+in minor
+
+t
+
+ 
+
+tP / (dG)
+
+s
+
+d
+
+sP / tG
+
+dP
+
+In each case, the mode of the chord is denoted by the final letter: for instance, Sp for II in major indicates that II is the minor relative (p) of the major subdominant (S). The major VIth degree in minor is the only one where both functions, sP (major relative of the minor subdominant) and tG (major counterparallel of the minor tonic), are equally plausible. Other signs (not discussed here) are used to denote altered chords, chords without fundamental, applied dominants, etc. Degree VII in harmonic sequence (e.g. I–IV–VII–III–VI–II–V–I) may at times be denoted by its roman numeral; in major, the sequence would then be denoted by T–S–VII–Dp–Tp–Sp–D–T.
+As summarized by d'Indy (1903),[18] who shared the conception of Riemann:
+
+There is only one chord, a perfect chord; it alone is consonant because it alone generates a feeling of repose and balance;
+this chord has two different forms, major and minor, depending whether the chord is composed of a minor third over a major third, or a major third over a minor;
+this chord is able to take on three different tonal functions, tonic, dominant, or subdominant.
+Viennese theory of the degrees[edit]
+  The seven scale degrees in C major with their respective triads and Roman numeral notation
+The Viennese theory on the other hand, the "Theory of the degrees" (Stufentheorie), represented by Simon Sechter, Heinrich Schenker and Arnold Schoenberg among others, considers that each degree has its own function and refers to the tonal center through the cycle of fifths; it stresses harmonic progressions above chord quality.[19] In music theory as it is commonly taught in the US, there are six or seven different functions, depending on whether degree VII is considered to possess an independent function.
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}Stufentheorie stresses the individuality and independence of the seven harmonic degrees. Moreover, unlike Funktionstheorie, where the primary harmonic model is the I–IV–V–I progression, Stufentheorie leans heavily on the cycle of descending fifths I–IV–VII–III–VI–II–V–I".— Eytan Agmon[20]
+Comparison of the terminologies[edit]
+The table below compares the English and German terminologies for the major scale. In English, the names of the scale degrees are also the names of their function, and they remain the same in major and in minor.
+
+
+
+Name of scale degree
+
+Roman numeral
+
+Function in German
+
+English translation
+
+German abbreviation
+
+
+Tonic
+
+I
+
+Tonika
+
+Tonic
+
+T
+
+
+Supertonic
+
+ii
+
+Subdominantparallele
+
+Relative of the subdominant
+
+Sp
+
+
+Mediant
+
+iii
+
+Dominantparallele or Tonika-Gegenparallele
+
+Relative of the dominant or Counterrelative of the tonic
+
+Dp/Tg
+
+
+Subdominant
+
+IV
+
+Subdominante
+
+Subdominant (also Pre-dominant)
+
+S
+
+
+Dominant
+
+V
+
+Dominante
+
+Dominant
+
+D
+
+
+Submediant
+
+vi
+
+Tonikaparallele
+
+Relative of the tonic
+
+Tp
+
+
+Leading (note)
+
+vii°
+
+verkürzter Dominantseptakkord
+
+[Incomplete dominant seventh chord]
+
+diagonally slashed D7 (Đ7)
+
+Note that ii, iii, and vi are lowercase: this indicates that they are minor chords; vii° indicates that this chord is a diminished triad.
+
+Some may at first be put off by the overt theorizing apparent in German harmony, wishing perhaps that a choice be made once and for all between Riemann's Funktionstheorie and the older Stufentheorie, or possibly believing that so-called linear theories have settled all earlier disputes. Yet this ongoing conflict between antithetical theories, with its attendant uncertainties and complexities, has special merits. In particular, whereas an English-speaking student may falsely believe that he or she is learning harmony "as it really is," the German student encounters what are obviously theoretical constructs and must deal with them accordingly.— Robert O. Gjerdingen[13]
+Reviewing usage of harmonic theory in American publications, William Caplin writes:[21]
+
+Most North American textbooks identify individual harmonies in terms of the scale degrees of their roots. ... Many theorists understand, however, that the Roman numerals do not necessarily define seven fully distinct harmonies, and they instead propose a classification of harmonies into three main groups of harmonic functions: tonic, dominant, and pre-dominant.
+Tonic harmonies include the I and VI chords in their various positions.
+Dominant harmonies include the V and VII chords in their various positions. III can function as a dominant substitute in some contexts (as in the progression V–III–VI).
+Pre-dominant harmonies include a wide variety of chords: IV, II, ♭II, secondary (applied) dominants of the dominant (such as VII7/V), and the various "augmented-sixth" chords. ... The modern North American adaptation of the function theory retains Riemann’s category of tonic and dominant functions but usually reconceptualizes his "subdominant" function into a more all-embracing pre-dominant function.
+Caplin further explains that there are two main types of pre-dominant harmonies, "those built above the fourth degree of the scale () in the bass voice and those derived from the dominant of the dominant (V/V)" (p. 10). The first type includes IV, II6 or ♭II6, but also other positions of these, such as IV6 or ♭II. The second type groups harmonies which feature the raised-fourth scale degree (♯) functioning as the leading tone of the dominant: VII7/V, V6V, or the three varieties of augmented sixth chords.
+
+See also[edit]
+Common practice period
+Constant structure
+Diatonic and chromatic
+Nondominant seventh chord
+Secondary dominant
+Subsidiary chord
+Roman numeral analysis
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"Harmonic Functions". Open Music Theory. Retrieved 7 May 2021.
+
+^ "Function", unsigned article, Grove Music Online, doi:10.1093/gmo/9781561592630.article.10386.
+
+^ See Walter Piston, Harmony, London, Gollancz, 1950, pp. 31-33, "Tonal Functions of the Scale Degrees".
+
+^ Alexander Rehding, Hugo Riemann and the Birth of Modern Musical Thought, New York, Cambridge University Press, 2003, p. 17
+
+^ "It was Riemann who coined the term 'function' in Vereinfachte Harmonielehre (1893) to describe relations between the dominant and subdominant harmonies and the referential tonic: he borrowed the word from mathematics, where it was used to designate the correlation of two variables, an 'argument' and a 'value'". Brian Hyer, "Tonality", Grove Music Online, doi:10.1093/gmo/9781561592630.article.28102.
+
+^ Hugo Riemann, Handbuch der Harmonielehre, 6th edn, Leipzig, Breitkopf und Härtel, 1917, p. 214. See A. Rehding, Hugo Riemann and the Birth of Modern Musical Thought, p. 51.
+
+^ Robert E. Wason, Viennese Harmonic Theory from Albrecthsberger to Schenker and Schoenberg (Ann Arbor, London, 1985) ISBN 978-0-8357-1586-7, pp. xi-xiii and passim.
+
+^ Arnold Schoenberg, Structural Functions of Harmony, Williams and Norgate, 1954; Revised edition edited by Leonard Stein, Ernest Benn, 1969. Paperback edition, London, Faber and Faber, 1983. ISBN 978-0-571-13000-9.
+
+^ Matthew Shirlaw, The Theory of Harmony, London, Novello, [1917], p. 116, writes that "In the course of the second, third, and fourth books of the Traité, [...] Rameau throws out a number of observations respecting the nature and functions of chords, which raise questions of the utmost importance for the theory of harmony". See also p. 201 (about harmonic functions in Rameau's Génération harmonique).
+
+^ Anne-Emmanuelle Ceulemans, Les conceptions fonctionnelles de l'harmonie de J.-Ph. Rameau, Fr. J. Fétis, S. Sechter et H. Riemann, Master Degree Thesis, Catholic University of Louvain, 1989, p. 3.
+
+^ Hugo Riemann, Harmony Simplified or the Theory of Tonal Functions of Chords, London and New York, 1893.
+
+^ M. Hauptmann, Die Natur der Harmonik und der Metrik, Leipzig, 1853. Hauptmann saw the tonic chord as the expression of unity, its relation to the dominant and the subdominant as embodying an opposition to unity, and their synthesis in the return to the tonic. See David Kopp, Chromatic Transformations in Nineteenth-Century Music, Cambridge University Press, 2002, p. 52.
+
+^ a b Dahlhaus, Carl (1990). "A Guide to the Terminology of German Harmony", Studies in the Origin of Harmonic Tonality, trans. Gjerdingen, Robert O. (1990). Princeton University Press. ISBN 978-0-691-09135-8.
+
+^ Hermann Grabner, Die Funktionstheorie Hugo Riemanns und ihre Bedeutung für die praktische Analyse, Munich 1923, and Handbuch der funktionellen Harmonielehre, Berlin 1944. ISBN 978-3-7649-2112-5.
+
+^ See Wilhelm Maler, Beitrag zur durmolltonalen Harmonielehre, München, Leipzig, 1931, or Diether de la Motte, Harmonielehre, Kassel, Bärenreiter, 1976.
+
+^ Diether de la Motte, Harmonielehre, Kassel, Bärenreiter, 1976, 5th edition, 1985, pp. 282–283 and passim.
+
+^ Diether de la Motte (1976), p. 102
+
+^ Vincent d'Indy, Cours de composition musicale, Paris, Durand, 1903, cited from the 6th edition, 1912, p. 116:
+il n'y a qu' un seul accord, l'Accord parfait, seul consonnant, parce que, seul il donne la sensation de repos ou d'équilibre;
+l'Accord se manifeste sous deux aspects différents, l'aspect majeur et l'aspect mineur, suivant qu'il est engendré du grave à l'aigu ou de l'aigu au grave.
+l'Accord est susceptible de revêtir trois fonctions tonales différentes, suivant qu'il est Tonique, Dominante ou Sous-dominante.
+
+Translated (with some adaptation) in Jean-Jacques Nattiez, Music and Discourse. Toward a Semiology of Music, C. Abbate transl., Princeton, Princeton University Press, 1990, p. 224. Nattiez (or his translator, the quotation is not in the French edition) removed d'Indy's dualist idea according to which the chords are built from a major and a minor thirds, the major chord from bottom to top, the minor chord the other way around.
+
+
+^ Robert E. Wason, Viennese Harmonic Theory, p. xii.
+
+^ Eytan Agmon, "Functional Harmony Revisited: A Prototype-Theoretic Approach", Music Theory Spectrum 17/2 (Autumn 1995), pp. 202-203.
+
+^ William Caplin, Analyzing Classical Form. An Approach for the Class Room. Oxford and New York: Oxford University Press, 2013. ISBN 978-0-19-974718-4. pp. 1–2.
+
+
+Further reading[edit]
+Imig, Renate (1970). System der Funktionsbezeichnung in den Harmonielehren seit Hugo Riemann. Düsseldorf: Gesellschaft zur Förderung der systematischen Musikwissenschaft. [German]
+Rehding, Alexander: Hugo Riemann and the Birth of Modern Musical Thought (New Perspectives in Music History and Criticism). Cambridge University Press (2003). ISBN 978-0-521-82073-8.
+Riemann, Hugo: Vereinfachte Harmonielehre, oder die Lehre von den tonalen Funktionen der Akkorde (1893). ASIN: B0017UOATO.
+Schoenberg, Arnold: Structural Functions of Harmony. W.W.Norton & Co. (1954, 1969) ISBN 978-0-393-00478-6, ISBN 978-0-393-02089-2.
+External links[edit]
+Unlocking the Mysteries of Diatonic Harmony www.artofcomposing.com
+Example of Music theory course description from Juilliard: "Principles of harmony" (Archive from 24 November 2010, accessed 28 May 2013).
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteDegrees and functions of the diatonic scaleI / i(Major/Minor)ii / iioiii / IIIIV / ivV / vvi / VIviio / VII
+Tonic
+
+
+Supertonic Sp
+
+
+Mediant Dp, Tkp, tP, [D](Sp)
+
+
+Subdominant
+
+
+Dominant
+
+
+Submediant Tp, sP, tCp
+
+
+Leading-tone D̸7
+
+
+Subtonic dP
+
+CDE♮ / E♭(Major/Minor)FGA♮ / A♭(Major/Minor)B♮ / B♭(Major/Minor)
+vteTonality
+Cadence
+Circle of fifths
+Consonance and dissonance
+Diatonic scale
+Diatonic function
+Secondary function
+Figured bass
+Just intonation
+Key
+Major and minor
+Modulation
+Neotonality
+Ostinato
+Otonality and Utonality
+Parallel key
+Polytonality
+Progressive tonality
+Schenkerian analysis
+Sonata form
+Tonality diamond
+Tonicization
+Voice leading
+
+vteChordsBy formTriad
+Major
+Minor
+Augmented
+Diminished
+Suspended
+Seventh
+Leading-tone
+Major
+Minor
+Dominant
+Dominant seventh flat five
+Diminished
+Half-diminished
+Diminished major
+Minor-major
+Augmented major
+Augmented minor
+Altered seventh
+Nondominant
+Harmonic seventh
+Extended
+Ninth
+Eleventh
+Thirteenth
+Upper structure
+Dominant 7♯9
+Polychord
+Tone cluster
+Added / omitted
+Sixth
+Augmented sixth
+Lydian
+Seven six
+Specific
+Alpha
+Bridge
+Complexe sonore
+Dream
+Elektra
+Farben
+Grandmother
+Magic
+µ
+Mystic
+Northern lights
+Petrushka
+Psalms
+So What
+Tristan
+Viennese trichord
+General
+Mixed interval
+Secundal
+Tertian
+Quartal
+Synthetic chord
+By functionDiatonic
+Tonic
+Supertonic
+Mediant
+Subdominant
+Dominant
+Submediant
+Leading-tone / Subtonic
+Altered
+Approach
+Borrowed
+Chromatic mediant
+Neapolitan
+Passing
+Secondary
+Secondary dominant
+Secondary leading-tone
+Secondary supertonic
+Other
+Common
+Contrast
+Primary triad
+Subsidiary
+Substitute
+Techniques
+Barre
+Block
+Chordioid
+Chord-scale system
+Guitar
+Open
+Power
+Slash
+Other
+Arpeggio
+List of chords
+Factor
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Function_(music)&oldid=1036863767#Diatonic_functions_of_notes_and_chords"
+		Categories: Diatonic functionsHidden categories: Articles needing expert attention from August 2021All articles needing expert attentionMusic theory articles needing expert attentionArticles with hAudio microformats
+	

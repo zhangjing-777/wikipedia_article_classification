@@ -1,0 +1,764 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Study of microscopic organisms
+  An agar plate streaked with microorganisms
+.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Part of a series onBiologyScience of life
+
+Index
+Outline
+Glossary
+
+
+History (timeline)
+
+Key components
+Cell theory
+Ecosystem
+Evolution
+ Phylogeny
+
+Properties of life
+
+Adaptation
+ Energy processing
+Growth
+Order
+Regulation
+Reproduction
+Response to environment
+
+ Domains and Kingdoms of life
+
+Archaea
+Bacteria
+Eukarya (Animals, Fungi, Plants, Protists)
+
+Branches
+Anatomy
+Biotechnology
+Botany
+Cell biology
+Ecology
+Evolutionary biology
+Genetics
+Marine biology
+Microbiology
+Molecular biology
+Mycology
+Neuroscience
+Paleontology
+Phycology
+Physiology
+Protistology
+Virology
+Zoology
+
+Research
+Biologist (list)
+List of biology awards
+List of journals
+List of research methods
+List of unsolved problems
+
+Applications
+Agricultural science
+Biomedical sciences
+Health technology
+ Pharming
+
+ Biology portal
+ Category.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte
+Microbiology (from Greek μῑκρος, mīkros, "small"; βίος, bios, "life"; and -λογία, -logia) is the scientific study of microorganisms, those being unicellular (single cell), multicellular (cell colony), or acellular (lacking cells).[1][2] Microbiology encompasses numerous sub-disciplines including virology, bacteriology, protistology, mycology, immunology and parasitology.
+Eukaryotic microorganisms possess membrane-bound organelles and include fungi and protists, whereas prokaryotic organisms—all of which are microorganisms—are conventionally classified as lacking membrane-bound organelles and include Bacteria and Archaea.[3][4] Microbiologists traditionally relied on culture, staining, and microscopy. However, less than 1% of the microorganisms present in common environments can be cultured in isolation using current means.[5] Microbiologists often rely on molecular biology tools such as DNA sequence based identification, for example the 16S rRNA gene sequence used for bacteria identification.
+Viruses have been variably classified as organisms,[6] as they have been considered either as very simple microorganisms or very complex molecules. Prions, never considered as microorganisms, have been investigated by virologists, however, as the clinical effects traced to them were originally presumed due to chronic viral infections, and virologists took search—discovering "infectious proteins".
+The existence of microorganisms was predicted many centuries before they were first observed, for example by the Jains in India and by Marcus Terentius Varro in ancient Rome. The first recorded microscope observation was of the fruiting bodies of moulds, by Robert Hooke in 1666, but the Jesuit priest Athanasius Kircher was likely the first to see microbes, which he mentioned observing in milk and putrid material in 1658. Antonie van Leeuwenhoek is considered a father of microbiology as he observed and experimented with microscopic organisms in the 1670s, using simple microscopes of his own design. Scientific microbiology developed in the 19th century through the work of Louis Pasteur and in medical microbiology Robert Koch.
+
+Contents
+
+1 History
+2 The birth of bacteriology
+3 Branches
+4 Applications
+5 See also
+6 References
+7 Further reading
+8 External links
+
+
+
+History[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}Further information: Proto-microbiologists (pre-1670s), History of microscopy, Microscopic discovery of bacteria, Van Leeuwenhoek's microscopes, Van Leeuwenhoek's letters to the Royal Society, Van Leeuwenhoek's microscopic discovery of microbial life, and Van Leeuwenhoek's microscopic experiments and discoveries
+  Avicenna hypothesized the existence of microorganisms.
+The existence of microorganisms was hypothesized for many centuries before their actual discovery. The existence of unseen microbiological life was postulated by Jainism which is based on Mahavira’s teachings as early as 6th century BCE.[7] Paul Dundas notes that Mahavira asserted the existence of unseen microbiological creatures living in earth, water, air and fire.[8] Jain scriptures describe nigodas which are sub-microscopic creatures living in large clusters and having a very short life, said to pervade every part of the universe, even in tissues of plants and flesh of animals.[9] The Roman Marcus Terentius Varro made references to microbes when he warned against locating a homestead in the vicinity of swamps "because there are bred certain minute creatures which cannot be seen by the eyes, which float in the air and enter the body through the mouth and nose and thereby cause serious diseases."[10]
+Persian scientists hypothesized the existence of microorganisms, such as Avicenna in his book The Canon of Medicine, Ibn Zuhr (also known as Avenzoar) who discovered scabies mites, and Al-Razi who gave the earliest known description of smallpox in his book The Virtuous Life (al-Hawi).[11]
+In 1546, Girolamo Fracastoro proposed that epidemic diseases were caused by transferable seedlike entities that could transmit infection by direct or indirect contact, or vehicle transmission.[12]
+
+  Antonie van Leeuwenhoek (1632–1723)
+  Van Leeuwenhoek's microscopes by Henry Baker[13]
+  Martinus Beijerinck,is often considered as a founder of virology
+In 1676, Antonie van Leeuwenhoek, who lived most of his life in Delft, Netherlands, observed bacteria and other microorganisms using a single-lens microscope of his own design.[14][2] He is considered a father of microbiology as he pioneered the use of simple single-lensed microscopes of his own design.[14] While Van Leeuwenhoek is often cited as the first to observe microbes, Robert Hooke made his first recorded microscopic observation, of the fruiting bodies of moulds, in 1665.[15] It has, however, been suggested that a Jesuit priest called Athanasius Kircher was the first to observe microorganisms.[16]
+Kircher was among the first to design magic lanterns for projection purposes, so he must have been well acquainted with the properties of lenses.[16] He wrote "Concerning the wonderful structure of things in nature, investigated by Microscope" in 1646, stating "who would believe that vinegar and milk abound with an innumerable multitude of worms." He also noted that putrid material is full of innumerable creeping animalcules. He published his Scrutinium Pestis (Examination of the Plague) in 1658, stating correctly that the disease was caused by microbes, though what he saw was most likely red or white blood cells rather than the plague agent itself.[16]
+
+The birth of bacteriology[edit]
+  Innovative laboratory glassware and experimental methods developed by Louis Pasteur and other biologists contributed to the young field of bacteriology in the late 19th century.
+The field of bacteriology (later a subdiscipline of microbiology) was founded in the 19th century by Ferdinand Cohn, a botanist whose studies on algae and photosynthetic bacteria led him to describe several bacteria including Bacillus and Beggiatoa. Cohn was also the first to formulate a scheme for the taxonomic classification of bacteria, and to discover endospores.[17] Louis Pasteur and Robert Koch were contemporaries of Cohn, and are often considered to be the fathers of modern microbiology[16] and medical microbiology, respectively.[18] Pasteur is most famous for his series of experiments designed to disprove the then widely held theory of spontaneous generation, thereby solidifying microbiology's identity as a biological science.[19] One of his students, Adrien Certes, is considered the founder of marine microbiology.[20] Pasteur also designed methods for food preservation (pasteurization) and vaccines against several diseases such as anthrax, fowl cholera and rabies.[2] Koch is best known for his contributions to the germ theory of disease, proving that specific diseases were caused by specific pathogenic microorganisms. He developed a series of criteria that have become known as the Koch's postulates. Koch was one of the first scientists to focus on the isolation of bacteria in pure culture resulting in his description of several novel bacteria including Mycobacterium tuberculosis, the causative agent of tuberculosis.[2]
+While Pasteur and Koch are often considered the founders of microbiology, their work did not accurately reflect the true diversity of the microbial world because of their exclusive focus on microorganisms having direct medical relevance. It was not until the late 19th century and the work of Martinus Beijerinck and Sergei Winogradsky that the true breadth of microbiology was revealed.[2] Beijerinck made two major contributions to microbiology: the discovery of viruses and the development of enrichment culture techniques.[21] While his work on the tobacco mosaic virus established the basic principles of virology, it was his development of enrichment culturing that had the most immediate impact on microbiology by allowing for the cultivation of a wide range of microbes with wildly different physiologies. Winogradsky was the first to develop the concept of chemolithotrophy and to thereby reveal the essential role played by microorganisms in geochemical processes.[22] He was responsible for the first isolation and description of both nitrifying and nitrogen-fixing bacteria.[2] French-Canadian microbiologist Felix d'Herelle co-discovered bacteriophages in 1917 and was one of the earliest applied microbiologists.[23]
+Joseph Lister was the first to use phenol  disinfectant on the open wounds of patients.[24]
+
+Branches[edit]
+  A university food microbiology laboratory
+Main article: Branches of microbiology
+The branches of microbiology can be classified into applied sciences, or divided according to taxonomy, as is the case with bacteriology, mycology, protozoology, virology, phycology, and microbial ecology. There is considerable overlap between the specific branches of microbiology with each other and with other disciplines, and certain aspects of these branches can extend beyond the traditional scope of microbiology[25][26] A pure research branch of microbiology is termed cellular microbiology.
+
+Applications[edit]
+While some fear microbes due to the association of some microbes with various human diseases, many microbes are also responsible for numerous beneficial processes such as industrial fermentation (e.g. the production of alcohol, vinegar and dairy products), antibiotic production and act as molecular vehicles to transfer DNA to complex organisms such as plants and animals. Scientists have also exploited their knowledge of microbes to produce biotechnologically important enzymes such as Taq polymerase,[27] reporter genes for use in other genetic systems and novel molecular biology techniques such as the yeast two-hybrid system.[citation needed]
+Bacteria can be used for the industrial production of amino acids. Corynebacterium glutamicum is one of the most important bacterial species with an annual production of more than two million tons of amino acids, mainly L-glutamate and L-lysine.[28] Since some bacteria have the ability to synthesize antibiotics, they are used for medicinal purposes, such as Streptomyces to make aminoglycoside antibiotics.[29]
+
+  Fermenting tanks with yeast being used to brew beer
+A variety of biopolymers, such as polysaccharides, polyesters, and polyamides, are produced by microorganisms. Microorganisms are used for the biotechnological production of biopolymers with tailored properties suitable for high-value medical application such as tissue engineering and drug delivery. Microorganisms are for example used for the biosynthesis of xanthan, alginate, cellulose, cyanophycin, poly(gamma-glutamic acid), levan, hyaluronic acid, organic acids, oligosaccharides polysaccharide and polyhydroxyalkanoates.[30]
+Microorganisms are beneficial for microbial biodegradation or bioremediation of domestic, agricultural and industrial wastes and subsurface pollution in soils, sediments and marine environments. The ability of each microorganism to degrade toxic waste depends on the nature of each contaminant. Since sites typically have multiple pollutant types, the most effective approach to microbial biodegradation is to use a mixture of bacterial and fungal species and strains, each specific to the biodegradation of one or more types of contaminants.[31]
+Symbiotic microbial communities confer benefits to their human and animal hosts health including aiding digestion, producing beneficial vitamins and amino acids, and suppressing pathogenic microbes. Some benefit may be conferred by eating fermented foods, probiotics (bacteria potentially beneficial to the digestive system) or prebiotics (substances consumed to promote the growth of probiotic microorganisms).[32][33] The ways the microbiome influences human and animal health, as well as methods to influence the microbiome are active areas of research.[34]
+Research has suggested that microorganisms could be useful in the treatment of cancer. Various strains of non-pathogenic clostridia can infiltrate and replicate within solid tumors. Clostridial vectors can be safely administered and their potential to deliver therapeutic proteins has been demonstrated in a variety of preclinical models.[35]
+Some bacteria are used to study fundamental mechanism. An example of model bacteria used to study motility[36] or the production of polysaccharides and development is Myxococcus xanthus.[37] 
+
+See also[edit]
+.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}
+Biosafety
+Microbes and Man
+Professional organizations
+American Society for Microbiology
+Federation of European Microbiological Societies
+Society for Applied Microbiology
+Society for General Microbiology
+Journals
+Critical Reviews in Microbiology
+International Journal of Systematic and Evolutionary Microbiology
+Journal of Bacteriology
+Nature Reviews Microbiology
+
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"Microbiology - Latest research and news | Nature". www.nature.com. Retrieved 2020-02-01.
+
+^ a b c d e f Madigan M, Martinko J (editors) (2006). Brock Biology of Microorganisms (13th ed.). Pearson Education. p. 1096. ISBN 978-0-321-73551-5.CS1 maint: extra text: authors list (link)
+
+^ Whitman, Whilliam B (2015).  Whitman, William B; Rainey, Fred; Kämpfer, Peter; Trujillo, Martha; Chun, Jonsik; Devos, Paul; Hedlund, Brian; Dedysh, Svetlana (eds.). Bergey's Manual of Systematics of Archaea and Bacteria. John Wiley and Sons. CiteSeerX 10.1.1.737.4970. doi:10.1002/9781118960608. ISBN 9781118960608.
+
+^ Pace, Norman R. (2006). "Time for a change". Nature. 441 (7091): 289. Bibcode:2006Natur.441..289P. doi:10.1038/441289a. ISSN 0028-0836. PMID 16710401. S2CID 4431143.
+
+^ Nitesh RA, Ludwig W, Schleifer KH (2011). "Phylogenetic identification and in situ detection of individual microbial cells without cultivation". Microbiological Reviews. 59 (1): 143–169. doi:10.1128/mr.59.1.143-169.1995. PMC 239358. PMID 7535888.
+
+^ Rice G (2007-03-27). "Are Viruses Alive?". Retrieved 2007-07-23.
+
+^ Mahavira is dated 599 BC - 527 BC. See Dundas, Paul; John Hinnels ed. (2002). The Jain. London: Routledge. ISBN 978-0-415-26606-2.CS1 maint: extra text: authors list (link) p. 24
+
+^ Dundas, Paul (2002) p. 88
+
+^ Jaini, Padmanabh (1998). The Jaina Path of Purification. New Delhi: Motilal Banarsidass. p. 109. ISBN 978-81-208-1578-0.
+
+^ Marcus Terentius Varro. Varro on Agriculture 1, xii Loeb.
+
+^ "فى الحضارة الإسلامية - ديوان العرب" [Microbiology in Islam]. Diwanalarab.com (in Arabic). Retrieved 14 April 2017.
+
+^ Fracastoro, Girolamo (1546), De Contagione et Contagiosis Morbis transl. Wilmer Cave Wright (1930). New York: G.P. Putnam's
+
+^ Chung, King-thom; Liu, Jong-kang: Pioneers in Microbiology: The Human Side of Science. (World Scientific Publishing, 2017, ISBN 978-9813202948). "We may fairly call Leeuwenhoek “The first microbiologist” because he was the first individual to actually culture, see, and describe a large array of microbial life. He actually measured the multiplication of the bugs. What is more amazing is that he published his discoveries."
+
+^ a b Lane, Nick (6 March 2015). "The Unseen World: Reflections on Leeuwenhoek (1677) 'Concerning Little Animal'". Philos Trans R Soc Lond B Biol Sci. 370 (1666): 20140344. doi:10.1098/rstb.2014.0344. PMC 4360124. PMID 25750239.
+
+^ Gest H (2005). "The remarkable vision of Robert Hooke (1635-1703): first observer of the microbial world". Perspect. Biol. Med. 48 (2): 266–72. doi:10.1353/pbm.2005.0053. PMID 15834198. S2CID 23998841.
+
+^ a b c d Wainwright, Milton (2003). An Alternative View of the Early History of Microbiology. Advances in Applied Microbiology. 52. pp. 333–55. doi:10.1016/S0065-2164(03)01013-X. ISBN 978-0-12-002654-8. PMID 12964250.
+
+^ Drews, G. (1999). "Ferdinand Cohn, among the Founder of Microbiology". ASM News. 65 (8): 547.
+
+^ Ryan, K.J.; Ray, C.G., eds. (2004). Sherris Medical Microbiology (4th ed.). McGraw Hill. ISBN 978-0-8385-8529-0.
+
+^ Bordenave, G. (2003). "Louis Pasteur (1822-1895)". Microbes Infect. 5 (6): 553–60. doi:10.1016/S1286-4579(03)00075-3. PMID 12758285.
+
+^ Adler, Antony; Dücker, Erik (2017-04-05). "When Pasteurian Science Went to Sea: The Birth of Marine Microbiology". Journal of the History of Biology. 51 (1): 107–133. doi:10.1007/s10739-017-9477-8. PMID 28382585. S2CID 22211340.
+
+^ Johnson, J. (2001) [1998]. "Martinus Willem Beijerinck". APSnet. American Phytopathological Society. Archived from the original on 2010-06-20. Retrieved May 2, 2010. Retrieved from Internet Archive January 12, 2014.
+
+^ Paustian T, Roberts G (2009). "Beijerinck and Winogradsky Initiate the Field of Environmental Microbiology". Through the Microscope: A Look at All Things Small (3rd ed.). Textbook Consortia. § 1–14.
+
+^ Keen, E.C. (2012). "Felix d'Herelle and Our Microbial Future". Future Microbiology. 7 (12): 1337–1339. doi:10.2217/fmb.12.115. PMID 23231482.
+
+^ Lister, Joseph (2010-08-01). "The Classic: On the Antiseptic Principle in the Practice of Surgery". Clinical Orthopaedics and Related Research. 468 (8): 2012–2016. doi:10.1007/s11999-010-1320-x. PMC 2895849. PMID 20361283.
+
+^ "Branches of Microbiology". General MicroScience. 2017-01-13. Retrieved 2017-12-10.
+
+^ Madigan, Michael T.; Martinko, John M.; Bender, Kelly S.; Buckley, Daniel H.; Stahl, David A. (2015). Brock Biology of Microorganisms (14th ed.). ISBN 978-0321897398.
+
+^ Gelfand, David H. (1989). "Taq DNA Polymerase".  In Erlich, Henry A. (ed.). PCR Technology. PCR Technology: Principles and Applications for DNA Amplification. Palgrave Macmillan UK. pp. 17–22. doi:10.1007/978-1-349-20235-5_2. ISBN 978-1-349-20235-5.
+
+^ Burkovski A (editor). (2008). Corynebacteria: Genomics and Molecular Biology. Caister Academic Press. ISBN 978-1-904455-30-1. Retrieved 2016-03-25.
+
+^ Fourmy, Dominique; Recht, Michael I.; Blanchard, Scott C; Puglisi, Joseph D. (1996). "Structure of the A site of Escherichia coli 16S ribosomal RNA complexed with an Aminoglycoside Antibiotic" (PDF). Science. 274 (5291): 1367–1371. Bibcode:1996Sci...274.1367F. doi:10.1126/science.274.5291.1367. PMID 8910275. S2CID 21602792. Retrieved 2016-04-05.
+
+^ Rehm BHA (editor). (2008). Microbial Production of Biopolymers and Polymer Precursors: Applications and Perspectives. Caister Academic Press. ISBN 978-1-904455-36-3. Retrieved 2016-03-25.
+
+^ Diaz E (editor). (2008). Microbial Biodegradation: Genomics and Molecular Biology (1st ed.). Caister Academic Press. ISBN 978-1-904455-17-2. Retrieved 2016-03-25.
+
+^ MacFarlane, GT; Cummings, JH (1999). "Probiotics and prebiotics: Can regulating the activities of intestinal bacteria benefit health?". BMJ: British Medical Journal. 318 (7189): 999–1003. doi:10.1136/bmj.318.7189.999. PMC 1115424. PMID 10195977.
+
+^ Tannock GW, ed. (2005). Probiotics and Prebiotics: Scientific Aspects. Caister Academic Press. ISBN 978-1-904455-01-1. Retrieved 2016-03-25.
+
+^ Wenner, Melinda (30 November 2007). "Humans Carry More Bacterial Cells than Human Ones". Scientific American. Retrieved 14 April 2017.
+
+^ Mengesha;  et al. (2009). "Clostridia in Anti-tumor Therapy". Clostridia: Molecular Biology in the Post-genomic Era. Caister Academic Press. ISBN 978-1-904455-38-7.
+
+^ Zusman, David R.; Scott, Ansley E.; Yang, Zhaomin; Kirby, John R. (November 2007). "Chemosensory pathways, motility and development in Myxococcus xanthus". Nature Reviews Microbiology. 5 (11): 862–872. doi:10.1038/nrmicro1770. ISSN 1740-1534. PMID 17922045. S2CID 2340386.
+
+^ Islam, Salim T.; Alvarez, Israel Vergara; Saïdi, Fares; Guiseppi, Annick; Vinogradov, Evgeny; Sharma, Gaurav; Espinosa, Leon; Morrone, Castrese; Brasseur, Gael; Guillemot, Jean-François; Benarouche, Anaïs (2020-06-09). "Modulation of bacterial multicellularity via spatio-specific polysaccharide secretion". PLOS Biology. 18 (6): e3000728. doi:10.1371/journal.pbio.3000728. ISSN 1545-7885. PMC 7310880. PMID 32516311.
+
+
+Further reading[edit]
+Kreft, J.-U.; Plugge, C. M.; Grimm, V.; Prats, C.;  Leveau, J. H. J. «Mighty small: Observing and modeling individual microbes becomes big science»  Proceedings of the National Academy of Sciences, 110, 45, 05-11-2013, pàg. 18027–18028. DOI: 10.1073/pnas.1317472110. ISSN: 0027-8424. PMC: PMC3831448. PMID: 24194530.
+Madigan M.T., Martinko J.M., Dunlap P-V., Clark D.P. 2009. Brock. Biología de los microorganismos. Pearson Educación, Madrid, pp. 1296
+External links[edit]
+
+
+
+Wikisource has original works on the topic: Microbiology
+
+
+
+
+At Wikiversity, you can learn more and teach others about Microbiology at the Department of Microbiology
+
+Library resources about  Microbiology 
+Resources in your library
+
+ Media related to Microbiology at Wikimedia Commons
+nature.com Latest Research, reviews and news on microbiology
+Microbes.info is a microbiology information portal containing a vast collection of resources including articles, news, frequently asked questions, and links pertaining to the field of microbiology.
+Microbiology on In Our Time at the BBC
+Immunology, Bacteriology, Virology, Parasitology, Mycology and Infectious Disease
+Annual Review of Microbiology
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteBranches of biology
+Abiogenesis
+Aerobiology
+Agrostology
+Anatomy
+Astrobiology
+Bacteriology
+Biochemistry
+Biogeography
+Biogeology
+Biohistory
+Bioinformatics
+Biological engineering
+Biomechanics
+Biophysics
+Biostatistics
+Biotechnology
+Botany
+Cell biology
+Cellular microbiology
+Chemical biology
+Chronobiology
+Cognitive biology
+Computational biology
+Conservation biology
+Cryobiology
+Cytogenetics
+Dendrology
+Developmental biology
+Ecological genetics
+Ecology
+Embryology
+Epidemiology
+Epigenetics
+Evolutionary biology
+Freshwater biology
+Genetics
+Genomics
+Geobiology
+Gerontology
+Herpetology
+Histology
+Human biology
+Ichthyology
+Immunology
+Lipidology
+Mammalogy
+Marine biology
+Mathematical biology
+Microbiology
+Molecular biology
+Mycology
+Neontology
+Neuroscience
+Nutrition
+Ornithology
+Osteology
+Paleontology
+Parasitology
+Pathology
+Pharmacology
+Photobiology
+Phycology
+Phylogenetics
+Physiology
+Pomology
+Primatology
+Proteomics
+Protistology
+Quantum biology
+Reproductive biology
+Sociobiology
+Structural biology
+Synthetic biology
+Systematics
+Systems biology
+Taxonomy
+Teratology
+Toxicology
+Virology
+Virophysics
+Xenobiology
+Zoology
+See also
+History of biology
+Nobel Prize in Physiology or Medicine
+Timeline of biology and organic chemistry
+
+vteMicrobiology: BacteriaMedicalmicrobiology
+Infection
+Exotoxin
+Lysogenic cycle
+Pathogenic bacteria
+Resistance
+Biochemistryand ecologyOxygenpreference
+Aerobic
+Obligate
+Anaerobic
+Facultative
+Obligate
+Microaerophile
+Nanaerobe
+Aerotolerant
+Other
+Extremophile
+Human microbiome
+ Gut
+Lung
+Mouth
+Skin
+Vaginal (In pregnancy)
+Placental
+Uterine
+ Salivary
+Microbial metabolism
+Nitrogen fixation
+Microbial ecology
+Primary nutritional groups
+Substrate preference
+Lipophilic
+Saccharophilic
+Shape
+Bacterial cellular morphologies
+cell structure
+plasticity
+Cocci
+Bacilli
+Coccobacilli
+Spiral
+StructureCellenvelope
+Cell membrane
+Cell wall: Peptidoglycan
+NAM
+NAG
+DAP
+Gram-positive bacteria only: Teichoic acid
+Lipoteichoic acid
+Endospore
+Gram-negative bacteria only: Bacterial outer membrane
+Porin
+Lipopolysaccharide
+Periplasmic space
+Mycobacteria only: Arabinogalactan
+Mycolic acid
+Outsideenvelope
+Bacterial capsule
+Slime layer
+S-layer
+Glycocalyx
+Pilus
+Fimbria
+Non-motile bacteria
+Composite
+Biofilm
+Taxonomyand evolution
+Bacteria (classifications)
+Bacterial phyla
+Former groupings: Schizomycetes
+Monera
+Prokaryota
+Gracilicutes
+Firmicutes
+Mollicutes
+Mendosicutes
+
+ Category
+ Commons
+
+vteMicrobiology: FungusOutline of fungiBranch
+Ethnomycology
+Lichenology
+Marine fungi
+Medicinal fungi
+Mycology
+Mycosis
+Mycotoxicology
+StructureReproduction/spore
+teleomorph/sexual: Zygospore
+Ascospore/Ascus
+Basidiospore/Basidium/Teliospore
+anamorph/asexual: Sporangium
+Conidium
+Chlamydospore
+Oidium
+Pycniospore
+Other
+Hypha
+Haustorium
+Mycelium
+Cell wall
+Sporocarp
+Growth patterns
+Dimorphic fungi
+Mold
+Yeast
+Mushroom
+List
+List of fungal orders
+List of mycologists
+List of mycology journals
+
+ Category
+ Commons
+ WikiProject
+
+vteMicrobiology: Protistology: ProtistsFormerclassifications
+Protozoa
+Mastigophora/Flagellates
+Sarcodina/Amoeboids
+Testate
+Heliozoa
+Infusoria/Ciliates
+Sporozoa
+Algae
+Cryptogams
+Thallophytes
+Fungus-like organisms
+Slime molds
+Ambiregnal protists
+MorphologyArchaeplastida.mw-parser-output .nobold{font-weight:normal}Chloroplastida
+"green algae": Phycoplast
+Phragmoplast
+Flagellar apparatus
+Glaucophytes:
+Cyanelles
+Phycobilisomes
+Red algae:
+Pit connection
+Phycobilisomes
+HacrobiaCryptophyta:
+Mastigonemes
+Periplast
+Haptophyte:
+Coccolith
+Haptonema
+StramenopilesGeneral:
+Mastigonemes
+Diatoms:
+Frustule
+Brown algae:
+Lamina
+Pneumatocyst
+AlveolataGeneral:
+ Alveoli
+Trichocyst
+Dinoflagellates:
+Dinokaryon
+Dinocyst
+Theca
+Ciliates:
+Cilium
+Cirrus
+Macronucleus
+Micronucleus
+Apicomplexans:
+Rhoptry
+Apicoplast
+Microneme
+RhizariaPhytomyxea
+Cruciform division
+ExcavateKinetoplastids:
+Kinetoplast
+Glycosome
+Euglenoidea:
+Periplast/pellicle
+AmoebozoaDictyostelids:
+Macrocyst
+Sorocarp
+OpisthokontaChoanoflagellates:
+Collar of microvilli
+GeneralLevels oforganization
+Unicellular
+Monadoid
+Amoeboid
+Coccoid
+Colonial s.s.
+Colonial flagellated
+Tetrasporal/capsal/palmelloid
+Sarcinoid
+Coenobial
+Filamentous/trichal/hyphal
+Parenchymatous
+Pseudoparenchymatous/plektenchymatic
+Membranous/thalloid/foliaceous
+Multinucleated
+Syncytial
+Coenocytic
+Siphonous
+Siphonocladous
+Multicellular s.s./tissular/histonal
+Cell surfacestructures
+Simple cell membrane
+Mucilage
+Scale
+Frustule
+Cell wall
+Lorica
+Skeleton
+Test
+Theca
+Periplast/pellicle
+Locomotion
+Flagellum
+Cilium
+Pseudopodia
+Gliding motility
+Mitochondria
+Hydrogenosome
+Mitosome
+Nucleus
+Nucleomorph
+Multinucleate cells
+Plasmodium
+Dikaryon
+Heterokaryon
+Mitosis in protists
+Open
+Closed
+Orthomitosis
+Pleuromitosis
+Meiosis in protists
+Gametic
+Zygotic
+Sporic
+Other
+Cyst
+Cytostome
+Fimbriae
+Extrusome
+Contractile vacuole
+Eyespot apparatus
+Pyrenoid
+Axostyle
+Mastigont system
+Ecology andphysiology
+Microbial ecology
+Microbial biogeography
+Baas-Becking hypothesis
+Development/Reproduction
+Life cycles
+Fertilization
+Nutrition: Autotrophy
+Phototrophy
+Heterotrophy
+Phagotrophy
+Osmotrophy
+Saprotrophy
+Parasitism
+Biotrophy
+Necrotrophy
+Mixotrophy
+Auxotrophy
+
+vteMicrobiology: Virus
+History
+Introduction
+Social history of viruses
+Virology
+Components
+Capsid
+Viral envelope
+Viral protein
+Viral life cycle
+Viral entry
+Viral replication
+Viral shedding
+Viroplasm
+Virus latency
+Genetics
+Antigenic drift
+Antigenic shift
+Phenotype mixing
+Reassortment
+Viral evolution
+By host
+Animal virus
+Bacteriophage
+Virophage
+Human virome
+Mycovirus
+Plant virus
+Other
+Antiviral drug
+Giant virus
+Helper virus
+Viral vector
+Helper dependent virus
+Laboratory diagnosis of viral infections
+Marine viruses
+Neurotropic virus
+Oncovirus
+Satellites
+Viral disease
+Viral load
+Virus-like particle
+Virus classification
+Virus quantification
+
+ Category
+ Portal
+
+vteMicroorganismsGroups
+Archaea
+Bacterium
+Cyanobacteria
+Fungi
+Nanobacterium
+Prokaryote
+Protist
+Protozoa
+Virus
+Microbiology
+Microbial biogeography
+Microbial genetics
+Microbial intelligence
+Microbial metabolism
+Microbial phylogenetics
+Microbial population biology
+Mycology
+Virology
+Ecology
+Biofilm
+Microbial consortium
+Microbial cooperation
+Microbial biodegradation
+Microbial ecology
+Microbial cyst
+Microbial food web
+microbial loop
+viral shunt
+Microbial mat
+Microbial synergy
+Microbiome
+microbiota
+holobiont
+Quorum sensing
+Host microbe interactions in Caenorhabditis elegans
+Plants
+Plant microbiome
+Root microbiome
+Seagrass microbiome
+Soil microbiology
+Spermosphere
+Marine
+Marine microorganism
+Marine viruses
+Marine prokaryotes
+Marine protists
+Microalgae
+Antarctic microorganism
+Coral microbiome
+Hydrothermal vent microbial communities
+Marine microbial symbiosis
+Microbial oxidation of sulfur
+Phycosphere
+Picoeukaryote
+International Census of Marine Microbes
+Human related
+Microbes in human culture
+Microbiomes of the built environment
+Food microbiology
+Microbial oil
+Microbial symbiosis and immunity
+Nylon-eating
+Human microbiome
+asthma
+dysbiosis
+fecal
+Human Microbiome Project
+gut
+lung
+mouth
+skin
+vagina
+in pregnancy
+placenta
+uterus
+Protein production
+Synthetic microbial consortia
+Techniques
+Dark field microscopy
+DNA sequencing
+Impedance microbiology
+Microbial cytology
+Microbial DNA barcoding
+Microbiological culture
+Staining
+Other
+Bioremediation
+Deep biosphere
+Microbial dark matter
+Lines on the Antiquity of Microbes
+Microbially induced sedimentary structure
+Omics
+Physical factors affecting microbial life
+Siderophore
+
+ Category
+ Commons
+
+Authority control General
+Integrated Authority File (Germany)
+National libraries
+France (data)
+United States
+Japan
+Other
+Historical Dictionary of Switzerland
+Microsoft Academic
+
+.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;justify-content:center;align-items:baseline}.mw-parser-output .portal-bar-bordered{padding:0 2em;background-color:#fdfdfd;border:1px solid #a2a9b1;clear:both;margin:1em auto 0}.mw-parser-output .portal-bar-unbordered{padding:0 1.7em;margin-left:0}.mw-parser-output .portal-bar-header{margin:0 1em 0 0.5em;padding:0.2em 0;flex:0 0 auto;min-height:24px;line-height:22px}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:baseline;flex:0 1 auto;padding:0.15em 0;column-gap:1em}.mw-parser-output .portal-bar-item{display:flex;align-items:baseline;margin:0.15em 0;min-height:24px;text-align:left}.mw-parser-output .portal-bar-logo{width:22px;line-height:22px;margin:0 0.2em;text-align:right}.mw-parser-output .portal-bar-link{margin:0 0.2em;text-align:left}@media screen and (max-width:768px){.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;flex-flow:column wrap}.mw-parser-output .portal-bar-header{text-align:center;flex:0;padding-left:0.5em;margin:0 auto}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:baseline;flex:0;margin:0 auto;column-gap:1em;border-top:1px solid #a2a9b1}}.mw-parser-output .navbox+link+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .navbox+style+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .portal-bar+.navbox-styles+.navbox{margin-top:-1px}Portal:Biology
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Microbiology&oldid=1061104023"
+		Categories: MicrobiologyBranches of biologyMicroscopyHidden categories: CS1 maint: extra text: authors listCS1 Arabic-language sources (ar)Articles with short descriptionShort description matches WikidataArticles containing Ancient Greek (to 1453)-language textAll articles with unsourced statementsArticles with unsourced statements from April 2017Commons category link from WikidataArticles with GND identifiersArticles with BNF identifiersArticles with LCCN identifiersArticles with NDL identifiersArticles with HDS identifiersArticles with MA identifiers
+	

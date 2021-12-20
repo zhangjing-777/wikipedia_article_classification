@@ -1,0 +1,355 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Symbol that represents an indeterminate value
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}For variables in computer science, see Variable (computer science). For other uses, see Variable (disambiguation).
+
+In mathematics, a variable (from Latin variabilis, "changeable") is a symbol and placeholder for (historically) a quantity that may change, or (nowadays) any mathematical object. In particular, a variable may represent a number, a vector, a matrix, a function, the argument of a function, a set, or an element of a set.[1]
+Algebraic computations with variables as if they were explicit numbers solve a range of problems in a single computation. For example, the quadratic formula solves every quadratic equation by substituting the numeric values of the coefficients of the given equation for the variables that represent them. In mathematical logic, a variable is either a symbol representing an unspecified term of the theory (a meta-variable), or a basic object of the theory that is manipulated without referring to its possible intuitive interpretation.
+
+Contents
+
+1 Notation
+2 Specific kinds of variables
+
+2.1 Dependent and independent variables
+2.2 Examples
+
+
+3 Most common variables
+4 History
+5 See also
+6 References
+7 Bibliography
+
+
+
+Notation[edit]
+Variables are generally denoted by a single letter, most often from the Latin alphabet and less often from the Greek, which may be lowercase or capitalized. The letter may be followed by a subscript: a number (as in x2), another variable (xi), a word or abbreviation of a word (xtotal) or a mathematical expression (x2i + 1). Under the influence of computer science, some variable names in pure mathematics consist of several letters and digits. Following René Descartes (1596–1650), letters at the beginning of the alphabet such as (a, b, c) are commonly used for known values and parameters, and letters at the end of the alphabet such as (x, y, z) are commonly used for unknowns and variables of functions.[2] In printed mathematics, the norm is to set variables and constants in an italic typeface.[3]
+For example, a general quadratic function is conventionally written as 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        
+      
+    
+    {\displaystyle ax^{2}+bx+c\,}
+  
+, where a, b and c are parameters (also called constants, because they are constant functions), while x is the variable of the function. A more explicit way to denote this function is 
+  
+    
+      
+        x
+        ↦
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        
+      
+    
+    {\displaystyle x\mapsto ax^{2}+bx+c\,}
+  
+, which clarifies the function-argument status of x and the constant status of a, b and c. Since c occurs in a term that is a constant function of x, it is called the constant term.[4]
+Specific branches and applications of mathematics have specific naming conventions for variables. Variables with similar roles or meanings are often assigned consecutive letters or the same letter with different subscripts. For example, the three axes in 3D coordinate space are conventionally called x, y, and z. In physics, the names of variables are largely determined by the physical quantity they describe, but various naming conventions exist. A convention often followed in probability and statistics is to use X, Y, Z for the names of random variables, keeping x, y, z for variables representing corresponding better-defined values.
+
+Specific kinds of variables[edit]
+It is common for variables to play different roles in the same mathematical formula, and names or qualifiers have been introduced to distinguish them. For example, the general cubic equation
+
+
+  
+    
+      
+        a
+        
+          x
+          
+            3
+          
+        
+        +
+        b
+        
+          x
+          
+            2
+          
+        
+        +
+        c
+        x
+        +
+        d
+        =
+        0
+        ,
+      
+    
+    {\displaystyle ax^{3}+bx^{2}+cx+d=0,}
+  
+
+is interpreted as having five variables: four, a, b, c, d, which are taken to be given numbers and the fifth variable, x, is understood to be an unknown number. To distinguish them, the variable x is called an unknown, and the other variables are called parameters or coefficients, or sometimes constants, although this last terminology is incorrect for an equation, and should be reserved for the function defined by the left-hand side of this equation.
+In the context of functions, the term variable refers commonly to the arguments of the functions. This is typically the case in sentences like "function of a real variable", "x is the variable of the function f: x ↦ f(x)", "f is a function of the variable x" (meaning that the argument of the function is referred to by the variable x).
+In the same context, variables that are independent of x define constant functions and are therefore called constant. For example, a constant of integration is an arbitrary constant function that is added to a particular antiderivative to obtain the other antiderivatives. Because the strong relationship between polynomials and polynomial function, the term "constant" is often used to denote the coefficients of a polynomial, which are constant functions of the indeterminates.
+This use of "constant" as an abbreviation of "constant function" must be distinguished from the normal meaning of the word in mathematics. A constant, or mathematical constant is a well and unambiguously defined number or other mathematical object, as, for example, the numbers 0, 1, π and the identity element of a group.
+Other specific names for variables are:
+
+An unknown is a variable in an equation which has to be solved for.
+An indeterminate is a symbol, commonly called variable, that appears in a polynomial or a formal power series. Formally speaking, an indeterminate is not a variable, but a constant in the polynomial ring or the ring of formal power series. However, because of the strong relationship between polynomials or power series and the functions that they define, many authors consider indeterminates as a special kind of variables.
+A parameter is a quantity (usually a number) which is a part of the input of a problem, and remains constant during the whole solution of this problem. For example, in mechanics the mass and the size of a solid body are parameters for the study of its movement. In computer science, parameter has a different meaning and denotes an argument of a function.
+Free variables and bound variables
+A random variable is a kind of variable that is used in probability theory and its applications.
+All these denominations of variables are of semantic nature, and the way of computing with them (syntax) is the same for all.
+
+Dependent and independent variables[edit]
+Main article: Dependent and independent variables
+In calculus and its application to physics and other sciences, it is rather common to consider a variable, say y, whose possible values depend on the value of another variable, say x. In mathematical terms, the dependent variable y represents the value of a function of x. To simplify formulas, it is often useful to use the same symbol for the dependent variable y and the function mapping x onto y. For example, the state of a physical system depends on measurable quantities such as the pressure, the temperature, the spatial position, ..., and all these quantities vary when the system evolves, that is, they are function of the time. In the formulas describing the system, these quantities are represented by variables which are dependent on the time, and thus considered implicitly as functions of the time.
+Therefore, in a formula, a dependent variable is a variable that is implicitly a function of another (or several other) variables. An independent variable is a variable that is not dependent.[5]
+The property of a variable to be dependent or independent depends often of the point of view and is not intrinsic. For example, in the notation f(x, y, z), the three variables may be all independent and the notation represents a function of three variables. On the other hand, if y and z depend on x (are dependent variables) then the notation represents a function of the single independent variable x.[6]
+
+Examples[edit]
+If one defines a function f from the real numbers to the real numbers by
+
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          x
+          
+            2
+          
+        
+        +
+        sin
+        ⁡
+        (
+        x
+        +
+        4
+        )
+      
+    
+    {\displaystyle f(x)=x^{2}+\sin(x+4)}
+  
+
+then x is a variable standing for the argument of the function being defined, which can be any real number.
+In the identity
+
+
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        i
+        =
+        
+          
+            
+              
+                n
+                
+                  2
+                
+              
+              +
+              n
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \sum _{i=1}^{n}i={\frac {n^{2}+n}{2}}}
+  
+
+the variable i is a summation variable which designates in turn each of the integers 1, 2, ...,  n (it is also called index because its variation is over a discrete set of values) while n is a parameter (it does not vary within the formula).
+In the theory of polynomials, a polynomial of degree 2 is generally denoted as ax2 + bx + c, where a, b and c are called coefficients (they are assumed to be fixed, i.e., parameters of the problem considered) while x is called a variable. When studying this polynomial for its polynomial function this x stands for the function argument. When studying the polynomial as an object in itself, x is taken to be an indeterminate, and would often be written with a capital letter instead to indicate this status.
+
+Most common variables[edit]
+a, b, c, d (sometimes extended to e, f) for parameters or coefficients
+a0, a1, a2, ... for situations where distinct letters are inconvenient
+ai or ui for the i-th term of a sequence or the i-th coefficient of a series
+e for Euler's number
+f, g, h for functions (as in 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+)
+i for the imaginary unit
+i, j, k (sometimes l or h) for varying integers or indices in an indexed family, or unit vectors
+l and w for the length and width of a figure
+l  also for a line, or in number theory for a prime number not equal to p
+n (with m as a second choice)  for a fixed integer, such as a count of objects or the degree of an equation
+p for a prime number or a probability
+q for a prime power or a quotient
+r for a radius, a remainder or a correlation coefficient
+t for time
+x, y, z for the three Cartesian coordinates of a point in Euclidean geometry or the corresponding axes
+z for a complex number, or in statistics a normal random variable
+α, β, γ, θ, φ for angle measures
+ε (with δ as a second choice) for an arbitrarily small positive number
+λ for an eigenvalue
+σ for a sum, or in statistics the standard deviation
+μ for a mean
+π for pi
+History[edit]
+In ancient works such as Euclid's Elements, single letters refer to geometric points and shapes. In the 7th century, Brahmagupta used different colours to represent the unknowns in algebraic equations in the Brāhmasphuṭasiddhānta. One section of this book is called "Equations of Several Colours".[7]
+At the end of the 16th century, François Viète introduced the idea of representing known and unknown numbers by letters, nowadays called variables, and the idea of computing with them as if they were numbers—in order to obtain the result by a simple replacement. Viète's convention was to use consonants for known values, and vowels for unknowns.[8]
+In 1637, René Descartes "invented the convention of representing unknowns in equations by x, y, and z, and knowns by a, b, and c".[9] Contrarily to Viète's convention, Descartes' is still commonly in use. The history of the letter x in math was discussed in a 1887 Scientific American article.[10]
+Starting in the 1660s, Isaac Newton and Gottfried Wilhelm Leibniz independently developed the infinitesimal calculus, which essentially consists of studying how an infinitesimal variation of a variable quantity induces a corresponding variation of another quantity which is a function of the first variable. Almost a century later, Leonhard Euler fixed the terminology of infinitesimal calculus, and introduced the notation y = f(x) for a function f, its variable x and its value y. Until the end of the 19th century, the word variable referred almost exclusively to the arguments and the values of functions.
+In the second half of the 19th century, it appeared that the foundation of infinitesimal calculus was not formalized enough to deal with apparent paradoxes such as a nowhere differentiable continuous function. To solve this problem, Karl Weierstrass introduced a new formalism consisting of replacing the intuitive notion of limit by a formal definition. The older notion of limit was "when the variable x varies and tends toward a, then f(x) tends toward L", without any accurate definition of "tends". Weierstrass replaced this sentence by the formula
+
+
+  
+    
+      
+        (
+        ∀
+        ϵ
+        >
+        0
+        )
+        (
+        ∃
+        η
+        >
+        0
+        )
+        (
+        ∀
+        x
+        )
+        
+        
+          |
+        
+        x
+        −
+        a
+        
+          |
+        
+        <
+        η
+        ⇒
+        
+          |
+        
+        L
+        −
+        f
+        (
+        x
+        )
+        
+          |
+        
+        <
+        ϵ
+        ,
+      
+    
+    {\displaystyle (\forall \epsilon >0)(\exists \eta >0)(\forall x)\;|x-a|<\eta \Rightarrow |L-f(x)|<\epsilon ,}
+  
+
+in which none of the five variables is considered as varying.
+This static formulation led to the modern notion of variable, which is simply a symbol representing a mathematical object that either is unknown, or may be replaced by any element of a given set (e.g., the set of real numbers).
+
+See also[edit]
+Lambda calculus
+Observable variable
+Physical constant
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ Stover & Weisstein.
+
+^ Edwards Art. 4
+
+^ Hosch 2010, p. 71.
+
+^ Foerster 2006, p. 18.
+
+^ Edwards Art. 5
+
+^ Edwards Art. 6
+
+^ Tabak 2014, p. 40.
+
+^ Fraleigh 1989, p. 276.
+
+^ Sorell 2000, p. 19.
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Scientific American. Munn & Company. September 3, 1887. p. 148.
+
+
+Bibliography[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}
+Edwards, Joseph (1892). An Elementary Treatise on the Differential Calculus (2nd ed.). London: MacMillan and Co.
+Foerster, Paul A. (2006). Algebra and Trigonometry: Functions and Applications (classics ed.). Upper Saddle River, NJ: Prentice Hall. ISBN 978-0-13-165711-3.
+Fraleigh, John B. (1989). A First Course in Abstract Algebra (4th ed.). United States: Addison-Wesley. ISBN 978-0-201-52821-3.
+Hosch, William L., ed. (2010). The Britannica Guide to Algebra and Trigonometry. Britannica Educational Publishing. ISBN 978-1-61530-219-2.
+Menger, Karl (1954). "On Variables in Mathematics and in Natural Science". The British Journal for the Philosophy of Science. University of Chicago Press. 5 (18): 134–142. doi:10.1093/bjps/V.18.134. JSTOR 685170.
+Peregrin, Jaroslav (2000). "Variables in Natural Language: Where do they come from?" (PDF).  In Böttner, Michael; Thümmel, Wolf (eds.). Variable-Free Semantics. Osnabrück Secolo. pp. 46–65. ISBN 978-3-929979-53-4.
+Quine, Willard V. (1960). "Variables Explained Away" (PDF). Proceedings of the American Philosophical Society. American Philosophical Society. 104 (3): 343–347. JSTOR 985250.
+Sorell, Tom (2000). Descartes: A Very Short Introduction. New York: Oxford University Press. ISBN 978-0-19-285409-4.
+Stover, Christopher; Weisstein, Eric W. "Variable".  In Weisstein, Eric W. (ed.). Wolfram MathWorld. Wolfram Research. Retrieved November 22, 2021.
+Tabak, John (2014). Algebra: Sets, Symbols, and the Language of Thought. Infobase Publishing. ISBN 978-0-8160-6875-3.
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Variable_(mathematics)&oldid=1059767280"
+		Categories: Variables (mathematics)AlgebraCalculusElementary mathematicsSyntax (logic)Mathematical logicHidden categories: CS1: Julian–Gregorian uncertaintyArticles with short descriptionShort description is different from WikidataUse mdy dates from November 2021
+	

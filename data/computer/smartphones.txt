@@ -1,0 +1,179 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		In electronics, a self-aligned gate  is a transistor manufacturing feature whereby a refractory gate electrode region of a MOSFET (metal–oxide–semiconductor field-effect transistor) is used as a mask for the doping of the source and drain regions.  This technique ensures that the gate will slightly overlap the edges of the source and drain.
+The use of self-aligned gates in MOS transistors is one of the key innovations that led to the large increase in computing power in the 1970s.  Self-aligned gates are still used in most modern integrated circuit processes.
+
+Contents
+
+1 Introduction
+
+1.1 IC construction
+1.2 Older methodology
+1.3 Self-alignment
+
+
+2 History
+
+2.1 Development of the silicon-gate technology at Fairchild
+2.2 Commercialization at Intel
+
+
+3 Original documents on SGT
+
+3.1 Patents
+
+
+4 Manufacturing process
+
+4.1 Process steps
+
+
+5 See also
+6 Notes
+7 References
+
+
+
+Introduction[edit]
+  Diagram of a standard MOSFET
+IC construction[edit]
+Integrated circuits (ICs, or "chips") are produced in a multi-step process that builds up multiple layers on the surface of a disk of silicon known as a "wafer". Each layer is constructed by coating the wafer in photoresist and then exposing it to ultraviolet light being shone through a stencil-like "mask". Depending on the process, the photoresist that was exposed to light either hardens or softens, and in either case, the softer parts are then washed away. The result is a microscopic pattern on the surface of the wafer where the silicon is exposed while the rest is protected under the remaining photoresist.
+The wafer is then exposed to a variety of processes that add or remove materials from the portions of the wafer that are unprotected by the photoresist. In one common process, the wafer is heated to about 1000 C and then exposed to a gas containing a doping material that changes the electrical properties of the silicon. This allows the silicon to become an electron donor, electron receptor, or insulator depending on the dopant. In a typical IC design,[a] this process is used to produce the individual transistors that make up the key elements of an IC.
+In the MOSFET design (metal–oxide–semiconductor field-effect transistor), the three parts of a transistor are the source, the drain, and the gate (see diagram). These are separated from each other by materials that would normally be insulating. The "field effect" in the name refers to changes to the conductivity that occur when a voltage is placed on the gate. This creates an electric field which causes the material between the source and drain to become conductive, turning the transistor "on". Because no current flows from the gate to the drain, the switching energy of a FET is very small compared to earlier transistor types where the gate (or base as it was known) was in-line with the current.
+
+Older methodology[edit]
+In early IC fabrication methodologies, the wiring between the transistors was made of aluminum. Aluminum melts at 660 C, so it had to be deposited as one of the last steps in the process after all the doping stages had been completed at 1000 C.
+In the common case, the wafer as a whole is first biased to have a particular electrical quality, in the illustration the base material is biased positive, or "p". A mask is then used to produce areas where the negative sections of the transistors will be placed. The wafer is then heated to around 1000 C, and exposed to a gas that diffuses into the surface of the wafer to produce the "n" sections. A thin layer of insulator material is then layered on top of the wafer. Finally, the gate is patterned on top of the insulating layer.
+The photomask and lithography process is not perfect, so the source and drain are not perfectly parallel to each other. Moreover, when the wafer is moved from step to step, it has to be carefully aligned so the new mask is in the proper position relative to the previous steps, and this alignment is never perfect. To ensure the gate actually covers the underlying source and drain, the gate material has to be wider than the gap between the n sections, typically as much as three times.
+As a result, the gate contains a significant amount of metal, which acts as a capacitor. This parasitic capacitance requires that the entire chip be driven at high power levels to ensure clean switching. Additionally, the misalignment of the gate to the underlying source and drain means that there is high chip-to-chip variability even when they are working properly.
+
+Self-alignment[edit]
+The self-aligned gate developed in several steps to its present form. A key advance was the discovery that heavily doped silicon was conductive enough to replace the aluminum. This meant the gate layer could be created at any stage in the multi-step fabrication process.
+In the self-aligned process, the wafer is first prepared by covering it in the insulating layer, which was formerly done near the end of the process. The gate is then patterned on top and heavily doped. The n-sections are then patterned using a mask that represents only the outside edges of the source and drain, the inside edge of those sections is masked by the gate itself. As a result, the source and drain "self-align" to the gate. Since they are always perfectly positioned, there is no need to make the gate wider than desired, and the parasitic capacitance is greatly reduced. Alignment time and chip-to-chip variability are likewise reduced.[1]
+After the early experimentation with different gate materials using aluminum, molybdenum and amorphous silicon, the semiconductor industry almost universally adopted self-aligned gates made with polycrystalline silicon, the so-called silicon-gate technology (SGT), which had many additional benefits over the reduction of parasitic capacitances. One important feature of SGT was that the silicon gate was entirely buried under top quality thermal oxide (one of the best insulators known), making it possible to create new device types, not feasible with conventional technology or with self-aligned gates made with other materials. Particularly important are charge-coupled devices (CCD), used for image sensors, and non-volatile memory devices using floating silicon-gate structures. These devices dramatically enlarged the range of functionality that could be achieved with solid state electronics.
+Certain innovations were required in order to make self-aligned gates:[2]
+
+a new process that would create the gates;
+a switch from amorphous silicon to polycrystalline silicon (because amorphous silicon would break where it passed over "steps" in the oxide insulating surface);
+a photolithography method for etching polycrystalline silicon;
+a method to reduce the impurities present in silicon.
+Prior to these innovations, self-aligned gates had been demonstrated on metal-gate devices, but their real impact was on silicon-gate devices.
+
+History[edit]
+The first MOSFET was invented by Mohamed Atalla and Dawon Kahng at Bell Labs in 1959.[3][4] They used silicon as channel material and a non-self-aligned aluminum (Al) gate.[5] The aluminum-gate MOS process technology started with the definition and doping of the source and drain regions of MOS transistors, followed by the gate mask that defined the thin-oxide region of the transistors. With additional processing steps, an aluminum gate would then be formed over the thin-oxide region completing the device fabrication. Due to the inevitable misalignment of the gate mask with respect to the source and drain mask, it was necessary to have a fairly large overlap area between the gate region and the source and drain regions, to ensure that the thin-oxide region would bridge the source and drain, even under worst-case misalignment. This requirement resulted in gate-to-source and gate-to-drain parasitic capacitances that were large and variable from wafer to wafer, depending on the misalignment of the gate oxide mask with respect with the source and drain mask. The result was an undesirable spread in the speed of the integrated circuits produced, and a much lower speed than theoretically possible if the parasitic capacitances could be reduced to a minimum.  
+The overlap capacitance with the most adverse consequences on performance was the gate-to-drain parasitic capacitance, Cgd, which, by the well-known Miller effect, augmented the gate-to-source capacitance of the transistor by Cgd multiplied by the gain of the circuit to which that transistor was a part. The impact was a considerable reduction in the switching speed of transistors.
+In 1966, Robert W. Bower realized that if the gate electrode was defined first, it would be possible not only to minimize the parasitic capacitances between gate and source and drain, but it would also make them insensitive to misalignment. He proposed a method in which the aluminum gate electrode itself was used as a mask to define the source and drain regions of the transistor. However, since aluminum could not withstand the high temperature required for the conventional doping of the source and drain junctions, Bower proposed to use ion implantation, a new doping technique still in development at Hughes Aircraft, his employer, and not yet available at other labs. While Bower’s idea was conceptually sound, in practice it did not work, because it was impossible to adequately passivate the transistors, and repair the radiation damage done to the silicon crystal structure by the ion implantation, since these two operations would have required temperatures in excess of the ones survivable by the aluminum gate. Thus his invention provided a proof of principle, but no commercial integrated circuit was ever produced with Bower’s method. A more refractory gate material was needed.
+In 1967, John C. Sarace and collaborators at Bell Labs replaced the aluminum gate with an electrode made of vacuum-evaporated amorphous silicon and succeeded in building working self-aligned gate MOS transistors. However, the process, as described, was only a proof of principle, suitable only for the fabrication of discrete transistors and not for integrated circuits; and was not pursued any further by its investigators. 
+In 1968, the MOS industry was prevalently using aluminum gate transistors with high threshold voltage (HVT) and desired to have a low threshold voltage (LVT) MOS process in order to increase the speed and reduce the power dissipation of MOS integrated circuits. Low threshold voltage transistors with aluminum gate demanded the use of [100] silicon orientation, which however produced too low a threshold voltage for the parasitic MOS transistors (the MOS transistors created when aluminum over the field oxide would bridge two junctions). To increase the parasitic threshold voltage beyond the supply voltage, it was necessary to increase the N-type doping level in selected regions under the field oxide, and this was initially accomplished with the use of a so-called channel-stopper mask, and later with ion implantation.
+
+Development of the silicon-gate technology at Fairchild[edit]
+The SGT was the first process technology used to fabricate commercial MOS integrated circuits that was later widely adopted by the entire industry in the  1960s. In late 1967, Tom Klein, working at the Fairchild Semiconductor R&D Labs, and reporting to Les Vadasz, realized that the work function difference between heavily P-type doped silicon and N-type silicon was 1.1 volt lower than the work function difference between aluminum and the same N-type silicon. This meant that the threshold voltage of MOS transistors with silicon gate could be 1.1 volt lower than the threshold voltage of MOS transistors with aluminum gate fabricated on the same starting material. Therefore, one could use starting material with [111] silicon orientation and simultaneously achieve both an adequate parasitic threshold voltage and low threshold voltage transistors without the use of a channel-stopper mask or ion implantation under the field oxide. With P-type doped silicon gate it would therefore be possible not only to create self-aligned gate transistors but also a low threshold voltage process by using the same silicon orientation of the high threshold voltage process.
+In February 1968, Federico Faggin joined Les Vadasz's group and was put in charge of the development of a low-threshold-voltage, self-aligned gate MOS process technology. Faggin's first task was to develop the precision etching solution for the amorphous silicon gate, and then he created the process architecture and the detailed processing steps to fabricate MOS ICs with silicon gate. He also invented the ‘buried contacts,’ a method to make direct contact between amorphous silicon and silicon junctions, without the use of metal, a technique that allowed a much higher circuit density, particularly for random logic circuits.
+After validating and characterizing the process using a test pattern he designed, Faggin made the first working MOS silicon-gate transistors and test structures by April 1968. He then designed the first integrated circuit using silicon gate, the Fairchild 3708, an 8-bit analog multiplexer with decoding logic, that had the same functionality of the Fairchild 3705, a metal-gate production IC that Fairchild Semiconductor had difficulty making on account of its rather stringent specifications.
+The availability of the 3708 in July 1968 provided also a platform to further improve the process during the following months, leading to the shipment of the first 3708 samples to customers in October 1968, and making it commercially available to the general market before the end of 1968. During the period, July to October 1968, Faggin added two additional critical steps to the process:
+
+Replacing the vacuum-evaporated amorphous silicon with poly-crystalline silicon obtained by vapor-phase deposition. This step became necessary since evaporated, amorphous silicon did break where it passed over "steps" in the surface of the oxide.
+The use of phosphorus gettering to soak up the impurities, always present in the transistor, causing reliability problems. Phosphorus gettering allowed to considerably reduce the leakage current and to avoid the threshold voltage drift that still plagued MOS technology with aluminum gate (MOS transistors with aluminum gate were not suitable for phosphorus gettering due to the high temperature required).
+With silicon gate, the long-term reliability of MOS transistors soon reached the level of bipolar ICs removing one major obstacle to the wide adoption of MOS technology.
+By the end of 1968 the silicon-gate technology had achieved impressive results. Although the 3708 was designed to have approximately the same area as the 3705 to facilitate using the same production tooling as the 3705, it could have been made considerably smaller. Nonetheless, it had superior performance compared with the 3705: it was 5 times faster, it had about 100 times less leakage current, and the on resistance of the large transistors making up the analog switches was 3 times lower.[citation needed]
+
+Commercialization at Intel[edit]
+The silicon-gate technology (SGT) was adopted by Intel upon its founding (July 1968), and within a few years became the core technology for the fabrication of MOS integrated circuits worldwide, lasting to this day. Intel was also the first company to develop non-volatile memory using floating silicon-gate transistors.
+The first memory chip to use silicon-gate technology was the Intel 1101 SRAM (static random-access memory) chip, fabricated in 1968 and demonstrated in 1969.[6] The first commercial single-chip microprocessor, the Intel 4004, was developed by Faggin using his silicon-gate MOS IC technology, along with Marcian Hoff, Stan Mazor and Masatoshi Shima.[7]
+
+Original documents on SGT[edit]
+Bower, RW and Dill, RG (1966). "Insulated gate field effect transistors fabricated using the gate as source-drain mask". IEEE International Electron Devices Meeting, 1966
+Faggin, F., Klein, T., and Vadasz, L.: "Insulated Gate Field Effect Transistor Integrated Circuits With Silicon Gates". IEEE International Electron Devices Meeting, Washington D.C, 1968 [1]
+.mw-parser-output .citation{word-wrap:break-word}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}US 3475234, Kerwin, R. E.; Klein, D. L. & Sarace, J. C., "Method for Making MIS Structure", issued 28-10-1969 
+Federico Faggin and Thomas Klein.: "A Faster Generation Of MOS Devices With Low Thresholds Is Riding The Crest Of The New Wave, Silicon-Gate IC’s". Cover story on Fairchild 3708, "Electronics" magazine, September 29, 1969.
+.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Vadasz, L. L.; Grove, A.S.; Rowe, T.A.; Moore, G.E. (October 1969). "Silicon Gate Technology". IEEE Spectrum. pp. 27–35.
+F. Faggin, T. Klein "Silicon Gate Technology", "Solid State Electronics", 1970, Vol. 13, pp. 1125–1144.
+US 3673471, Klein Thomas & Faggin Federico, "Doped Semiconductor Electrodes for MOS Type Devices", issued June 27, 1972,  assigned to Fairchild Camera and Instruments Corporation, Mountain View, CA 
+Patents[edit]
+The self-aligned gate design was patented in 1969 by the team of Kerwin, Klein, and Sarace.[8]
+It was independently invented by Robert W. Bower (U.S. 3,472,712, issued October 14, 1969, filed October 27, 1966). The Bell Labs Kerwin et al. patent 3,475,234 was not filed until March 27, 1967, several months after R. W. Bower and H. D. Dill had published and presented the first publication of this work at the International Electron Device Meeting, Washington, D.C. in 1966.[9]
+In a legal action involving Bower, the Third Circuit Court of Appeals determined that Kerwin, Klein and Sarace were the inventors of the self-aligned silicon gate transistor.  On that basis, they were awarded the basic patent US 3,475,234. Actually the self-aligned gate MOSFET was invented by Robert W. Bower U.S. 3,472,712, issued October 14, 1969, Filed October 27, 1966. The Bell Labs Kerwin et al patent 3,475,234 was not filed until March 27, 1967 several months after the R. W. Bower and H. D. Dill Published and presented the first publication of this work entitled INSULATED GATE FIELD EFFECT TRANSISTORS FABRICATED USING THE GATE AS SOURCE-DRAIN MASK at the International Electron Device Meeting, Washington, D.C., 1966. Bower's work described the self-aligned-gate MOSFET, made with both aluminum and polysilicon gates. It used both ion implantation and diffusion to form the source and drain using the gate electrode as the mask to define the source and drain regions.  The Bell Labs team attended this meeting of the IEDM in 1966, and they discussed this work with Bower after his presentation in 1966. Bower had first made the self-aligned gate using aluminum as the gate and, before presentation in 1966, made the device using polysilicon as the gate.
+The self-aligned gate typically involves ion implantation, another semiconductor process innovation of the 1960s.  The histories of ion implantation and self-aligned gates are highly interrelated, as recounted in an in-depth history by R.B. Fair.[10]
+The first commercial product using self-aligned silicon-gate technology was the Fairchild 3708 8-bit analog multiplexor, in 1968, designed by Federico Faggin who pioneered several inventions in order to turn the aforementioned non working proofs of concept, into what the industry actually adopted thereafter.[11][12]
+
+Manufacturing process[edit]
+The importance of self-aligned gates comes in the process used to make them.  The process of using the gate oxide as a mask for the source and drain diffusion both simplifies the process and greatly improves the yield.
+
+Process steps[edit]
+The following are the steps in creating a self-aligned gate:
+[13]
+
+  A cleanroom facility where these steps are performed
+These steps were first created by Federico Faggin and used in the Silicon Gate Technology process developed at Fairchild Semiconductor in 1968 for the fabrication of the first commercial integrated circuit using it, the Fairchild 3708 [14]
+
+1. Wells on the field oxide are etched where the  transistors are to be formed. Each well defines the   source, drain, and active gate regions of an MOS transistor.
+2. Using a dry thermal oxidation process, a thin layer (5-200 nm) of gate oxide (SiO2) is grown on the silicon wafer.
+3. Using a chemical vapor deposition (CVD) process, a layer of polysilicon is grown on top of the gate oxide.
+4. A layer of photoresist is applied on top of the polysilicon.
+5. A mask is placed on top of the photoresist and exposed to UV light; this breaks down the photoresist layer in areas where the mask didn't protect it.
+6. Photoresist is exposed with a specialized developer solution.  This is intended to remove the photoresist that was broken down by the UV light.
+7. The polysilicon and gate oxide that is not covered by photoresist is etched away with a buffered ion etch process.  This is usually an acid solution containing hydrofluoric acid.
+8. The rest of the photoresist is stripped from the silicon wafer.  There is now a wafer with polysilicon over the gate oxide, and over the field oxide.
+9. The thin oxide is etched away exposing the source and drain regions of the transistor, except in the gate region which is protected by the polysilicon gate.
+10. Using a conventional doping process, or a process called ion-implantation, the source, drain and the polysilicon are doped. The thin oxide under the silicon gate acts as a mask for the doping process. This step is what makes the gate self-aligning. The source and drain regions are automatically properly aligned with the (already in place) gate.
+11. The wafer is annealed in a high temperature furnace (>800 °C or 1,500 °F).  This diffuses the dopant further into the crystal structure to make the source and drain regions and results in the dopant diffusing slightly underneath the gate.
+12. The process continues with vapor deposition of silicon dioxide to protect the exposed areas, and with all the remaining steps to complete the process.
+See also[edit]
+Semiconductor device fabrication
+Microfabrication
+Notes[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ Not all ICs contain transistors.
+
+
+References[edit]
+
+
+^ Yanda, Heynes, and Miller (2005). Demystifying Chipmaking. pp. 148–149. ISBN 978-0-7506-7760-8.CS1 maint: multiple names: authors list (link)
+
+^ Orton, John Wilfred (2004). The Story of Semiconductors. p. 114. ISBN 978-0-19-853083-1.
+
+^ "1960 - Metal Oxide Semiconductor (MOS) Transistor Demonstrated". The Silicon Engine. Computer History Museum.
+
+^ Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. pp. 321-3. ISBN 9783540342588.
+
+^ Voinigescu, Sorin (2013). High-Frequency Integrated Circuits. Cambridge University Press. p. 164. ISBN 9780521873024.
+
+^ Sah, Chih-Tang (October 1988). "Evolution of the MOS transistor-from conception to VLSI" (PDF). Proceedings of the IEEE. 76 (10): 1280–1326 (1303). doi:10.1109/5.16328. ISSN 0018-9219.
+
+^ "1971: Microprocessor Integrates CPU Function onto a Single Chip". The Silicon Engine. Computer History Museum. Retrieved 22 July 2019.
+
+^ Kerwin, R. E.; Klein, D. L.; Sarace, J. C. (1969). "U.S. Patent 3,475,234 (Method for Making MIS Structure)". Cite journal requires |journal= (help)
+
+^ 
+Bower, RW & Dill, RG (1966). "Insulated gate field effect transistors fabricated using the gate as source-drain mask". Electron Devices Meeting, 1966 International. IEEE. 12: 102–104. doi:10.1109/IEDM.1966.187724.
+
+^ 
+Richard B. Fair (Jan 1998). "History of Some Early Developments in Ion-Implantation Technology Leading to Silicon Transistor Manufacturing". Proc. IEEE. 86 (1): 111–137. doi:10.1109/5.658764.
+
+^ 
+John A. N. Lee (1995). International biographical dictionary of computer pioneers, Volume 1995, Part 2. Taylor & Francis US. p. 289. ISBN 978-1-884964-47-3.
+
+^ 
+Bo Lojek (2007). History of semiconductor engineering. Springer. p. 359. ISBN 978-3-540-34257-1.
+
+^ Streetman, Ben; Banerjee (2006). Solid State Electronic Devices. PHI. pp. 269–27, 313. ISBN 978-81-203-3020-7.
+
+^ Faggin, F., Klein, T., and Vadasz, L.: "Insulated Gate Field Effect Transistor Integrated Circuits With Silicon Gates". IEEE International Electron Devices Meeting, Washington D.C, 1968
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Self-aligned_gate&oldid=984466212"
+		Categories: 1966 introductionsItalian inventionsMOSFETsTransistor typesHidden categories: CS1 maint: multiple names: authors listCS1 errors: missing periodicalAll articles with unsourced statementsArticles with unsourced statements from June 2012
+	

@@ -1,0 +1,184 @@
+
+		From Wikipedia, the free encyclopedia
+		  (Redirected from Parameter (music))
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Ingredients that form music
+  Notation indicating differing pitch, dynamics, articulation, and instrumentation
+Music can be analysed by considering a variety of its elements, or parts (aspects, characteristics, features), individually or together. A commonly used list of the main elements includes pitch, timbre, texture, volume, duration, and form. The elements of music may be compared to the elements of art or design.
+
+Contents
+
+1 Selection of elements
+2 Definition of music
+3 Universal aspect
+4 Other terms
+5 See also
+6 References
+7 Further reading
+8 External links
+
+
+
+Selection of elements[edit]
+According to Howard,[1] there is little dispute about the principal constituent elements of music, though experts differ on their precise definitions. Harold Owen bases his list on the qualities of sound: pitch, timbre, intensity, and duration[2] while John Castellini excludes duration.[3] Gordon C. Bruner II follows the line of temporal-based deductions in association with musical composition, denoting music's primary components as "time, pitch, and texture."[4] Most definitions of music include a reference to sound[5][6][7][8] and sound perception can be divided into six cognitive processes. They are: pitch, duration, loudness, timbre, sonic texture and spatial location.[9]
+A 'parameter' is any element that can be manipulated (composed) separately from other elements or focused on separately in an educational context.[citation needed] Leonard B. Meyer compares distinguishing parameters within a culture by their different constraints to distinguishing independent parameters within music, such as melody, harmony, timbre, "etc."[10] The first person to apply the term parameter to music may have been Joseph Schillinger, though its relative popularity may be due to Werner Meyer-Eppler.[11] Gradation is gradual change within one parameter, or an overlapping of two blocks of sound.
+Meyer lists melody, rhythm, timbre, harmony, "and the like"[12] as principal elements of music, while Narmour lists melody, harmony, rhythm, dynamics, tessitura, timbre, tempo, meter, texture, "and perhaps others".[13] According to McClellan, two things should be considered, the quality or state of an element and its change over time.[14] Alan P. Merriam[15] proposed a theoretical research model that assumes three aspects are always present in musical activity: concept, behaviour, and sound. Virgil Thomson[16] lists the "raw materials" of music in order of their supposed discovery: rhythm, melody, and harmony; including counterpoint and orchestration. Near the end of the twentieth century music scholarship began to give more attention to social and physical elements of music.[17] For example: performance, social, gender, dance, and theatre.
+
+Definition of music[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}Main article: Definition of music
+  Circular definition of "musicality"
+Does the definition of music determine its aspects, or does the combination of certain aspects determine the definition of music? For example, intensional definitions list aspects or elements that make up their subject.
+Some definitions refer to music as a score, or a composition:[18][7][19]) music can be read as well as heard, and a piece of music written but never played is a piece of music notwithstanding. According to Edward E. Gordon the process of reading music, at least for trained musicians, involves a process, called "inner hearing" or "audiation", where the music is heard in the mind as if it were being played.[20] This suggests that while sound is often considered a required aspect of music, it might not be.
+Jean Molino[21] points out that "any element belonging to the total musical fact can be isolated, or taken as a strategic variable of musical production." Nattiez gives as examples Mauricio Kagel's Con Voce [with voice], where a masked trio silently mimes playing instruments. In this example sound, a common element, is excluded, while gesture, a less common element, is given primacy. However Nattiez goes on to say that despite special cases where sound is not immediately obvious (because it is heard in the mind): "sound is a minimal condition of the musical fact".[22]
+
+Universal aspect[edit]
+
+There is disagreement about whether some aspects of music are universal, as well as whether the concept of music is universal. This debate often hinges on definitions. For instance, the fairly common assertion that "tonality" is a universal of all music may necessarily require an expansive definition of tonality. A pulse is sometimes taken as a universal, yet there exist solo vocal and instrumental genres with free and improvisational rhythms no regular pulse,[23] one example being the alap section of an Indian classical music performance. Harwood questions whether a "cross-cultural musical universal" may be found in the music or in the making of music, including performance, hearing, conception, and education.[24]
+One aspect that is important to bear in mind when examining multi-cultural associations, is that an English-language word (i.e. the word "music"), not a universal concept, is the object of scrutiny. For this reason it is important to approach apparently equivalent words in other languages with caution. Based on the many disparate definitions that can be found just in English language dictionaries,[5][18][7][8]) it seems there is no agreement on what the word "Music" means in English,[original research?] let alone determining a potentially equivalent word from another culture.
+Kenneth Gourlay describes how, since different cultures include different elements in their definitions of music, dance, and related concepts, translation of the words for these activities may split or combine them, citing Nigerian musicologist Chinyere Nwachukwu's definition of the Igbo term "nkwa"[25] as an activity combining and/or requiring singing, playing musical instruments, and dancing.[26] He then concludes that there exists "nonuniversality of music and the universality of nonmusic".
+
+Other terms[edit]
+Other terms used to discuss particular pieces include:
+
+Note—an abstraction that refers to either a specific pitch or rhythm, or the written symbol
+Chord—a simultaneity of notes heard as some sort of unit
+Chord progression—a succession of chords (simultaneity succession)
+For a more comprehensive list of terms see: Outline of music
+
+See also[edit]
+.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}
+Combinatoriality
+New musicology
+Noise in music
+Permutation (music)
+Philosophy of music
+Process music
+Serialism
+Set (music)
+Sound art
+
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ Gardner 1983, 104.
+
+^ Owen 2000, 6.
+
+^ Castellini 1962, 4.
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Ii, Gordon C. Bruner (October 1990). "Music, Mood, and Marketing". Journal of Marketing. 54 (4): 94. doi:10.2307/1251762.
+
+^ a b Google.com.au 2015.
+
+^ Dictionary.com 2015b.
+
+^ a b c Merriam-webster.com 2015.
+
+^ a b Anon. & 1991, 1994, 1998, 2000, 2003.
+
+^ Burton 2015, 22–28.
+
+^ Meyer 1989, 21n44.
+
+^ Grant 2005, 62n85.
+
+^ Meyer 1973, 9.
+
+^ Narmour 1988, 326.
+
+^ McClellan 2000, 142.
+
+^ Merriam 1964, 32–33.
+
+^ Thomson 1957, vii.
+
+^ Moran 2013, 59.
+
+^ a b Dictionary.com 2015a.
+
+^ Oxforddictionaries.com 2015.
+
+^ Gordon 1999.
+
+^ Molino 1975, 43.
+
+^ Nattiez 1990, 43.
+
+^ Johnson 2002, 62.
+
+^ Harwood 1976, 522.
+
+^ Nwachukwu 1981, 59.
+
+^ Gourlay 1984, 35.
+
+
+Sources
+
+
+.mw-parser-output .citation{word-wrap:break-word}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}Anon. (1991, 1994, 1998, 2000, 2003) "Music". Collins English Dictionary – Complete and Unabridged. Retrieved November 30, 2015 from http://www.thefreedictionary.com/music
+Burton, Russell L. (2015). "The Elements of Music: What Are They, and Who Cares?" In ASME XXth National Conference Proceedings, edited by Jennifer Rosevear and Susan Harding, 22–28. Parkville, Victoria: The Australian Society for Music Education Inc. (Paper presented at: Music: Educating for life: ASME XXth National Conference).
+Castellini, John (1962). Rudiments of Music. New York: W. W. Norton. [ISBN unspecified].
+Dictionary.com (2015a). the definition of music. Retrieved 1 December 2015, from http://dictionary.reference.com/browse/music
+Dictionary.com (2015b). the definition of sound. Retrieved 2 December 2015, from http://dictionary.reference.com/browse/sound
+Gardner, Howard (1983). Frames of Mind: The Theory of Multiple Intelligences. New York: Basic Books. ISBN 978-0-465-02508-4; ISBN 978-0-465-02509-1. Quoted in Gary Spruce, Aspects of Teaching Secondary Music: Perspectives on Practice. Routledge, 2003. ISBN 978-1-134-50865-5.
+Google.com.au (2015). Google. Retrieved 1 December 2015, from https://www.google.com.au/?gws_rd=ssl#safe=strict&q=music+definition.
+Gordon, E. E. (1999). "All About Audiation and Music Aptitudes". Music Educators Journal (September): 41–44.
+Gourlay, Kenneth (1984). "The Non-Universality of Music and the Universality of Non-Music”. The World of Music 26, no. 2 (1984): 25–39. Cited in Nattiez (1990) and Nattiez (2012), p. 78.
+Grant, M[orag] J[osephine] (2005). Serial Music, Serial Aesthetics: Compositional Theory in Post-War Europe. Cambridge and New York: Cambridge University Press. ISBN 978-0-521-61992-9.
+Harwood, Dane (1976). "Universals in Music: A Perspective from Cognitive Psychology". Ethnomusicology 20, no. 3:521–533. Cited in Nattiez (1990).
+Johnson, Julian (2002). Who Needs Classical Music?: Cultural Choice and Musical Value. Oxford and New York: Oxford University Press. ISBN 0-19-514681-6.
+McClellan, Randall (2000). The Healing Forces of Music: History, Theory, and Practice. iUniverse. ISBN 978-0-595-00665-6.
+Merriam, Alan P. 1964. The Anthropology of Music. Evanston: Northwestern University Press.
+Merriam-webster.com (2015). music
+Meyer, Leonard (1973). Explaining Music: Essays and Explorations. University of California. ISBN 978-0-520-02216-4.
+Meyer, Leonard B. (1989). Style and Music: Theory, History, and Ideology. Studies in the Criticism and Theory of Music. Philadelphia: University of Pennsylvania Press. Reprinted, Chicago: University of Chicago Press, 1996. ISBN 978-0-226-52152-7.
+Molino, J. (1975). "Fait musical et sémiologue de la musique". Musique en Jeu, no. 17:37–62. Cited in Nattiez (1990).
+Moran, Nikki (2013). "Social Co-Regulation and Communication in North Indian Duo Performances". In Experience and Meaning in Music Performance, edited by Martin Clayton, Byron Dueck, and Laura Leante, 40–61. New York: Oxford University Press. ISBN 978-0-19-981131-1; ISBN 978-0-19-981132-8 (ebook).
+Narmour, Eugene (1988). Explorations in Music, the Arts, and Ideas: Essays in Honor of Leonard B. Meyer. Pendragon. ISBN 978-0-918728-94-4.
+Nattiez, Jean-Jacques (1990). Music and Discourse: Toward a Semiology of Music, translated by Carolyn Abbate from Musicologie générale et sémiologue (1987). New Jersey: Princeton University Press. ISBN 0-691-02714-5.
+Nattiez, Jean-Jacques (2012). "Is the Search for Universals Incompatible with the Study of Cultural Specificity?" Humanities and Social Sciences 1, no. 1: 67–94.
+Nwachukwu, C. (1981). Taxonomy of Musical Instruments in Mbaise, Nigeria. Unpublished M.A. Thesis. The Queen’s University of Belfast, 1981.
+Owen, Harold (2000). Music Theory Resource Book. Oxford and New York: Oxford University Press. ISBN 0-19-511539-2.
+Oxforddictionaries.com (2015) "[...] The written or printed signs representing vocal or instrumental sound; The score or scores of a musical composition or compositions". Retrieved 1 December 2015, from http://www.oxforddictionaries.com/definition/english/music
+Thomson, Virgil (1957). "Introduction" to Robert Erickson. The Structure of Music: A Listener's Guide: A Study of Music in Terms of Melody and Counterpoint. New York: Noonday Press.
+
+Further reading[edit]
+Agricola, Martin (1991). The Rudiments of Music, new edition, translated from the Latin edition of 1539 by John Trowell. Aberystwyth: Boethius Press. ISBN 0-86314-034-3
+American National Standards Institute, "American National Psychoacoustical Terminology". [N.p.]: American Standards Association
+Macpherson, Stewart, and Anthony Payne (1970). The Rudiments of Music, revised edition, with a new chapter by Anthony Payne. London: Stainer & Bell; New York: Galliard. ISBN 978-0-85249-010-5.
+Ottman, Robert W., and Frank D. Mainous (2000). Rudiments of Music, second edition. Englewood Cliffs, NJ: Prentice-Hall. ISBN 978-0-13-783671-0.
+White, John D. (1976). The Analysis of Music. Englewood Cliffs, New Jersey: Prentice-Hall. ISBN 978-0-13-033233-2.
+External links[edit]
+
+
+
+Wikiquote has quotations related to: Elements of music
+
+ Media related to Elements of music at Wikimedia Commons
+The Elements of Music
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteMusic theory
+Aesthetics
+Analysis
+Aspects
+Composition
+Definition
+Mathematics
+Musicology
+Philosophy
+Psychology
+Set theory
+Tuning
+List of music theorists
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Elements_of_music&oldid=1058350561"
+		Categories: Elements of musicMusical analysisMusical compositionPhilosophy of musicSerialismHidden categories: Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from June 2016All articles that may contain original researchArticles that may contain original research from June 2016Inconsistent wikidata for Commons category
+	

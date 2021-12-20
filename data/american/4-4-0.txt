@@ -1,0 +1,524 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Locomotive wheel arrangement
+.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}4-4-0 (American)Front of locomotive at left1836 Patent drawing of the first 4-4-0 locomotiveEquivalent classificationsUIC class2′BFrench class220Turkish class24Swiss class2/4Russian class2-2-0First known tank engine versionFirst use1849CountryUnited KingdomLocomotiveGWR Bogie ClassRailwaySouth Devon RailwayBuilderGreat Western RailwayFirst known tender engine versionFirst use1836CountryUnited States of AmericaRailwayPhiladelphia, Germantown and Norristown RailwayDesignerHenry Roe CampbellBuilderPhiladelphia, Germantown and Norristown RailwayEvolved from4-2-0Evolved to4-4-2BenefitsBetter tractive effort than the 4-2-0DrawbacksCould only pull a few cars due to its small size
+4-4-0 is a locomotive type with a classification that uses the Whyte notation for the classification of steam locomotives by wheel arrangement and represents the arrangement: four leading wheels on two axles (usually in a leading bogie), four powered and coupled driving wheels on two axles, and a lack of trailing wheels. Due to the large number of the type that were produced and used in the United States, the 4-4-0 is most commonly known as the American type, but the type subsequently also became popular in the United Kingdom, where large numbers were produced.[1]
+Almost every major railroad that operated in North America in the first half of the 19th century owned and operated locomotives of this type. 
+
+.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}Contents
+
+1 Development
+
+1.1 American development
+1.2 British development
+
+
+2 Use
+
+2.1 Australia
+2.2 Finland
+2.3 Mozambique
+2.4 New Zealand
+2.5 Rhodesia
+2.6 South Africa
+
+2.6.1 Narrow gauge
+2.6.2 Standard gauge
+2.6.3 Cape gauge
+
+
+2.7 United Kingdom
+
+2.7.1 Tank locomotives
+2.7.2 Inside cylinder tender locomotives
+2.7.3 Three-cylinder tender locomotives
+
+
+2.8 United States
+
+
+3 Operational historic locomotives
+
+3.1 North America
+
+
+4 References
+5 External links
+
+
+The first use of the name American to describe locomotives of this wheel arrangement was made by Railroad Gazette in April 1872.[1] Prior to that, this wheel arrangement was known as a standard or eight-wheeler.
+This locomotive type was so successful on railroads in the United States of America that many earlier 4-2-0 and 2-4-0 locomotives were rebuilt as 4-4-0s by the middle of the 19th century.[1][2]
+Several 4-4-0 tank locomotives were built, but the vast majority of locomotives of this wheel arrangement were tender engines.
+
+Development[edit]
+American development[edit]
+Five years after new locomotive construction had begun at the West Point Foundry in the United States with the 0-4-0 Best Friend of Charleston in 1831, the first 4-4-0 locomotive was designed by Henry R. Campbell, at the time the chief engineer for the Philadelphia, Germantown and Norristown Railway. Campbell received a patent for the design in February 1836 and soon set to work building the first 4-4-0.[1]
+At the time, Campbell's 4-4-0 was a giant among locomotives. Its cylinders had a 14-inch (360 mm) bore with a 16-inch (410 mm) piston stroke, it boasted 54-inch (1,400 mm) diameter driving wheels, could maintain 90 pounds per square inch (620 kPa) of steam pressure and weighed 12 short tons (11 t). Campbell's locomotive was estimated to be able to pull a train of 450 short tons (410 t) at 15 miles per hour (24 km/h) on level track, outperforming the strongest of Baldwin's 4-2-0s in tractive effort by about 63%. However, the frame and driving gear of his locomotive proved to be too rigid for the railroads of the time, which caused Campbell's prototype to be derailment-prone. The most obvious cause was the lack of a weight equalizing system for the drivers.[1]
+
+  An 1880s woodcut of a 4-4-0 locomotive
+At about the same time as Campbell was building his 4-4-0, the company of Eastwick and Harrison was building its own version of the 4-4-0. This locomotive, named Hercules, was completed in 1837 for the Beaver Meadow Railroad. It was built with a leading bogie that was separate from the locomotive frame, making it much more suitable for the tight curves and quick grade changes of early railroads. The Hercules initially suffered from poor tracking, which was corrected by giving it an effective springing system when returned to its builder for remodeling.[1]
+
+  1856 relief sculpture of a 4-4-0 commissioned by the Norris Locomotive Works, depicting an early model prior to the adoption of the covered cab
+  Remains of a 4-4-0 locomotive of the Richmond & Petersburg Railroad, Richmond Virginia 1865
+Even though the Hercules and its successors from Eastwick and Harrison proved the viability of the new wheel arrangement, the company remained the sole builders of this type of locomotive for another two years. Norris Locomotive Works built that company's first 4-4-0 in 1839, followed by Rogers Locomotive & Machine Works, the Locks & Canals Machine Shop and the Newcastle Manufacturing Company in 1840. After Henry Campbell sued other manufacturers and railroads for infringing on his patent, Baldwin settled with him in 1845 by purchasing a license to build 4-4-0s.[1]
+
+  Short wheelbased St Lawrence & Atlantic Railroad Coos, c. 1856, Longueuil, Quebec
+As the 1840s progressed, the design of the 4-4-0 changed little, but the dimensions of a typical example of this type increased. The boiler was lengthened, drivers grew in diameter and the firegrate was increased in area. Early 4-4-0s were short enough that it was most practical to connect the pistons to the rear drivers, but as the boiler was lengthened, the connecting rods were more frequently connected to the front drivers.[1]
+In the 1850s, locomotive manufacturers began extending the wheelbase of the leading bogie and the drivers as well as the tender bogies. By placing the axles farther apart, manufacturers were able to mount a wider boiler completely above the wheels that extended beyond the sides of the wheels. This gave newer locomotives increased heating and steaming capacity, which translated to higher tractive effort. It was in this decade that 4-4-0 locomotives had assumed the appearance for which they would be most recognized by railways and people around the world.[1]
+The design and subsequent improvements of the 4-4-0 configuration proved so successful that, by 1872, 60% of Baldwin's locomotive construction was of this type and it is estimated that 85% of all locomotives in operation in the United States were 4-4-0s. However, the 4-4-0 was soon supplanted by bigger designs, like the 2-6-0 and 2-8-0, even though the 4-4-0 wheel arrangement was still favored for express services. The widespread adoption of the 4-6-0 and larger locomotives eventually helped seal its fate as a product of the past.[1]
+Although largely superseded in North American service by the early 20th century, Baldwin Locomotive Works produced two examples for the narrow gauge Ferrocarriles Unidos de Yucatán in early 1946, probably the last engines of this wheel arrangement intended for general use.[3] A number of individual engines have been custom-built for Theme Parks in recent years, resembling early designs in appearance.
+
+British development[edit]
+The first British locomotives to use this wheel arrangement were the .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}7 ft 1⁄4 in (2,140 mm) broad gauge 4-4-0 tank engine designs which appeared from 1849. The first British tender locomotive class, although of limited success, was the broad gauge Waverley class of the Great Western Railway, designed by Daniel Gooch and built by Robert Stephenson & Company in 1855.[4]
+The first American-style British 4-4-0 tender locomotive on 4 ft 8+1⁄2 in (1,435 mm) standard gauge, designed by William Bouch for the Stockton & Darlington Railway in 1860, followed American practice with two outside cylinders.[5]
+Britain's major contribution to the development of the 4-4-0 wheel arrangement was the inside cylinder version, which resulted in a steadier locomotive, less prone to oscillation at speed. This type was introduced in Scotland in 1871 by Thomas Wheatley of the North British Railway.[6]
+
+Use[edit]
+Australia[edit]
+  South Australian Railways S class No. 151, at Murray Bridge in March 1951
+The first 4-4-0s appeared in South Australia in 1859. From that initial order for two locomotives, the numbers of this wheel arrangement multiplied and eventually appeared in most of the Australian colonies. Tender, tank and saddle tank versions, varying in size from small engines to express passenger racers with 6 feet 6 inches (1,981 millimetres) driving wheels, worked in Victoria, New South Wales, Western Australia and Tasmania on 3 ft 6 in (1,067 mm) gauge, 4 ft 8+1⁄2 in (1,435 mm) standard gauge and 
+5 ft 3 in (1,600 mm) gauge.[7]
+The locomotives came from British builders such as Dübs & Company and Beyer, Peacock & Company, from the American Rogers Locomotive & Machine Works in New Jersey and from local firms such as James Martin & Co. in Gawler, South Australia, and the Phoenix Foundry in Ballarat, Victoria. In New South Wales and Victoria, the 4-4-0 ruled the rails for mainline passenger services until the early 1900s. In Western Australia, some were later converted to 4-4-2s.[8][9]
+
+Finland[edit]
+  Finnish Class A4 locomotive of 1872
+In Finland, the 4-4-0 was represented by the Classes A1, A2, A3, A4, A5, A6 and A7.
+
+The Class A4 was a class of nine locomotives, built in 1872 and 1873 by the Baldwin Locomotive Works for use on the Hanko–Hyvinkää railway.
+The Finnish Steam Locomotive Class A5 was a class of only two locomotives, built in 1874 and 1875 by the Finnish State Railroad's workshops in Helsinki. One of them is preserved at the Finnish Railway Museum.
+Mozambique[edit]
+  Restored Beira Railway Falcon F2
+Between 1895 and 1898, Pauling & Company placed 42 Falcon F2 and F4 4-4-0 tender locomotives in service on the 2 ft (610 mm) narrow gauge railway which was being constructed for the Beira Railway in Mozambique. They were supplied in six batches by Falcon Engine & Car Works in England and the Glasgow Railway Engineering Company in Scotland.[10][11][12]
+In service, these locomotives were nicknamed Lawleys after the Beira Railway construction subcontractor. The construction of the last batch of ten F4 locomotives was subcontracted by Falcon to the Glasgow Railway Engineering Company in Scotland and these were consequently often referred to as the Drummond F4.[10][11][12][13]
+The Falcon F4 was larger and heavier than the earlier F2, with a tractive effort that was increased from the 3,000 pounds-force (13.3 kilonewtons) of the F2 to 3,987 pounds-force (17.7 kilonewtons) at 75% boiler pressure. It could haul 180 long tons (182.9 tonnes) up the ruling gradients, compared to the 160 long tons (162.6 tonnes) that the F2 could manage.[11]
+
+New Zealand[edit]
+The NZR LA class tank locomotives of 1887 were built in Britain by Nasmyth, Wilson & Company in 1887 for the New Zealand Midland Railway Company. They were taken over by the New Zealand Railways Department in 1900, when the government acquired the incomplete Midland line.
+
+
+Rhodesia[edit]
+When the Beira Railway in Mozambique was regauged to 3 ft 6 in (1,067 mm) by 1900 and the whole 4-4-0 Lawley locomotive fleet was staged, six of the Mozambican F4 locomotives were acquired by the Ayrshire Railway, which was then under construction in Southern Rhodesia. They remained in service there until 1914, when this line was also converted to Cape gauge and became the Sinoia branch of the Beira, Mashonaland and Rhodesia Railway.[10][11][13]
+
+South Africa[edit]
+Narrow gauge[edit]
+In 1907 and 1910, the Tongaat Sugar Estates in Natal acquired two 4-4-0 tank locomotives from WG Bagnall for their 2 ft (610 mm) gauge line. These locomotives had 9 by 14 inches (229 by 356 millimetres) cylinders. A further eleven similar locomotives, but with 10 by 15 inches (254 by 381 millimetres) cylinders, were delivered from the same manufacturer between 1926 and 1946.[citation needed]
+
+  SAR Class NG6 no. 106
+In 1915, thirteen of the Beira Railway’s retired narrow gauge Falcon F2 and F4 locomotives were acquired from Mozambique by the Union Defence Forces for use in South Africa, where they replaced locomotives that had been commandeered for the war effort in German South West Africa during World War I. At the end of the war, these locomotives were staged until they were placed back in service by the South African Railways (SAR) in 1921. When a system of grouping narrow gauge locomotives into classes was eventually introduced by the SAR between 1928 and 1930, they were classified as Class NG6.[10][13]
+In 1936, Bagnall built a single 4-4-0 tank locomotive, named Burnside and with 11+1⁄2 by 15 inches (292 by 381 millimetres) cylinders, for the 2 ft 0+1⁄2 in (622 mm) gauge line of the Natal Estates sugar plantation at Mount Edgecombe in Natal.[citation needed]
+
+Standard gauge[edit]
+  Natal Railway Co. Perseverance
+The third locomotive of the 4 ft 8+1⁄2 in (1,435 mm) standard gauge Natal Railway Company was delivered in January 1876, sixteen years after the opening of the railway. It was a 4-4-0 side tank engine, built by Kitson & Company and named Perseverance. This was the last standard gauge locomotive to be obtained by the Natal Railway Company before the establishment of the Natal Government Railways in 1877 and the conversion from Standard gauge to 3 ft 6 in (1,067 mm) Cape gauge.[14][15]
+
+Cape gauge[edit]
+  CGR 1st Class with optional tender
+Seven side-tank locomotives were built for the Cape Government Railways (CGR) by Robert Stephenson & Company in 1875. Since they were found to be fast and reliable engines, four more were delivered in 1880, built by Neilson & Company and practically identical to the previous seven, but equipped with small optional four-wheeled water tenders. They were all designated 1st Class when a locomotive classification system was introduced by the CGR.[14][16]
+In 1879, the Cape Government Railways placed four 1st Class tender locomotives in service, built by the Avonside Engine Company. They were intended for fast passenger service on the Cape Western and Eastern systems and were followed by eleven more from Neilson & Company in 1880.[14][16]
+In 1881, the CGR placed six more 1st Class tank-and-tender locomotives in service on its Cape Midland system. These were built by Neilson & Company as tender locomotives without on-board coal bunkers and with permanently attached coal and water tenders. Two of them became SAR Class 01 in 1912.[14][16]
+
+  Wynberg Tank, c. 1882
+Between 1882 and 1891, eleven 4-4-0T tank locomotives for the Wynberg suburban line in Cape Town were delivered to the CGR from Neilson and Dübs & Company. Designated 2nd Class and known as Wynberg Tanks, ten of them became SAR Class 02 in 1912.[10][14]
+In 1882, two tank locomotives named Grahamstown and Bathurst entered passenger service on the private Kowie Railway between Grahamstown and Port Alfred, which was still under construction at the time.[14]
+
+  CGR 3rd Class 4-4-0 Sir Hercules
+Eighteen tender passenger locomotives were delivered to the CGR from Neilson & Company in 1883, designated 3rd Class. They were ordered for passenger service out of Cape Town, East London and Port Elizabeth respectively and were equipped with six-wheeled tenders.[10][14]
+In 1884, the CGR placed two experimental 3rd Class tender locomotives in service, designed by the Cape Eastern System to be able to use the low-grade local coal with its high incombustible matter content.[14]
+In 1889, the CGR placed 24 3rd Class tender locomotives in service. They were the first stock locomotives to be built in quantity to detailed designs prepared in the Cape of Good Hope.[14]
+
+  CGR 3rd Class Wynberg Tender
+In 1898, the CGR placed six 3rd Class Wynberg Tender locomotives in passenger service on the suburban lines in Cape Town.[10][14]
+In 1901, the CGR placed another six 3rd Class Wynberg Tender locomotives in suburban service in Cape Town. They were a heavier and more powerful version of the locomotives of 1898 and were built for speed, with the largest coupled wheels of any locomotive on the CGR to date at 60 inches (1,520 millimetres) diameter.[10][14]
+In 1903, the CGR placed the last eight 3rd Class Wynberg Tenders in suburban service in Cape Town. While they appeared to be virtually identical to the locomotives of 1901 at first glance, they were heavier and more powerful.[10][14]
+
+
+United Kingdom[edit]
+Tank locomotives[edit]
+  Bogie class 4-4-0ST Horace of 1854
+4-4-0T classes began to appear on 7 ft 1⁄4 in (2,140 mm) broad-gauge lines in the United Kingdom from 1849. The Great Western Railway built its Bogie class saddle tanks for the South Devon Railway in 1849, and others for its own use during 1854 and 1855. Between 1851 and 1876, the South Devon Railway acquired a further six saddle tank classes, and the Vale of Neath Railway a further nine. The Bristol and Exeter Railway introduced several 4-4-0ST classes after 1855.[17]
+William Adams built a series of standard gauge 4-4-0T classes for the North London Railway between 1863 and 1876. He went on to build the LSWR 46 Class for the London & South Western Railway in 1879. Other British 4-4-0T types included the A Class of the Metropolitan Railway, built by Beyer, Peacock & Company from 1864, and the Highland Railway O Class of 1878 and P class of 1893-94. Also in 1864, John Lambie of the Caledonian Railway built twelve Class 1 4-4-0T locomotives.
+
+Inside cylinder tender locomotives[edit]
+  A LB&SCR B4 class c.1910 typical of the British inside frame/inside cylinder layout
+Between 1876 and 1903, Samuel Johnson of the Midland Railway built 350 inside cylinder tender locomotives to various designs, notably the Midland Railway 483 Class. The type was particularly refined by John F. McIntosh of the Caledonian Railway with his Dunalastair and Breadalbane classes of 1896 to 1898. In addition, Wilson Worsdell of the North Eastern Railway designed six classes between 1896 and 1909. Other notable classes included the London & South Western Railway’s T9 class of 1899 and the London & North Western Railway’s Precursor Class of 1904.[6]
+From the mid-1890s until after World War I, the inside cylinder 4-4-0 was the standard type for British Express passenger trains, although several classes were also used in mixed traffic service in later years.[6]
+
+  City of Truro
+The Great Western Railway (GWR) preferred to retain outside frames on their inside cylinder 4-4-0s. One member of its City class, the City of Truro, designed by George Jackson Churchward and built at the GWR’s Swindon Works in 1903, was reputedly the first steam locomotive in Europe to travel in excess of 100 miles per hour (160 kilometres per hour), reaching a speed of 102.3 miles per hour (164.6 kilometres per hour) on 9 May 1904 while hauling the Ocean Mails special from Plymouth to London Paddington.
+Although the inside cylinder 4-4-0 had largely been superseded by larger locomotives for mainline express trains by 1920, the type remained in use in Scotland and East Anglia, where lines that could not support heavier or larger locomotives were common. Thus both the Great Eastern Railway’s Claud Hamilton classes of 1900 to 1911 and the Great Central Railway’s Director classes of 1920 were perpetuated by the London & North Eastern Railway in 1923. Until 1932, the London, Midland & Scottish Railway also continued to build its Class 2P of traditional inside cylinder 4-4-0s for secondary passenger working.
+
+Three-cylinder tender locomotives[edit]
+  Southern Railway Schools class Stowe, constructed in 1934
+Experiments were conducted with three-cylinder compound locomotives by Wilson Worsdell of the North Eastern Railway in 1898, Samuel Johnson of the Midland Railway in 1901 and Francis Webb of the London & North Western Railway. Of these, the development of Johnson's design by Richard Deeley of the Midland Railway into the 1000 Class was the most successful. This class continued to be built by the London Midland & Scottish Railway (LMS) after 1905, until 1932 with the almost identical LMS Compound 4-4-0.
+British three-cylinder simple expansion (simplex) locomotives included Nigel Gresley's LNER Class D49 Hunt and Shire 4-4-0s of 1927-28. However, the most powerful and one of the most successful 4-4-0 designs ever constructed was the Schools class of the Southern Railway, designed by Richard Maunsell and built between 1930 and 1935. These were used on secondary express trains between London and South Coast towns, until their withdrawal in 1962.[18]
+
+United States[edit]
+  AM&O no. 87, delivered on flatcars due to breaks-of-gauge
+Since the first locomotives in the United States were imported from the United Kingdom, the British 4 ft 8+1⁄2 in (1,435 mm) standard gauge was also adopted by the first United States railroads. When new locomotive construction began in the United States in 1831, some new railroads opted for a different gauge, resulting in breaks-of-gauge as railroads began to be joined together. Apart from freight reloading issues, another result was that new locomotives for some of these railroads had to be delivered on flatcars.
+The 4-4-0 played a major role in the development of rail transport in the United States. Some of the notable 4-4-0 locomotives that saw service on United States railroads are:
+
+The General, built in 1855 by Rogers, Ketchum & Grosvenor in Paterson, New Jersey, was the fleeing locomotive during the Great Locomotive Chase of the American Civil War.[19][20]
+  An AT&SF 4-4-0 on a passenger train across Kansas, c. 1895
+The Texas, built in 1856 by Danforth, Cooke & Company in Paterson, New Jersey, was the pursuing locomotive during much of the Great Locomotive Chase.[21][22]
+The Jupiter, Central Pacific Railroad’s No. 60, built by Schenectady Locomotive Works of New York in September 1868, was one of the two locomotives to meet at Promontory Summit during the Golden Spike ceremony upon the completion of the First American Transcontinental Railroad on May 10, 1869.[23]
+Union Pacific No. 119, built by Rogers Locomotive & Machine Works of Paterson, New Jersey in 1868, was the other locomotive at Promontory Summit on May 10, 1869.[24]
+The Virginia & Truckee Railroad’s Dayton, built in 1873 by the Central Pacific Railroad, had the honor of opening the branch line between Carson City and Minden in Nevada in 1906.[25]
+The New York Central and Hudson River Railroad no. 999, built in 1893 to haul the railroad's Empire State Express, is believed to have been the first in the United States to travel at a speed of more than 100 miles per hour (160 kilometres per hour).[26][27]
+Walt Disney World Railroad No. 4 Roy O. Disney was built in February 1916 by the Baldwin Locomotive Works, originally as No. 251 for the Ferrocarriles Unidos de Yucatán in Mexico. It now operates on the railroad circling the Magic Kingdom in Orlando, Florida.[28]
+  Pennsylvania Railroad class D6 4-4-0 no. 317, built in 1881.
+By 1910, the 4-4-0 was considered obsolete being replaced by Mikados, Pacifics and other larger engines, although they continued to serve to an extent into the 1950s. The last 4-4-0 to be built was a diminutive Baldwin product for the United Railways of Yucatan in 1945. Fewer than forty 4-4-0s survive in preservation in the United States, reproductions excluded.[1]
+Between 1959 and 1989, the Crown Metal Products Company of Wyano, Pennsylvania built live steam reproductions of classic 4-4-0 designs for use by amusement parks. The largest of these, of which 18 were produced, ran on 3 ft (914 mm) narrow gauge track. Most are patterned after 19th-century American designs, but those produced for Busch Gardens have European styling. Many of these saw daily operation at parks such as Kings Island, Michael Jackson's Neverland Ranch (out of service by 2013), and the Omaha Zoo Railroad at Omaha's Henry Doorly Zoo & Aquarium.
+
+
+Operational historic locomotives[edit]
+North America[edit]
+There are a handful of full-size 4-4-0 steam locomotives built prior to 1945 that are still operating in the US and Canada.[29][30] The following is a list of locations with at least one working example and tracks on which to run it.
+
+
+
+Location
+
+Address
+
+Road number(s)/Name(s)
+
+Track gauge
+
+Number of 4-4-0s
+
+Year(s) built
+
+Notes
+
+
+Dan Markoff private residence
+
+Las Vegas, Nevada, US
+
+4 Eureka
+
+3 ft (914 mm)
+
+1
+
+1875
+
+Has original boiler
+
+
+Nevada State Railroad Museum
+
+Carson City, Nevada, US
+
+22 Inyo
+
+4 ft 8+1⁄2 in (1,435 mm)
+
+1
+
+1875
+
+Appeared in over twenty Hollywood Westerns
+
+
+Prairie Dog Central Railway
+
+Winnipeg, Manitoba, Canada
+
+3
+
+4 ft 8+1⁄2 in (1,435 mm)
+
+1
+
+1882
+
+
+
+
+South Simcoe Railway
+
+Tottenham, Ontario, Canada
+
+136
+
+4 ft 8+1⁄2 in (1,435 mm)
+
+1
+
+1883
+
+
+
+
+Walt Disney World Railroad (Magic Kingdom)
+
+Bay Lake, Florida, US
+
+4 Roy O. Disney
+
+3 ft (914 mm)
+
+1
+
+1916
+
+Significantly altered from its original appearance to resemble steam locomotives from the 1880s[31]
+
+
+Weiser Railroad (Greenfield Village)
+
+Dearborn, Michigan, US
+
+1 Edison, 7
+
+4 ft 8+1⁄2 in (1,435 mm)
+
+2
+
+1870; 1897
+
+The steam locomotive built in 1870 was originally an 0-4-0; it was rebuilt as a 4-4-0 in 1932 by the Ford Motor Company.[32]
+
+
+Wilmington & Western Railroad
+
+Marshallton, Delaware, US
+
+98
+
+4 ft 8+1⁄2 in (1,435 mm)
+
+1
+
+1909
+
+
+
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ a b c d e f g h i j k White, John H., Jr. (1968). A history of the American locomotive; its development: 1830-1880. New York: Dover Publications, pp. 46-. .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}ISBN 0-486-23818-0
+
+^ Kinert, Reed. (1962). Early American steam locomotives; 1st seven decades: 1830-1900. Seattle, WA: Superior Publishing Company.
+
+^ Trains magazine, June 1946
+
+^ Richard Marshall. "A history of Britain's broad gauge railways". Archived from the original on 2011-07-23. Retrieved 2010-05-02.
+
+^ Marsden, Richard. "The London & North Eastern Railway (LNER) Encyclopedia - William Bouch". Archived from the original on 7 July 2007. Retrieved 2007-06-11.
+
+^ a b c Poultney, Edward Cecil (1952). British express locomotive development 1896-1948. London: Allen & Unwin. pp. 56–65.
+
+^ Oberg, Leon. (1975). Locomotives of Australia. Sydney, London: Reed.
+
+^ Australian Railway Historical Society, A Century Plus of Locomotives New South Wales Railways 1855-1965, ARHS, Sydney, 1965
+
+^ Victorian Railways, Power Parade: 1854-1954, Victorian Railways, 1954
+
+^ a b c d e f g h i Paxton, Leith; Bourne, David (1985). Locomotives of the South African Railways (1st ed.). Cape Town: Struik. pp. 15–18, 103–104. ISBN 0869772112.
+
+^ a b c d Baxter, Antony. The Two Foot Gauge Enigma (1st ed.). Plateway Press. pp. 37-45 & Appendix V. ISBN 1-871980-34-8.
+
+^ a b Pattison, R.G. (2005). Thundering Smoke, (1st ed.). Sable Publishing House. ISBN 0-9549488-1-5
+
+^ a b c Railway Modelling Scene, South Africa, May/June 1985, article written by Neill Mardell
+
+^ a b c d e f g h i j k l Holland, D.F. (1971). Steam Locomotives of the South African Railways. 1: 1859–1910 (1st ed.). Newton Abbott, England: David & Charles. pp. 20–22, 25–26, 30–31, 35–39, 59–61, 76–77, 80–83, 106–108. ISBN 978-0-7153-5382-0.
+
+^ The Natal Mercury of 12 January 1876.
+
+^ a b c C.G.R. Numbering Revised, Article by Dave Littley, SA Rail May–June 1993, pp. 94-95.
+
+^ Reed, P. J. T. (February 1953).  White, D. E. (ed.). The Locomotives of the Great Western Railway, Part 2: Broad Gauge. Kenilworth: RCTS. pp. B21–B23. ISBN 0-901115-32-0.
+
+^ "Maunsell Railway Society 4-4-0 locomotive "Stowe"". Archived from the original on 2016-03-22. Retrieved 2006-02-18.
+
+^ Moshein, Peter; Rothfus, Robert R. (1992). "Rogers locomotives: A brief history and construction list". Railroad History (167): 13–147.
+
+^ Bonds, Russell S. (2007). Stealing the General; The Great Locomotive Chase and the First Medal of Honor. Yardley, Pennsylvania: Westholme Publishing. pp. 94–95. ISBN 978-1-59416-033-2.
+
+^ The Great Locomotive Chase
+
+^ Texas Information Page
+
+^ Everlasting Steam: The Story of Jupiter and No. 119
+
+^ "Union Pacific's 119". Archived from the original on 2011-09-30.
+
+^ Koenig, Karl R. (1980). Virginia & Truckee Locomotives. Chatham Publishing. pp. 58, 65. ISBN 0-89685-102-8.
+
+^ Fleet-wheeled wonder: New York Central & Hudson River Railroad's no. 999, by Kevin V. Bunker
+
+^ "Empire State Express No. 999". Genesee County, New York. Archived from the original on December 30, 2005. Retrieved March 1, 2006.
+
+^ Broggie, Michael (2014), Walt Disney's Railroad Story: The Small-Scale Fascination That Led to a Full-Scale Kingdom (4th ed.), The Donning Company Publishers, pp. 320–323, 393–394, ISBN 978-1-57864-914-3
+
+^ Surviving Steam Locomotive Search – US
+
+^ Surviving Steam Locomotive Search – Canada
+
+^ Leaphart, David (2016), Walt Disney World Railroads Part 3: Yucatan Jewels (1st ed.), Steel Wheel on Steel Rail Studio, p. 106, ISBN 978-1-5330-3707-7
+
+^ Greenfield Village Perimeter Railroad: from concept to reality
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to 4-4-0 locomotives.
+
+.mw-parser-output .portalbox{float:right;border:solid #aaa 1px;padding:0}.mw-parser-output .portalbox.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portalbox.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portalbox>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portalbox>ul>li{display:table-row}.mw-parser-output .portalbox>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}
+
+Trains portal
+Building a 1/8 scale Live Steam 4-4-0 locomotive This site includes a full 1875 shop drawing of a Baldwin 4-4-0
+Winchester, Clarence, ed. (1936), "A famous locomotive type", Railway Wonders of the World, pp. 1173–79, illustrated account of the development of the 4-4-0 in Britain
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteSteam locomotive wheel arrangements (Whyte notation)Single engine types
+0-2-2
+0-2-4
+2-2-0
+2-2-2
+2-2-4
+4-2-0
+4-2-2
+4-2-4
+6-2-0
+0-3-0 (monorail)
+0-4-0
+0-4-0+4
+0-4-2
+0-4-4
+0-4-6
+2-4-0
+2-4-2
+2-4-4
+2-4-6
+4-4-0
+4-4-2
+4-4-4
+4-4-6
+0-6-0
+0-6-2
+0-6-4
+0-6-6
+2-6-0
+2-6-2
+2-6-4
+2-6-6
+4-6-0
+4-6-2
+4-6-4
+0-8-0
+0-8-2
+0-8-4
+0-8-6
+2-8-0
+2-8-2
+2-8-4
+2-8-6
+4-8-0
+4-8-2
+4-8-4
+4-8-6
+6-8-6
+0-10-0
+0-10-2
+2-10-0
+2-10-2
+2-10-4
+4-10-0
+4-10-2
+0-12-0
+2-12-0
+2-12-2
+2-12-4
+4-12-2
+4-14-4
+Divided drive and Duplex engine types
+0-2-2-0
+2-2-2-0
+2-2-2-2
+2-2-4-0
+4-2-2-0
+2-4-6-2
+4-4-4-4
+6-4-4-6
+4-4-6-4
+4-6-4-4
+Articulated locomotives Fairlie, Meyer and Garratt types
+0-4-0+0-4-0
+2-4-0+0-4-2
+2-4-2+2-4-2
+4-4-2+2-4-4
+0-6-0+0-6-0
+0-6-2+2-6-0
+2-6-0+0-6-2
+2-6-2+2-6-2
+4-6-0+0-6-4
+4-6-2+2-6-4
+4-6-4+4-6-4
+2-8-0+0-8-2
+2-8-2+2-8-2
+4-8-0+0-8-4
+4-8-2+2-8-4
+4-8-4+4-8-4
+Articulated locomotives Mallet types (includes Triplex types)
+0-4-4-0
+0-4-4-2
+2-4-4-0
+2-4-4-2
+0-6-6-0
+2-6-6-0
+2-6-6-2
+2-6-6-4
+2-6-6-6
+2-6-8-0
+4-4-6-2
+4-6-6-2
+4-6-6-4
+0-8-6-0
+0-8-8-0
+2-8-8-0
+2-8-8-2
+2-8-8-4
+4-8-8-2
+4-8-8-4
+2-10-10-2
+2-8-8-8-2
+2-8-8-8-4
+2-8-8-8-8-2
+2-8-8-8-8-8-2
+2-10-10-10-10-10-2
+Articulated locomotivesEngerth types
+0-4-4
+0-4-6
+2-6-2
+0-6-4
+0-6-4-0
+0-8-4
+0-8-6
+Geared locomotives
+Shay
+Climax
+Heisler
+Willamette
+
+Other notation forms: AAR
+Swiss
+UIC
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=4-4-0&oldid=1059700833"
+		Categories: 2′B locomotives4-4-0 locomotivesWhyte notationHidden categories: CS1: long volume valueArticles with short descriptionShort description matches WikidataAll articles with unsourced statementsArticles with unsourced statements from December 2012Commons category link from Wikidata
+	

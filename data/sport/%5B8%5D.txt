@@ -1,0 +1,2108 @@
+
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Gallo-Romance dialect continuum spoken from the 9th century to the middle of the 14th century
+This article includes a list of general references, but it remains largely unverified because it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations.  (May 2011) (Learn how and when to remove this template message)
+This article or section should specify the language of its non-English content, using {{lang}} or {{transl}} (or {{IPA}} or similar for phonetic transcriptions), with an appropriate ISO 639 code. See why.  (June 2020)
+.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}Old FrenchFranceis, François, RomanzPronunciation[fɾãnˈtsɛjs], [fɾãnˈtsɔjs], [ruˈmãnts]Regionnorthern France, parts of Belgium (Wallonia), Scotland, England, Ireland, Principality of Antioch, Kingdom of CyprusEraevolved into Middle French by the 14th centuryLanguage familyIndo-European
+
+ItalicRomanceWesternGallo-RomanceGallo-RhaetianOïlOld FrenchLanguage codesISO 639-2froISO 639-3froGlottologoldf1239This article contains IPA phonetic symbols. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Unicode characters. For an introductory guide on IPA symbols, see Help:IPA.
+Old French (franceis, françois, romanz; Modern French: ancien français) was the language spoken in Northern France from the 8th century to the 14th century. Rather than a unified language, Old French was really a linkage of Romance dialects, mutually intelligible yet diverse, spoken in the northern half of France. 
+In the 14th century, these dialects came to be collectively known as the langue d'oïl, contrasting with the langue d'oc in the south of France. The mid-14th century witnessed the emergence of Middle French, the language of the French Renaissance in the Île de France region; this dialect was a predecessor to modern French. Other dialects of Old French evolved themselves into modern forms (Poitevin-Saintongeais, Gallo, Norman, Picard, Walloon, etc.), each with its own linguistic features and history.
+The region where Old French was spoken natively roughly extended to the northern half of the Kingdom of France and its vassals (including parts of the Angevin Empire, which during the 12th century remained under Anglo-Norman rule), and the duchies of Upper and Lower Lorraine to the east (corresponding to modern north-eastern France and Belgian Wallonia), but the influence of Old French was much wider, as it was carried to England and the Crusader states as the language of a feudal elite and commerce.[1]
+
+Contents
+
+1 Areal and dialectal divisions
+2 History
+
+2.1 Evolution and separation from Vulgar Latin
+2.2 Non-Latin influences
+
+2.2.1 Gaulish
+2.2.2 Frankish
+
+
+2.3 Earliest written Old French
+2.4 Transition to Middle French
+
+
+3 Literature
+4 Phonology
+
+4.1 Consonants
+4.2 Vowels
+4.3 Monophthongs
+4.4 Diphthongs and triphthongs
+4.5 Hiatus
+4.6 Sample text
+
+
+5 Grammar
+
+5.1 Nouns
+5.2 Adjectives
+5.3 Verbs
+
+5.3.1 Verb alternations
+5.3.2 Example of regular -er verb: durer (to last)
+5.3.3 Example of regular -ir verb: fenir (to end)
+5.3.4 Example of regular -re verb: corre (to run)
+5.3.5 Examples of auxiliary verbs
+
+5.3.5.1 avoir (to have)
+5.3.5.2 estre (to be)
+
+
+
+
+5.4 Other parts of speech
+
+
+6 See also
+7 Notes
+8 References
+
+8.1 Sources
+
+
+9 External links
+
+
+
+Areal and dialectal divisions[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}Further information: Langue d'oïl and Gallo-Romance
+  Map of France in 1180, at the height of the feudal system. The possessions of the French king are in light blue, vassals to the French king in green, Angevin possessions in red. Shown in white is the Holy Roman Empire to the east, the western fringes of which, including Upper Burgundy and Lorraine, were also part of the Old French areal.
+The area of Old French in contemporary terms corresponded to the northern parts of the Kingdom of France (including Anjou and Normandy, which in the 12th century were ruled by the Plantagenet kings of England), Upper Burgundy and the duchy of Lorraine. The Norman dialect was also spread to England and Ireland, and during the crusades, Old French was also spoken in the Kingdom of Sicily, and in the Principality of Antioch and the Kingdom of Jerusalem in the Levant.
+As part of the emerging Gallo-Romance dialect continuum, the langues d'oïl were contrasted with the langue d'oc (the emerging Occitano-Romance group, at the time also called Provençal), adjacent to the Old French area in the south-west, and with the Gallo-Italic group to the south-east. The Franco-Provençal group developed in Upper Burgundy, sharing features with both French and Provençal; it may have begun to diverge from the langue d'oïl as early as the 9th century and is attested as a distinct Gallo-Romance variety by the 12th century.
+Dialects or variants of Old French include:
+
+Burgundian in Burgundy, then an independent duchy whose capital was at Dijon;
+Picard of Picardy and Romance Flanders, with Lille, Amiens and Arras as some of the more prominent cities. It was said that the Picard language began at the east door of Notre-Dame de Paris, so far-reaching was its influence. It would also spread northwards in the area of Boulogne-sur-Mer that had a strong presence of Old Dutch and Middle Dutch;[2]
+Old Norman, in Normandy, whose principal cities were Caen and Rouen. The Norman conquest of England brought many Norman-speaking aristocrats into the British Isles. Most of the older Norman (sometimes called "French") words in English reflects its influence, which became a conduit for the introduction into the Anglo-Norman realm, as did Anglo-Norman control of Anjou and Gascony and other continental possessions. Anglo-Norman was a language that reflected a shared culture on both sides of the English Channel.[3] Ultimately, the language declined and fell, becoming Law French, a jargon spoken by lawyers that was used in English law until the reign of Charles II of England; however, the Norman language, still survives in Normandy and the Channel Islands, as a regional language;
+Wallon, around Namur, now in Wallonia, Belgium;
+Gallo of the Duchy of Brittany;
+Lorrain of the Duchy of Lorraine.
+  Distribution of the modern langue d'oïl (shades of green) and of Franco-Provençal dialects (shades of blue)
+Some modern languages are derived from Old French dialects other than Classical French, which is based on the Île-de-France dialect. They include
+Angevin, Berrichon, Bourguignon-Morvandiau, Champenois, Franc-Comtois, Gallo, Lorrain, Norman, Picard, Poitevin, Saintongeais and Walloon.
+
+History[edit]
+Evolution and separation from Vulgar Latin[edit]
+Beginning with Plautus' time (254–184 .mw-parser-output span.smallcaps{font-variant:small-caps}.mw-parser-output span.smallcaps-smaller{font-size:85%}b.c.), one can see phonological changes between Classical Latin and what is called Vulgar Latin, the common spoken language of the Western Roman Empire. Vulgar Latin differed from Classical Latin in phonology and morphology as well as exhibiting lexical differences; however, they were mutually intelligible until the 7th century when Classical Latin 'died' as a daily spoken language, and had to be learned as a second language (though it was long thought of as the formal version of the spoken language).[4]: 109–115  Vulgar Latin was the ancestor of the Romance languages, including Old French.[5][6][7][8][9]
+By the late 8th century, when the Carolingian Renaissance began, native speakers of Romance idioms continued to use Romance orthoepy rules while speaking and reading Latin. When the most prominent scholar of Western Europe at the time, British deacon Alcuin, was tasked by Charlemagne with improving the standards of Latin writing in France, being not a native Romance speaker himself, he prescribed a pronunciation based on a fairly literal interpretation of Latin spelling. For example, in a radical break from the traditional system, a word such as ⟨viridiarium⟩ 'orchard' now had to be read aloud precisely as it was spelled rather than */verdʒjær/ (later spelled as OF 'vergier').[10]
+Such a radical change had the effect of rendering Latin sermons completely unintelligible to the general romance-speaking public, which prompted officials a few years later, at the Third Council of Tours, to instruct priests to read sermons aloud in the old way, in rusticam romanam linguam or 'plain Roman[ce] speech'.[11]
+As there was now no unambiguous way to indicate whether a given text was to be read aloud as Latin or Romance, various attempts were made in France to devise a new orthography for the latter; among the earliest examples are parts of the Oaths of Strasbourg and the Sequence of Saint Eulalia (see below).
+
+Non-Latin influences[edit]
+Gaulish[edit]
+Further information: List of French words of Gaulish origin
+Some Gaulish words influenced Vulgar Latin and, through this, other Romance languages. For example, classical Latin equus was uniformly replaced in Vulgar Latin by caballus 'nag, work horse', derived from Gaulish caballos (cf. Welsh ceffyl, Breton kefel),[12]: 96  yielding ModF  cheval, Occitan caval (chaval), Catalan cavall, Spanish caballo, Portuguese cavalo, Italian cavallo, Romanian cal, and, by extension, English cavalry and chivalry (both via different forms of [Old] French).
+An estimated 200 words of Gaulish etymology survive in modern French, for example chêne, 'oak tree', and charrue, 'plough'.[13]
+Within historical phonology and studies of language contact, various phonological changes have been posited as caused by a Gaulish substrate, although there is some debate. One of these is considered certain, because this fact is clearly attested in the Gaulish-language epigraphy on the pottery found at la Graufesenque (A.D. 1st century). There, the Greek word paropsid-es (written in Latin)[clarification needed] appears as paraxsid-i.[14] The consonant clusters /ps/ and /pt/ shifted to /xs/ and /xt/, e.g. Lat capsa > *kaxsa > caisse (≠ Italian cassa) or captīvus > *kaxtivus > OF chaitif[14] (mod. chétif; cf. Irish cacht 'servant'; ≠ Italian cattiv-ità, Portuguese cativo, Spanish cautivo). This phonetic evolution is common in its later stages with the shift of the Latin cluster /kt/ in Old French (Lat factum > fait, ≠ Italian fatto, Portuguese feito, Spanish hecho; or lactem* > lait, ≠ Italian latte, Portuguese leite, Spanish leche). This means that both /pt/ and /kt/ must have first merged into /kt/ in the history of Old French, after which this /kt/ shifted to /xt/. In parallel, /ps/ and /ks/ merged into /ks/ before shifting to /xs/, apparently under Gaulish influence.
+The Celtic Gaulish language is thought to have survived into the 6th century in France, despite considerable cultural Romanization.[15] Coexisting with Latin, Gaulish helped shape the Vulgar Latin dialects that developed into French, with effects including loanwords and calques (including oui,[16] the word for "yes"),[17] sound changes shaped by Gaulish influence,[18][19] and influences in conjugation and word order.[17][20][21] Recent computational studies suggest that early gender shifts may have been motivated by the gender of the corresponding word in Gaulish.[22]
+
+Frankish[edit]
+Further information: List of French words of Germanic origin
+The pronunciation, vocabulary, and syntax of the Vulgar Latin spoken in Roman Gaul in Late Antiquity was modified by the Old Frankish language, spoken by the Franks who settled in Gaul from the 5th century and conquered the future Old French-speaking area by the 530s.
+The name français itself is derived from the name the Franks.
+The Old Frankish language had a definitive influence on the development of Old French, which partly explains why the earliest attested Old French documents are older than the earliest attestations in other Romance languages (e.g. Strasbourg Oaths, Sequence of Saint Eulalia).[23] It is the result of an earlier gap created between Classical Latin and its evolved forms, which slowly reduced and eventually severed the intercomprehensibility between the two. The Old Low Franconian influence is also believed to be responsible for the differences between the langue d'oïl and the langue d'oc (Occitan), being that various parts of Northern France remained bilingual between Latin and Germanic for some time,[24] and these areas correspond precisely to where the first documents in Old French were written.
+This Germanic language shaped the popular Latin spoken here and gave it a very distinctive identity compared to the other future Romance languages. The very first noticeable influence is the substitution of the Latin melodic accent by a Germanic stress[25] and its result was diphthongization, differentiation between long and short vowels, the fall of the unaccented syllable and of the final vowels:
+
+L decimus, -a 'tenth' > OF disme > French dîme 'tithe' (> English dime; Italian decimo, Spanish diezmo)
+VL dignitate > OF deintié (> English dainty; Italian dignità, Romanian demnitate)
+VL catena > OF chaeine (> English chain; Italian catena, Cast./Occitan cadena, Portuguese cadeia)
+Additionally, two phonemes that had long since died out in Vulgar Latin were reintroduced: [h] and [w] (> OF g(u)-, ONF w- cf. Picard w-):
+
+VL altu > OF halt 'high' (influenced by Old Low Frankish [OLF] *hōh ; ≠ Italian, Portuguese alto, Catalan alt, Old Occitan aut)
+L vespa > French guêpe, Picard wèpe, Wallon wèsse, all 'wasp' (influenced by OLF *wapsa; ≠ Occitan vèspa, Italian vespa, Spanish avispa)
+L viscus > French gui 'mistletoe' (influenced by OLF *wīhsila 'morello' with analogous fruits, when they are not ripe; ≠ Occitan vesc, Italian vischio)
+LL  vulpiculu 'fox kit' (from L vulpes 'fox') > OLF golpilz, Picard woupil 'fox' (influenced by OLF *wulf 'wolf'; ≠ Occitan volpìlh, Old Italian volpiglio, Spanish vulpeja 'vixen')
+In contrast, the Italian, Portuguese and Spanish words of Germanic origin borrowed from French or directly from Germanic retain /gw/ ~ /g/, e.g. It, Sp. guerra 'war', alongside /g/ in French guerre). These examples show a clear consequence of bilingualism, that sometimes even changed the first syllable of the Latin words. One example of a Latin word influencing an OLF loan is framboise 'raspberry', from OF frambeise, from OLF *brāmbesi 'blackberry' (cf. Dutch braambes, braambezie; akin to German Brombeere, English dial. bramberry) blended with LL fraga or OF fraie 'strawberry', which explains the replacement [b] > [f] and in turn the final -se of framboise added to OF fraie to make freise, modern fraise (≠ Wallon frève, Occitan fraga, Romanian fragă, Italian fragola, fravola 'strawberry').[26][i]
+Mildred Pope (1934) estimated that perhaps still 15% of the vocabulary of modern French derives from Germanic sources (while the proportion was larger in Old French, because the Middle-French language borrowed heavily from Latin and Italian).
+
+Earliest written Old French[edit]
+The earliest documents said to be written in the Gallo-Romance that prefigures French – after the Reichenau and Kassel glosses (8th and 9th centuries) – are the Oaths of Strasbourg (treaties and charters into which King Charles the Bald entered in 842):
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}Pro Deo amur et pro Christian poblo et nostro commun salvament, d'ist di en avant, in quant Deus savir et podir me dunat, si salvarai eo cist meon fradre Karlo, et in aiudha et in cadhuna cosa ...
+(For the love of God and for the Christian people, and our common salvation, from this day forward, as God will give me the knowledge and the power, I will defend my brother Charles with my help in everything ...)
+The second-oldest document in Old French is the Eulalia sequence, which is important for linguistic reconstruction of Old French pronunciation due to its consistent spelling.
+The royal House of Capet, founded by Hugh Capet in 987, inaugurated the development of northern French culture in and around Île-de-France, which slowly but firmly asserted its ascendency over the more southerly areas of Aquitaine and Tolosa (Toulouse); however, The Capetians' langue d'oïl, the forerunner of modern standard French, did not begin to become the common speech of all of France until after the French Revolution.
+
+Transition to Middle French[edit]
+Further information: Middle French
+In the Late Middle Ages, the Old French dialects diverged into a number of distinct langues d'oïl, among which Middle French proper was the dialect of the Île-de-France region.
+During the Early Modern period, French was established as the official language of the Kingdom of France throughout the realm, including the langue d'oc-speaking territories in the south. 
+It was only in the 17th to 18th centuries – with the development especially of popular literature of the Bibliothèque bleue – that a standardized Classical French spread throughout France alongside the regional dialects.
+
+Literature[edit]
+Main article: Medieval French literature
+The material and cultural conditions in France and associated territories around the year 1100 triggered what Charles Homer Haskins termed the "Renaissance of the 12th century", resulting in a profusion of creative works in a variety of genres. Old French gave way to Middle French in the mid-14th century, paving the way for early French Renaissance literature of the 15th century.
+The earliest extant French literary texts date from the ninth century, but very few texts before the 11th century have survived. The first literary works written in Old French were saints' lives. The Canticle of Saint Eulalie, written in the second half of the 9th century, is generally accepted as the first such text.
+At the beginning of the 13th century, Jean Bodel, in his Chanson de Saisnes, divided medieval French narrative literature into three subject areas: the Matter of France or Matter of Charlemagne; the Matter of Rome (romances in an ancient setting); and the Matter of Britain (Arthurian romances and Breton lais). The first of these is the subject area of the chansons de geste ("songs of exploits" or "songs of (heroic) deeds"), epic poems typically composed in ten-syllable assonanced (occasionally rhymed) laisses. More than one hundred chansons de geste have survived in around three hundred manuscripts.[27] 
+The oldest and most celebrated of the chansons de geste is The Song of Roland (earliest version composed in the late 11th century).
+Bertrand de Bar-sur-Aube in his Girart de Vienne set out a grouping of the chansons de geste into three cycles: the Geste du roi centering on Charlemagne, the Geste de Garin de Monglane (whose central character was William of Orange), and the Geste de Doon de Mayence or the "rebel vassal cycle", the most famous characters of which were Renaud de Montauban and Girart de Roussillon.
+A fourth grouping, not listed by Bertrand, is the Crusade cycle, dealing with the First Crusade and its immediate aftermath.
+Jean Bodel's other two categories—the "Matter of Rome" and the "Matter of Britain"—concern the French romance or roman. Around a hundred verse romances survive from the period 1150–1220.[28] From around 1200 on, the tendency was increasingly to write the romances in prose (many of the earlier verse romances were adapted into prose versions), although new verse romances continued to be written to the end of the 14th century.[29]
+The most important romance of the 13th century is the Romance of the Rose, which breaks considerably from the conventions of the chivalric adventure story.
+Medieval French lyric poetry was indebted to the poetic and cultural traditions in Southern France and Provence—including Toulouse, Poitiers, and the Aquitaine region—where langue d'oc was spoken (Occitan language); in their turn, the Provençal poets were greatly influenced by poetic traditions from the Hispano-Arab world.
+Lyric poets in Old French are called trouvères – etymologically the same word as the troubadours of Provençal or langue d'oc (from the verb trobar "to find, to invent").
+By the late 13th century, the poetic tradition in France had begun to develop in ways that differed significantly from the troubadour poets, both in content and in the use of certain fixed forms. The new poetic (as well as musical: some of the earliest medieval music has lyrics composed in Old French by the earliest composers known by name) tendencies are apparent in the Roman de Fauvel in 1310 and 1314, a satire on abuses in the medieval church, filled with medieval motets, lais, rondeaux and other new secular forms of poetry and music (mostly anonymous, but with several pieces by Philippe de Vitry, who would coin the expression ars nova to distinguish the new musical practice from the music of the immediately preceding age). The best-known poet and composer of ars nova secular music and chansons of the incipient Middle French period was Guillaume de Machaut.
+Discussions about the origins of non-religious theater (théâtre profane) – both drama and farce—in the Middle Ages remain controversial, but the idea of a continuous popular tradition stemming from Latin comedy and tragedy to the 9th century seems unlikely.
+Most historians place the origin of medieval drama in the church's liturgical dialogues and "tropes". Mystery plays were eventually transferred from the monastery church to the chapter house or refectory hall and finally to the open air, and the vernacular was substituted for Latin. In the 12th century one finds the earliest extant passages in French appearing as refrains inserted into liturgical dramas in Latin, such as a Saint Nicholas (patron saint of the student clercs) play and a Saint Stephen play.
+An early French dramatic play is Le Jeu d'Adam (c. 1150) written in octosyllabic rhymed couplets with Latin stage directions (implying that it was written by Latin-speaking clerics for a lay public).
+A large body of fables survive in Old French; these include (mostly anonymous) literature dealing with the recurring trickster character of Reynard the Fox. Marie de France was also active in this genre, producing the Ysopet (Little Aesop) series of fables in verse. Related to the fable was the more bawdy fabliau, which covered topics such as cuckolding and corrupt clergy. These fabliaux would be an important source for Chaucer and for the Renaissance short story (conte or nouvelle).
+Among the earliest works of rhetoric and logic to appear in Old French were the translations of Rhetorica ad Herennium and Boethius' De topicis differentiis by John of Antioch in 1282.
+
+Phonology[edit]
+See also: Phonological history of French
+Old French was constantly changing and evolving; however, the form in the late 12th century, as attested in a great deal of mostly poetic writings, can be considered standard. The writing system at this time was more phonetic than that used in most subsequent centuries. In particular, all written consonants (including final ones) were pronounced, except for s preceding non-stop consonants and t in et, and final e was pronounced [ə]. The phonological system can be summarised as follows:[30]
+
+Consonants[edit]
+
+Old French consonants
+
+
+
+
+Labial
+
+Dental
+
+Palatal
+
+Velar
+
+Glottal
+
+
+Nasal
+
+m
+
+n
+
+ɲ
+
+
+
+
+
+
+Plosive
+
+p b
+
+t d
+
+
+
+k ɡ
+
+
+
+
+Affricate
+
+
+
+ts dz
+
+tʃ dʒ
+
+
+
+
+
+
+Fricative
+
+f v
+
+s z
+
+
+
+
+
+h
+
+
+Lateral
+
+
+
+l
+
+ʎ
+
+
+
+
+
+
+Trill
+
+
+
+r
+
+
+
+
+
+
+
+Notes:
+
+All obstruents (plosives, fricatives and affricates) were subject to word-final devoicing, which was usually indicated in the orthography.
+The affricates /ts/, /dz/, /tʃ/, /dʒ/ became fricatives ([s], [z], [ʃ], [ʒ]) in Middle French.
+/ts/ had three spellings – c before e or i, ç before other vowels, or z at the end of a word – as seen in cent, chançon, priz ("a hundred, song, price").
+/dz/ was written as z, as in doze "twelve", and only occurred in the middle of the word.
+/ʎ/ (l mouillé), as in conseil, travaillier ("advice, to work"), became /j/ in Modern French.
+/ɲ/ appeared not only in the middle of a word, but also at the end, as in poing "fist". At the end of a word, /ɲ/ was later lost, leaving a nasalized vowel.
+/h/ was found only in Germanic loanwords or words influenced by Germanic (cf. haut, hurler). It was later lost as a consonant, though it was transphonologized as the so-called aspirated h that blocks liaison. In native Latin words, /h/ had been lost early on, as in om, uem, from Lat homō.
+Intervocalic /d/ from both Latin /t/ and /d/ was lenited to [ð] in the early period (cf. contemporary Spanish: amado [aˈmaðo]). At the end of words it was also devoiced to [θ]. In some texts it was sometimes written as dh or th (aiudha, cadhuna, Ludher, vithe). By 1100 it disappeared altogether.[31]
+Vowels[edit]
+In Old French, the nasal vowels were not separate phonemes but only allophones of the oral vowels before a nasal consonant. The nasal consonant was fully pronounced; bon was pronounced [bõn] (ModF [bɔ̃]). Nasal vowels were present even in open syllables before nasals where Modern French has oral vowels, as in bone [bõnə] (ModF bonne [bɔn]).
+
+Monophthongs[edit]
+
+Old French vowels
+
+
+ 
+
+Front
+Central
+Back
+
+
+Close
+
+oral
+
+i   y
+ 
+u
+
+
+nasal
+
+[ĩ ]  [ỹ]
+ 
+
+
+Close-mid
+
+oral
+
+e
+ə
+ 
+
+
+nasal
+
+[ẽ]
+[õ]
+
+
+Open-mid
+
+ɛ
+ 
+ɔ
+
+
+Open
+
+oral
+
+a
+
+
+nasal
+
+[ã]
+
+Notes:
+
+/o/ had formerly existed but then closed to /u/; the original Western Romance /u/ having previously been fronted to /y/ across most of what is now France and northern Italy.
+/o/ would later appear again when /aw/ monophthongized and also when /ɔ/ closed in certain positions (such as when it was followed by original /s/ or /z/ but not by /ts/, which later became /s/).
+/õ/ may have similarly become closed to /ũ/, in at least in some dialects, since it was borrowed into Middle English as /uːn/ > /aʊn/ (Lat computāre > OF conter > English count; Lat rotundum > OF ront > English round; Lat bonitātem > OF bonté > English bounty). In any case, traces of such a change were erased in later stages of French, when the close nasal vowels /ĩ ỹ õ~ũ/ were opened to become /ɛ̃ œ̃ ɔ̃/.
+/ə̃/ may have existed in the unstressed third-person plural verb ending -ent, but it may have already passed to /ə/, which is known to have happened no later than the Middle French period.
+Diphthongs and triphthongs[edit]
+
+Late Old French diphthongs and triphthongs
+
+
+ 
+
+IPA
+Example
+Meaning
+
+
+falling
+
+
+Oral
+
+/aw/
+chevaus
+horse
+
+
+/ɔj/
+toit
+roof
+
+
+/ɔw/
+coup
+blow, hit
+
+
+/ew/ ~ /øw/
+cieus
+heavens
+
+
+/iw/ ~ /iɥ/
+tiule
+tile
+
+
+Nasal
+
+/ẽj/
+plein
+full
+
+
+/õj/
+loing
+far
+
+
+rising
+
+
+Oral
+
+/je/
+pié
+foot
+
+
+/ɥi/
+fruit
+fruit
+
+
+/we/ ~ /wø/
+cuer
+heart
+
+
+Nasal
+
+/jẽ/
+bien
+well
+
+
+/ɥĩ/
+juignet
+July
+
+
+/wẽ/
+cuens
+count (nom. sg.)
+
+
+triphthongsstress always falls on middle vowel
+
+
+Oral
+
+/e̯aw/
+beaus
+beautiful
+
+
+/jew/
+Dieu
+God
+
+
+/wew/ ~ /wøw/
+jueu
+Jew
+
+Notes:
+
+In Early Old French (up to about the mid-12th century), the spelling ⟨ai⟩ represented a diphthong /aj/ instead of the later monophthong /ɛ/,[32] and ⟨ei⟩ represented the diphthong /ej/, which merged with /oj/ in Late Old French (except when it was nasalized).
+In Early Old French, the diphthongs described above as "rising" may have been falling diphthongs (/ie̯/, /yj/, /ue̯/). In earlier works with vowel assonance, the diphthong written ⟨ie⟩ did not assonate with any pure vowels, which suggests that it cannot have simply been /je/.
+The pronunciation of the vowels written ⟨ue⟩ and ⟨eu⟩ is debated. In the first records of Early Old French, they represented and were written as /uo/, /ou/, and by Middle French, they had both merged as /ø ~ œ/, but the transitional pronunciations are unclear.
+Early Old French had additional triphthongs /iej/ and /uoj/ (equivalent to diphthongs followed by /j/); these soon merged into /i/ and /ɥi/ respectively.
+The diphthong ⟨iu⟩ was rare and had merged into ⟨ui⟩ by Middle French (OF tiule > ModF tuile 'tile'; OF siure > Late OF suire > ModF suivre 'follow').
+Hiatus[edit]
+In addition to diphthongs, Old French had many instances of hiatus between adjacent vowels because of the loss of an intervening consonant. Manuscripts generally do not distinguish hiatus from true diphthongs, but modern scholarly transcription indicates it with a diaeresis, as in Modern French:
+
+Lat audīre > OF oïr /uˈir/ 'hear' (ModF ouïr)
+VL *vidūta > OF veüe /vəˈy.ə/ 'seen' (ModF vue)
+Lat rēgīnam > OF reïne, /rəˈinə/ 'queen' (ModF reine)
+Lat pāgēnsem > OF païs /paˈis/ 'country' (ModF pays)
+Lat augustum > OF aoust /aˈu(s)t/ 'August' (ModF août)
+Lat patellam > OF paelle /paˈɛlə/ 'pan' (ModF poêle)
+LL  quaternum > OF quaïer /kwaˈjer/ 'booklet, quire' (ModF cahier)
+LL aetāticum > OF aage, eage /aˈad͡ʒə/ ~ /əˈad͡ʒə/ 'age' (ModF âge)
+Sample text[edit]
+Presented below is the first laisse of the Song of Roland along with a broad transcription reflecting reconstructed pronunciation circa 1050 C.E.[33]
+
+
+
+
+
+Text
+
+Transcription
+
+Translation
+
+
+Carles li reis, nostre emperere magnes,
+Set anz tuz pleins ad estet en Espaigne.
+Trequ'en la mer cunquist la tere altaigne,
+N'i ad castel ki devant lui remaigne.
+Mur ne citet n'i est remes a fraindre,
+Fors Sarraguce, ki est en une muntaigne.
+Li reis Marsilie la tient, ki Deu nen aimet,
+Mahument sert e Apollin recleimet:
+Nes poet guarder que mals ne l'i ateignet.
+
+
+tʃárləs li réis, nɔ́str empərǽðrə máɲəs,
+sɛ́t ánts tóts pléins áð estǽθ en espáɲə,
+trǽs k en la mǽr konkíst la tɛ́r altáiɲə.
+n i áθ tʃastɛ́l ki dəvánt luí rəmáiɲəθ,
+múrs nə tsitǽθ n i ɛ́st rəmǽs a fráindrə
+fɔ́rs saragótsə k ɛ́st en únə montáɲə.
+li réis marsíʎəs la tiɛ́nt, ki dɛ́u nən áiməθ,
+mahomɛ́t sɛ́rt eð apolín rəkláiməθ,
+nə s puɛ́t guardǽr kə máls nə l i atáiɲəθ.
+
+
+Charles the king, our great emperor,
+Has been in Spain for seven full years:
+He has conquered the lofty land up to the sea.
+No castle remains standing before him;
+No wall or city is left to destroy
+Other than Saragossa, which lies atop a mountain.
+King Marsilie is its master, he who loves not God,
+He serves Mohammed and worships Apollo:
+[Still] he cannot prevent harm from reaching him.
+
+
+Grammar[edit]
+Nouns[edit]
+Old French maintained a two-case system, with a nominative case and an oblique case, for longer than some other Romance languages as Spanish and Italian did. Case distinctions, at least in the masculine gender, were marked on both the definite article and the noun itself. Thus, the masculine noun li veisins 'the neighbour'[ii] was declined as follows:
+
+
+Evolution of the nominal masculine inflection from Classical Latin to Old French
+
+
+
+Latin
+Early Proto-GR
+Old French
+
+
+Singular
+nominative
+
+ille vīcīnus
+*[li βeˈdzʲinos]
+li veisins
+
+
+oblique(Latin accusative)
+
+illum vīcīnum
+*[lo βeˈdzʲino]
+le veisin
+
+
+Plural
+nominative
+
+illī vīcīnī
+*[li βeˈdzʲini]
+li veisin
+
+
+oblique(Latin accusative)
+
+illōs vīcīnōs
+*[los βeˈdzʲinos]
+les veisins
+
+In later Old French, the distinctions had become moribund. As in most other Romance languages, it was the oblique case form that usually survived to become the Modern French form: l'enfant "the child" represents the old oblique (Latin accusative īnfāntem); the OF nominative was li enfes (Lat īnfāns). There are some cases with significant differences between nominative and oblique forms (derived from Latin nouns with a stress shift between the nominative and other cases) in which either it is the nominative form that survives or both forms survive with different meanings:
+
+Both OF li sire, le sieur (Lat seiior, seiiōrem) and le seignor (nom. †sendre;[iii] Lat senior, seniōrem) survive in the vocabulary of later French (sire, sieur, seigneur) as different ways to refer to a feudal lord.
+ModF sœur "sister" is the nominative form (OF suer < Latin nominative soror); the OF oblique form seror (< Latin accusative sorōrem) no longer survives.
+ModF prêtre "priest" is the nominative form (OF prestre < presbyter); the OF oblique form prevoire, later provoire (< presbyterem) survives only in the Paris street name Rue des Prouvaires.
+ModF indefinite pronoun on "one" continues Old French nominative hom "man" (< homō); homme "man" continues the oblique form (OF home < hominem).
+In a few cases in which the only distinction between forms was the nominative -s ending, the -s was preserved. An example is fils "son" (< Latin nominative fīlius). The fact that the -s in the word is still pronounced today is irregular, but has to do with the later developments, namely the Middle French and Early Modern French system of pausal pronunciations.
+As in Spanish and Italian, the neuter gender was eliminated, and most old neuter nouns became masculine. Some Latin neuter plurals (which ended in -a) were reanalysed as feminine singulars: Lat gaudium was more widely used in the plural form gaudia, which was taken for a singular in Vulgar Latin and ultimately led to ModF la joie, "joy" (feminine singular).
+Nouns were declined in the following declensions:
+
+
+
+
+
+
+Class I (feminine)
+
+Class II (masculine)
+
+
+Class I normal
+
+Class Ia
+
+Class II normal
+
+Class IIa
+
+
+meaning
+
+"woman"
+"thing"
+"city"
+"neighbor"
+"servant"
+"father"
+
+
+sg.
+
+nominative
+
+la fame
+la riens
+la citez
+li veisins
+li sergenz
+li pere
+
+
+oblique
+
+la rien
+la cité
+le veisin
+le sergent
+le pere
+
+
+pl.
+
+nominative
+
+les fames
+les riens
+les citez
+li veisin
+li sergent
+li pere
+
+
+oblique
+
+les veisins
+les sergenz
+les peres
+
+
+
+
+
+
+Class III (both)
+
+
+Class IIIa
+
+Class IIIb
+
+Class IIIc
+
+Class IIId
+
+
+meaning
+
+"singer"
+"baron"
+"nun"
+"sister"
+"child"
+"priest"
+"lord"
+"count"
+
+
+sg.
+
+nominative
+
+li chantere
+li ber
+la none
+la suer
+li enfes
+li prestre
+li sire
+li cuens
+
+
+oblique
+
+le chanteor
+le baron
+la nonain
+la seror
+l'enfant
+le prevoire
+le sieur
+le conte
+
+
+pl.
+
+nominative
+
+li chanteor
+li baron
+les nones
+les serors
+li enfant
+li prevoire
+li sieur
+li conte
+
+
+oblique
+
+les chanteors
+les barons
+les nonains
+les enfanz
+les prevoires
+les sieurs
+les contes
+
+Class I is derived from the Latin first declension. Class Ia mostly comes from Latin feminine nouns in the third declension. Class II is derived from the Latin second declension. Class IIa generally stems from second-declension nouns ending in -er and from third-declension masculine nouns; in both cases, the Latin nominative singular did not end in -s, which is preserved in Old French.
+The classes show various analogical developments: Class I nominative plural -es from the accusative instead of -∅ (-e after a consonant cluster) in Class I nominative plural (Lat -ae, although there is evidence to suggest this analogy had already occurred in VL), li pere instead of *li peres (Lat illi patres) in Class IIa nominative plural, modelled on Class II, etc.
+Class III nouns show a separate stem in the nominative singular that does not occur in any of the other forms:
+
+IIIa nouns are agent nouns which ended in -ātor, -ātōrem in Latin and preserve the stress shift.
+IIIb nouns also had a stress shift, from -ō to -ōnem (although several IIIb nouns actually continue Frankish weak nouns with a similar inflection: Frankish *barō ~ *baran becomes OF ber ~ baron).
+IIIc nouns are an Old French creation and have no clear Latin antecedent.
+IIId nouns represent various other third-declension Latin nouns with stress shift or a change of consonant (soror, sorōrem; īnfāns, īnfāntem; presbyter, presbyterem; seiior, seiiōrem; comes, comitem).
+Regular feminine forms of masculine nouns are formed by adding an -e to the masculine stem (unless the masculine stem already ends in -e). For example, bergier (shepherd) becomes bergiere (ModF berger and bergère).
+
+Adjectives[edit]
+Adjectives agree in terms of number, gender and case with the noun that they are qualifying. Thus, a feminine plural noun in the nominative case requires any qualifying adjectives to be feminine, plural and nominative. For example, in femes riches, riche has to be in the feminine plural form.
+Adjectives can be divided into three declensional classes:[35]
+
+Class I corresponding roughly to Latin 1st- and 2nd-declension adjectives
+Class II corresponding roughly to Latin 3rd-declension adjectives
+Class III containing primarily the descendants of Latin synthetic comparative forms in -ior, -iōrem.
+Class I adjectives have a feminine singular form (nominative and oblique) ending in -e. They can be further subdivided into two subclasses, based on the masculine nominative singular form. Class Ia adjectives have a masculine nominative singular ending in -s:
+
+bon "good" (< Lat bonus, > ModF bon)
+
+
+
+
+Masculine
+
+Feminine
+
+Neuter
+
+
+
+Singular
+Plural
+Singular
+Plural
+Singular
+
+
+Nominative
+
+bons
+bon
+
+bone
+bones
+
+bon
+
+
+Oblique
+
+bon
+bons
+—
+
+For Class Ib adjectives, the masculine nominative singular ends in -e, like the feminine. There are descendants of Latin second- and third-declension adjectives ending in -er in the nominative singular:
+
+aspre "harsh" (< Lat asper, > ModF âpre)
+
+
+
+
+Masculine
+
+Feminine
+
+Neuter
+
+
+
+Singular
+Plural
+Singular
+Plural
+Singular
+
+
+Nominative
+
+aspre
+
+aspre
+
+aspre
+aspres
+
+aspre
+
+
+Oblique
+
+aspres
+—
+
+For Class II adjectives, the feminine singular is not marked by the ending -e:
+
+granz "big, great" (< Lat grandis, > ModF grand)
+
+
+
+
+Masculine
+
+Feminine
+
+Neuter
+
+
+
+Singular
+Plural
+Singular
+Plural
+Singular
+
+
+Nominative
+
+granz
+grant
+
+granz/grant
+granz
+
+grant
+
+
+Oblique
+
+grant
+granz
+grant
+—
+
+An important subgroup of Class II adjectives is the present participial forms in -ant.
+Class III adjectives have a stem alternation, resulting from stress shift in the Latin third declension and a distinct neuter form: 
+
+mieudre "better" (< Lat melior, > ModF meilleur)
+
+
+
+
+Masculine
+
+Feminine
+
+Neuter
+
+
+
+Singular
+Plural
+Singular
+Plural
+Singular
+
+
+Nominative
+
+mieudre(s)
+meillor
+
+mieudre
+meillors
+
+mieuz
+
+
+Oblique
+
+meillor
+meillors
+meillor
+—
+
+In later Old French, Classes II and III tended to be moved across to Class I, which was complete by Middle French. Modern French thus has only a single adjective declension, unlike most other Romance languages, which have two or more.
+
+Verbs[edit]
+Verbs in Old French show the same extreme phonological deformations as other Old French words; however, morphologically, Old French verbs are extremely conservative in preserving intact most of the Latin alternations and irregularities that had been inherited in Proto-Romance. Old French has much less analogical reformation than Modern French has and significantly less than the oldest stages of other languages (such as Old Spanish) despite the fact that the various phonological developments in Gallo-Romance and Proto-French led to complex alternations in the majority of commonly-used verbs.
+For example, the OF verb laver "to wash" (Lat lavāre) is conjugated je lef, tu leves, il leve in the present indicative and je lef, tu les, il let in the present subjunctive, in both cases regular phonological developments from Latin indicative lavō, lavās, lavat and subjunctive lavem, lavēs, lavet. The following paradigm is typical in showing the phonologically regular but morphologically irregular alternations of most paradigms:
+
+The alternation je lef ~ tu leves is a regular result of the final devoicing triggered by loss of final /o/ but not /a/.
+The alternation laver ~ tu leves is a regular result of the diphthongization of a stressed open syllable /a/ into /ae/ > /æ/ > /e/.
+The alternation je lef ~ tu les ~ il let in the subjunctive is a regular result of the simplification of the final clusters /fs/ and /ft/, resulting from loss of /e/ in final syllables.
+Modern French, on the other hand, has je lave, tu laves, il lave in both indicative and subjunctive, reflecting significant analogical developments: analogical borrowing of unstressed vowel /a/, analogical -e in the first singular (from verbs like j'entre, with a regular -e ) and wholesale replacement of the subjunctive with forms modelled on -ir/-oir/-re verbs. All serve to eliminate the various alternations in the OF verb paradigm. Even modern "irregular" verbs are not immune from analogy: For example, OF je vif, tu vis, il vit (vivre "to live") has yielded to modern je vis, tu vis, il vit, eliminating the unpredictable -f in the first-person singular.
+The simple past also shows extensive analogical reformation and simplification in Modern French, as compared with Old French.
+The Latin pluperfect was preserved in very early Old French as a past tense with a value similar to a preterite or imperfect. For example, the Sequence of Saint Eulalia (878 AD) has past-tense forms such as avret (< Lat habuerat), voldret (< Lat voluerat), alternating with past-tense forms from the Latin perfect (continued as the modern "simple past"). Old Occitan also preserved this tense, with a conditional value; Spanish still preserves this tense (the -ra imperfect subjunctive), as does Portuguese (in its original value as a pluperfect indicative).
+
+Verb alternations[edit]
+In Latin, stress was determined automatically by the number of syllables in a word and the weight (length) of the syllables. That resulted in certain automatic stress shifts between related forms in a paradigm, depending on the nature of the suffixes added. For example, in pensō "I think", the first syllable was stressed, but in pensāmus "we think", the second syllable was stressed. In many Romance languages, vowels diphthongized in stressed syllables under certain circumstances but not in unstressed syllables, resulting in alternations in verb paradigms: Spanish pienso "I think" vs. pensamos "we think" (pensar "to think"), or cuento "I tell" vs. contamos "we tell" (contar "to tell").
+In the development of French, at least five vowels diphthongized in stressed, open syllables. Combined with other stress-dependent developments, that yielded 15 or so types of alternations in so-called strong verbs in Old French. For example, /a/ diphthongized to /ai/ before nasal stops in stressed, open syllables but not in unstressed syllables, yielding aim "I love" (Lat amō) but amons "we love" (Lat amāmus).
+The different types are as follows:
+
+
+Vowel alternations in Old French verbs
+
+
+Vowel alternation
+Environment
+Example (-er conjugation)
+Example (other conjugation)
+
+
+Stressed
+Unstressed
+Latin etymon
+3rd singularpres. ind.
+Infinitive
+meaning
+Latin etymon
+3rd singularpres. ind.
+Infinitive/ Other form
+meaning
+
+
+/e/
+/a/
+free /a/
+lavāre
+leve
+laver
+"to wash"
+parere > *parīre
+pert
+parir
+"to give birth"
+
+
+/ãj̃/
+/ã/
+free /a/ + nasal
+amāre
+aime
+amer
+"to love"
+manēre
+maint
+maneir, manoir
+"to remain"
+
+
+/je/
+/e/
+palatal + free /a/
+*accapāre
+achieve
+achever
+"to achieve"
+
+
+
+/i/
+/e/
+palatal + /a/ + palatal
+*concacāre
+conchie
+concheer
+"to expel"
+iacēre
+gist
+gesir
+"to lie (down)"
+
+
+/a/
+/e/
+palatal + blocked /a/
+*accapitāre
+achate
+acheter
+"to buy"
+cadere >*cadēre
+chiet
+cheoir
+"to fall"
+
+
+/a/
+/e/
+intertonic /a/ + palatal?
+*tripaliāre
+travaille
+traveillier
+"to torment, make suffer"
+
+
+
+/je/
+/e/
+free /ɛ/
+levāre
+lieve
+lever
+"to raise"
+sedēre
+siet
+seeir, seoir
+"to sit; suit, be fitting"
+
+
+/jẽ/
+/ẽ/
+free /ɛ/ + nasal
+
+tremere >*cremere
+crient
+creindre (var. cremir, -oir)
+"to fear"
+
+
+/i/
+/ej/
+/ɛ/ + palatal
+pretiāre
+prise
+preiser
+"to value"
+exīre
+ist
+eissir
+"to exit, go out"
+
+
+/ɛ/
+/e/
+intertonic /ɛ, e/ + double cons.
+appellāre
+apele
+apeler
+"to call"
+
+
+
+/oj/
+/e/
+free /e/
+adhaerāre > *adēsāre
+adoise
+adeser
+"to touch"
+
+
+
+/ẽj̃/
+/ẽ/
+free /e/ + nasal
+mināre
+meine
+mener
+"to lead"
+
+
+
+/i/
+/e/
+palatal + free /e/
+
+
+
+
+/oj/
+/i/
+intertonic /e/ + palatal
+-
+charroie
+charrier
+"to cart around"
+
+
+
+/we/
+/u/
+free /ɔ/
+*tropāre
+trueve
+truver
+"to invent, discover"
+morī >*morīre
+muert
+mourir
+"to die"
+
+
+/uj/
+/oj/
+/ɔ/ + palatal
+*appodiāre
+apuie
+apoiier
+"to lean"
+
+
+
+/ew/
+/u/
+free /o/
+dēmōrārī
+demeure
+demo(u)rer
+"to stay"
+cōnsuere > *cōsere
+queust
+co(u)sdre
+"to sew"
+
+
+/u/
+/e/
+intertonic blocked /o/
+*corruptiāre
+courouce
+courecier
+"to get angry"
+
+
+
+/ũ/
+/ã/
+intertonic blocked /o/ + nasal
+calumniārī
+chalonge
+chalengier
+"to challenge"
+
+
+In Modern French, the verbs in the -er class have been systematically levelled. Generally, the "weak" (unstressed) form predominates, but there are some exceptions (such as modern aimer/nous aimons). The only remaining alternations are in verbs like acheter/j'achète and jeter/je jette, with unstressed /ə/ alternating with stressed /ɛ/ and in (largely-learned) verbs like adhérer/j'adhère, with unstressed /e/ alternating with stressed /ɛ/. Many of the non-er verbs have become obsolete, and many of the remaining verbs have been levelled;  however, a few alternations remain in what are now known as irregular verbs, such as je tiens, nous tenons; je dois, nous devons and je meurs, nous mourons.
+Some verbs had a more irregular alternation between different-length stems, with a longer, stressed stem alternating with a shorter, unstressed stem. That was a regular development stemming from the loss of unstressed intertonic vowels, which remained when they were stressed:
+
+j'aiu/aidier "help" < adiūtō, adiūtāre
+j'araison/araisnier "speak to" < adratiōnō, adratiōnāre
+je deraison/deraisnier "argue" < dēratiōnō, dēratiōnāre
+je desjun/disner "dine" < disiēiūnō, disiēiūnāre
+je manju/mangier "eat" < mandūcō, mandūcāre
+je parol/parler "speak" < *paraulō, *paraulāre < parabolō, parabolāre
+The alternation of je desjun, disner is particularly complicated; it appears that: 
+
+
+
+
+
+inf
+
+1sg.ind.pres
+
+
+Latin
+
+disiēiūnāre
+
+/disjeːjuːˈnaːre/
+
+disiēiūnō
+
+/disjeːˈjuːnoː/
+
+
+Western Romance
+
+Triphthong reduction
+
+disīūnāre
+
+/disiːuːˈnaːre/
+
+disīūnō
+
+/disiːˈuːnoː/
+
+
+Loss of phonemic length
+
+disjunare
+
+/disjuˈnare/
+
+disjuno
+
+/disˈjuno/
+
+
+Syncopation
+
+disinare
+
+/disiˈnaːre/
+
+–
+
+
+Change in quality and metaphony
+
+disinare
+
+/disiˈnarɛ/
+
+desjuno
+
+/desˈjuno/
+
+
+Gallo-Romance
+
+Lenition
+
+dizinare
+
+/diziˈnarɛ/
+
+–
+
+
+Further syncopation
+
+diznare
+
+/dizˈnarɛ/
+
+–
+
+
+Old French
+
+Further syncopation
+
+disnar
+
+/dizˈnar/
+
+desjun
+
+/desˈjun/
+
+
+Diphthongization
+
+disner
+
+/disˈnɛr/
+
+–
+
+
+Fortition
+
+–
+
+desjun
+
+/desˈdʒun/
+
+
+Devoicing
+
+disner
+
+/disˈnɛr/
+
+–
+
+
+Allophonic nasalization
+
+–
+
+desjun
+
+/desˈdʒũn/
+
+
+Fronting
+
+–
+
+desjun
+
+/desˈdʒỹn/
+
+
+Compensatory lengthening
+
+disner
+
+/diːˈnɛr/
+
+desjun
+
+/deːˈdʒỹn/
+
+Both stems have become full verbs in Modern French: déjeuner "to have lunch" and dîner "to dine". Furthermore, déjeuner does not derive directly from je desjun (< *disi(ēi)ūnō, with total loss of unstressed -ēi-). Instead, it comes from OF desjeüner, based on the alternative form je desjeün (< *disiē(i)ūnō, with loss of only -i-, likely influenced by jeûner "to fast" < OF jeüner < je jeün /d͡ʒe.ˈyn/ "I fast" < iē(i)ūnō: iē- is an initial rather than intertonic so the vowel -ē- does not disappear).
+
+Example of regular -er verb: durer (to last)[edit]
+
+
+
+ 
+
+
+Indicative
+
+Subjunctive
+
+Conditional
+
+Imperative
+
+
+Present
+Simple past
+Imperfect
+Future
+Present
+Imperfect
+Present
+Present
+
+
+je
+dur
+durai
+duroie
+durerai
+dur
+durasse
+dureroie
+—
+
+
+tu
+dures
+duras
+durois
+dureras
+durs
+durasses
+durerois
+dure
+
+
+il
+dure
+dura
+duroit
+durera
+durt
+durast
+dureroit
+—
+
+
+nos
+durons
+durames
+duriiens/-ïons
+durerons
+durons
+durissons/-issiens
+dureriions/-ïons
+durons
+
+
+vos
+durez
+durastes
+duriiez
+dureroiz/-ez
+durez
+durissoiz/-issez/-issiez
+dureriiez/-ïez
+durez
+
+
+ils
+durent
+durerent
+duroient
+dureront
+durent
+durassent
+dureroient
+—
+
+Non-finite forms:
+
+Infinitive: durer
+Present participle: durant
+Past Participle: duré
+Auxiliary verb: avoir
+
+Example of regular -ir verb: fenir (to end)[edit]
+
+
+
+ 
+
+
+Indicative
+
+Subjunctive
+
+Conditional
+
+Imperative
+
+
+Present
+Simple past
+Imperfect
+Future
+Present
+Imperfect
+Present
+Present
+
+
+je
+fenis
+feni
+fenissoie
+fenirai
+fenisse
+fenisse
+feniroie
+—
+
+
+tu
+fenis
+fenis
+fenissoies
+feniras
+fenisses
+fenisses
+fenirois
+fenis
+
+
+il
+fenist
+feni(t)
+fenissoit
+fenira
+fenisse(t)
+fenist
+feniroit
+—
+
+
+nos
+fenissons
+fenimes
+fenissiiens
+fenirons
+fenissons
+fenissons/-iens
+feniriiens
+fenissons
+
+
+vos
+fenissez
+fenistes
+fenissiiez
+feniroiz/-ez
+fenissez
+fenissoiz/-ez/-iez
+feniriiez
+fenissez
+
+
+ils
+fenissent
+fenirent
+fenissoient
+feniront
+fenissent
+fenissent
+feniroient
+—
+
+Non-finite forms:
+
+Infinitive: fenir
+Present participle: fenissant
+Past participle: feni(t)
+Auxiliary verb: avoir
+
+Example of regular -re verb: corre (to run)[edit]
+
+
+
+ 
+
+
+Indicative
+
+Subjunctive
+
+Conditional
+
+Imperative
+
+
+Present
+Simple past
+Imperfect
+Future
+Present
+Imperfect
+Present
+Present
+
+
+je
+cor
+corui
+coroie
+corrai
+core
+corusse
+corroie
+—
+
+
+tu
+cors
+corus
+coroies
+corras
+cores
+corusses
+corroies
+cor
+
+
+il
+cort
+coru(t)
+coroit
+corra
+core(t)
+corust
+corroit
+—
+
+
+nos
+corons
+corumes
+coriiens
+corrons
+corons
+corussons/-iens
+corriiens
+corons
+
+
+vos
+corez
+corustes
+coriiez
+corroiz/-ez
+corez
+corussoiz/-ez/-iez
+corriiez
+corez
+
+
+ils
+corent
+corurent
+coroient
+corront
+corent
+corussent
+corroient
+—
+
+Non-finite forms:
+
+Infinitive: corre
+Present participle: corant
+Past participle: coru(t)
+Auxiliary verb: estre
+
+Examples of auxiliary verbs[edit]
+avoir (to have)[edit]
+
+
+
+ 
+
+
+Indicative
+
+Subjunctive
+
+Conditional
+
+Imperative
+
+
+Present
+Simple past
+Imperfect
+Future
+Present
+Imperfect
+Present
+Present
+
+
+je
+ai
+eüi, oi
+avoie
+aurai
+ai
+eüsse
+auroie
+—
+
+
+tu
+ais(later as)
+eüs
+avois
+auras
+ais
+eüsses
+aurois
+ave
+
+
+il
+ai(later a)
+eü(t), ot
+avoit
+aura
+ai
+eüst
+auroit
+—
+
+
+nos
+avons
+eümes
+aviiens/-ïons
+aurons
+aions
+eüssons/-issiens
+auravons/-ïons
+avons
+
+
+vos
+avez
+eüstes
+aviiez
+auroiz/-ez
+aiez
+eüssoiz/-issez/-issiez
+auravez/-ïez
+avez
+
+
+ils
+ont
+eürent
+avoient
+auront
+ont
+eüssent
+auroient
+—
+
+Non-finite forms:
+
+Infinitive: avoir (earlier aveir)
+Present participle: aiant
+Past participle: eü(t)
+Auxiliary verb: avoir
+
+estre (to be)[edit]
+
+
+
+ 
+
+
+Indicative
+
+Subjunctive
+
+Conditional
+
+Imperative
+
+
+Present
+Simple past
+Imperfect
+Future
+Present
+Imperfect
+Present
+Present
+
+
+je
+suis
+fui
+(i)ereesteie > estoie
+(i)erseraiestrai
+seie > soie
+fusse
+sereie > seroieestreie > estroie
+—
+
+
+tu
+(i)es
+fus
+(i)eresesteies > estoies
+(i)ersserasestras
+seies > soies
+fusses
+sereies > seroiesestreies > estroies
+seies > soies
+
+
+il
+est
+fu(t)
+(i)ere(t), (i)ertesteit > estoit
+(i)ertsera(t)estra(t)
+seit > soit
+fust
+sereit > seroitestreit > estroit
+—
+
+
+nos
+somes, esmes
+fumes
+eriiens, erionsestiiens, estions
+(i)ermesseronsestrons
+seiiens, seions > soiiens, soions
+fussons/-iens
+seriiens, serionsestriiens, estrions
+seiiens > soiiens, seions > soions
+
+
+vos
+estes
+fustes
+eriiezestiiez
+—sere(i)zestre(i)z
+seiiez > soiiez
+fusseiz/-ez/-iez
+seriiezestriiez
+seiiez > soiiez
+
+
+ils
+sont
+furent
+(i)erentesteient > estoient
+(i)erentserontestront
+seient > soient
+fussent
+sereient > seroientestreient > estroient
+—
+
+Non-finite forms:
+
+Infinitive: estre
+Present participle: estant
+Past participle: esté(t)
+Auxiliary verb: avoir
+
+Other parts of speech[edit]
+Adverbs, prepositions, conjunctions and interjections are generally invariable. Pronouns are usually declinable.
+
+See also[edit]
+
+
+
+For a list of words relating to Old French, see the Old French category of words in Wiktionary, the free dictionary.
+
+Influence of French on English
+Bartsch's law
+Anglo-Norman literature
+History of French
+History of the English language
+Languages of France
+Notes[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ Portuguese framboesa 'raspberry' and Spanish frambuesa are French loans.
+
+^ Phonetic evolution approximately as follows: CL ⟨vicinus⟩ [wiːˈkiːnus] > VL [βeˈcinʊs][34] > early Proto-GR *[βeˈdzʲinos] > OF ⟨veisins⟩ [vejˈzĩns]. The ModF counterpart is ⟨voisin⟩ [vwaˈzɛ̃].
+
+^ The OF nominative sendre, inherited from Latin senior, appears only in the Oaths of Strasbourg, spelled sendra, before it became obsolete.
+
+
+References[edit]
+
+
+^ Kinoshita 2006, p. 3.
+
+^ Milis (1978)
+
+^ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Lusignan, Serge (2004). La langue des rois au Moyen Âge: Le français en France et en Angleterre [The language of kings in the Middle Ages: French in France and England] (in French). Paris: Presses Universitaires de France.
+
+^ Jozsef, Herman (1997). "The end of the history of Latin". Vulgar Latin. Translated by Wright, Roger. ISBN 0-271-02000-8.
+
+^ "Brill Online Dictionaries". Iedo.brillonline.nl. Archived from the original on 2013-06-17. Retrieved 2013-06-16.
+
+^ "Romance languages - Encyclopædia Britannica". Britannica.com. Retrieved 2013-06-16.
+
+^ Mallory, J. P.; Adams, Douglas Q. (1997). Encyclopedia of Indo-European Culture - Google Boeken. ISBN 9781884964985. Retrieved 2013-06-16.
+
+^ "Definition of Italic in Oxford Dictionaries (British & World English)". Oxforddictionaries.com. Retrieved 2013-06-16.
+
+^ "Definition of Romance in Oxford Dictionaries (British & World English)". Oxforddictionaries.com. Retrieved 2013-06-16.
+
+^ Wright (1982), pp. 104–7
+
+^ Wright (1982), pp. 118-20
+
+^ Xavier, Delamarre (2003). Dictionnaire de la langue gauloise [Dictionary of the Gallic language] (in French). Paris: Errance.
+
+^ Delamarre (2003, pp. 389–90) lists 167
+
+^ a b Lambert, Pierre-Yves (1994). La Langue gauloise [The Gallic language]. Paris: Errance. p. 46-47. ISBN 978-2-87772-224-7.
+
+^ Laurence Hélix (2011). Histoire de la langue française. Ellipses Edition Marketing S.A. p. 7. ISBN 978-2-7298-6470-5. Le déclin du Gaulois et sa disparition ne s'expliquent pas seulement par des pratiques culturelles spécifiques: Lorsque les Romains conduits par César envahirent la Gaule, au 1er siecle avant J.-C., celle-ci romanisa de manière progressive et profonde. Pendant près de 500 ans, la fameuse période gallo-romaine, le gaulois et le latin parlé coexistèrent; au VIe siècle encore; le temoignage de Grégoire de Tours atteste la survivance de la langue gauloise.
+
+^ Peter Schrijver, Studies in the History of Celtic Pronouns and Particles, Maynooth, 1997, 15.
+
+^ a b Savignac, Jean-Paul (2004). Dictionnaire Français-Gaulois. Paris: La Différence. p. 26.
+
+^ Henri Guiter, "Sur le substrat gaulois dans la Romania", in Munus amicitae. Studia linguistica in honorem Witoldi Manczak septuagenarii, eds., Anna Bochnakowa & Stanislan Widlak, Krakow, 1995.
+
+^ Eugeen Roegiest, Vers les sources des langues romanes: Un itinéraire linguistique à travers la Romania (Leuven, Belgium: Acco, 2006), 83.
+
+^ Matasovic, Ranko (2007). "Insular Celtic as a Language Area". Papers from the Workship within the Framework of the XIII International Congress of Celtic Studies. The Celtic Languages in Contact: 106.
+
+^ Adams, J. N. (2007). "Chapter V -- Regionalisms in provincial texts: Gaul". The Regional Diversification of Latin 200 BC – AD 600. Cambridge. pp. 279–289. doi:10.1017/CBO9780511482977. ISBN 9780511482977.
+
+^ Polinsky, Maria, and Van Everbroeck, Ezra (2003). "Development of Gender Classifications: Modeling the Historical Change from Latin to French". Language. 79 (2): 356–390. CiteSeerX 10.1.1.134.9933. doi:10.1353/lan.2003.0131. JSTOR 4489422. S2CID 6797972.CS1 maint: multiple names: authors list (link)
+
+^ Bernard Cerquiglini, La naissance du français, Presses Universitaires de France, 2nd edn., chap. 3, 1993, p. 53.
+
+^ Cerquiglini 53
+
+^ Cerquiglini 26.
+
+^ "Etymology of frambuesa (Spanish)". Buscon.rae.es. Retrieved 2013-06-16.
+
+^ La Chanson de Roland. Edited and Translated into Modern French by Ian Short. Paris: Livre de Poche, 1990. p. 12. ISBN 978-2-253-05341-5
+
+^ (in French) Antoine Adam, Georges Lerminier, and Édouard Morot-Sir, eds. Littérature française. "Tome 1: Des origines à la fin du XVIIIe siècle," Paris: Larousse, 1967, p. 16.
+
+^ (in French) Antoine Adam, Georges Lerminier, and Édouard Morot-Sir, eds. Littérature française. "Tome 1: Des origines à la fin du XVIIIe siècle," Paris: Larousse, 1967, p. 36-37.
+
+^ Rickard 1989: 47–8, Laborderie 1994: § 2.2
+
+^ Berthon, H. E.; Starkey, V. G. (1908). Tables synoptiques de phonologie de l'ancien français. Oxford Clarendon Press.
+
+^ Zink (1999), p. 132
+
+^ Per Hall (1946), with alveolar and postalveolar affricates converted from Americanist notation to IPA and with corrected word order at the beginning of line four.
+
+^ Pope 1934: § 294
+
+^ Moignet (1988, p. 26–31), Zink (1992, p. 39–48), de La Chaussée (1977, p. 39–44)
+
+
+Sources[edit]
+Ayres-Bennett, Wendy (1995). A History of the French Language through Texts. London/New York: Routledge.
+Banniard, Michel (1997). Du latin aux langues romanes. Paris: Nathan.
+de la Chaussée, François (1977). Initiation à la morphologie historique de l'ancien français. Paris: Klincksieck. ISBN 978-2-252-01922-1.
+Cole, William (2005). First and Otherwise Notable Editions of Old French Texts Printed from 1742 to 1874: A Bibliographical Catalogue of My Collection. Sitges: Cole & Contreras.
+Delamarre, X.; P.-Y. Lambert (2003). Dictionnaire de la langue gauloise : Une approche linguistique du vieux-celtique continental (2nd ed.). Paris: Errance. ISBN 978-2-87772-237-7.
+Einhorn, E. (1974). Old French: A Concise Handbook. Cambridge: Cambridge University Press. ISBN 978-0-521-20343-2.
+Grandgent, Charles Hall. 1907. An introduction to Vulgar Latin. Boston: D.C. Heath & Co.
+Hall, Robert Anderson. 1946. Old French phonemes and orthography. Studies in Philology 43. 575–585.
+Kibler, William (1984). An Introduction to Old French. New York: Modern Language Association of America.
+Kinoshita, Sharon (2006). Medieval Boundaries: Rethinking Difference in Old French Literature. University of Pennsylvania Press.
+Laborderie, Noëlle. 2009. Précis de Phonétique Historique. Paris: Armand Colin.
+Lanly, André (2002). Morphologie historique des verbes français. Paris: Champion. ISBN 978-2-7453-0822-1.
+Lodge, R. Anthony (1993). French: From Dialect to Standard. London/New York: Routledge.
+Moignet, Gérard (1988). Grammaire de l'ancien français (2nd ed.). Paris: Klincksieck. ISBN 9782252015094.
+Pope, Mildred K. (1934). From Latin to Modern French with Especial Consideration of Anglo-Norman Phonology and Morphology. Manchester: Manchester University Press.
+Rickard, Peter. 1989. A history of the French language. London: Unwin Hyman.
+Zink, Gaston (1999). Phonétique historique du français (6th ed.). Paris: PUF. ISBN 978-2-13-046471-6.
+Zink, Gaston (1992). Morphologie du français médiéval (2nd ed.). Paris: PUF. ISBN 978-2-13-044766-5.
+Milis, L (1978). La frontière linguistique dans le comté de Guînes: un problème historique et méthodologique, in: Actes du 101e Congrès nationale des sociétés savantes. Section d'histoire moderne et contemporaine (pages 249-262). Paris.
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Old French language.
+
+
+
+
+Old French test of Wikipedia at Wikimedia Incubator
+
+An Introduction to Old French François Frédéric Roget (1887)
+Old French Online by Brigitte L.M. Bauer and Jonathan Slocum, free online lessons at the Linguistics Research Center at the University of Texas at Austin
+DÉCT- (Electronic Dictionary of Chretien de Troyes) : complete lexicon and transcriptions of the five romances of this Old French author. University of Ottawa - CNRS.
+Du Bellay, Joachim (1549). La Défense, et illustration de la langue française. Paris: Arnoul L'Angelier.
+
+
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteRomance languages (classification)Italo-WesternItalo-DalmatianCentral
+Italian
+dialects
+Central
+Tuscan
+Corsican
+Gallurese
+Sassarese
+Southern
+Neapolitan
+Northern Calabrese
+Sicilian
+Southern Calabrese
+Others
+Dalmatian
+Istriot
+Judaeo-Italian
+WesternIbero-RomanceGalician-Portuguese
+Portuguese
+dialects
+European
+Brazilian
+Uruguayan
+African
+Asian
+Creoles
+Galician
+Galician-Asturian/Eonavian
+Fala
+Judaeo-Portuguese
+Caló
+Astur-Leonese
+Asturian
+Cantabrian
+Extremaduran
+Leonese
+Mirandese
+Spanish
+Spanish
+dialects
+Equatoguinean
+European
+Latin American
+Philippine
+Saharan
+Creoles
+Old Spanish
+Judaeo-Spanish
+Caló
+Pyrenean-Mozarabic
+Navarro-Aragonese
+Aragonese
+Judaeo-Aragonese
+Mozarabic
+Occitano-RomanceCatalan
+Catalan
+dialects
+Eastern
+Algherese
+Balearic
+Central
+Northern
+Western
+North-Western
+Valencian
+Judaeo-Catalan
+Caló
+Occitan
+Auvergnat
+Gascon
+Aranese
+Béarnese
+Languedocien
+Limousin
+Provençal
+Niçard
+Mentonasc
+Vivaro-Alpine
+Old Provençal
+Judaeo-Provençal
+Caló
+Gallo-RomanceLangues d'oïl
+Burgundian
+Champenois
+Franc-Comtois
+French
+dialects
+Standard
+African
+Aostan
+Belgian
+Cambodian
+Canadian
+Indian
+Laotian
+Swiss
+Vietnamese
+Old French
+Middle French
+Judaeo-French
+Creoles
+Gallo
+Lorrain
+Norman
+Anglo-Norman
+Picard
+Poitevin-Saintongeais
+Poitevin
+Saintongeais
+Walloon
+Others
+Franco-Provençal/Arpitan
+Valdôtain
+Savoyard
+North Italian dialectsGallo-Italic
+Ligurian
+Brigasc
+Genoese
+Intemelio
+Monégasque
+Lombard
+Western
+Eastern
+Emilian-Romagnol
+Emilian
+Bolognese
+Parmigiano
+Romagnol
+Piedmontese
+Judaeo-Piedmontese
+Gallo-Italic of Sicily
+Gallo-Italic of Basilicata
+Others
+Venetian
+Fiuman
+Talian
+Triestine
+Mediterranean Lingua Franca
+Rhaeto-Romance
+Friulian
+Ladin
+Romansh
+Eastern
+Romanian
+Moldovan
+Vlach
+Aromanian
+Istro-Romanian
+Megleno-Romanian
+Others
+African Romance
+British Latin
+Moselle Romance
+Pannonian Romance
+Sardinian
+Campidanese
+Logudorese
+Reconstructed
+Proto-Romance
+Italics indicate extinct languagesBold indicates languages with more than 5 million speakersLanguages between parentheses are varieties of the language on their left.
+Authority control General
+Integrated Authority File (Germany)
+National libraries
+France (data)
+United States
+Other
+Microsoft Academic
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Old_French&oldid=1058301094"
+		Categories: Old FrenchLanguages attested from the 9th centuryFrench languageMedieval languagesHidden categories: CS1 French-language sources (fr)CS1 maint: multiple names: authors listArticles with French-language sources (fr)Articles with short descriptionShort description matches WikidataArticles lacking in-text citations from May 2011All articles lacking in-text citationsPages with non-English text lacking appropriate markup and no ISO hintPages with non-English text lacking appropriate markup from June 2020Articles containing Old French (842-ca. 1400)-language textLanguages with ISO 639-2 codeLanguage articles with unreferenced extinction dateArticles containing French-language textArticles containing Latin-language textArticles containing Transalpine Gaulish-language textArticles containing Welsh-language textArticles containing Breton-language textArticles containing Occitan (post 1500)-language textArticles containing Catalan-language textArticles containing Spanish-language textArticles containing Portuguese-language textArticles containing Italian-language textArticles containing Romanian-language textWikipedia articles needing clarification from July 2021Commons category link is on WikidataArticles with GND identifiersArticles with BNF identifiersArticles with LCCN identifiersArticles with MA identifiers
+	
