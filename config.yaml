@@ -1,6 +1,6 @@
 ---
 # key value结构表示字典
-download_path: /home/wanghuan/wiki_articles/data
+download_path: /data/code/zhangjing/wikipedia_article_classification/data
 # 那个小横杠，表示list里面元素
 keywords: 
   - music
@@ -14,4 +14,4 @@ keywords:
 
 database: article_db
 
-model_path: C:/Users/wanghuan/desktop/wiki_analysis/model_files
+model_path: /data/code/zhangjing/wikipedia_article_classification/model_files

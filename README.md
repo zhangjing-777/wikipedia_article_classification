@@ -1,3 +1,3 @@
-# wiki_analysis
+# wikipedia_article_classification
 
 Predict wikipedia article type.
